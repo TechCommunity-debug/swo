@@ -1,0 +1,197 @@
+@import "tailwindcss";
+
+/*
+  Slang Words Online — design tokens.
+
+  Derived from DESIGN.md. The structural system is kept verbatim: the warm-cream
+  neutral chrome, the three-value radius vocabulary (16 / 32 / pill), the 8px
+  masonry gutter, the 64px section rhythm, the type scale with negative tracking
+  at display sizes, and the no-shadow rule.
+
+  Two deliberate departures, both documented in the build plan:
+  1. The accent is ours, not Pinterest Red (#e60023).
+  2. Inter replaces the proprietary "Pin Sans", exactly as DESIGN.md's own
+     "Note on Font Substitutes" section prescribes.
+*/
+@theme {
+  /* ---------------------------------------------------------------- Fonts */
+  --font-sans: var(--font-inter), system-ui, sans-serif;
+
+  /* --------------------------------------------------------------- Accent */
+  /* The system's single saturated color. Never decorative — primary CTAs,
+     the active-tab indicator and the wordmark only. */
+  --color-primary: #5b21d6;
+  --color-primary-pressed: #4a18b5;
+  --color-primary-wash: #f2ecff;
+  --color-on-primary: #ffffff;
+
+  /* ------------------------------------------------------------------ Ink */
+  --color-ink: #000000;
+  --color-ink-soft: #211922;
+  --color-body: #33332e;
+  --color-charcoal: #262622;
+  --color-mute: #62625b;
+  --color-ash: #91918c;
+  --color-stone: #c8c8c1;
+
+  /* -------------------------------------------------------------- Surface */
+  --color-canvas: #ffffff;
+  --color-surface-soft: #fbfbf9;
+  --color-surface-card: #f6f6f3;
+  --color-surface-sunk: #e5e5e0;
+  --color-surface-pressed: #c8c8c1;
+  --color-surface-dark: #262622;
+  --color-hairline: #dadad3;
+  --color-hairline-soft: #e5e5e0;
+  --color-on-dark: #ffffff;
+  --color-on-dark-mute: rgb(255 255 255 / 0.7);
+
+  /* ------------------------------------------------------------- Semantic */
+  --color-error: #9e0a0a;
+  --color-error-deep: #cc001f;
+  --color-success-deep: #103c25;
+  --color-success-pale: #c7f0da;
+  --color-warn-deep: #6b3b00;
+  --color-warn-pale: #ffeccc;
+
+  /* ------------------------------------------------------- Type hierarchy */
+  /* DESIGN.md's table, 1:1. The steep display -> body jump is intentional. */
+  --text-display-xl: 4.375rem; /* 70px */
+  --text-display-xl--line-height: 1.1;
+  --text-display-xl--letter-spacing: -1.2px;
+  --text-display-xl--font-weight: 600;
+
+  --text-display-lg: 2.75rem; /* 44px */
+  --text-display-lg--line-height: 1.15;
+  --text-display-lg--letter-spacing: -0.8px;
+  --text-display-lg--font-weight: 700;
+
+  --text-heading-xl: 1.75rem; /* 28px */
+  --text-heading-xl--line-height: 1.2;
+  --text-heading-xl--letter-spacing: -1.2px;
+  --text-heading-xl--font-weight: 700;
+
+  --text-heading-lg: 1.375rem; /* 22px */
+  --text-heading-lg--line-height: 1.25;
+  --text-heading-lg--font-weight: 600;
+
+  --text-heading-md: 1.125rem; /* 18px */
+  --text-heading-md--line-height: 1.3;
+  --text-heading-md--font-weight: 600;
+
+  --text-body-md: 1rem; /* 16px */
+  --text-body-md--line-height: 1.4;
+
+  --text-body-sm: 0.875rem; /* 14px */
+  --text-body-sm--line-height: 1.4;
+
+  --text-caption: 0.75rem; /* 12px */
+  --text-caption--line-height: 1.5;
+
+  /* ---------------------------------------------------------- Shape scale */
+  /* Exactly three values in active use. Nothing between md and lg. */
+  --radius-md: 16px;
+  --radius-lg: 32px;
+
+  /* --------------------------------------------------------------- Layout */
+  --spacing-section: 64px;
+  --container-site: 1280px;
+
+  /* ---------------------------------------------------------- Breakpoints */
+  --breakpoint-sm: 30rem; /* 480  — mobile landscape */
+  --breakpoint-md: 48rem; /* 768  — tablet */
+  --breakpoint-lg: 64rem; /* 1024 — desktop small */
+  --breakpoint-xl: 80rem; /* 1280 — desktop */
+  --breakpoint-2xl: 90rem; /* 1440 — desktop large */
+
+  /* ---------------------------------------------------------------- Depth */
+  /* The system has no card elevation. The modal ambient is the only shadow. */
+  --shadow-modal: 0 0 16px rgb(0 0 0 / 0.12);
+}
+
+/*
+  Tailwind v4 resets border and ring color to `currentColor`. The chrome here is
+  hairline-driven, so anchor the default to the hairline token instead.
+*/
+@layer base {
+  *,
+  ::after,
+  ::before {
+    border-color: var(--color-hairline);
+  }
+
+  html {
+    -webkit-text-size-adjust: 100%;
+    scroll-behavior: smooth;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    html {
+      scroll-behavior: auto;
+    }
+  }
+
+  body {
+    background-color: var(--color-surface-soft);
+    color: var(--color-body);
+    font-family: var(--font-sans);
+    font-size: var(--text-body-md);
+    line-height: 1.4;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  /* Anchors targeted from the A–Z jump bar must clear the sticky header. */
+  [id] {
+    scroll-margin-top: 6rem;
+  }
+}
+
+/* -------------------------------------------------------------- Utilities */
+
+/* The one container helper. ~1280px content area, 24px gutters. */
+@utility container-site {
+  width: 100%;
+  max-width: var(--container-site);
+  margin-inline: auto;
+  padding-inline: 1.5rem;
+
+  @media (width >= 90rem) {
+    padding-inline: 3rem;
+  }
+}
+
+/*
+  Column-based masonry with 8px gutters, per DESIGN.md. CSS columns, not JS —
+  the tiles here are text cards of varying height, which is exactly what
+  `break-inside: avoid` handles well.
+*/
+@utility masonry {
+  column-gap: 8px;
+  columns: 1;
+
+  @media (width >= 30rem) {
+    columns: 2;
+  }
+  @media (width >= 48rem) {
+    columns: 3;
+  }
+  @media (width >= 64rem) {
+    columns: 4;
+  }
+}
+
+@utility masonry-item {
+  break-inside: avoid;
+  margin-bottom: 8px;
+}
+
+/*
+  The signature double-ring focus signal: a 2px ink inner border with a white
+  gap. DESIGN.md's focus blue (#435ee5) is dropped — it fights a violet accent.
+*/
+@utility focus-ring {
+  &:focus-visible {
+    outline: 2px solid var(--color-ink);
+    outline-offset: 2px;
+  }
+}

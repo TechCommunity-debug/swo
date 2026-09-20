@@ -1,0 +1,137 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
+import JsonLd from '../../components/JsonLd.astro';
+import { aboutSeo, SITE_NAME, SITE_URL } from '../../lib/seo';
+
+const entries = await getCollection('entries', (e) => e.data.status === 'published');
+const countries = await getCollection('countries');
+
+const seo = aboutSeo();
+const pageUrl = new URL(Astro.url.pathname, SITE_URL).href;
+
+const schema = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'AboutPage',
+    name: seo.title,
+    description: seo.description,
+    url: pageUrl,
+    publisher: { '@id': `${SITE_URL}/#organization` },
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Home', item: `${SITE_URL}/` },
+      { '@type': 'ListItem', position: 2, name: 'About', item: pageUrl },
+    ],
+  },
+];
+---
+
+<Layout title={seo.title} description={seo.description}>
+  <JsonLd slot="head" schema={schema} />
+
+  <div class="container-site py-8 lg:py-12">
+    <Breadcrumbs items={[{ label: 'About' }]} />
+
+    <article class="mt-8 max-w-2xl">
+      <h1 class="text-display-lg text-ink">How we source definitions</h1>
+
+      <p class="mt-6 text-body-md text-body">
+        {SITE_NAME} currently holds {entries.length} entries across {countries.length} countries. This
+        page explains how they are written, what we do when the facts are unclear, and where we
+        know the dictionary is weak. If you only read one page on this site before trusting the
+        rest, this is the one to read.
+      </p>
+
+      <h2 class="mt-10 text-heading-xl text-ink">What every entry has to contain</h2>
+      <p class="mt-4 text-body-md text-body">
+        No entry is published without at least one definition and at least one worked example
+        sentence with a natural English translation. This is enforced by the build: an entry
+        missing either one fails validation and the site does not compile. It is a deliberately
+        blunt instrument, and it exists because the failure mode of a large slang dictionary is
+        hundreds of thin, padded entries that each technically say something and collectively say
+        nothing.
+      </p>
+      <p class="mt-4 text-body-md text-body">
+        Beyond that minimum, entries carry what is actually known about them. Some have detailed
+        etymologies; some have none, because none is reliably established. We would rather an entry
+        be visibly shorter than pad it out to match its neighbours.
+      </p>
+
+      <h2 class="mt-10 text-heading-xl text-ink">Register and usage warnings</h2>
+      <p class="mt-4 text-body-md text-body">
+        Every term is tagged with a register — informal, colloquial, vulgar, taboo, dated or
+        regional — and some carry an explicit usage warning. These are the most useful and the most
+        subjective fields on the site. A word like <span lang="es-MX">cabrón</span> is an
+        affectionate greeting between friends and a serious insult from a stranger; no single label
+        captures that, so the entry says so in the definitions rather than pretending the tag is
+        sufficient.
+      </p>
+      <p class="mt-4 text-body-md text-body">
+        We list slurs and offensive terms rather than omitting them, with the warning attached. A
+        dictionary that leaves out the words you most need explained is not protecting anyone.
+      </p>
+
+      <h2 class="mt-10 text-heading-xl text-ink">Disputed and invented etymologies</h2>
+      <p class="mt-4 text-body-md text-body">
+        Slang attracts folk etymology more than any other part of a language, and the good stories
+        travel faster than the true ones. Several origins repeated confidently across the web are
+        simply unverifiable — the Mexican <span lang="es-MX">chamba</span> supposedly coming from
+        "Chamber of Commerce", the Australian <em>chunder</em> from a shipboard cry of "watch
+        under", the acronym backstories attached to <em>naff</em>.
+      </p>
+      <p class="mt-4 text-body-md text-body">
+        Where we include one of these, we say plainly that it is unverified, and we say why it is
+        worth mentioning anyway — usually because it is repeated so widely that leaving it out
+        would be more confusing than addressing it. Where the origin is genuinely contested among
+        people who study this, the entry says the question is open rather than picking the tidiest
+        answer.
+      </p>
+
+      <h2 class="mt-10 text-heading-xl text-ink">Where slang comes from</h2>
+      <p class="mt-4 text-body-md text-body">
+        A large share of what circulates as generic "American" slang originated in African American
+        Vernacular English; a large share of current British youth slang comes from Multicultural
+        London English and, before that, Jamaican Patois; a great deal of French slang arrived
+        through the banlieues from Arabic. These routes are noted in the entries, because a word's
+        history is frequently the most interesting thing about it and because attribution matters.
+      </p>
+
+      <h2 class="mt-10 text-heading-xl text-ink">What this dictionary is currently bad at</h2>
+      <ul class="mt-4 grid list-disc gap-3 pl-5 text-body-md text-body">
+        <li>
+          <strong class="font-semibold text-ink">Coverage is uneven.</strong> Eight countries and four
+          languages is a start, not a survey. Large slang traditions — Brazilian Portuguese, Nigerian
+          Pidgin, Indian English, Japanese, Arabic — are simply absent.
+        </li>
+        <li>
+          <strong class="font-semibold text-ink">Regional depth is shallow.</strong> Terms are tagged
+          to a broad region where we are confident, and left untagged where we are not. A word marked
+          "General" may well be regional in ways we have not captured.
+        </li>
+        <li>
+          <strong class="font-semibold text-ink">Slang expires.</strong> Some entries here will read
+          as dated within a few years. Where a term is already on its way out we mark it dated, but
+          we will not always catch it in time.
+        </li>
+        <li>
+          <strong class="font-semibold text-ink">No audio.</strong> Pronunciation is given as IPA and
+          as a plain-English respelling. For tonal and intonation-dependent terms — a good part of the
+          Italian and Mexican entries — that is genuinely not enough.
+        </li>
+      </ul>
+
+      <h2 class="mt-10 text-heading-xl text-ink">Corrections</h2>
+      <p class="mt-4 text-body-md text-body">
+        If an entry is wrong, out of date, or misses the way a word is actually used where you
+        live, that is worth knowing. Native-speaker corrections are the single most valuable input
+        a dictionary like this can get, and the fields most likely to be wrong are register and
+        region — exactly the ones that are hardest to research and easiest for a speaker to spot.
+      </p>
+    </article>
+  </div>
+</Layout>

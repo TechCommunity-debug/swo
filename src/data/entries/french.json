@@ -1,0 +1,1120 @@
+[
+  {
+    "slug": "meuf",
+    "term": "meuf",
+    "partOfSpeech": ["noun"],
+    "register": "informal",
+    "categories": ["people"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "pronunciation": { "respelling": "MUHF" },
+    "definitions": [
+      { "text": "A woman; a girl. Also 'my girlfriend': ma meuf." }
+    ],
+    "examples": [
+      { "text": "Il est venu avec sa meuf.", "translation": "He came with his girlfriend." },
+      { "text": "Y a une meuf qui te cherche.", "translation": "There's a woman looking for you." }
+    ],
+    "origin": {
+      "etymology": "Verlan for femme: fe-mme reversed to me-fe, then compressed to meuf. One of the oldest and most fully naturalised verlan words — it appears in dictionaries and many speakers no longer register it as reversed at all.",
+      "firstAttested": "1970s",
+      "sources": []
+    },
+    "relatedTerms": ["french/keum", "french/verlan", "french/relou"],
+    "synonyms": ["nana", "gonzesse"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "keum",
+    "term": "keum",
+    "partOfSpeech": ["noun"],
+    "register": "informal",
+    "categories": ["people"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "pronunciation": { "respelling": "KUHM" },
+    "definitions": [
+      { "text": "A guy, a bloke. Also 'my boyfriend': mon keum." }
+    ],
+    "examples": [
+      { "text": "C'est qui ce keum?", "translation": "Who's that guy?" },
+      { "text": "Son keum bosse dans la restauration.", "translation": "Her boyfriend works in catering." }
+    ],
+    "origin": {
+      "etymology": "Verlan for mec ('bloke'), which is itself informal. Verlan frequently takes slang as its input rather than standard vocabulary, producing a second layer of concealment.",
+      "sources": []
+    },
+    "relatedTerms": ["french/meuf", "french/mec", "french/verlan"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "mec",
+    "term": "mec",
+    "partOfSpeech": ["noun"],
+    "register": "informal",
+    "categories": ["people", "greetings"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "pronunciation": { "respelling": "MEK" },
+    "definitions": [
+      { "text": "A guy, a bloke. The everyday word for an unnamed man." },
+      { "text": "Used to address a friend: 'mec, arrête' — 'mate, stop'." },
+      { "text": "A boyfriend: mon mec." }
+    ],
+    "examples": [
+      { "text": "Ce mec est vraiment sympa.", "translation": "That guy is really nice." },
+      { "text": "Mec, tu déconnes.", "translation": "Mate, you're kidding." }
+    ],
+    "relatedTerms": ["french/keum", "french/meuf", "french/gars"],
+    "synonyms": ["gars", "type"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "gars",
+    "term": "gars",
+    "partOfSpeech": ["noun"],
+    "register": "colloquial",
+    "categories": ["people"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "pronunciation": { "respelling": "GAH — the r and s are silent" },
+    "definitions": [
+      { "text": "A guy; a lad. Slightly softer and more rural-sounding than mec. Les gars addresses a group." }
+    ],
+    "examples": [
+      { "text": "Salut les gars, ça va?", "translation": "Hi guys, how's it going?" },
+      { "text": "C'est un bon gars.", "translation": "He's a good lad." }
+    ],
+    "relatedTerms": ["french/mec", "french/pote"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "pote",
+    "term": "pote",
+    "partOfSpeech": ["noun"],
+    "register": "informal",
+    "categories": ["people"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "pronunciation": { "respelling": "POT" },
+    "definitions": [
+      { "text": "A mate, a pal. Warmer than copain and used of close friends." }
+    ],
+    "examples": [
+      { "text": "Je sors avec des potes ce soir.", "translation": "I'm going out with some mates tonight." },
+      { "text": "C'est mon pote depuis le lycée.", "translation": "He's been my mate since secondary school." }
+    ],
+    "relatedTerms": ["french/mec", "french/gars", "french/frere"],
+    "synonyms": ["copain", "poteau"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "frere",
+    "term": "frérot",
+    "partOfSpeech": ["noun"],
+    "register": "informal",
+    "categories": ["people", "greetings"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "region": "Banlieue",
+    "definitions": [
+      { "text": "Bro; brother. An address term between male friends, very common in youth speech." }
+    ],
+    "examples": [
+      { "text": "Ça va, frérot?", "translation": "You alright, bro?" },
+      { "text": "Merci frérot, t'es le meilleur.", "translation": "Thanks bro, you're the best." }
+    ],
+    "relatedTerms": ["french/pote", "french/wesh", "french/mec"],
+    "synonyms": ["frère", "reuf"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "verlan",
+    "term": "verlan",
+    "partOfSpeech": ["noun"],
+    "register": "colloquial",
+    "categories": ["discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "pronunciation": { "respelling": "vehr-LAHN" },
+    "definitions": [
+      { "text": "The French practice of inverting a word's syllables to create a slang form. Not a single word but a whole productive system, and the single most distinctive feature of French slang." }
+    ],
+    "examples": [
+      { "text": "Meuf, keum et relou, c'est du verlan.", "translation": "Meuf, keum and relou are all verlan." },
+      { "text": "Les jeunes inventent du verlan tous les jours.", "translation": "Young people coin new verlan constantly." }
+    ],
+    "origin": {
+      "etymology": "The name is itself verlan: l'envers ('the reverse') becomes verlan. Some words have been reversed twice — beur, verlan for arabe, was re-reversed into rebeu once beur became mainstream. That double inversion is a defence mechanism: verlan exists to stay ahead of outsiders.",
+      "firstAttested": "documented from the 19th century; widespread from the 1970s",
+      "sources": []
+    },
+    "relatedTerms": ["french/meuf", "french/keum", "french/relou", "french/chelou"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "relou",
+    "term": "relou",
+    "partOfSpeech": ["adjective"],
+    "register": "informal",
+    "categories": ["insults", "emotion"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Annoying, tiresome, heavy going. Of people and of situations alike." }
+    ],
+    "examples": [
+      { "text": "Il est trop relou avec ses questions.", "translation": "He's so annoying with all his questions." },
+      { "text": "C'est relou de devoir y retourner.", "translation": "It's a pain having to go back there." }
+    ],
+    "origin": {
+      "etymology": "Verlan for lourd, 'heavy' — which in French already means 'tiresome' when applied to a person.",
+      "sources": []
+    },
+    "relatedTerms": ["french/verlan", "french/chelou", "french/souler"],
+    "synonyms": ["chiant", "pénible"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "chelou",
+    "term": "chelou",
+    "partOfSpeech": ["adjective"],
+    "register": "informal",
+    "categories": ["everyday"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Shady, weird, off. Of people, places and situations that don't feel right." }
+    ],
+    "examples": [
+      { "text": "Ce mec est un peu chelou.", "translation": "That guy is a bit shady." },
+      { "text": "C'était une ambiance chelou.", "translation": "The atmosphere was strange." }
+    ],
+    "origin": {
+      "etymology": "Verlan for louche, which already means 'shady'. As with relou, the verlan form has largely displaced the original in casual speech.",
+      "sources": []
+    },
+    "relatedTerms": ["french/verlan", "french/relou", "french/louche"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "louche",
+    "term": "louche",
+    "partOfSpeech": ["adjective"],
+    "register": "colloquial",
+    "categories": ["everyday"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "pronunciation": { "respelling": "LOOSH" },
+    "definitions": [
+      { "text": "Shady, suspicious, dubious. The standard-register word that chelou reverses." }
+    ],
+    "examples": [
+      { "text": "Cette affaire est louche.", "translation": "There's something dodgy about this business." },
+      { "text": "Un quartier un peu louche la nuit.", "translation": "A slightly dodgy neighbourhood at night." }
+    ],
+    "relatedTerms": ["french/chelou", "french/embrouille"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "wesh",
+    "term": "wesh",
+    "partOfSpeech": ["interjection"],
+    "register": "informal",
+    "categories": ["greetings"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "region": "Banlieue",
+    "pronunciation": { "respelling": "WESH" },
+    "definitions": [
+      { "text": "Hey; yo. A greeting, and also an attention-getter: wesh, tu fais quoi?" },
+      { "text": "Used alone as an expression of surprise or indignation." }
+    ],
+    "examples": [
+      { "text": "Wesh, ça va ou quoi?", "translation": "Hey, how's it going?" },
+      { "text": "Wesh, t'as vu ça?", "translation": "Whoa, did you see that?" }
+    ],
+    "origin": {
+      "etymology": "From Algerian Arabic wešnu / weš rak, 'how are you'. One of many Maghrebi borrowings that entered French through the banlieues and then spread nationally through rap. It is strongly marked — using it outside its home register sounds like an imitation.",
+      "sources": []
+    },
+    "relatedTerms": ["french/frere", "french/kiffer", "french/seum"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "kiffer",
+    "term": "kiffer",
+    "partOfSpeech": ["verb"],
+    "register": "informal",
+    "categories": ["emotion", "approval"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "pronunciation": { "respelling": "kee-FAY" },
+    "definitions": [
+      { "text": "To love, to really enjoy. Je kiffe ce morceau — 'I love this track'." },
+      { "text": "To fancy someone: je la kiffe grave." }
+    ],
+    "examples": [
+      { "text": "Je kiffe trop cette série.", "translation": "I absolutely love this series." },
+      { "text": "Il la kiffe depuis la rentrée.", "translation": "He's had a thing for her since term started." }
+    ],
+    "origin": {
+      "etymology": "From Arabic kayf, 'pleasure, state of wellbeing' — the same root as the English word kif. Arrived through Maghrebi French and is now thoroughly mainstream, used comfortably by speakers of every background.",
+      "sources": []
+    },
+    "relatedTerms": ["french/wesh", "french/grave", "french/seum"],
+    "synonyms": ["adorer"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "seum",
+    "term": "seum",
+    "partOfSpeech": ["noun"],
+    "register": "informal",
+    "categories": ["emotion"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "pronunciation": { "respelling": "SUHM" },
+    "definitions": [
+      { "text": "Bitterness, rage, the sting of a defeat. Avoir le seum is to be gutted and furious at once — there is no single English word for it." }
+    ],
+    "examples": [
+      { "text": "J'ai le seum, on a perdu en finale.", "translation": "I'm sick about it, we lost in the final." },
+      { "text": "Ça lui a mis le seum.", "translation": "That really got to him." }
+    ],
+    "origin": {
+      "etymology": "From Arabic sèmm, 'poison'. The metaphor is exact: bitterness as something toxic you have swallowed.",
+      "sources": []
+    },
+    "relatedTerms": ["french/kiffer", "french/wesh", "french/degoute"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "degoute",
+    "term": "dégoûté",
+    "partOfSpeech": ["adjective"],
+    "register": "informal",
+    "categories": ["emotion"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "literalMeaning": "Disgusted.",
+    "definitions": [
+      { "text": "Gutted, bitterly disappointed. Nothing to do with revulsion in this use — it is the French equivalent of British 'gutted'." }
+    ],
+    "examples": [
+      { "text": "Je suis dégoûté, j'ai raté le train.", "translation": "I'm gutted, I missed the train." },
+      { "text": "Il était trop dégoûté après le match.", "translation": "He was absolutely crushed after the match." }
+    ],
+    "relatedTerms": ["french/seum", "french/relou"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "grave",
+    "term": "grave",
+    "partOfSpeech": ["adverb", "interjection"],
+    "register": "informal",
+    "categories": ["discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "literalMeaning": "Serious, grave.",
+    "definitions": [
+      { "text": "Very, really. An intensifier: c'est grave bien, 'it's really good'." },
+      { "text": "Standing alone: totally, absolutely. An emphatic agreement." }
+    ],
+    "examples": [
+      { "text": "C'était grave bien, ce concert.", "translation": "That concert was really good." },
+      { "text": "—Il exagère, non? —Grave.", "translation": "'He's going too far, isn't he?' 'Totally.'" }
+    ],
+    "relatedTerms": ["french/kiffer", "french/trop", "french/carrement"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "trop",
+    "term": "trop",
+    "partOfSpeech": ["adverb"],
+    "register": "colloquial",
+    "categories": ["discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "literalMeaning": "Too, too much.",
+    "definitions": [
+      { "text": "Really, so. In informal speech trop has lost its sense of excess and simply intensifies: c'est trop bien means 'it's brilliant', not 'it's too good'." }
+    ],
+    "examples": [
+      { "text": "Elle est trop sympa, ta sœur.", "translation": "Your sister is so nice." },
+      { "text": "J'ai trop envie d'y aller.", "translation": "I really want to go." }
+    ],
+    "relatedTerms": ["french/grave", "french/carrement"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "carrement",
+    "term": "carrément",
+    "partOfSpeech": ["adverb", "interjection"],
+    "register": "colloquial",
+    "categories": ["discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "pronunciation": { "respelling": "kah-ray-MAHN" },
+    "definitions": [
+      { "text": "Completely, downright, absolutely." },
+      { "text": "Alone as a reply: definitely; too right." }
+    ],
+    "examples": [
+      { "text": "Il a carrément oublié de venir.", "translation": "He completely forgot to come." },
+      { "text": "—On y va? —Carrément.", "translation": "'Shall we go?' 'Absolutely.'" }
+    ],
+    "relatedTerms": ["french/grave", "french/trop"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "bof",
+    "term": "bof",
+    "partOfSpeech": ["interjection"],
+    "register": "colloquial",
+    "categories": ["discourse", "emotion"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "pronunciation": { "respelling": "BOFF" },
+    "definitions": [
+      { "text": "Meh. Signals indifference or a lukewarm opinion, and is a complete answer on its own." }
+    ],
+    "examples": [
+      { "text": "—Tu as aimé le film? —Bof.", "translation": "'Did you like the film?' 'Meh.'" },
+      { "text": "Bof, je préfère rester ici.", "translation": "Eh, I'd rather stay here." }
+    ],
+    "origin": {
+      "etymology": "A conventionalised sound rather than a word, usually accompanied by a shrug and a downturned mouth. Together with the shrug it is one of the most recognisable gestures in French conversation.",
+      "sources": []
+    },
+    "relatedTerms": ["french/bref", "french/voila"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "bref",
+    "term": "bref",
+    "partOfSpeech": ["interjection", "adverb"],
+    "register": "colloquial",
+    "categories": ["discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Anyway; in short. Used to cut a digression short and get back to the point, or to end a story that has run out of road." }
+    ],
+    "examples": [
+      { "text": "Bref, on n'est jamais arrivés.", "translation": "Anyway, we never got there." },
+      { "text": "Bref, tu vois le genre.", "translation": "In short, you get the idea." }
+    ],
+    "relatedTerms": ["french/voila", "french/bof", "french/du-coup"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "du-coup",
+    "term": "du coup",
+    "partOfSpeech": ["phrase", "adverb"],
+    "register": "colloquial",
+    "categories": ["discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "So; therefore; as a result. Nominally causal, in practice an all-purpose connector used several times a sentence by many speakers." }
+    ],
+    "examples": [
+      { "text": "Il pleuvait, du coup on est restés.", "translation": "It was raining, so we stayed." },
+      { "text": "Du coup, tu viens ou pas?", "translation": "So are you coming or not?" }
+    ],
+    "origin": {
+      "etymology": "Its explosive spread since the 2000s is one of the most complained-about changes in contemporary French. Language columnists have been objecting for two decades with no discernible effect.",
+      "sources": []
+    },
+    "relatedTerms": ["french/bref", "french/voila", "french/genre"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "genre",
+    "term": "genre",
+    "partOfSpeech": ["adverb", "noun"],
+    "register": "informal",
+    "categories": ["discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "literalMeaning": "Kind, type.",
+    "definitions": [
+      { "text": "Like. A quotative and approximator, precisely parallel to English 'like': il a fait genre 'je sais pas'." },
+      { "text": "Faire genre: to put on an act, to pretend." }
+    ],
+    "examples": [
+      { "text": "Il m'a dit, genre, qu'il avait oublié.", "translation": "He told me, like, that he'd forgotten." },
+      { "text": "Arrête de faire genre.", "translation": "Stop putting it on." }
+    ],
+    "relatedTerms": ["french/du-coup", "french/bref"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "voila",
+    "term": "voilà",
+    "partOfSpeech": ["interjection"],
+    "register": "colloquial",
+    "categories": ["discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "There you go; that's it. Handing something over, or confirming that someone has understood." },
+      { "text": "Used to close a statement when there is nothing more to add — often trailing off: et voilà, quoi." }
+    ],
+    "examples": [
+      { "text": "Voilà, c'est fait.", "translation": "There, it's done." },
+      { "text": "Il est parti, et voilà.", "translation": "He left, and that's that." }
+    ],
+    "relatedTerms": ["french/bref", "french/du-coup", "french/quoi"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "quoi",
+    "term": "quoi",
+    "partOfSpeech": ["interjection"],
+    "register": "colloquial",
+    "categories": ["discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "literalMeaning": "What.",
+    "definitions": [
+      { "text": "A sentence-final particle with no translatable content, roughly the function of 'you know' or 'innit' — it marks the statement as obvious or already shared." }
+    ],
+    "examples": [
+      { "text": "C'est pas compliqué, quoi.", "translation": "It's not complicated, you know." },
+      { "text": "Il est sympa mais bizarre, quoi.", "translation": "He's nice but odd, if you see what I mean." }
+    ],
+    "relatedTerms": ["french/voila", "french/bref", "french/genre"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "boulot",
+    "term": "boulot",
+    "partOfSpeech": ["noun"],
+    "register": "colloquial",
+    "categories": ["money"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "pronunciation": { "respelling": "boo-LOH" },
+    "definitions": [
+      { "text": "Work; a job. Métro, boulot, dodo — 'commute, work, sleep' — is the standard French summary of a dreary routine." }
+    ],
+    "examples": [
+      { "text": "Je pars au boulot dans dix minutes.", "translation": "I'm leaving for work in ten minutes." },
+      { "text": "Il a trouvé un boulot à Lyon.", "translation": "He's found a job in Lyon." }
+    ],
+    "relatedTerms": ["french/bosser", "french/thune", "french/galere"],
+    "synonyms": ["taf", "job"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "bosser",
+    "term": "bosser",
+    "partOfSpeech": ["verb"],
+    "register": "informal",
+    "categories": ["money"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "To work, especially to work hard. Bosser dur is to graft." }
+    ],
+    "examples": [
+      { "text": "Elle bosse dans une agence de com.", "translation": "She works at a communications agency." },
+      { "text": "J'ai bossé tout le week-end.", "translation": "I worked all weekend." }
+    ],
+    "relatedTerms": ["french/boulot", "french/thune", "french/glander"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "glander",
+    "term": "glander",
+    "partOfSpeech": ["verb"],
+    "register": "informal",
+    "categories": ["everyday"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "To laze about, to do nothing in particular. A glandeur is a layabout." }
+    ],
+    "examples": [
+      { "text": "J'ai glandé tout l'après-midi.", "translation": "I did nothing all afternoon." },
+      { "text": "Qu'est-ce que tu glandes?", "translation": "What on earth are you doing?", "context": "In a question it means 'what are you messing about at', and it is impatient." }
+    ],
+    "relatedTerms": ["french/bosser", "french/boulot"],
+    "synonyms": ["glandouiller", "buller"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "thune",
+    "term": "thune",
+    "partOfSpeech": ["noun"],
+    "register": "informal",
+    "categories": ["money"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "pronunciation": { "respelling": "TOON" },
+    "definitions": [
+      { "text": "Money, cash." }
+    ],
+    "examples": [
+      { "text": "J'ai plus de thune jusqu'à la fin du mois.", "translation": "I'm out of money until the end of the month." },
+      { "text": "Ça coûte une thune, ce truc.", "translation": "That thing costs a fortune." }
+    ],
+    "origin": {
+      "etymology": "Originally a five-franc coin in 19th-century argot. The coin is long gone; the word outlived it, as money slang usually does.",
+      "sources": []
+    },
+    "relatedTerms": ["french/boulot", "french/fauche", "french/ble"],
+    "synonyms": ["fric", "blé", "oseille"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "ble",
+    "term": "blé",
+    "partOfSpeech": ["noun"],
+    "register": "informal",
+    "categories": ["money"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "literalMeaning": "Wheat.",
+    "definitions": [
+      { "text": "Money. One of several French food-words for cash, alongside oseille (sorrel) and fric." }
+    ],
+    "examples": [
+      { "text": "Il se fait du blé avec ça.", "translation": "He's making good money out of that." },
+      { "text": "Faut du blé pour habiter Paris.", "translation": "You need money to live in Paris." }
+    ],
+    "origin": {
+      "etymology": "Grain as a metaphor for wealth is nearly universal — English dough, Spanish pasta, Italian grana. Agricultural staples become the measure of value in slang everywhere.",
+      "sources": []
+    },
+    "relatedTerms": ["french/thune", "french/fauche"],
+    "synonyms": ["fric", "oseille", "thune"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "fauche",
+    "term": "fauché",
+    "partOfSpeech": ["adjective"],
+    "register": "informal",
+    "categories": ["money"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "literalMeaning": "Mown, scythed.",
+    "definitions": [
+      { "text": "Broke, skint. Often intensified: fauché comme les blés — 'broke as the wheat fields', i.e. cut down to nothing." }
+    ],
+    "examples": [
+      { "text": "Je suis fauché, on fait ça chez moi.", "translation": "I'm broke, let's do it at my place." },
+      { "text": "Étudiant et fauché, le classique.", "translation": "A skint student, the classic combination." }
+    ],
+    "relatedTerms": ["french/thune", "french/ble", "french/galere"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "galere",
+    "term": "galère",
+    "partOfSpeech": ["noun", "adjective"],
+    "register": "colloquial",
+    "categories": ["everyday", "emotion"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "literalMeaning": "Galley (the ship).",
+    "definitions": [
+      { "text": "A nightmare; a real struggle. Quelle galère! — 'what a palaver'." },
+      { "text": "As a verb, galérer: to struggle, to have a hard time of it." }
+    ],
+    "examples": [
+      { "text": "Trouver un appart à Paris, quelle galère.", "translation": "Finding a flat in Paris is a nightmare." },
+      { "text": "Je galère avec ce logiciel.", "translation": "I'm struggling with this software." }
+    ],
+    "origin": {
+      "etymology": "From the galley ships rowed by convicts — a sentence to the galleys was the harshest punishment short of death. Molière's 'que diable allait-il faire dans cette galère?' kept the image alive.",
+      "sources": []
+    },
+    "relatedTerms": ["french/fauche", "french/relou", "french/boulot"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "truc",
+    "term": "truc",
+    "partOfSpeech": ["noun"],
+    "register": "colloquial",
+    "categories": ["everyday", "discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "A thing; a whatsit. The universal placeholder for an object whose name escapes you." },
+      { "text": "A trick or knack: il y a un truc pour l'ouvrir." },
+      { "text": "Something that is or isn't one's cup of tea: c'est pas mon truc." }
+    ],
+    "examples": [
+      { "text": "Passe-moi le truc là, sur la table.", "translation": "Pass me that thingy on the table." },
+      { "text": "La danse, c'est pas mon truc.", "translation": "Dancing isn't really my thing." }
+    ],
+    "relatedTerms": ["french/machin", "french/bidule"],
+    "synonyms": ["machin", "bidule"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "machin",
+    "term": "machin",
+    "partOfSpeech": ["noun"],
+    "register": "colloquial",
+    "categories": ["everyday"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "A thingamajig; also a person whose name you've forgotten. Monsieur Machin is the French 'Mr Whatsisname'." }
+    ],
+    "examples": [
+      { "text": "Où est le machin pour ouvrir les bouteilles?", "translation": "Where's the thingy for opening bottles?" },
+      { "text": "J'ai croisé machin, tu sais, du bureau.", "translation": "I ran into whatsisname, you know, from the office." }
+    ],
+    "relatedTerms": ["french/truc", "french/bidule"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "bidule",
+    "term": "bidule",
+    "partOfSpeech": ["noun"],
+    "register": "colloquial",
+    "categories": ["everyday"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "A gadget or doohickey — a placeholder for a small object, usually one with a mechanism." }
+    ],
+    "examples": [
+      { "text": "C'est quoi ce bidule sur l'étagère?", "translation": "What's that gizmo on the shelf?" },
+      { "text": "Il a acheté un bidule pour la cuisine.", "translation": "He's bought some gadget for the kitchen." }
+    ],
+    "relatedTerms": ["french/truc", "french/machin"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "bouffer",
+    "term": "bouffer",
+    "partOfSpeech": ["verb"],
+    "register": "informal",
+    "categories": ["food-drink"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "To eat — bluntly and without ceremony. La bouffe is the noun: grub, food." }
+    ],
+    "examples": [
+      { "text": "On va bouffer un truc?", "translation": "Shall we go grab something to eat?" },
+      { "text": "La bouffe était excellente.", "translation": "The food was excellent." }
+    ],
+    "relatedTerms": ["french/apero", "french/picoler"],
+    "synonyms": ["manger"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "apero",
+    "term": "apéro",
+    "partOfSpeech": ["noun"],
+    "register": "colloquial",
+    "categories": ["food-drink", "partying"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "pronunciation": { "respelling": "ah-pay-ROH" },
+    "definitions": [
+      { "text": "Pre-dinner drinks with something to nibble. A social institution rather than a meal, and prendre l'apéro is an invitation in itself." }
+    ],
+    "examples": [
+      { "text": "On se fait un apéro vers sept heures?", "translation": "Shall we have drinks around seven?" },
+      { "text": "Apéro chez nous samedi, viens.", "translation": "Drinks at ours on Saturday, come along." }
+    ],
+    "origin": {
+      "etymology": "Clipped from apéritif. The French pattern of clipping the end of a word — apéro, resto, ado, dico, ordi — parallels Australian -o words and is just as productive.",
+      "sources": []
+    },
+    "relatedTerms": ["french/bouffer", "french/picoler", "french/teuf"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "picoler",
+    "term": "picoler",
+    "partOfSpeech": ["verb"],
+    "register": "informal",
+    "categories": ["partying", "food-drink"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "To drink alcohol, usually to excess. Implies a habit rather than an occasion." }
+    ],
+    "examples": [
+      { "text": "Il picole trop depuis quelque temps.", "translation": "He's been drinking too much lately." },
+      { "text": "On a picolé jusqu'à trois heures.", "translation": "We were drinking until three." }
+    ],
+    "relatedTerms": ["french/apero", "french/bourre", "french/teuf"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "bourre",
+    "term": "bourré",
+    "partOfSpeech": ["adjective"],
+    "register": "informal",
+    "categories": ["partying"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "literalMeaning": "Stuffed, packed.",
+    "definitions": [
+      { "text": "Drunk. The everyday word for it, and not especially crude." },
+      { "text": "Of a place: crammed full. Le métro était bourré." }
+    ],
+    "examples": [
+      { "text": "Il était complètement bourré hier soir.", "translation": "He was completely hammered last night." },
+      { "text": "Le bar était bourré à craquer.", "translation": "The bar was packed to bursting." }
+    ],
+    "relatedTerms": ["french/picoler", "french/teuf", "french/gueule-de-bois"],
+    "synonyms": ["pété", "beurré"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "gueule-de-bois",
+    "term": "gueule de bois",
+    "partOfSpeech": ["noun", "phrase"],
+    "register": "informal",
+    "categories": ["partying"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "literalMeaning": "Wooden mouth.",
+    "definitions": [
+      { "text": "A hangover. The image is of a mouth so dry it might be carved from wood." }
+    ],
+    "examples": [
+      { "text": "J'ai une gueule de bois carabinée.", "translation": "I've got a monstrous hangover." },
+      { "text": "Gueule de bois assurée demain matin.", "translation": "Guaranteed hangover tomorrow morning." }
+    ],
+    "relatedTerms": ["french/bourre", "french/picoler", "french/teuf"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "teuf",
+    "term": "teuf",
+    "partOfSpeech": ["noun"],
+    "register": "informal",
+    "categories": ["partying"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "A party. Verlan for fête." }
+    ],
+    "examples": [
+      { "text": "Il y a une teuf chez Sarah samedi.", "translation": "There's a party at Sarah's on Saturday." },
+      { "text": "C'était une bonne teuf.", "translation": "It was a good party." }
+    ],
+    "relatedTerms": ["french/verlan", "french/apero", "french/bourre"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "ouf",
+    "term": "ouf",
+    "partOfSpeech": ["adjective", "interjection"],
+    "register": "informal",
+    "categories": ["emotion", "approval"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Crazy, mad, incredible. Verlan for fou. Un truc de ouf is 'something insane', usually admiringly." },
+      { "text": "Separately, as an interjection: phew, the sound of relief. The two are unrelated and distinguished by position." }
+    ],
+    "examples": [
+      { "text": "C'est un truc de ouf, ce concert.", "translation": "That gig was absolutely insane." },
+      { "text": "Ouf, j'ai cru que j'avais perdu mon passeport.", "translation": "Phew, I thought I'd lost my passport." }
+    ],
+    "relatedTerms": ["french/verlan", "french/grave", "french/chelou"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "nul",
+    "term": "nul",
+    "partOfSpeech": ["adjective"],
+    "register": "colloquial",
+    "categories": ["insults", "everyday"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Rubbish, useless, hopeless. Of things: c'est nul. Of people: je suis nul en maths, 'I'm useless at maths'." }
+    ],
+    "examples": [
+      { "text": "Le film était vraiment nul.", "translation": "The film was really terrible." },
+      { "text": "Je suis nul en cuisine.", "translation": "I'm hopeless at cooking." }
+    ],
+    "relatedTerms": ["french/relou", "french/bof"],
+    "synonyms": ["pourri", "naze"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "naze",
+    "term": "naze",
+    "partOfSpeech": ["adjective"],
+    "register": "informal",
+    "categories": ["everyday", "insults"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Rubbish; broken; knackered. Of objects that no longer work and of people who are exhausted." }
+    ],
+    "examples": [
+      { "text": "Mon vélo est naze.", "translation": "My bike is done for." },
+      { "text": "Je suis naze, je vais me coucher.", "translation": "I'm shattered, I'm going to bed." }
+    ],
+    "relatedTerms": ["french/nul", "french/galere"],
+    "synonyms": ["nul", "mort"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "souler",
+    "term": "soûler",
+    "partOfSpeech": ["verb"],
+    "register": "informal",
+    "categories": ["emotion", "insults"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "literalMeaning": "To make drunk.",
+    "definitions": [
+      { "text": "To exasperate; to wear someone down with talk. Tu me soûles — 'you're doing my head in'." }
+    ],
+    "examples": [
+      { "text": "Il me soûle avec ses histoires.", "translation": "He's doing my head in with his stories." },
+      { "text": "Ça me soûle de devoir recommencer.", "translation": "It's exhausting having to start over." }
+    ],
+    "relatedTerms": ["french/relou", "french/nul", "french/seum"],
+    "variants": ["saouler"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "embrouille",
+    "term": "embrouille",
+    "partOfSpeech": ["noun"],
+    "register": "informal",
+    "categories": ["insults", "everyday"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Trouble; a falling-out; a messy situation. Chercher les embrouilles is to go looking for a fight." }
+    ],
+    "examples": [
+      { "text": "Je veux pas d'embrouilles.", "translation": "I don't want any trouble." },
+      { "text": "Il y a eu une embrouille à la sortie du bar.", "translation": "There was a row outside the bar." }
+    ],
+    "relatedTerms": ["french/louche", "french/galere", "french/chelou"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "deconner",
+    "term": "déconner",
+    "partOfSpeech": ["verb"],
+    "register": "vulgar",
+    "categories": ["discourse", "emotion"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "To mess about; to talk nonsense. Tu déconnes? — 'are you kidding?'" },
+      { "text": "Of a device: to play up. Mon ordi déconne." },
+      { "text": "Sans déconner: seriously, no joke." }
+    ],
+    "examples": [
+      { "text": "Sans déconner, il a vraiment dit ça?", "translation": "Seriously, he actually said that?" },
+      { "text": "Ma connexion déconne depuis ce matin.", "translation": "My connection has been playing up since this morning." }
+    ],
+    "origin": {
+      "etymology": "Built on a vulgar root, though the word itself is widely used and lands closer to 'to mess about' than to anything stronger.",
+      "sources": []
+    },
+    "relatedTerms": ["french/mec", "french/nul", "french/souler"],
+    "usageWarning": ["vulgar"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "putain",
+    "term": "putain",
+    "partOfSpeech": ["interjection"],
+    "register": "vulgar",
+    "categories": ["emotion", "discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "pronunciation": { "respelling": "pu-TAN" },
+    "definitions": [
+      { "text": "Damn; bloody hell. The most common French expletive, expressing anything from awe to fury." },
+      { "text": "As an intensifier before a noun: putain de voiture, 'bloody car'." },
+      { "text": "In the south, and especially Marseille, putain functions as near-continuous punctuation with almost no force at all.", "note": "Its literal meaning is a slur for a sex worker, which is worth knowing even though almost no speaker intends it." }
+    ],
+    "examples": [
+      { "text": "Putain, il fait froid!", "translation": "Bloody hell, it's cold!" },
+      { "text": "Putain de bordel, où sont mes clés?", "translation": "For God's sake, where are my keys?" }
+    ],
+    "relatedTerms": ["french/deconner", "french/merde", "french/souler"],
+    "usageWarning": ["vulgar", "offensive"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "merde",
+    "term": "merde",
+    "partOfSpeech": ["interjection", "noun"],
+    "register": "vulgar",
+    "categories": ["emotion"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Damn; shit. General-purpose frustration." },
+      { "text": "Good luck — said to a performer before going on stage, exactly as English says 'break a leg'. Replying merci is thought to break the charm." }
+    ],
+    "examples": [
+      { "text": "Merde, j'ai oublié mon portefeuille.", "translation": "Damn, I've forgotten my wallet." },
+      { "text": "Merde pour ton concours demain!", "translation": "Good luck with your exam tomorrow!", "context": "Entirely sincere and kindly meant. The theatre origin is a horse-drawn-carriage superstition: more manure outside meant a bigger audience." }
+    ],
+    "relatedTerms": ["french/putain", "french/deconner"],
+    "usageWarning": ["vulgar"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "ca-marche",
+    "term": "ça marche",
+    "partOfSpeech": ["phrase"],
+    "register": "colloquial",
+    "categories": ["discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "literalMeaning": "It walks.",
+    "definitions": [
+      { "text": "That works; okay; sounds good. Agreement to a plan, and the standard confirmation from a waiter taking your order." }
+    ],
+    "examples": [
+      { "text": "—On dit vingt heures? —Ça marche.", "translation": "'Shall we say eight?' 'Works for me.'" },
+      { "text": "Deux cafés, ça marche.", "translation": "Two coffees, coming up." }
+    ],
+    "relatedTerms": ["french/voila", "french/carrement", "french/du-coup"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "chiant",
+    "term": "chiant",
+    "partOfSpeech": ["adjective"],
+    "register": "vulgar",
+    "categories": ["insults", "emotion"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Deeply annoying; boring to the point of pain. Stronger than relou and rather cruder." }
+    ],
+    "examples": [
+      { "text": "Cette réunion est chiante.", "translation": "This meeting is unbearably dull." },
+      { "text": "T'es vraiment chiant, tu sais.", "translation": "You're really irritating, you know that." }
+    ],
+    "relatedTerms": ["french/relou", "french/souler", "french/nul"],
+    "usageWarning": ["vulgar"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "ambiance",
+    "term": "ambiance",
+    "partOfSpeech": ["noun"],
+    "register": "colloquial",
+    "categories": ["partying", "discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Atmosphere, vibe. Used far more often in French than the borrowed English word is in English — il y a de l'ambiance means a place is buzzing, and 'bonne ambiance' is high praise for an evening." }
+    ],
+    "examples": [
+      { "text": "Il y avait une super ambiance hier.", "translation": "There was a great atmosphere yesterday." },
+      { "text": "Ambiance de merde à la réunion.", "translation": "Terrible atmosphere in the meeting." }
+    ],
+    "relatedTerms": ["french/teuf", "french/apero", "french/kiffer"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "chouette",
+    "term": "chouette",
+    "partOfSpeech": ["adjective", "interjection"],
+    "register": "dated",
+    "categories": ["approval"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "literalMeaning": "Owl.",
+    "definitions": [
+      { "text": "Nice, lovely, great. Gently dated — warm, a little old-fashioned, and the sort of word a grandparent uses approvingly." }
+    ],
+    "examples": [
+      { "text": "C'est chouette, ce petit café.", "translation": "This little café is lovely." },
+      { "text": "Chouette, tu es venu!", "translation": "Great, you came!" }
+    ],
+    "relatedTerms": ["french/sympa", "french/kiffer", "french/grave"],
+    "synonyms": ["sympa", "génial"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "sympa",
+    "term": "sympa",
+    "partOfSpeech": ["adjective"],
+    "register": "colloquial",
+    "categories": ["approval", "people"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Nice, friendly, pleasant. Of people above all, but also of places and plans. One of the most-used adjectives in spoken French." }
+    ],
+    "examples": [
+      { "text": "Ta collègue est très sympa.", "translation": "Your colleague is really nice." },
+      { "text": "C'est sympa comme quartier.", "translation": "It's a nice neighbourhood." }
+    ],
+    "origin": {
+      "etymology": "Clipped from sympathique. The clipping is so complete that the full form now sounds stiff in speech.",
+      "sources": []
+    },
+    "relatedTerms": ["french/chouette", "french/pote", "french/ambiance"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "ras-le-bol",
+    "term": "ras-le-bol",
+    "partOfSpeech": ["noun", "phrase"],
+    "register": "colloquial",
+    "categories": ["emotion"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "literalMeaning": "Level with the bowl.",
+    "definitions": [
+      { "text": "Having had enough; being fed up to the back teeth. J'en ai ras-le-bol — 'I've had it up to here'. The noun is also used in political commentary for public exasperation." }
+    ],
+    "examples": [
+      { "text": "J'en ai ras-le-bol de cette situation.", "translation": "I've had more than enough of this situation." },
+      { "text": "Un ras-le-bol général chez les employés.", "translation": "Widespread exasperation among the staff." }
+    ],
+    "origin": {
+      "etymology": "The image is of a bowl filled right to the brim — one more drop and it overflows. English reaches for the same picture in 'the last straw'.",
+      "sources": []
+    },
+    "relatedTerms": ["french/souler", "french/chiant", "french/galere"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "cest-pas-faux",
+    "term": "c'est pas faux",
+    "partOfSpeech": ["phrase"],
+    "register": "colloquial",
+    "categories": ["discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "literalMeaning": "It's not false.",
+    "definitions": [
+      { "text": "Fair point; you're not wrong. Grudging agreement, often from someone who did not want to concede the point." }
+    ],
+    "examples": [
+      { "text": "—Ce serait moins cher en train. —C'est pas faux.", "translation": "'It'd be cheaper by train.' 'Fair point.'" },
+      { "text": "C'est pas faux, mais quand même.", "translation": "You're not wrong, but still." }
+    ],
+    "origin": {
+      "etymology": "Given a second life by the television series Kaamelott, where a character uses it to conceal that he has not understood a word. Many French speakers now use it with that joke in mind.",
+      "sources": []
+    },
+    "relatedTerms": ["french/carrement", "french/voila", "french/bref"],
+    "reviewedBy": "Editorial team"
+  }
+]

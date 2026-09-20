@@ -1,0 +1,899 @@
+[
+  {
+    "slug": "eh",
+    "term": "eh",
+    "partOfSpeech": ["interjection"],
+    "register": "colloquial",
+    "categories": ["discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "pronunciation": { "respelling": "AY" },
+    "definitions": [
+      { "text": "A tag appended to a statement to invite agreement, equivalent to 'isn't it' or 'right?'" },
+      { "text": "A narrative tag that keeps the listener engaged mid-story: 'So I'm standing there, eh, and this guy walks up…'", "note": "This second use is the distinctively Canadian one and is what linguists point to as genuinely characteristic." },
+      { "text": "A request for repetition: 'Eh? Say that again.'" }
+    ],
+    "examples": [
+      { "text": "Cold out today, eh?", "translation": "It's cold today, isn't it?" },
+      { "text": "So we get to the cottage, eh, and the power's out.", "translation": "So we arrive at the cottage — right? — and the power is out.", "context": "Narrative eh. It asks for attention, not agreement." }
+    ],
+    "origin": {
+      "etymology": "Not unique to Canada — it exists in British, Australian and New Zealand English — but the narrative use is more frequent and more systematic in Canada than anywhere else, which is why it became the national stereotype. Canadians are self-conscious enough about it that some avoid it deliberately.",
+      "sources": []
+    },
+    "relatedTerms": ["canadian/beauty", "canadian/give-er"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "toque",
+    "term": "toque",
+    "partOfSpeech": ["noun"],
+    "register": "colloquial",
+    "categories": ["everyday"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "pronunciation": { "respelling": "TOOK" },
+    "definitions": [
+      { "text": "A knitted winter hat. Called a beanie in the US and Australia and a woolly hat in Britain, but in Canada it is simply the word for the object." }
+    ],
+    "examples": [
+      { "text": "Grab a toque, it's minus twenty out there.", "translation": "Get a winter hat, it's minus twenty outside." },
+      { "text": "He wears that toque year-round.", "translation": "He wears that knitted hat all year." }
+    ],
+    "origin": {
+      "etymology": "From Canadian French tuque, itself from an older French word for a brimless cap. One of the clearest cases of a French borrowing that English-speaking Canadians use without any sense of it being foreign.",
+      "sources": []
+    },
+    "relatedTerms": ["canadian/double-double", "canadian/chirp"],
+    "variants": ["tuque"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "double-double",
+    "term": "double-double",
+    "partOfSpeech": ["noun"],
+    "register": "colloquial",
+    "categories": ["food-drink"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "A coffee with two creams and two sugars. Originating at Tim Hortons and now understood at any Canadian coffee counter." }
+    ],
+    "examples": [
+      { "text": "Medium double-double, please.", "translation": "A medium coffee with two creams and two sugars, please." },
+      { "text": "He's a double-double guy, always has been.", "translation": "He always takes his coffee with two creams and two sugars." }
+    ],
+    "origin": {
+      "etymology": "A brand-specific order that became general vocabulary — it appears in the Canadian Oxford Dictionary. Triple-triple exists and is regarded with mild alarm.",
+      "sources": []
+    },
+    "relatedTerms": ["canadian/timmies", "canadian/toque"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "timmies",
+    "term": "Timmies",
+    "partOfSpeech": ["noun"],
+    "register": "colloquial",
+    "categories": ["food-drink"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Tim Hortons, the coffee-and-doughnut chain. Affectionate, and used far more often than the full name." }
+    ],
+    "examples": [
+      { "text": "Meet you at Timmies at eight.", "translation": "Meet me at Tim Hortons at eight." },
+      { "text": "There's a Timmies in literally every town.", "translation": "There's a Tim Hortons in every single town." }
+    ],
+    "relatedTerms": ["canadian/double-double", "canadian/timbits"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "timbits",
+    "term": "Timbits",
+    "partOfSpeech": ["noun"],
+    "register": "colloquial",
+    "categories": ["food-drink"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Small spherical doughnut holes. A trademark that has become the generic word, and the default thing to bring to a meeting or a children's hockey game." }
+    ],
+    "examples": [
+      { "text": "Someone brought a box of Timbits to the meeting.", "translation": "Someone brought a box of doughnut holes to the meeting." },
+      { "text": "Twenty Timbits, assorted.", "translation": "Twenty assorted doughnut holes, please." }
+    ],
+    "relatedTerms": ["canadian/timmies", "canadian/double-double"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "loonie",
+    "term": "loonie",
+    "partOfSpeech": ["noun"],
+    "register": "colloquial",
+    "categories": ["money"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "The Canadian one-dollar coin, and by extension the Canadian dollar itself — financial press included." }
+    ],
+    "examples": [
+      { "text": "You'll need a loonie for the cart.", "translation": "You'll need a one-dollar coin for the trolley." },
+      { "text": "The loonie slipped against the US dollar again.", "translation": "The Canadian dollar fell against the US dollar again.", "context": "Standard in business reporting — this is not a jokey usage." }
+    ],
+    "origin": {
+      "etymology": "The coin, introduced in 1987, carries a common loon on the reverse. The nickname arrived immediately and the Royal Canadian Mint later trademarked it.",
+      "firstAttested": "1987",
+      "sources": []
+    },
+    "relatedTerms": ["canadian/toonie", "canadian/gitch"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "toonie",
+    "term": "toonie",
+    "partOfSpeech": ["noun"],
+    "register": "colloquial",
+    "categories": ["money"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "The Canadian two-dollar coin." }
+    ],
+    "examples": [
+      { "text": "Have you got a toonie for the parking meter?", "translation": "Have you got a two-dollar coin for the parking meter?" },
+      { "text": "Coffee and a muffin for under a toonie, once upon a time.", "translation": "Coffee and a muffin for under two dollars, once upon a time." }
+    ],
+    "origin": {
+      "etymology": "Coined by analogy with loonie when the two-dollar coin was introduced in 1996 — 'two' plus the existing -oonie pattern. A clean example of a slang word generated by a template rather than borrowed.",
+      "firstAttested": "1996",
+      "sources": []
+    },
+    "relatedTerms": ["canadian/loonie"],
+    "variants": ["twoonie"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "poutine",
+    "term": "poutine",
+    "partOfSpeech": ["noun"],
+    "register": "colloquial",
+    "categories": ["food-drink"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "pronunciation": { "respelling": "poo-TEEN" },
+    "definitions": [
+      { "text": "Chips topped with cheese curds and gravy. Originally rural Quebec, now national, and the defining late-night food." }
+    ],
+    "examples": [
+      { "text": "Nothing beats poutine at two in the morning.", "translation": "Nothing beats chips with curds and gravy at two in the morning." },
+      { "text": "The curds have to squeak or it isn't real poutine.", "translation": "The cheese curds must squeak or it isn't authentic.", "context": "The squeak of fresh curds is the standard test, and Quebecers will tell you about it." }
+    ],
+    "origin": {
+      "etymology": "From Quebec around the late 1950s; several rural towns claim to have invented it and the dispute is unresolved. The word may come from a Quebec French term for a mess or mixture.",
+      "firstAttested": "1950s",
+      "sources": []
+    },
+    "relatedTerms": ["canadian/depanneur", "canadian/timmies"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "depanneur",
+    "term": "dépanneur",
+    "partOfSpeech": ["noun"],
+    "register": "regional",
+    "categories": ["everyday"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "region": "Quebec English",
+    "pronunciation": { "respelling": "day-pah-NUR" },
+    "definitions": [
+      { "text": "A corner shop or convenience store. Universally shortened to dep by English-speaking Quebecers." }
+    ],
+    "examples": [
+      { "text": "I'll grab some milk at the dep.", "translation": "I'll get some milk at the corner shop." },
+      { "text": "There's a dépanneur on every second corner in Montreal.", "translation": "There's a convenience store on every other corner in Montreal." }
+    ],
+    "origin": {
+      "etymology": "From French dépanner, 'to help out of a fix' — the shop that gets you out of trouble. Used in English by Montrealers with no sense of switching languages, which is characteristic of Quebec English generally.",
+      "sources": []
+    },
+    "relatedTerms": ["canadian/poutine", "canadian/two-four"],
+    "variants": ["dep"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "two-four",
+    "term": "two-four",
+    "partOfSpeech": ["noun"],
+    "register": "informal",
+    "categories": ["food-drink", "partying"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "A case of twenty-four beers." }
+    ],
+    "examples": [
+      { "text": "Pick up a two-four on your way to the cottage.", "translation": "Pick up a case of twenty-four beers on your way to the cottage." },
+      { "text": "We're set — there's a two-four in the trunk.", "translation": "We're sorted — there's a case of beer in the boot." }
+    ],
+    "origin": {
+      "etymology": "The May long weekend, officially Victoria Day, is widely known as the May two-four — a pun on the date falling near 24 May and on the case of beer traditionally consumed over it.",
+      "sources": []
+    },
+    "relatedTerms": ["canadian/mickey", "canadian/depanneur", "canadian/give-er"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "mickey",
+    "term": "mickey",
+    "partOfSpeech": ["noun"],
+    "register": "informal",
+    "categories": ["food-drink"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "A 375ml bottle of spirits — the flat, curved one that fits in a pocket. A twenty-sixer is the larger 750ml bottle." }
+    ],
+    "examples": [
+      { "text": "Someone smuggled a mickey into the arena.", "translation": "Someone smuggled a hip flask of spirits into the arena." },
+      { "text": "Just a mickey, we're not staying long.", "translation": "Just a small bottle, we're not staying long." }
+    ],
+    "relatedTerms": ["canadian/two-four", "canadian/depanneur"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "keener",
+    "term": "keener",
+    "partOfSpeech": ["noun"],
+    "register": "informal",
+    "categories": ["people"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Someone conspicuously eager — the student who answers every question, the colleague who volunteers first. Mildly mocking, but rarely hostile." }
+    ],
+    "examples": [
+      { "text": "She's a total keener, she'd read the whole syllabus before week one.", "translation": "She's a real eager beaver, she'd read the whole syllabus before the first week." },
+      { "text": "Don't be such a keener.", "translation": "Don't be so over-enthusiastic." }
+    ],
+    "relatedTerms": ["canadian/chirp", "canadian/hoser"],
+    "synonyms": ["eager beaver", "suck-up"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "hoser",
+    "term": "hoser",
+    "partOfSpeech": ["noun"],
+    "register": "dated",
+    "categories": ["insults", "people"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "An unsophisticated, beer-drinking, plaid-wearing man. Largely a comic stereotype rather than live vocabulary — Canadians use it about the stereotype, not about each other." }
+    ],
+    "examples": [
+      { "text": "They played it up like a couple of hosers.", "translation": "They hammed up the unsophisticated Canadian stereotype." },
+      { "text": "Take off, you hoser.", "translation": "Get lost, you idiot.", "context": "A direct quotation from the comedy sketch that made the word famous. Saying it straight is a joke in itself." }
+    ],
+    "origin": {
+      "etymology": "Popularised entirely by the 'Great White North' sketches of the early 1980s. Competing explanations — losing hockey teams hosing down the rink, siphoning petrol with a hose — are folk etymology attached after the fact.",
+      "firstAttested": "1980s",
+      "sources": []
+    },
+    "relatedTerms": ["canadian/keener", "canadian/eh"],
+    "usageWarning": ["context-dependent"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "chirp",
+    "term": "chirp",
+    "partOfSpeech": ["verb", "noun"],
+    "register": "informal",
+    "categories": ["discourse", "insults"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "To trash-talk or needle someone, especially in sport. A chirp is a single such remark." }
+    ],
+    "examples": [
+      { "text": "He chirped the goalie all game.", "translation": "He trash-talked the goalkeeper the whole game." },
+      { "text": "The chirps from the bench were relentless.", "translation": "The heckling from the bench was relentless." }
+    ],
+    "origin": {
+      "etymology": "Straight out of hockey, which supplies a large share of Canadian informal vocabulary. The image is of persistent, irritating birdsong.",
+      "sources": []
+    },
+    "relatedTerms": ["canadian/beauty", "canadian/give-er", "canadian/keener"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "beauty",
+    "term": "beauty",
+    "partOfSpeech": ["noun", "adjective", "interjection"],
+    "register": "informal",
+    "categories": ["approval", "people"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "A thoroughly good person; a great sort. 'He's a beauty.'" },
+      { "text": "As an exclamation: excellent, perfect." }
+    ],
+    "examples": [
+      { "text": "Dave's a beauty, he'll drive you.", "translation": "Dave's a great guy, he'll give you a lift." },
+      { "text": "—I got us tickets. —Beauty.", "translation": "'I got us tickets.' 'Brilliant.'" }
+    ],
+    "origin": {
+      "etymology": "Another hockey-room word, carried into general use by the sport's dominance in Canadian social life.",
+      "sources": []
+    },
+    "relatedTerms": ["canadian/chirp", "canadian/give-er", "canadian/eh"],
+    "synonyms": ["beaut"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "give-er",
+    "term": "give'r",
+    "partOfSpeech": ["phrase", "verb"],
+    "register": "informal",
+    "categories": ["discourse", "emotion"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "pronunciation": { "respelling": "GIV-er" },
+    "definitions": [
+      { "text": "To go all out; to commit fully to something. Also used as an imperative: give'r!" }
+    ],
+    "examples": [
+      { "text": "Only twenty minutes left — give'r.", "translation": "Only twenty minutes left — go all out." },
+      { "text": "They gave'r all weekend.", "translation": "They went at it full tilt all weekend." }
+    ],
+    "relatedTerms": ["canadian/beauty", "canadian/chirp", "canadian/two-four"],
+    "synonyms": ["send it"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "klick",
+    "term": "klick",
+    "partOfSpeech": ["noun"],
+    "register": "informal",
+    "categories": ["everyday"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "A kilometre. Also used for kilometres per hour: doing a hundred klicks." }
+    ],
+    "examples": [
+      { "text": "It's about forty klicks up the highway.", "translation": "It's about forty kilometres up the highway." },
+      { "text": "He was doing a hundred and twenty klicks in a hundred zone.", "translation": "He was doing 120 km/h in a 100 zone." }
+    ],
+    "origin": {
+      "etymology": "Military in origin and common across several armed forces, but general civilian vocabulary in Canada in a way it is not elsewhere.",
+      "sources": []
+    },
+    "relatedTerms": ["canadian/gitch", "canadian/parkade"],
+    "variants": ["click"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "parkade",
+    "term": "parkade",
+    "partOfSpeech": ["noun"],
+    "register": "regional",
+    "categories": ["everyday"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "region": "Prairies",
+    "definitions": [
+      { "text": "A multi-storey car park. Standard in Western Canada; Ontario tends to say parking garage." }
+    ],
+    "examples": [
+      { "text": "Leave the car in the parkade on 8th.", "translation": "Leave the car in the multi-storey on 8th." },
+      { "text": "The parkade fills up before nine.", "translation": "The car park fills up before nine." }
+    ],
+    "relatedTerms": ["canadian/klick", "canadian/gitch"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "gitch",
+    "term": "gitch",
+    "partOfSpeech": ["noun"],
+    "register": "regional",
+    "categories": ["everyday"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "region": "Prairies",
+    "definitions": [
+      { "text": "Underwear, usually men's. Prairie vocabulary; gonch is the Alberta and British Columbia variant." }
+    ],
+    "examples": [
+      { "text": "Wandering round the house in his gitch.", "translation": "Wandering round the house in his underwear." },
+      { "text": "Pack some clean gitch.", "translation": "Pack some clean underwear." }
+    ],
+    "origin": {
+      "etymology": "Likely from Ukrainian or Polish, reflecting the Central and Eastern European settlement of the Prairie provinces — one of the clearest traces of that migration in Canadian English.",
+      "sources": []
+    },
+    "relatedTerms": ["canadian/parkade", "canadian/toque"],
+    "synonyms": ["gonch", "ginch"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "runners",
+    "term": "runners",
+    "partOfSpeech": ["noun"],
+    "register": "colloquial",
+    "categories": ["everyday"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Trainers; sneakers. The default Canadian word, distinct from both American 'sneakers' and British 'trainers'." }
+    ],
+    "examples": [
+      { "text": "Take your runners off at the door.", "translation": "Take your trainers off at the door.", "context": "Removing shoes indoors is close to universal in Canada, snow being the reason." },
+      { "text": "I need new runners before the season starts.", "translation": "I need new trainers before the season starts." }
+    ],
+    "relatedTerms": ["canadian/toque", "canadian/gitch"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "washroom",
+    "term": "washroom",
+    "partOfSpeech": ["noun"],
+    "register": "colloquial",
+    "categories": ["everyday"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "A public toilet. The standard polite Canadian term, where Americans say restroom and Britons say the loo or the toilets." }
+    ],
+    "examples": [
+      { "text": "Where's the washroom?", "translation": "Where's the toilet?" },
+      { "text": "The washrooms are down the hall on the left.", "translation": "The toilets are down the hall on the left." }
+    ],
+    "relatedTerms": ["canadian/runners", "canadian/parkade"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "pop",
+    "term": "pop",
+    "partOfSpeech": ["noun"],
+    "register": "colloquial",
+    "categories": ["food-drink"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "A fizzy soft drink. The default term across most of Canada; 'soda' marks you as American or as a Montrealer." }
+    ],
+    "examples": [
+      { "text": "Do you want a pop with that?", "translation": "Would you like a soft drink with that?" },
+      { "text": "Grab some pop for the kids.", "translation": "Get some fizzy drinks for the children." }
+    ],
+    "relatedTerms": ["canadian/depanneur", "canadian/timmies"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "the-six",
+    "term": "the Six",
+    "partOfSpeech": ["noun"],
+    "register": "informal",
+    "categories": ["people", "everyday"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "region": "Toronto",
+    "definitions": [
+      { "text": "Toronto. Popularised by Drake in the mid-2010s, and used with varying degrees of irony by Torontonians themselves." }
+    ],
+    "examples": [
+      { "text": "He's been in the Six his whole life.", "translation": "He's lived in Toronto his whole life." },
+      { "text": "Back in the Six next week.", "translation": "Back in Toronto next week." }
+    ],
+    "origin": {
+      "etymology": "Usually explained by the six municipalities amalgamated into Toronto in 1998, or by the 416 and 647 area codes. Drake has given both accounts at different times.",
+      "firstAttested": "2015",
+      "sources": []
+    },
+    "relatedTerms": ["canadian/mans", "canadian/ting", "canadian/wasteman"],
+    "synonyms": ["T-Dot", "the 6ix"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "mans",
+    "term": "mans",
+    "partOfSpeech": ["noun"],
+    "register": "informal",
+    "categories": ["people", "discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "region": "Toronto",
+    "definitions": [
+      { "text": "Used as a first-person pronoun meaning 'I' or 'me' — 'mans is tired'. Also as a general term for a guy." }
+    ],
+    "examples": [
+      { "text": "Mans is not going out in this weather.", "translation": "I'm not going out in this weather." },
+      { "text": "Some mans tried to cut the line.", "translation": "Some guy tried to jump the queue." }
+    ],
+    "origin": {
+      "etymology": "Toronto slang, shaped by Caribbean and Somali speech patterns in the city's north and west ends. The self-referential use parallels 'man' in Jamaican Patois and in Multicultural London English.",
+      "sources": []
+    },
+    "relatedTerms": ["canadian/the-six", "canadian/ting", "canadian/wasteman"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "ting",
+    "term": "ting",
+    "partOfSpeech": ["noun"],
+    "register": "informal",
+    "categories": ["everyday", "romance"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "region": "Toronto",
+    "definitions": [
+      { "text": "A thing; a situation or a matter. 'What's the ting?'" },
+      { "text": "A romantic interest — someone you are seeing casually. 'That's my ting.'" }
+    ],
+    "examples": [
+      { "text": "What's the ting with Friday?", "translation": "What's the plan for Friday?" },
+      { "text": "She's his ting, apparently.", "translation": "Apparently they're seeing each other." }
+    ],
+    "origin": {
+      "etymology": "From Jamaican Patois pronunciation of 'thing'. Its route into Toronto English is direct rather than mediated, reflecting the size and age of the city's Caribbean community.",
+      "sources": []
+    },
+    "relatedTerms": ["canadian/mans", "canadian/the-six", "canadian/wasteman"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "wasteman",
+    "term": "wasteman",
+    "partOfSpeech": ["noun"],
+    "register": "informal",
+    "categories": ["insults", "people"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "region": "Toronto",
+    "definitions": [
+      { "text": "A useless person; someone with nothing going on and nothing to offer. A real insult, not a joke." }
+    ],
+    "examples": [
+      { "text": "Don't waste your time, he's a wasteman.", "translation": "Don't bother, he's a waste of space." },
+      { "text": "Acting like a wasteman in front of everyone.", "translation": "Embarrassing himself in front of everyone." }
+    ],
+    "origin": {
+      "etymology": "Shared with Multicultural London English, reflecting the parallel Caribbean influence on both cities' youth slang — the two varieties have converged more than either has with their national standards.",
+      "sources": []
+    },
+    "relatedTerms": ["canadian/mans", "canadian/ting", "canadian/the-six"],
+    "usageWarning": ["offensive"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "kerfuffle",
+    "term": "kerfuffle",
+    "partOfSpeech": ["noun"],
+    "register": "colloquial",
+    "categories": ["everyday"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "A commotion or fuss, usually over something minor. Common in Canada and Britain alike, and notably mild-mannered — it downgrades whatever it describes." }
+    ],
+    "examples": [
+      { "text": "There was a bit of a kerfuffle about the seating.", "translation": "There was a minor fuss about the seating." },
+      { "text": "Let's not make a kerfuffle out of it.", "translation": "Let's not make a fuss about it." }
+    ],
+    "origin": {
+      "etymology": "From Scots curfuffle, itself from Gaelic car ('twist') plus a Scots intensifier.",
+      "sources": []
+    },
+    "relatedTerms": ["canadian/eh", "canadian/beauty"],
+    "alsoUsedIn": ["british"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "canuck",
+    "term": "Canuck",
+    "partOfSpeech": ["noun"],
+    "register": "informal",
+    "categories": ["people"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "A Canadian. Used proudly by Canadians about themselves — it is a hockey team name and a wartime cartoon hero — though it has been used as a slur by outsiders." }
+    ],
+    "examples": [
+      { "text": "A few Canucks in the crowd, by the sound of it.", "translation": "There are a few Canadians in the crowd, by the sound of it." },
+      { "text": "Proud Canuck, born and raised.", "translation": "A proud Canadian, born and raised." }
+    ],
+    "origin": {
+      "etymology": "In use since the 1830s; origin uncertain, with proposals ranging from Hawaiian to Iroquoian sources. The reclamation is thorough — Johnny Canuck was Canada's national personification long before the Vancouver hockey team took the name.",
+      "firstAttested": "1830s",
+      "sources": []
+    },
+    "relatedTerms": ["canadian/hoser", "canadian/eh"],
+    "usageWarning": ["context-dependent"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "the-states",
+    "term": "the States",
+    "partOfSpeech": ["noun"],
+    "register": "colloquial",
+    "categories": ["everyday"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "The United States. Canadians say 'the States' far more often than 'America' or 'the US', and going down south means crossing the border, not heading for the tropics." }
+    ],
+    "examples": [
+      { "text": "We're driving down to the States for the weekend.", "translation": "We're driving to the United States for the weekend." },
+      { "text": "It's cheaper in the States.", "translation": "It's cheaper in the United States." }
+    ],
+    "relatedTerms": ["canadian/canuck", "canadian/klick"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "cottage",
+    "term": "cottage",
+    "partOfSpeech": ["noun"],
+    "register": "colloquial",
+    "categories": ["everyday"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "region": "Ontario",
+    "definitions": [
+      { "text": "A holiday house on a lake. Going to the cottage is a summer institution in Ontario; Quebec says chalet and Western Canada says cabin, for the same thing." }
+    ],
+    "examples": [
+      { "text": "We're up at the cottage most weekends in July.", "translation": "We're at the lake house most weekends in July." },
+      { "text": "Cottage traffic on the 400 is brutal on Fridays.", "translation": "Holiday-house traffic on Highway 400 is terrible on Fridays." }
+    ],
+    "relatedTerms": ["canadian/two-four", "canadian/mickey", "canadian/klick"],
+    "synonyms": ["chalet", "camp", "cabin"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "hydro",
+    "term": "hydro",
+    "partOfSpeech": ["noun"],
+    "register": "colloquial",
+    "categories": ["everyday", "money"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Electricity, and specifically the electricity bill. The hydro's out means the power has gone." }
+    ],
+    "examples": [
+      { "text": "The hydro bill doubled this winter.", "translation": "The electricity bill doubled this winter." },
+      { "text": "Hydro's been out since the storm.", "translation": "The power has been off since the storm." }
+    ],
+    "origin": {
+      "etymology": "From hydroelectricity, which supplies the great majority of power in Ontario, Quebec, Manitoba and British Columbia. Provincial utilities are named accordingly — Hydro One, Hydro-Québec — and the word for the source became the word for the service.",
+      "sources": []
+    },
+    "relatedTerms": ["canadian/cottage", "canadian/loonie"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "freezies",
+    "term": "freezies",
+    "partOfSpeech": ["noun"],
+    "register": "colloquial",
+    "categories": ["food-drink"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Flavoured ice in a long plastic tube, frozen at home. Called ice pops or freeze pops elsewhere." }
+    ],
+    "examples": [
+      { "text": "There's freezies in the deep freeze.", "translation": "There are ice pops in the freezer." },
+      { "text": "Every kid on the street had a freezie.", "translation": "Every child on the street had an ice pop." }
+    ],
+    "relatedTerms": ["canadian/pop", "canadian/timbits"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "garburator",
+    "term": "garburator",
+    "partOfSpeech": ["noun"],
+    "register": "colloquial",
+    "categories": ["everyday"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "A waste disposal unit fitted under the kitchen sink. Called a garbage disposal in the US and almost unknown in Britain." }
+    ],
+    "examples": [
+      { "text": "Don't put bones down the garburator.", "translation": "Don't put bones in the waste disposal." },
+      { "text": "The garburator's jammed again.", "translation": "The waste disposal is blocked again." }
+    ],
+    "origin": {
+      "etymology": "A blend of garbage and incinerator, originally a trade name and now the general Canadian word.",
+      "sources": []
+    },
+    "relatedTerms": ["canadian/washroom", "canadian/parkade"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "serviette",
+    "term": "serviette",
+    "partOfSpeech": ["noun"],
+    "register": "colloquial",
+    "categories": ["everyday", "food-drink"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "pronunciation": { "respelling": "ser-vee-ET" },
+    "definitions": [
+      { "text": "A paper napkin. The French borrowing is ordinary Canadian English, where American English says napkin throughout." }
+    ],
+    "examples": [
+      { "text": "Could we get some serviettes?", "translation": "Could we have some napkins?" },
+      { "text": "There's serviettes in the glovebox.", "translation": "There are napkins in the glovebox." }
+    ],
+    "relatedTerms": ["canadian/depanneur", "canadian/poutine"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "chesterfield",
+    "term": "chesterfield",
+    "partOfSpeech": ["noun"],
+    "register": "dated",
+    "categories": ["everyday"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "A sofa. Once the standard Canadian word and now genuinely receding — mostly used by speakers over sixty, with couch having taken over." }
+    ],
+    "examples": [
+      { "text": "Grandma still calls it the chesterfield.", "translation": "Grandma still calls the sofa a chesterfield." },
+      { "text": "He fell asleep on the chesterfield.", "translation": "He fell asleep on the sofa." }
+    ],
+    "origin": {
+      "etymology": "From a specific style of buttoned leather sofa named for an Earl of Chesterfield. Canada generalised the brand-adjacent term to all sofas; the reversal back to 'couch' over the last forty years is one of the better-documented changes in Canadian English.",
+      "sources": []
+    },
+    "relatedTerms": ["canadian/garburator", "canadian/serviette"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "bunnyhug",
+    "term": "bunnyhug",
+    "partOfSpeech": ["noun"],
+    "register": "regional",
+    "categories": ["everyday"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "region": "Prairies",
+    "definitions": [
+      { "text": "A hooded sweatshirt. Confined almost entirely to Saskatchewan, where it is the ordinary word and 'hoodie' sounds imported." }
+    ],
+    "examples": [
+      { "text": "Grab a bunnyhug, it'll cool off tonight.", "translation": "Take a hoodie, it'll get cold tonight." },
+      { "text": "Only in Saskatchewan do they call it a bunnyhug.", "translation": "Only in Saskatchewan is a hoodie called a bunnyhug." }
+    ],
+    "origin": {
+      "etymology": "Origin unknown, and locally something of a point of pride — it is among the most geographically restricted words in Canadian English, and Saskatchewanians are well aware of it.",
+      "sources": []
+    },
+    "relatedTerms": ["canadian/gitch", "canadian/parkade", "canadian/toque"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "jam-buster",
+    "term": "jambuster",
+    "partOfSpeech": ["noun"],
+    "register": "regional",
+    "categories": ["food-drink"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "region": "Prairies",
+    "definitions": [
+      { "text": "A jam-filled doughnut. Manitoba's word for it." }
+    ],
+    "examples": [
+      { "text": "Two jambusters and a coffee.", "translation": "Two jam doughnuts and a coffee." },
+      { "text": "Nobody outside Manitoba knows what a jambuster is.", "translation": "Nobody outside Manitoba recognises the word jambuster." }
+    ],
+    "relatedTerms": ["canadian/timbits", "canadian/bunnyhug"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "screech",
+    "term": "screech",
+    "partOfSpeech": ["noun"],
+    "register": "regional",
+    "categories": ["food-drink"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "region": "Atlantic Canada",
+    "definitions": [
+      { "text": "A strong Newfoundland rum. Being 'screeched in' is a tourist ceremony involving a shot of it and kissing a cod." }
+    ],
+    "examples": [
+      { "text": "They screeched him in at the pub in St John's.", "translation": "They put him through the Newfoundland initiation ceremony at the pub in St John's." },
+      { "text": "One shot of screech was plenty.", "translation": "One shot of that rum was more than enough." }
+    ],
+    "origin": {
+      "etymology": "Reportedly named for the sound made by an American serviceman who drank it unprepared during the Second World War. The story is repeated locally with obvious enjoyment and is not verifiable.",
+      "sources": []
+    },
+    "relatedTerms": ["canadian/mickey", "canadian/by"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "by",
+    "term": "b'y",
+    "partOfSpeech": ["noun", "interjection"],
+    "register": "regional",
+    "categories": ["greetings", "discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "region": "Atlantic Canada",
+    "pronunciation": { "respelling": "BY, rhymes with eye" },
+    "definitions": [
+      { "text": "'Boy', used in Newfoundland as a general address term regardless of the addressee's age or, frequently, gender. 'Yes b'y' is the province's most recognisable phrase, and means anything from genuine agreement to flat disbelief." }
+    ],
+    "examples": [
+      { "text": "Yes b'y, that's some good.", "translation": "Oh yes, that's really good." },
+      { "text": "—I walked the whole way. —Yes b'y.", "translation": "'I walked the whole way.' 'Sure you did.'", "context": "Deadpan disbelief. The same two words as sincere agreement." }
+    ],
+    "relatedTerms": ["canadian/screech", "canadian/eh"],
+    "usageWarning": ["context-dependent"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "snowbird",
+    "term": "snowbird",
+    "partOfSpeech": ["noun"],
+    "register": "colloquial",
+    "categories": ["people"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "A retired Canadian who spends the winter in Florida, Arizona or Mexico and returns north in spring." }
+    ],
+    "examples": [
+      { "text": "My parents are snowbirds now, six months in Florida.", "translation": "My parents winter in Florida now, six months a year." },
+      { "text": "The snowbirds head south in November.", "translation": "The winter migrants leave for the south in November." }
+    ],
+    "relatedTerms": ["canadian/the-states", "canadian/toque"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "out-for-a-rip",
+    "term": "out for a rip",
+    "partOfSpeech": ["phrase", "idiom"],
+    "register": "informal",
+    "categories": ["partying", "everyday"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Out for a drive or a ride purely for the enjoyment of it — on a snowmobile, a quad, a motorbike or in a car." }
+    ],
+    "examples": [
+      { "text": "We're out for a rip, back in an hour.", "translation": "We're going for a drive, back in an hour." },
+      { "text": "Nice night for a rip.", "translation": "Nice night for a drive." }
+    ],
+    "relatedTerms": ["canadian/give-er", "canadian/beauty", "canadian/cottage"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "dart",
+    "term": "dart",
+    "partOfSpeech": ["noun"],
+    "register": "informal",
+    "categories": ["everyday"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "A cigarette." }
+    ],
+    "examples": [
+      { "text": "Going out for a dart, back in five.", "translation": "Going out for a cigarette, back in five minutes." },
+      { "text": "Can I bum a dart off you?", "translation": "Can I have a cigarette?" }
+    ],
+    "relatedTerms": ["canadian/mickey", "canadian/two-four"],
+    "synonyms": ["smoke"],
+    "reviewedBy": "Editorial team"
+  }
+]

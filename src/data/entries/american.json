@@ -1,0 +1,1157 @@
+[
+  {
+    "slug": "bet",
+    "term": "bet",
+    "partOfSpeech": ["interjection"],
+    "register": "informal",
+    "categories": ["discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Okay; got it; sounds good. A one-word confirmation." },
+      { "text": "Said with a rising, challenging tone: 'oh yeah? prove it.'", "note": "Same word, opposite functions. Intonation carries the whole distinction." }
+    ],
+    "examples": [
+      { "text": "—Meet me at seven. —Bet.", "translation": "'Meet me at seven.' 'Got it.'" },
+      { "text": "—I could finish this in an hour. —Bet.", "translation": "'I could finish this in an hour.' 'Go on then, prove it.'" }
+    ],
+    "origin": {
+      "etymology": "From AAVE, and short for 'you bet' or an implied wager. It reached the wider mainstream through social platforms in the late 2010s.",
+      "sources": []
+    },
+    "relatedTerms": ["american/say-less", "american/no-cap", "american/word"],
+    "synonyms": ["say less", "for sure"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "no-cap",
+    "term": "no cap",
+    "partOfSpeech": ["phrase"],
+    "register": "informal",
+    "categories": ["discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "No lie; I'm serious. Appended to a statement to vouch for it." },
+      { "text": "Capping, on its own, means lying: 'you're capping'." }
+    ],
+    "examples": [
+      { "text": "That's the best pizza in the city, no cap.", "translation": "That's genuinely the best pizza in the city." },
+      { "text": "He's capping, he wasn't even there.", "translation": "He's lying, he wasn't even there." }
+    ],
+    "origin": {
+      "etymology": "From AAVE, where 'to cap' has meant to boast or exaggerate since at least the mid-20th century. The cap emoji did a great deal to spread the current form.",
+      "sources": []
+    },
+    "relatedTerms": ["american/bet", "american/deadass", "american/facts"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "deadass",
+    "term": "deadass",
+    "partOfSpeech": ["adverb", "adjective"],
+    "register": "informal",
+    "categories": ["discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "region": "Northeast",
+    "definitions": [
+      { "text": "Seriously; for real. Both as an intensifier and as a standalone challenge: 'deadass?'" }
+    ],
+    "examples": [
+      { "text": "I'm deadass about to quit.", "translation": "I'm seriously about to quit." },
+      { "text": "—They cancelled it. —Deadass?", "translation": "'They cancelled it.' 'Are you serious?'" }
+    ],
+    "origin": {
+      "etymology": "New York City, strongly associated with the outer boroughs. It travelled nationally through social platforms but still reads as a New York word.",
+      "sources": []
+    },
+    "relatedTerms": ["american/no-cap", "american/bet", "american/facts"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "facts",
+    "term": "facts",
+    "partOfSpeech": ["interjection"],
+    "register": "informal",
+    "categories": ["discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Agreed; that's exactly right. A one-word endorsement of what was just said." }
+    ],
+    "examples": [
+      { "text": "—Rent in this city is out of control. —Facts.", "translation": "'Rent in this city is out of control.' 'Absolutely.'" },
+      { "text": "Facts, I was thinking the same thing.", "translation": "Exactly, I was thinking the same thing." }
+    ],
+    "relatedTerms": ["american/no-cap", "american/word", "american/bet"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "word",
+    "term": "word",
+    "partOfSpeech": ["interjection"],
+    "register": "informal",
+    "categories": ["discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Agreed; I hear you. An acknowledgement." },
+      { "text": "As a question — 'word?' — it asks whether the speaker is serious." }
+    ],
+    "examples": [
+      { "text": "—I'm heading out early. —Word.", "translation": "'I'm heading out early.' 'Alright.'" },
+      { "text": "—She got the job. —Word?", "translation": "'She got the job.' 'Really?'" }
+    ],
+    "origin": {
+      "etymology": "From AAVE, originally the fuller 'word is bond' — a statement backed by one's honour. It has been in general use since the 1980s and now sounds slightly of that era.",
+      "sources": []
+    },
+    "relatedTerms": ["american/facts", "american/bet"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "say-less",
+    "term": "say less",
+    "partOfSpeech": ["phrase"],
+    "register": "informal",
+    "categories": ["discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "You don't have to explain further, I'm in. Signals immediate agreement — the opposite of asking someone to be quiet." }
+    ],
+    "examples": [
+      { "text": "—There's free food. —Say less.", "translation": "'There's free food.' 'I'm there.'" },
+      { "text": "Say less, I'll be there in ten.", "translation": "No need to explain, I'll be there in ten minutes." }
+    ],
+    "relatedTerms": ["american/bet", "american/facts"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "lowkey",
+    "term": "lowkey",
+    "partOfSpeech": ["adverb"],
+    "register": "informal",
+    "categories": ["discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Slightly; secretly; a bit. Hedges an admission the speaker is half-embarrassed by: 'I lowkey want to leave'." },
+      { "text": "Its opposite highkey means openly and emphatically." }
+    ],
+    "examples": [
+      { "text": "I lowkey miss the old office.", "translation": "I sort of miss the old office, though I don't want to make a thing of it." },
+      { "text": "Highkey the best thing I've eaten all year.", "translation": "Unambiguously the best thing I've eaten all year." }
+    ],
+    "relatedTerms": ["american/highkey", "american/vibe", "american/mid"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "highkey",
+    "term": "highkey",
+    "partOfSpeech": ["adverb"],
+    "register": "informal",
+    "categories": ["discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Openly, very much, without hedging. Formed as a deliberate counterpart to lowkey." }
+    ],
+    "examples": [
+      { "text": "I'm highkey excited about this.", "translation": "I'm very openly excited about this." },
+      { "text": "That show is highkey overrated.", "translation": "That show is flat-out overrated." }
+    ],
+    "relatedTerms": ["american/lowkey", "american/mid"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "vibe",
+    "term": "vibe",
+    "partOfSpeech": ["noun", "verb"],
+    "register": "informal",
+    "categories": ["discourse", "emotion"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "The feeling or atmosphere of a person, place or thing. 'The vibe was off.'" },
+      { "text": "To vibe: to get on well, or to enjoy something. 'We vibe', 'I'm vibing with this album'." },
+      { "text": "A vibe check is an informal assessment of someone's mood or of a situation's atmosphere." }
+    ],
+    "examples": [
+      { "text": "The vibe in that place is immaculate.", "translation": "The atmosphere in that place is perfect." },
+      { "text": "We vibed immediately.", "translation": "We hit it off straight away." }
+    ],
+    "origin": {
+      "etymology": "Clipped from 'vibrations' in 1960s counterculture and revived, with far broader grammar, in the 2010s. It now functions as noun, verb and adjective.",
+      "sources": []
+    },
+    "relatedTerms": ["american/lowkey", "american/mid", "american/hits-different"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "mid",
+    "term": "mid",
+    "partOfSpeech": ["adjective"],
+    "register": "informal",
+    "categories": ["insults", "everyday"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Mediocre; unimpressive. Not bad enough to be interesting — the dismissal is in the shrug." }
+    ],
+    "examples": [
+      { "text": "The sequel was honestly mid.", "translation": "The sequel was honestly mediocre." },
+      { "text": "Overpriced and mid.", "translation": "Overpriced and thoroughly average." }
+    ],
+    "relatedTerms": ["american/vibe", "american/highkey", "american/hits-different"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "hits-different",
+    "term": "hits different",
+    "partOfSpeech": ["phrase"],
+    "register": "informal",
+    "categories": ["approval", "emotion"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Affects you in a particular, heightened way — usually because of timing or context rather than the thing itself." }
+    ],
+    "examples": [
+      { "text": "Coffee hits different when it's raining.", "translation": "Coffee is somehow better when it's raining." },
+      { "text": "That song hits different now.", "translation": "That song means something else to me now." }
+    ],
+    "relatedTerms": ["american/vibe", "american/mid", "american/slaps"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "slaps",
+    "term": "slaps",
+    "partOfSpeech": ["verb"],
+    "register": "informal",
+    "categories": ["approval"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Of music: is excellent. 'This track slaps.' Extended to food and, increasingly, to anything good." }
+    ],
+    "examples": [
+      { "text": "The whole album slaps.", "translation": "The whole album is excellent." },
+      { "text": "This sandwich genuinely slaps.", "translation": "This sandwich is genuinely great." }
+    ],
+    "relatedTerms": ["american/hits-different", "american/fire", "american/mid"],
+    "synonyms": ["bangs", "goes hard"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "fire",
+    "term": "fire",
+    "partOfSpeech": ["adjective"],
+    "register": "informal",
+    "categories": ["approval"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Excellent, outstanding. 'That's fire.'" }
+    ],
+    "examples": [
+      { "text": "Your setlist was fire.", "translation": "Your setlist was excellent." },
+      { "text": "These tacos are fire.", "translation": "These tacos are outstanding." }
+    ],
+    "relatedTerms": ["american/slaps", "american/goat", "american/hits-different"],
+    "synonyms": ["lit", "hard"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "goat",
+    "term": "GOAT",
+    "partOfSpeech": ["noun"],
+    "register": "informal",
+    "categories": ["approval", "people"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "pronunciation": { "respelling": "GOHT, or spelled out" },
+    "definitions": [
+      { "text": "Greatest Of All Time. An acronym, usually of an athlete or musician, and the subject of endless argument." }
+    ],
+    "examples": [
+      { "text": "She's the GOAT and it isn't close.", "translation": "She's the greatest of all time and it isn't even a debate." },
+      { "text": "Thanks for covering my shift, you're a goat.", "translation": "Thanks for covering my shift, you're a legend.", "context": "Weakened, lower-case use — now just a strong thank-you." }
+    ],
+    "origin": {
+      "etymology": "Popularised by Muhammad Ali's camp in the 1990s and spread through sports media. The goat emoji did the rest.",
+      "firstAttested": "1990s",
+      "sources": []
+    },
+    "relatedTerms": ["american/fire", "american/slaps"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "salty",
+    "term": "salty",
+    "partOfSpeech": ["adjective"],
+    "register": "informal",
+    "categories": ["emotion"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Bitter or resentful, usually about something small, and usually in a way the speaker finds funny." }
+    ],
+    "examples": [
+      { "text": "He's still salty about losing that game.", "translation": "He's still sore about losing that game." },
+      { "text": "Don't get salty, it was a joke.", "translation": "Don't take offence, it was a joke." }
+    ],
+    "origin": {
+      "etymology": "Naval slang for irritable — 'salty' sailors were weathered and bad-tempered. The modern sense came through AAVE and then online gaming.",
+      "sources": []
+    },
+    "relatedTerms": ["american/pressed", "american/shade"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "pressed",
+    "term": "pressed",
+    "partOfSpeech": ["adjective"],
+    "register": "informal",
+    "categories": ["emotion"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Bothered, worked up, disproportionately invested in something. 'Why are you so pressed about it?'" }
+    ],
+    "examples": [
+      { "text": "You seem pressed about a game you didn't play in.", "translation": "You seem very worked up about a game you weren't in." },
+      { "text": "I'm not pressed, do what you want.", "translation": "I don't care either way, do what you like." }
+    ],
+    "relatedTerms": ["american/salty", "american/shade"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "shade",
+    "term": "shade",
+    "partOfSpeech": ["noun"],
+    "register": "informal",
+    "categories": ["discourse", "insults"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "A subtle, deniable insult. Throwing shade is criticising someone obliquely enough that they cannot easily object." }
+    ],
+    "examples": [
+      { "text": "She threw so much shade in that speech.", "translation": "She got in a lot of subtle digs in that speech." },
+      { "text": "No shade, but the first draft was better.", "translation": "No offence intended, but the first draft was better." }
+    ],
+    "origin": {
+      "etymology": "From Black and Latino ballroom culture in 1980s New York, documented in the film Paris Is Burning. Shade is distinguished from 'reading' by its indirectness — the art is in the deniability.",
+      "firstAttested": "1980s",
+      "sources": []
+    },
+    "relatedTerms": ["american/salty", "american/pressed", "american/tea"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "tea",
+    "term": "tea",
+    "partOfSpeech": ["noun"],
+    "register": "informal",
+    "categories": ["discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Gossip; the inside story. Spill the tea is to share it; what's the tea is to ask for it." }
+    ],
+    "examples": [
+      { "text": "Okay, spill the tea, what happened?", "translation": "Right, tell me everything, what happened?" },
+      { "text": "That's the tea and I'm not saying more.", "translation": "That's the whole story and I'll say no more." }
+    ],
+    "origin": {
+      "etymology": "Also from ballroom culture, where 'T' stood for truth. Its route into the mainstream ran through drag performance and then social media.",
+      "sources": []
+    },
+    "relatedTerms": ["american/shade", "american/receipts"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "receipts",
+    "term": "receipts",
+    "partOfSpeech": ["noun"],
+    "register": "informal",
+    "categories": ["discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Documentary proof of a claim — screenshots, messages, recordings. 'Post the receipts.'" }
+    ],
+    "examples": [
+      { "text": "If you're going to accuse him, bring receipts.", "translation": "If you're going to accuse him, bring proof." },
+      { "text": "She had receipts going back three years.", "translation": "She had documented proof going back three years." }
+    ],
+    "relatedTerms": ["american/tea", "american/no-cap"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "ghost",
+    "term": "ghost",
+    "partOfSpeech": ["verb"],
+    "register": "informal",
+    "categories": ["romance", "discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "To cut off all contact with someone abruptly and without explanation. Originally about dating and now used of friends, recruiters and clients too." }
+    ],
+    "examples": [
+      { "text": "We had three good dates and then he ghosted me.", "translation": "We had three good dates and then he vanished without a word." },
+      { "text": "The company ghosted me after the second interview.", "translation": "The company stopped responding entirely after the second interview." }
+    ],
+    "relatedTerms": ["american/situationship", "american/shade"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "situationship",
+    "term": "situationship",
+    "partOfSpeech": ["noun"],
+    "register": "informal",
+    "categories": ["romance"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "A romantic involvement that has not been defined and probably will not be — more than friends, less than a relationship, and usually unequally understood by the two people in it." }
+    ],
+    "examples": [
+      { "text": "It's not a relationship, it's a situationship.", "translation": "It's not a relationship, it's an undefined involvement." },
+      { "text": "Six months into a situationship and still no answers.", "translation": "Six months of an undefined involvement and still no clarity." }
+    ],
+    "origin": {
+      "etymology": "A blend of situation and relationship. Part of a cluster of 2010s dating coinages — ghosting, breadcrumbing, benching — that name behaviours the apps made common enough to need words for.",
+      "sources": []
+    },
+    "relatedTerms": ["american/ghost", "american/vibe"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "bougie",
+    "term": "bougie",
+    "partOfSpeech": ["adjective"],
+    "register": "informal",
+    "categories": ["people", "money"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "pronunciation": { "respelling": "BOO-zhee" },
+    "definitions": [
+      { "text": "Pretentiously upmarket; aspiring to luxury. Applied to tastes, places and people, usually with affectionate mockery." }
+    ],
+    "examples": [
+      { "text": "That's a very bougie grocery store.", "translation": "That's a very upmarket grocery store." },
+      { "text": "I'm feeling bougie, let's get the good cheese.", "translation": "I'm feeling fancy, let's buy the good cheese." }
+    ],
+    "origin": {
+      "etymology": "Clipped from bourgeois. Within AAVE it originally carried a pointed class critique of Black people seen as distancing themselves from their origins; the mainstream use has largely flattened that into 'fancy'.",
+      "sources": []
+    },
+    "relatedTerms": ["american/basic", "american/extra"],
+    "variants": ["boujee"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "basic",
+    "term": "basic",
+    "partOfSpeech": ["adjective"],
+    "register": "informal",
+    "categories": ["insults", "people"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Unoriginal; liking only mainstream things. A dismissal of someone's taste rather than their character — and one aimed disproportionately at young women, which is worth noticing." }
+    ],
+    "examples": [
+      { "text": "I know it's basic but I love it.", "translation": "I know it's an obvious choice but I love it.", "context": "Pre-emptive self-deprecation is now the most common use." },
+      { "text": "That playlist is so basic.", "translation": "That playlist is completely unoriginal." }
+    ],
+    "relatedTerms": ["american/bougie", "american/mid", "american/extra"],
+    "usageWarning": ["context-dependent"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "extra",
+    "term": "extra",
+    "partOfSpeech": ["adjective"],
+    "register": "informal",
+    "categories": ["people", "insults"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Over the top; doing far more than the occasion calls for. Can be a complaint or a compliment." }
+    ],
+    "examples": [
+      { "text": "A three-tier cake for a Tuesday is so extra.", "translation": "A three-tier cake on a Tuesday is completely over the top." },
+      { "text": "She's extra and we love her for it.", "translation": "She's dramatic and we adore her for it." }
+    ],
+    "relatedTerms": ["american/bougie", "american/basic", "american/doing-the-most"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "doing-the-most",
+    "term": "doing the most",
+    "partOfSpeech": ["phrase"],
+    "register": "informal",
+    "categories": ["insults", "discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Overdoing it; trying far too hard. Its counterpart, doing the least, means putting in no effort at all." }
+    ],
+    "examples": [
+      { "text": "Three outfit changes? You're doing the most.", "translation": "Three outfit changes? You're overdoing it." },
+      { "text": "He's doing the least and still getting credit.", "translation": "He's putting in no effort and still getting the credit." }
+    ],
+    "relatedTerms": ["american/extra", "american/pressed"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "sus",
+    "term": "sus",
+    "partOfSpeech": ["adjective"],
+    "register": "informal",
+    "categories": ["everyday"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Suspicious; not right. Of people, claims and situations." }
+    ],
+    "examples": [
+      { "text": "That email looks sus, don't click it.", "translation": "That email looks suspicious, don't click it." },
+      { "text": "Something about his story is sus.", "translation": "Something about his story doesn't add up." }
+    ],
+    "origin": {
+      "etymology": "A clipping of 'suspicious' long used in British police slang and in AAVE. Its explosion into global teenage vocabulary came from the game Among Us in 2020.",
+      "sources": []
+    },
+    "relatedTerms": ["american/sketchy", "american/no-cap"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "sketchy",
+    "term": "sketchy",
+    "partOfSpeech": ["adjective"],
+    "register": "informal",
+    "categories": ["everyday"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Unsafe, untrustworthy, of dubious quality. Of neighbourhoods, websites, food and people." }
+    ],
+    "examples": [
+      { "text": "That part of town gets sketchy after dark.", "translation": "That part of town gets unsafe after dark." },
+      { "text": "The wiring in this place is sketchy.", "translation": "The wiring in this place is unsound." }
+    ],
+    "relatedTerms": ["american/sus", "american/shady"],
+    "synonyms": ["shady", "sus"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "shady",
+    "term": "shady",
+    "partOfSpeech": ["adjective"],
+    "register": "informal",
+    "categories": ["people", "insults"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Dishonest or of questionable integrity. Where sketchy is about safety, shady is about character." }
+    ],
+    "examples": [
+      { "text": "That whole deal seemed shady to me.", "translation": "That whole deal seemed dishonest to me." },
+      { "text": "He's been acting shady all week.", "translation": "He's been behaving suspiciously all week." }
+    ],
+    "relatedTerms": ["american/sketchy", "american/sus", "american/shade"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "bail",
+    "term": "bail",
+    "partOfSpeech": ["verb"],
+    "register": "informal",
+    "categories": ["everyday", "discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "To leave abruptly, or to back out of a commitment. 'She bailed on dinner.'" }
+    ],
+    "examples": [
+      { "text": "I'm going to bail, I've got an early start.", "translation": "I'm going to head off, I've got an early morning." },
+      { "text": "Two people bailed at the last minute.", "translation": "Two people pulled out at the last minute." }
+    ],
+    "origin": {
+      "etymology": "From bailing out of an aircraft. The commitment sense came later and is now the more frequent one.",
+      "sources": []
+    },
+    "relatedTerms": ["american/ghost", "american/dip"],
+    "synonyms": ["dip", "flake"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "dip",
+    "term": "dip",
+    "partOfSpeech": ["verb"],
+    "register": "informal",
+    "categories": ["everyday"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "To leave, usually quickly and often without ceremony. 'Let's dip.'" }
+    ],
+    "examples": [
+      { "text": "This party's dead, let's dip.", "translation": "This party's flat, let's get out of here." },
+      { "text": "He dipped before anyone noticed.", "translation": "He slipped out before anyone noticed." }
+    ],
+    "relatedTerms": ["american/bail", "american/ghost"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "flake",
+    "term": "flake",
+    "partOfSpeech": ["verb", "noun"],
+    "register": "informal",
+    "categories": ["people", "insults"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "To cancel plans at the last minute, especially as a habit. A flake is someone who reliably does this." }
+    ],
+    "examples": [
+      { "text": "He flaked on us again.", "translation": "He cancelled on us again at the last minute." },
+      { "text": "She's a total flake, don't count on it.", "translation": "She's completely unreliable, don't count on it." }
+    ],
+    "relatedTerms": ["american/bail", "american/ghost"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "hang",
+    "term": "hang",
+    "partOfSpeech": ["verb", "noun"],
+    "register": "colloquial",
+    "categories": ["discourse", "people"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "To spend unstructured time with someone. 'Want to hang?'" },
+      { "text": "As a noun: a casual get-together. 'It's a low-key hang.'" }
+    ],
+    "examples": [
+      { "text": "We should hang sometime.", "translation": "We should spend some time together sometime." },
+      { "text": "It's just a small hang at my place.", "translation": "It's just a small informal gathering at my place." }
+    ],
+    "relatedTerms": ["american/kick-it", "american/vibe"],
+    "synonyms": ["hang out", "kick it"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "kick-it",
+    "term": "kick it",
+    "partOfSpeech": ["phrase", "verb"],
+    "register": "informal",
+    "categories": ["discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "To relax and spend time together with no particular plan." }
+    ],
+    "examples": [
+      { "text": "We're just going to kick it at his place.", "translation": "We're just going to hang out at his place." },
+      { "text": "Come kick it with us Saturday.", "translation": "Come hang out with us on Saturday." }
+    ],
+    "relatedTerms": ["american/hang", "american/vibe"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "yall",
+    "term": "y'all",
+    "partOfSpeech": ["noun"],
+    "register": "colloquial",
+    "categories": ["greetings", "discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "region": "South",
+    "definitions": [
+      { "text": "You, plural. Fills a genuine gap in standard English, which lost its second-person plural, and has spread far beyond the South for exactly that reason." },
+      { "text": "All y'all intensifies it, addressing every single member of a group." }
+    ],
+    "examples": [
+      { "text": "Are y'all coming to the thing tonight?", "translation": "Are you all coming to the event tonight?" },
+      { "text": "All y'all need to hear this.", "translation": "Every one of you needs to hear this." }
+    ],
+    "origin": {
+      "etymology": "Southern American English, with contributions from both Scots-Irish settlement patterns and AAVE. It has been adopted nationally in part because it is gender-neutral, unlike 'you guys'.",
+      "sources": []
+    },
+    "relatedTerms": ["american/fixin-to", "american/bless-your-heart"],
+    "synonyms": ["you guys", "yinz"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "fixin-to",
+    "term": "fixin' to",
+    "partOfSpeech": ["phrase"],
+    "register": "regional",
+    "categories": ["discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "region": "South",
+    "definitions": [
+      { "text": "About to; on the point of. Marks immediate future intention, and is a genuine grammatical construction rather than a colourful phrase." }
+    ],
+    "examples": [
+      { "text": "I'm fixin' to head out.", "translation": "I'm about to leave." },
+      { "text": "We were fixin' to call you.", "translation": "We were just about to call you." }
+    ],
+    "relatedTerms": ["american/yall", "american/bless-your-heart"],
+    "variants": ["finna"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "bless-your-heart",
+    "term": "bless your heart",
+    "partOfSpeech": ["phrase", "idiom"],
+    "register": "regional",
+    "categories": ["discourse", "insults"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "region": "South",
+    "definitions": [
+      { "text": "Genuine sympathy for someone's misfortune." },
+      { "text": "A polite expression of contempt or pity, delivered with a smile. 'He tried to fix it himself, bless his heart.'", "note": "Southerners distinguish the two effortlessly. Outsiders regularly miss the second and thank the speaker." }
+    ],
+    "examples": [
+      { "text": "You've been up since four? Bless your heart.", "translation": "You've been awake since four? You poor thing.", "context": "Sincere." },
+      { "text": "He thought that was a good idea, bless his heart.", "translation": "He thought that was a good idea, the poor fool.", "context": "Not sincere. The smile is part of the delivery." }
+    ],
+    "relatedTerms": ["american/yall", "american/fixin-to", "american/shade"],
+    "usageWarning": ["context-dependent"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "wicked",
+    "term": "wicked",
+    "partOfSpeech": ["adverb"],
+    "register": "regional",
+    "categories": ["discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "region": "Northeast",
+    "definitions": [
+      { "text": "Very, extremely. A New England intensifier: wicked good, wicked cold. Note that it modifies adjectives and is not itself one." }
+    ],
+    "examples": [
+      { "text": "That chowder is wicked good.", "translation": "That chowder is really good." },
+      { "text": "It's wicked cold out there.", "translation": "It's extremely cold out there." }
+    ],
+    "relatedTerms": ["american/deadass", "american/yall"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "jawn",
+    "term": "jawn",
+    "partOfSpeech": ["noun"],
+    "register": "regional",
+    "categories": ["everyday"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "region": "Northeast",
+    "definitions": [
+      { "text": "A universal noun substitute: any person, place, object or event. Philadelphia's most famous word, and genuinely remarkable — few languages have a noun this unrestricted." }
+    ],
+    "examples": [
+      { "text": "Hand me that jawn.", "translation": "Hand me that thing." },
+      { "text": "That jawn was packed last night.", "translation": "That place was packed last night." }
+    ],
+    "origin": {
+      "etymology": "Traced to 'joint' in New York usage, which reached Philadelphia in the 1970s and there lost all semantic restriction. Linguists study it precisely because it can substitute for almost any noun.",
+      "firstAttested": "1970s",
+      "sources": []
+    },
+    "relatedTerms": ["american/wicked", "american/deadass"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "hella",
+    "term": "hella",
+    "partOfSpeech": ["adverb", "adjective"],
+    "register": "regional",
+    "categories": ["discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "region": "West Coast",
+    "definitions": [
+      { "text": "Very; a lot of. Northern Californian, and a reliable regional marker — Bay Area speakers use it constantly and Southern Californians largely don't." }
+    ],
+    "examples": [
+      { "text": "It's hella far from here.", "translation": "It's a very long way from here." },
+      { "text": "There were hella people at the show.", "translation": "There were loads of people at the show." }
+    ],
+    "origin": {
+      "etymology": "From 'a hell of a', attested in the Bay Area from the 1970s. It has spread nationally but still carries a strong Northern California association.",
+      "sources": []
+    },
+    "relatedTerms": ["american/wicked", "american/lowkey"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "clutch",
+    "term": "clutch",
+    "partOfSpeech": ["adjective"],
+    "register": "informal",
+    "categories": ["approval"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Coming through exactly when it matters most. Of a person, a play or an object that saves the day at the critical moment." }
+    ],
+    "examples": [
+      { "text": "Bringing an umbrella was clutch.", "translation": "Bringing an umbrella turned out to be exactly right." },
+      { "text": "She's clutch under pressure.", "translation": "She delivers when it matters." }
+    ],
+    "origin": {
+      "etymology": "From sport — 'in the clutch' means at the decisive moment of a game. American slang draws on sporting vocabulary the way Australian draws on the outback.",
+      "sources": []
+    },
+    "relatedTerms": ["american/goat", "american/fire"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "sick",
+    "term": "sick",
+    "partOfSpeech": ["adjective"],
+    "register": "informal",
+    "categories": ["approval"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Excellent, impressive. Came out of skate and surf culture and is now general, though it reads slightly older than fire or slaps." }
+    ],
+    "examples": [
+      { "text": "That's a sick guitar.", "translation": "That's a great guitar." },
+      { "text": "He pulled off a sick trick.", "translation": "He landed an impressive trick." }
+    ],
+    "relatedTerms": ["american/fire", "american/slaps", "american/clutch"],
+    "alsoUsedIn": ["british"],
+    "usageWarning": ["context-dependent"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "bucks",
+    "term": "bucks",
+    "partOfSpeech": ["noun"],
+    "register": "colloquial",
+    "categories": ["money"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Dollars. 'Twenty bucks.' Entirely ordinary and used in contexts where the formal word would sound stiff." }
+    ],
+    "examples": [
+      { "text": "It was only fifteen bucks.", "translation": "It only cost fifteen dollars." },
+      { "text": "Can you spot me a couple bucks?", "translation": "Can you lend me a couple of dollars?" }
+    ],
+    "origin": {
+      "etymology": "From buckskin, a standard unit of trade on the American frontier — deer hides were exchanged as currency before coinage was widespread.",
+      "firstAttested": "18th century",
+      "sources": []
+    },
+    "relatedTerms": ["american/broke", "american/bougie"],
+    "synonyms": ["dollars"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "broke",
+    "term": "broke",
+    "partOfSpeech": ["adjective"],
+    "register": "colloquial",
+    "categories": ["money"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Having no money. Dead broke and flat broke intensify it." }
+    ],
+    "examples": [
+      { "text": "I'm broke until Friday.", "translation": "I've no money until Friday." },
+      { "text": "We were flat broke that whole summer.", "translation": "We had absolutely no money that whole summer." }
+    ],
+    "relatedTerms": ["american/bucks", "american/side-hustle"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "side-hustle",
+    "term": "side hustle",
+    "partOfSpeech": ["noun"],
+    "register": "colloquial",
+    "categories": ["money"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "A second source of income alongside a main job. Framed as entrepreneurial, though often it is simply a second job that wages have made necessary." }
+    ],
+    "examples": [
+      { "text": "Her side hustle makes more than her day job.", "translation": "Her second income stream earns more than her main job." },
+      { "text": "Everyone I know has a side hustle now.", "translation": "Everyone I know has a second income now." }
+    ],
+    "relatedTerms": ["american/broke", "american/bucks", "american/grind"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "grind",
+    "term": "grind",
+    "partOfSpeech": ["noun", "verb"],
+    "register": "informal",
+    "categories": ["money"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Relentless hard work, especially toward a goal. 'Back on the grind.'" },
+      { "text": "The daily grind: dull, repetitive work, which is the older and more sceptical sense.", "note": "The two senses pull in opposite directions — one celebrates the work, the other complains about it." }
+    ],
+    "examples": [
+      { "text": "Back on the grind Monday morning.", "translation": "Back to the hard work on Monday morning." },
+      { "text": "Tired of the daily grind.", "translation": "Fed up with the monotonous routine." }
+    ],
+    "relatedTerms": ["american/side-hustle", "american/broke"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "chill",
+    "term": "chill",
+    "partOfSpeech": ["adjective", "verb"],
+    "register": "colloquial",
+    "categories": ["discourse", "people"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Relaxed, easy-going. Of a person, a place or a plan: 'he's chill', 'a chill evening'." },
+      { "text": "To relax: 'we're just chilling'." },
+      { "text": "As a command: calm down. 'Chill.'" }
+    ],
+    "examples": [
+      { "text": "Her parents are pretty chill about it.", "translation": "Her parents are fairly relaxed about it." },
+      { "text": "We're just chilling at home tonight.", "translation": "We're just relaxing at home tonight." }
+    ],
+    "relatedTerms": ["american/hang", "american/kick-it", "american/vibe"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "dude",
+    "term": "dude",
+    "partOfSpeech": ["noun", "interjection"],
+    "register": "colloquial",
+    "categories": ["people", "greetings"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "A man; a guy. Increasingly used regardless of gender in direct address." },
+      { "text": "As an interjection carrying the whole emotional content of a sentence — 'Dude.' can mean astonishment, warning, disappointment or delight depending on delivery." }
+    ],
+    "examples": [
+      { "text": "Some dude left his keys at the bar.", "translation": "Some guy left his keys at the bar." },
+      { "text": "Dude. Look at this.", "translation": "Hey. Look at this." },
+      { "text": "Duuude, no way.", "translation": "Oh my god, no way.", "context": "Vowel length does the work here." }
+    ],
+    "origin": {
+      "etymology": "In the 1880s a dude was an over-dressed dandy — the sense survives in 'dude ranch', a place where city dudes played at being cowboys. Surfer and stoner culture reworked it into the present neutral term.",
+      "firstAttested": "1880s",
+      "sources": []
+    },
+    "relatedTerms": ["american/chill", "american/bro"],
+    "synonyms": ["bro", "man", "guy"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "bro",
+    "term": "bro",
+    "partOfSpeech": ["noun"],
+    "register": "informal",
+    "categories": ["people", "greetings"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Brother; a male friend, or any man in direct address." },
+      { "text": "Used sarcastically to a stranger who is being condescending — 'okay, bro' is not friendly." },
+      { "text": "A type: the fratty, gym-going, sports-watching young man. 'Bro culture' is always critical.", "note": "Which sense applies is set by tone and by whether the speaker knows the addressee." }
+    ],
+    "examples": [
+      { "text": "Thanks bro, I owe you.", "translation": "Thanks mate, I owe you one." },
+      { "text": "Okay bro, whatever you say.", "translation": "Sure thing, mate, whatever you say.", "context": "Dismissive. Unmistakable in speech." }
+    ],
+    "origin": {
+      "etymology": "Shortened from brother, with its modern spread owing much to AAVE. It has since generated a family of forms — bruh, bruv, brah — each with its own regional and social flavour.",
+      "sources": []
+    },
+    "relatedTerms": ["american/dude", "american/chill"],
+    "variants": ["bruh", "brah"],
+    "usageWarning": ["context-dependent"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "shoot-the-breeze",
+    "term": "shoot the breeze",
+    "partOfSpeech": ["phrase", "idiom"],
+    "register": "colloquial",
+    "categories": ["discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "To chat idly about nothing in particular." }
+    ],
+    "examples": [
+      { "text": "We sat on the porch shooting the breeze for an hour.", "translation": "We sat on the porch chatting aimlessly for an hour." },
+      { "text": "Just shooting the breeze, nothing important.", "translation": "Just idle chat, nothing important." }
+    ],
+    "relatedTerms": ["american/hang", "american/chill"],
+    "synonyms": ["chew the fat", "shoot the shit"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "ride-or-die",
+    "term": "ride or die",
+    "partOfSpeech": ["noun", "adjective"],
+    "register": "informal",
+    "categories": ["people", "romance"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Someone completely loyal who will stay with you through anything. Of a friend or a partner." }
+    ],
+    "examples": [
+      { "text": "She's been my ride or die since freshman year.", "translation": "She's been unshakeably loyal to me since first year." },
+      { "text": "That's a ride-or-die friendship.", "translation": "That's a friendship that survives anything." }
+    ],
+    "origin": {
+      "etymology": "From motorcycle culture by way of 1990s hip-hop, where the phrase described a partner who would ride along regardless of the danger.",
+      "firstAttested": "1990s",
+      "sources": []
+    },
+    "relatedTerms": ["american/bro", "american/goat"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "wild",
+    "term": "wild",
+    "partOfSpeech": ["adjective"],
+    "register": "informal",
+    "categories": ["emotion"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Remarkable, outrageous, hard to believe. Standing alone as a reaction — 'that's wild' — it is the default American response to any surprising story." }
+    ],
+    "examples": [
+      { "text": "They drove sixteen hours straight? That's wild.", "translation": "They drove sixteen hours without stopping? That's incredible." },
+      { "text": "Wild that nobody noticed for a week.", "translation": "It's astonishing that nobody noticed for a week." }
+    ],
+    "relatedTerms": ["american/hits-different", "american/deadass"],
+    "synonyms": ["insane", "crazy"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "cheugy",
+    "term": "cheugy",
+    "partOfSpeech": ["adjective"],
+    "register": "dated",
+    "categories": ["insults"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "pronunciation": { "respelling": "CHOO-gee" },
+    "definitions": [
+      { "text": "Out of date in a specific way: earnestly following trends that passed a few years ago. Coined in 2013 and briefly ubiquitous in 2021." }
+    ],
+    "examples": [
+      { "text": "That font choice is a little cheugy.", "translation": "That font choice is a few years out of date." },
+      { "text": "Calling things cheugy is itself pretty cheugy now.", "translation": "Using the word cheugy is itself now dated.", "context": "Included as an honest example of how fast internet slang expires. Its moment has passed." }
+    ],
+    "origin": {
+      "etymology": "Coined by a Beverly Hills student in 2013 and spread by TikTok in 2021. Its rise and fall inside a single year makes it a useful case study in slang lifecycles.",
+      "firstAttested": "2013",
+      "sources": []
+    },
+    "relatedTerms": ["american/basic", "american/mid"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "spill",
+    "term": "spill",
+    "partOfSpeech": ["verb"],
+    "register": "informal",
+    "categories": ["discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "To share information you have been holding back. Usually as a one-word imperative: 'spill'." }
+    ],
+    "examples": [
+      { "text": "Okay, spill — what did she say?", "translation": "Right, tell me — what did she say?" },
+      { "text": "He finally spilled after two drinks.", "translation": "He finally talked after two drinks." }
+    ],
+    "relatedTerms": ["american/tea", "american/receipts"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "canceled",
+    "term": "canceled",
+    "partOfSpeech": ["adjective", "verb"],
+    "register": "informal",
+    "categories": ["discourse", "people"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Publicly rejected after a controversy, with the aim of withdrawing support and attention. A genuinely contested term — what counts as being cancelled, and whether it happens at all, is politically loaded." },
+      { "text": "Used lightly and jokingly among friends: 'you're cancelled for that'." }
+    ],
+    "examples": [
+      { "text": "You put pineapple on it? You're cancelled.", "translation": "You put pineapple on it? I disown you.", "context": "Entirely joking, and now the more common use in everyday speech." },
+      { "text": "The debate over who actually gets cancelled never ends.", "translation": "The argument about whether cancellation is real is continuous." }
+    ],
+    "relatedTerms": ["american/receipts", "american/tea", "american/shade"],
+    "variants": ["cancelled"],
+    "usageWarning": ["context-dependent"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "ate",
+    "term": "ate",
+    "partOfSpeech": ["verb"],
+    "register": "informal",
+    "categories": ["approval"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Performed or executed something brilliantly. 'She ate that.' Often extended to 'ate and left no crumbs' for a flawless performance." }
+    ],
+    "examples": [
+      { "text": "She ate that performance.", "translation": "She absolutely nailed that performance." },
+      { "text": "Ate and left no crumbs.", "translation": "Did it perfectly, with nothing to criticise." }
+    ],
+    "origin": {
+      "etymology": "From Black and LGBTQ+ ballroom vocabulary, spread widely through drag performance and short-form video.",
+      "sources": []
+    },
+    "relatedTerms": ["american/slaps", "american/fire", "american/tea"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "let-him-cook",
+    "term": "let him cook",
+    "partOfSpeech": ["phrase", "idiom"],
+    "register": "informal",
+    "categories": ["discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Give them room to work — their plan may look strange but it will come good. Sometimes sincere, sometimes sarcastic about something clearly going wrong." }
+    ],
+    "examples": [
+      { "text": "Weird opening move, but let him cook.", "translation": "It's an odd opening move, but give him a chance." },
+      { "text": "He's cooking with this one.", "translation": "He's really onto something here." }
+    ],
+    "relatedTerms": ["american/ate", "american/goat", "american/clutch"],
+    "reviewedBy": "Editorial team"
+  }
+]

@@ -1,0 +1,171 @@
+---
+interface Props {
+  /** Nav-bar variant: shorter, no label, no autofocus. */
+  compact?: boolean;
+  /** Pre-fill from ?q= on the /search/ page. */
+  value?: string;
+  autofocus?: boolean;
+}
+
+const { compact = false, value = '', autofocus = false } = Astro.props;
+const id = compact ? 'q-nav' : 'q-main';
+---
+
+<!--
+  Progressive enhancement: this is a real GET form to /search/, so it works with
+  JavaScript disabled. The island below upgrades it to instant results.
+-->
+<form
+  action="/search/"
+  method="get"
+  role="search"
+  data-search-form
+  class="relative w-full"
+  autocomplete="off"
+>
+  <label for={id} class="sr-only">Search slang terms</label>
+  <svg
+    viewBox="0 0 24 24"
+    class:list={[
+      'pointer-events-none absolute top-1/2 left-4 size-5 -translate-y-1/2 text-ash',
+    ]}
+    fill="none"
+    stroke="currentColor"
+    stroke-width="2"
+    stroke-linecap="round"
+    aria-hidden="true"
+  >
+    <circle cx="11" cy="11" r="7"></circle>
+    <path d="m20 20-3.5-3.5"></path>
+  </svg>
+  <input
+    type="search"
+    id={id}
+    name="q"
+    value={value}
+    autofocus={autofocus}
+    placeholder={compact ? 'Search slang…' : 'Search a slang word, or a meaning…'}
+    data-search-input
+    aria-describedby={`${id}-hint`}
+    class:list={[
+      'focus-ring w-full rounded-full border border-transparent bg-surface-card pr-4 pl-11 text-ink placeholder:text-ash focus:border-ash focus:bg-canvas',
+      compact ? 'h-10 text-body-sm' : 'h-14 text-body-md',
+    ]}
+  />
+  <p id={`${id}-hint`} class="sr-only">
+    Results appear below as you type. Press Enter to open the full search page.
+  </p>
+
+  <!-- Live results panel, populated by the island. -->
+  <div
+    data-search-results
+    hidden
+    class="absolute inset-x-0 top-full z-50 mt-2 max-h-96 overflow-y-auto rounded-md border border-hairline bg-canvas py-2"
+  >
+  </div>
+</form>
+
+<script>
+  /**
+   * Instant search over a prebuilt index.
+   *
+   * The index is fetched once, on the first keystroke, and matched in memory.
+   * At ~430 entries this is faster than any library would be and costs no
+   * bundle. The result card deliberately renders only term / country / gloss —
+   * keeping it that narrow is what lets the index be swapped for per-country
+   * shards or Pagefind later without touching this file.
+   */
+  type Row = [term: string, countryAdj: string, flag: string, href: string, gloss: string];
+
+  let index: Row[] | null = null;
+  let loading: Promise<Row[]> | null = null;
+
+  function loadIndex(): Promise<Row[]> {
+    loading ??= fetch('/search-index.json')
+      .then((r) => r.json())
+      .then((rows: Row[]) => (index = rows))
+      .catch(() => (index = []));
+    return loading;
+  }
+
+  const norm = (s: string) =>
+    s
+      .toLowerCase()
+      .normalize('NFD')
+      .replace(/[̀-ͯ]/g, '');
+
+  function search(rows: Row[], raw: string): Row[] {
+    const q = norm(raw.trim());
+    if (!q) return [];
+    const starts: Row[] = [];
+    const contains: Row[] = [];
+    const inGloss: Row[] = [];
+    for (const row of rows) {
+      const term = norm(row[0]);
+      if (term.startsWith(q)) starts.push(row);
+      else if (term.includes(q)) contains.push(row);
+      else if (norm(row[4]).includes(q)) inGloss.push(row);
+      if (starts.length >= 10) break;
+    }
+    return [...starts, ...contains, ...inGloss].slice(0, 10);
+  }
+
+  const escapeHtml = (s: string) =>
+    s.replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' })[c]!);
+
+  function render(panel: HTMLElement, rows: Row[], query: string) {
+    if (!query.trim()) {
+      panel.hidden = true;
+      panel.innerHTML = '';
+      return;
+    }
+    panel.hidden = false;
+    if (rows.length === 0) {
+      panel.innerHTML = `<p class="px-4 py-3 text-body-sm text-mute">No terms match “${escapeHtml(query)}”.</p>`;
+      return;
+    }
+    panel.innerHTML = rows
+      .map(
+        ([term, adj, flag, href, gloss]) => `
+        <a href="${href}" class="focus-ring flex items-baseline gap-3 px-4 py-2.5 hover:bg-surface-card">
+          <span class="text-body-md font-semibold text-ink">${escapeHtml(term)}</span>
+          <span class="shrink-0 text-caption text-mute">${flag} ${escapeHtml(adj)}</span>
+          <span class="ml-auto hidden max-w-[55%] truncate text-body-sm text-mute sm:block">${escapeHtml(gloss)}</span>
+        </a>`,
+      )
+      .join('');
+  }
+
+  for (const form of document.querySelectorAll<HTMLFormElement>('[data-search-form]')) {
+    const input = form.querySelector<HTMLInputElement>('[data-search-input]')!;
+    const panel = form.querySelector<HTMLElement>('[data-search-results]')!;
+
+    const update = async () => {
+      const q = input.value;
+      if (!q.trim()) return render(panel, [], q);
+      render(panel, search(index ?? (await loadIndex()), q), q);
+    };
+
+    input.addEventListener('input', update);
+    input.addEventListener('focus', () => {
+      void loadIndex();
+      if (input.value.trim()) void update();
+    });
+
+    // Enter falls through to the form's normal GET submit to /search/.
+    input.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape') {
+        panel.hidden = true;
+        input.blur();
+      }
+      if (e.key === 'ArrowDown') {
+        e.preventDefault();
+        panel.querySelector<HTMLAnchorElement>('a')?.focus();
+      }
+    });
+
+    document.addEventListener('click', (e) => {
+      if (!form.contains(e.target as Node)) panel.hidden = true;
+    });
+  }
+</script>

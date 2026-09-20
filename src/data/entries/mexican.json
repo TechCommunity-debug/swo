@@ -1,0 +1,1413 @@
+[
+  {
+    "slug": "chido",
+    "term": "chido",
+    "partOfSpeech": ["adjective"],
+    "register": "informal",
+    "categories": ["approval"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "pronunciation": { "ipa": "/ˈtʃi.ðo/", "respelling": "CHEE-doh" },
+    "definitions": [
+      { "text": "Cool, great, excellent. The default all-purpose compliment in Mexican Spanish, applied to objects, plans, people and situations alike." },
+      { "text": "Of a person: decent, generous, a good sort. In this sense it is closer to 'kind' than to 'cool'.", "note": "Usually with ser: es muy chido conmigo — he's really good to me." }
+    ],
+    "examples": [
+      { "text": "¡Qué chido está tu carro!", "translation": "Your car is so cool!" },
+      { "text": "El concierto estuvo bien chido, deberías haber venido.", "translation": "The concert was really great, you should have come." },
+      { "text": "Mi jefe es bien chido, me dejó salir temprano.", "translation": "My boss is a really good guy, he let me leave early.", "context": "The 'generous' sense — nothing to do with being fashionable." }
+    ],
+    "origin": {
+      "etymology": "Most often traced to Caló, the language of the Spanish Roma, where chidó meant 'excellent' or 'splendid'. It entered Mexican Spanish through urban working-class speech and had spread nationwide by the 1970s.",
+      "firstAttested": "mid-20th century",
+      "sources": []
+    },
+    "relatedTerms": ["mexican/padre", "mexican/chingon", "mexican/de-pelos", "mexican/gacho"],
+    "synonyms": ["padre", "chingón", "de pelos"],
+    "variants": ["chida", "chidito"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "guey",
+    "term": "güey",
+    "partOfSpeech": ["noun", "interjection"],
+    "register": "informal",
+    "categories": ["people", "greetings", "discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "pronunciation": { "ipa": "/wei/", "respelling": "WAY" },
+    "literalMeaning": "Ox — from buey, a castrated bull.",
+    "definitions": [
+      { "text": "Dude, mate, guy. Used both to address a friend directly and to refer to any unnamed man." },
+      { "text": "Used as a sentence-final particle with no lexical content at all, marking the speech as casual — roughly the function of 'man' in English.", "sense": "figurative", "note": "This is by far its most frequent use among young speakers." },
+      { "text": "Idiot, fool. The original sense, still live when the tone is hostile.", "sense": "literal" }
+    ],
+    "examples": [
+      { "text": "¿Qué onda, güey? ¿Todo bien?", "translation": "What's up, dude? All good?" },
+      { "text": "No manches, güey, eso no se hace.", "translation": "Come on, man, you don't do that.", "context": "Pure filler — deleting güey changes nothing but the register." },
+      { "text": "Ese güey nunca contesta el teléfono.", "translation": "That guy never answers his phone.", "context": "Third-person reference to a stranger, mildly dismissive." }
+    ],
+    "origin": {
+      "etymology": "From buey, 'ox'. Calling a man an ox implied he was slow-witted, or a cuckold — the animal being castrated. The insult wore down through constant use into a neutral address term, the same path English 'dude' and 'bloke' took.",
+      "firstAttested": "19th century as an insult; the neutral sense from the mid-20th century",
+      "sources": []
+    },
+    "relatedTerms": ["mexican/carnal", "mexican/cuate", "mexican/compa", "mexican/morro"],
+    "synonyms": ["cuate", "carnal", "compa", "vato"],
+    "variants": ["wey", "we", "buey"],
+    "usageWarning": ["context-dependent"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "compa",
+    "term": "compa",
+    "partOfSpeech": ["noun"],
+    "register": "informal",
+    "categories": ["people", "greetings"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "region": "Northern Mexico",
+    "pronunciation": { "respelling": "KOHM-pah" },
+    "definitions": [
+      { "text": "Buddy, pal. A warm, unpretentious term for a friend, and a common way to address a man whose name you don't know." }
+    ],
+    "examples": [
+      { "text": "Gracias, compa, te debo una.", "translation": "Thanks, buddy, I owe you one." },
+      { "text": "Ahí viene mi compa con las chelas.", "translation": "Here comes my mate with the beers." }
+    ],
+    "origin": {
+      "etymology": "Clipped from compadre, originally the godfather of one's child — a formal bond of ritual kinship. The shortened form kept the warmth and dropped the obligation. Strongest in the north, though now heard everywhere.",
+      "sources": []
+    },
+    "relatedTerms": ["mexican/guey", "mexican/carnal", "mexican/cuate", "mexican/banda"],
+    "synonyms": ["cuate", "carnal", "valedor"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "no-mames",
+    "term": "no mames",
+    "partOfSpeech": ["phrase", "interjection"],
+    "register": "vulgar",
+    "categories": ["emotion"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "literalMeaning": "Don't suck.",
+    "definitions": [
+      { "text": "No way; you've got to be kidding. An exclamation of disbelief, which can be delighted, horrified or outraged depending entirely on tone." },
+      { "text": "Stop it; give me a break. Addressed to someone who is going too far.", "note": "Here the literal imperative force returns." }
+    ],
+    "examples": [
+      { "text": "¡No mames! ¿Te sacaste la lotería?", "translation": "No way! You won the lottery?", "context": "Delighted disbelief — the most common register." },
+      { "text": "No mames, ya llevo dos horas esperando.", "translation": "Oh come on, I've been waiting two hours already." },
+      { "text": "Ya no mames, en serio, déjalo en paz.", "translation": "Seriously, cut it out, leave him alone.", "context": "Genuinely annoyed. Tone does all the work." }
+    ],
+    "origin": {
+      "etymology": "The literal sense is obscene, from mamar, 'to suck'. Like most high-frequency profanity it has bleached heavily with use, and among friends it now carries roughly the force of 'no way'. It has not bleached enough to be safe at work.",
+      "sources": []
+    },
+    "relatedTerms": ["mexican/no-manches", "mexican/hijole", "mexican/neta", "mexican/chale"],
+    "synonyms": ["no manches", "no inventes"],
+    "usageWarning": ["vulgar"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "no-manches",
+    "term": "no manches",
+    "partOfSpeech": ["phrase", "interjection"],
+    "register": "informal",
+    "categories": ["emotion"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "literalMeaning": "Don't stain.",
+    "definitions": [
+      { "text": "No way; you're kidding. The socially safe version of no mames, with the same range of disbelief but none of the obscenity." }
+    ],
+    "examples": [
+      { "text": "¿No manches, de verdad te vas a vivir a Japón?", "translation": "No way, you're really moving to Japan?" },
+      { "text": "No manches, otra vez se cayó el internet.", "translation": "Oh come on, the internet's down again." }
+    ],
+    "origin": {
+      "etymology": "A deliberate euphemism for no mames, swapping in a harmless verb that starts the same way — the same substitution strategy as English 'shoot' for a stronger word. Usable in front of family, colleagues and children.",
+      "sources": []
+    },
+    "relatedTerms": ["mexican/no-mames", "mexican/hijole", "mexican/chale"],
+    "synonyms": ["no inventes", "no mames"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "orale",
+    "term": "órale",
+    "partOfSpeech": ["interjection"],
+    "register": "informal",
+    "categories": ["discourse", "emotion"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "pronunciation": { "ipa": "/ˈo.ɾa.le/", "respelling": "OH-rah-leh" },
+    "definitions": [
+      { "text": "Right then; okay; let's go. Agreement or encouragement." },
+      { "text": "Wow. Surprise or admiration, usually with the stress drawn out." },
+      { "text": "Come on, hurry up. Impatient prompting.", "note": "Three quite different meanings distinguished only by intonation." }
+    ],
+    "examples": [
+      { "text": "—¿Nos vemos a las ocho? —Órale, ahí nos vemos.", "translation": "'Shall we meet at eight?' 'Sure, see you there.'" },
+      { "text": "¡Óooorale! No sabía que tocabas la guitarra.", "translation": "Wow! I didn't know you played guitar.", "context": "Admiration, marked by the lengthened first vowel." },
+      { "text": "¡Órale, que se nos hace tarde!", "translation": "Come on, we're going to be late!" }
+    ],
+    "origin": {
+      "etymology": "From ahora ('now') plus the emphatic -le ending that Mexican Spanish attaches to a great many imperatives — ándale, épale, híjole, úpale. The -le has no grammatical function; it is a purely Mexican intensifier.",
+      "sources": []
+    },
+    "relatedTerms": ["mexican/andale", "mexican/hijole", "mexican/sale"],
+    "synonyms": ["ándale", "va", "sale"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "neta",
+    "term": "neta",
+    "partOfSpeech": ["noun", "adverb", "interjection"],
+    "register": "informal",
+    "categories": ["discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "pronunciation": { "respelling": "NEH-tah" },
+    "definitions": [
+      { "text": "The truth; the real story. Usually with the article: la neta." },
+      { "text": "Really? Seriously? Used alone as a question to check whether someone means what they said." },
+      { "text": "Honestly, to be frank. As a sentence opener it flags that what follows is candid.", "note": "La neta, no me gustó — honestly, I didn't like it." }
+    ],
+    "examples": [
+      { "text": "Dime la neta, ¿te gustó o no?", "translation": "Tell me the truth, did you like it or not?" },
+      { "text": "—Me ascendieron. —¿Neta?", "translation": "'I got promoted.' 'Seriously?'" },
+      { "text": "La neta, ese restaurante está sobrevalorado.", "translation": "Honestly, that restaurant is overrated." }
+    ],
+    "origin": {
+      "etymology": "From neto/neta, 'net' in the accounting sense — what remains once everything else is stripped away. The metaphor is the same one behind English 'the bottom line'.",
+      "sources": []
+    },
+    "relatedTerms": ["mexican/no-mames", "mexican/simon"],
+    "synonyms": ["la verdad", "en serio"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "padre",
+    "term": "padre",
+    "partOfSpeech": ["adjective"],
+    "register": "informal",
+    "categories": ["approval"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "literalMeaning": "Father.",
+    "definitions": [
+      { "text": "Cool, great, nice. Interchangeable with chido in most contexts, and slightly softer — it is the version a parent is likelier to use." }
+    ],
+    "examples": [
+      { "text": "¡Qué padre tu departamento!", "translation": "What a great apartment you have!" },
+      { "text": "Estuvo padrísima la fiesta.", "translation": "The party was absolutely brilliant.", "context": "The superlative padrísimo is extremely common." }
+    ],
+    "origin": {
+      "etymology": "An ordinary noun turned adjective of approval — the same move English made with 'ace' and 'boss'. The superlative padrísimo intensifies it, and qué padre is the fixed exclamatory form.",
+      "sources": []
+    },
+    "relatedTerms": ["mexican/chido", "mexican/chingon", "mexican/de-pelos"],
+    "synonyms": ["chido", "genial"],
+    "variants": ["padrísimo"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "chamba",
+    "term": "chamba",
+    "partOfSpeech": ["noun"],
+    "register": "informal",
+    "categories": ["money"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "pronunciation": { "respelling": "CHAHM-bah" },
+    "definitions": [
+      { "text": "Work; a job. Emphasises the earning of a living rather than a career — you look for chamba, you do not build one." }
+    ],
+    "examples": [
+      { "text": "Ando buscando chamba desde enero.", "translation": "I've been looking for work since January." },
+      { "text": "Tengo mucha chamba esta semana, no puedo salir.", "translation": "I've got loads of work this week, I can't go out." }
+    ],
+    "origin": {
+      "etymology": "A much-repeated story derives it from Mexican workers in the United States reading 'Chamber of Commerce' on employment-office doors. The story is charming and almost certainly false; the word more plausibly comes from older Spanish dialect usage. We flag it here because the folk etymology is so widely repeated as fact.",
+      "sources": []
+    },
+    "relatedTerms": ["mexican/lana", "mexican/varo", "mexican/huevon", "mexican/jalar"],
+    "synonyms": ["jale", "trabajo"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "lana",
+    "term": "lana",
+    "partOfSpeech": ["noun"],
+    "register": "informal",
+    "categories": ["money"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "literalMeaning": "Wool.",
+    "definitions": [
+      { "text": "Money, cash. The most common informal word for money in Mexico." }
+    ],
+    "examples": [
+      { "text": "No traigo lana, ¿me prestas?", "translation": "I've got no cash on me, can you lend me some?" },
+      { "text": "Ese trabajo deja buena lana.", "translation": "That job pays well." }
+    ],
+    "origin": {
+      "etymology": "Wool as a stand-in for wealth is old and widespread — livestock was capital long before coinage, and English 'fleece' preserves the same association from the other direction.",
+      "sources": []
+    },
+    "relatedTerms": ["mexican/varo", "mexican/chamba", "mexican/codo"],
+    "synonyms": ["varo", "feria", "billete"],
+    "alsoUsedIn": [],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "varo",
+    "term": "varo",
+    "partOfSpeech": ["noun"],
+    "register": "informal",
+    "categories": ["money"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Money in general; also a single peso, when counted." }
+    ],
+    "examples": [
+      { "text": "Me quedan como cien varos.", "translation": "I've got about a hundred pesos left.", "context": "Counted sense — varo here is a unit." },
+      { "text": "Ya no tengo varo hasta la quincena.", "translation": "I'm out of money until payday.", "context": "Mass sense — no plural." }
+    ],
+    "relatedTerms": ["mexican/lana", "mexican/chamba"],
+    "synonyms": ["lana", "feria"],
+    "variants": ["baro"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "cruda",
+    "term": "cruda",
+    "partOfSpeech": ["noun"],
+    "register": "informal",
+    "categories": ["partying", "food-drink"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "literalMeaning": "Raw, uncooked (feminine).",
+    "definitions": [
+      { "text": "A hangover. Used with tener or andar: tengo cruda, ando crudo." }
+    ],
+    "examples": [
+      { "text": "Traigo una cruda horrible, no me hables fuerte.", "translation": "I've got a terrible hangover, don't talk loudly to me." },
+      { "text": "Un caldo de camarón es lo mejor para la cruda.", "translation": "Shrimp broth is the best thing for a hangover.", "context": "Spicy broth as hangover cure is near-universal advice in Mexico." }
+    ],
+    "origin": {
+      "etymology": "From crudo, 'raw' — the morning-after feeling of being unfinished, exposed, not yet cooked back into shape. The adjective form crudo/cruda describes the person; the noun describes the state.",
+      "sources": []
+    },
+    "relatedTerms": ["mexican/peda", "mexican/chela", "mexican/chupe"],
+    "synonyms": ["resaca"],
+    "variants": ["crudo"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "pedo",
+    "term": "pedo",
+    "partOfSpeech": ["noun", "adjective"],
+    "register": "vulgar",
+    "categories": ["everyday", "partying"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "literalMeaning": "Fart.",
+    "definitions": [
+      { "text": "A problem, hassle or bit of trouble. Often in the negative: no hay pedo, 'no problem'." },
+      { "text": "Drunk, as an adjective: estar pedo." },
+      { "text": "The situation, the deal. In ¿qué pedo? it means 'what's up?' or, sharply, 'what's your problem?'", "note": "One of the most semantically overloaded words in Mexican Spanish." }
+    ],
+    "examples": [
+      { "text": "No hay pedo, yo te cubro.", "translation": "No worries, I'll cover for you." },
+      { "text": "Llegó bien pedo a la boda.", "translation": "He turned up to the wedding completely drunk." },
+      { "text": "¿Qué pedo contigo, por qué no avisaste?", "translation": "What's the matter with you, why didn't you say something?", "context": "Confrontational. The friendly ¿qué pedo? greeting is the same words with different intonation." }
+    ],
+    "origin": {
+      "etymology": "The literal meaning is crude, and the word's enormous semantic range is a good illustration of how Mexican Spanish builds whole families of expression out of a single taboo root.",
+      "sources": []
+    },
+    "relatedTerms": ["mexican/peda", "mexican/bronca", "mexican/que-onda"],
+    "synonyms": ["bronca", "problema"],
+    "usageWarning": ["vulgar"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "chela",
+    "term": "chela",
+    "partOfSpeech": ["noun"],
+    "register": "informal",
+    "categories": ["food-drink", "partying"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "pronunciation": { "respelling": "CHEH-lah" },
+    "definitions": [
+      { "text": "A beer. The default informal word for one across Mexico." }
+    ],
+    "examples": [
+      { "text": "¿Vamos por unas chelas?", "translation": "Shall we go for a few beers?" },
+      { "text": "Una chela bien fría, por favor.", "translation": "One really cold beer, please." }
+    ],
+    "origin": {
+      "etymology": "Generally linked to michelada, the beer-and-lime preparation, though the direction of borrowing is disputed — chela may well be the older word.",
+      "sources": []
+    },
+    "relatedTerms": ["mexican/chupe", "mexican/peda", "mexican/cruda", "mexican/botana"],
+    "synonyms": ["cerveza", "birria"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "antro",
+    "term": "antro",
+    "partOfSpeech": ["noun"],
+    "register": "informal",
+    "categories": ["partying"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "literalMeaning": "Den, dive, seedy place.",
+    "definitions": [
+      { "text": "A nightclub. In Mexico the word has lost its negative charge entirely and simply means a place you go dancing." }
+    ],
+    "examples": [
+      { "text": "Nos fuimos al antro hasta las cuatro.", "translation": "We were out at the club until four." },
+      { "text": "Ese antro está carísimo los sábados.", "translation": "That club is really expensive on Saturdays." }
+    ],
+    "origin": {
+      "etymology": "From Latin antrum, 'cave'. In most of the Spanish-speaking world antro is still pejorative — a dive. Mexico is the notable exception, which regularly confuses visitors from Spain and South America.",
+      "sources": []
+    },
+    "relatedTerms": ["mexican/peda", "mexican/chela", "mexican/banda"],
+    "synonyms": ["disco", "table"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "fresa",
+    "term": "fresa",
+    "partOfSpeech": ["adjective", "noun"],
+    "register": "informal",
+    "categories": ["people"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "literalMeaning": "Strawberry.",
+    "definitions": [
+      { "text": "Posh, preppy, spoiled. Describes affluent young people and, specifically, a recognisable accent and manner that goes with money in Mexico." }
+    ],
+    "examples": [
+      { "text": "Habla bien fresa, se le nota de dónde es.", "translation": "She talks so posh, you can tell where she's from." },
+      { "text": "Es un antro muy fresa, no es mi estilo.", "translation": "It's a very upmarket club, not my scene." }
+    ],
+    "origin": {
+      "etymology": "The fruit's associations — sweet, delicate, expensive, slightly artificial — transferred to a social type. Its counterpart is naco, and the two words map a class opposition that runs through a great deal of Mexican humour.",
+      "sources": []
+    },
+    "relatedTerms": ["mexican/naco", "mexican/mamon", "mexican/sangron"],
+    "synonyms": ["popis", "juniors"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "naco",
+    "term": "naco",
+    "partOfSpeech": ["adjective", "noun"],
+    "register": "informal",
+    "categories": ["people", "insults"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Tacky, vulgar, low-class. Applied to taste, behaviour and, unavoidably, to people." }
+    ],
+    "examples": [
+      { "text": "No seas naco, quítate la gorra en la mesa.", "translation": "Don't be so uncouth, take your cap off at the table." },
+      { "text": "Ese color me parece un poco naco, la verdad.", "translation": "Honestly, I find that colour a bit tacky.", "context": "Applied to an object rather than a person — the least loaded use." }
+    ],
+    "origin": {
+      "etymology": "Probably a clipping of totonaco, an Indigenous people of Veracruz. That origin is the reason the word carries real weight: its force comes from associating indigeneity and poverty with bad taste. It is used very freely in Mexico, and is genuinely classist and racially loaded. Listed here for comprehension.",
+      "sources": []
+    },
+    "relatedTerms": ["mexican/fresa", "mexican/chafa"],
+    "usageWarning": ["offensive"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "cuate",
+    "term": "cuate",
+    "partOfSpeech": ["noun"],
+    "register": "informal",
+    "categories": ["people"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "pronunciation": { "respelling": "KWAH-teh" },
+    "literalMeaning": "Twin.",
+    "definitions": [
+      { "text": "Friend, mate. Slightly older-sounding than güey and warmer than a neutral amigo." }
+    ],
+    "examples": [
+      { "text": "Es mi cuate desde la primaria.", "translation": "He's been my mate since primary school." },
+      { "text": "Pregúntale a un cuate mío que trabaja ahí.", "translation": "Ask a friend of mine who works there." }
+    ],
+    "origin": {
+      "etymology": "From Nahuatl cōātl, 'snake' and, by extension, 'twin' — the same root behind the god-name Quetzalcóatl. Twinship as a metaphor for close friendship is the semantic bridge.",
+      "sources": []
+    },
+    "relatedTerms": ["mexican/guey", "mexican/carnal", "mexican/compa"],
+    "synonyms": ["compa", "carnal", "amigo"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "carnal",
+    "term": "carnal",
+    "partOfSpeech": ["noun"],
+    "register": "informal",
+    "categories": ["people"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "literalMeaning": "Of the flesh; related by blood.",
+    "definitions": [
+      { "text": "Brother — either a literal sibling or a friend close enough to count as one. Stronger than cuate or compa." }
+    ],
+    "examples": [
+      { "text": "Ese es mi carnal, confío en él ciegamente.", "translation": "That's my brother, I trust him completely." },
+      { "text": "¿Qué pasó, carnal? Hace años que no te veía.", "translation": "How's it going, brother? I haven't seen you in years." }
+    ],
+    "origin": {
+      "etymology": "From hermano carnal, 'blood brother', where carnal distinguishes full siblings from half or step relations. Dropping hermano left the modifier carrying the whole meaning — and the whole weight.",
+      "sources": []
+    },
+    "relatedTerms": ["mexican/cuate", "mexican/compa", "mexican/guey"],
+    "synonyms": ["compa", "cuate"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "morro",
+    "term": "morro",
+    "partOfSpeech": ["noun"],
+    "register": "informal",
+    "categories": ["people"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "region": "Northern Mexico",
+    "definitions": [
+      { "text": "A kid or a young person; by extension a young man. The feminine morra means a young woman and, in context, a girlfriend." }
+    ],
+    "examples": [
+      { "text": "Cuando era morro jugaba futbol todos los días.", "translation": "When I was a kid I played football every day." },
+      { "text": "Llegó con su morra a la fiesta.", "translation": "He turned up to the party with his girlfriend." }
+    ],
+    "relatedTerms": ["mexican/chavo", "mexican/guey", "mexican/escuincle"],
+    "synonyms": ["chavo", "escuincle", "chamaco"],
+    "variants": ["morra"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "chavo",
+    "term": "chavo",
+    "partOfSpeech": ["noun"],
+    "register": "informal",
+    "categories": ["people"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "A young person; a guy or girl roughly of teenage or student age. Neutral and very widely used." }
+    ],
+    "examples": [
+      { "text": "Un chavo me ayudó con las maletas.", "translation": "A young guy helped me with my bags." },
+      { "text": "Los chavos de hoy ya no ven televisión.", "translation": "Kids these days don't watch television." }
+    ],
+    "relatedTerms": ["mexican/morro", "mexican/escuincle"],
+    "synonyms": ["morro", "chamaco"],
+    "variants": ["chava"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "escuincle",
+    "term": "escuincle",
+    "partOfSpeech": ["noun"],
+    "register": "informal",
+    "categories": ["people"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "pronunciation": { "respelling": "es-KWEEN-kleh" },
+    "definitions": [
+      { "text": "A small child — usually with an edge of exasperation, closer to 'brat' than to 'kid'." }
+    ],
+    "examples": [
+      { "text": "Esos escuincles no dejan de gritar.", "translation": "Those kids won't stop screaming." },
+      { "text": "Desde escuincle le gustaba dibujar.", "translation": "He's liked drawing since he was little.", "context": "Affectionate when used of oneself or one's own past." }
+    ],
+    "origin": {
+      "etymology": "From Nahuatl itzcuintli, the hairless dog of pre-Hispanic Mexico — the animal the xoloitzcuintle breed is named for. Applying a dog word to children is not flattering, but the term is used affectionately as often as not.",
+      "sources": []
+    },
+    "relatedTerms": ["mexican/morro", "mexican/chavo"],
+    "synonyms": ["chamaco", "morro"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "jefa",
+    "term": "jefa",
+    "partOfSpeech": ["noun"],
+    "register": "informal",
+    "categories": ["people"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "literalMeaning": "Boss (feminine).",
+    "definitions": [
+      { "text": "Mum. Affectionate and very common; the masculine jefe means dad." }
+    ],
+    "examples": [
+      { "text": "Le hablo a mi jefa para avisarle.", "translation": "I'll call my mum to let her know." },
+      { "text": "Mis jefes se van de viaje la próxima semana.", "translation": "My parents are going away next week.", "context": "The plural covers both parents." }
+    ],
+    "origin": {
+      "etymology": "Naming a parent 'the boss' is affectionately ironic and also quite literal about the household hierarchy. The same joke produces English 'the old man' and Italian 'i miei'.",
+      "sources": []
+    },
+    "relatedTerms": ["mexican/carnal"],
+    "variants": ["jefe", "jefes"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "que-onda",
+    "term": "¿qué onda?",
+    "partOfSpeech": ["phrase"],
+    "register": "informal",
+    "categories": ["greetings"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "literalMeaning": "What wave?",
+    "definitions": [
+      { "text": "What's up? The standard casual greeting between friends." },
+      { "text": "What's the deal with…? Used with con to ask about a situation: ¿qué onda con el proyecto?" }
+    ],
+    "examples": [
+      { "text": "¡Qué onda, güey! ¿Cómo has estado?", "translation": "Hey man! How've you been?" },
+      { "text": "¿Qué onda con la fiesta del sábado?", "translation": "What's happening with Saturday's party?" }
+    ],
+    "origin": {
+      "etymology": "Onda, 'wave', carries the sense of a prevailing mood or vibration — la onda was the name of a 1960s Mexican counterculture movement, and the word kept that flavour. Buena onda ('good vibes') and mala onda come from the same image.",
+      "sources": []
+    },
+    "relatedTerms": ["mexican/guey", "mexican/pedo", "mexican/orale"],
+    "synonyms": ["¿qué pedo?", "¿qué tal?"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "sale",
+    "term": "sale",
+    "partOfSpeech": ["interjection"],
+    "register": "informal",
+    "categories": ["discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "literalMeaning": "It comes out / it leaves.",
+    "definitions": [
+      { "text": "Okay; deal; sounds good. Signals agreement to a plan, often doubled as sale y vale." }
+    ],
+    "examples": [
+      { "text": "—Nos vemos en el metro a las seis. —Sale.", "translation": "'Meet you at the metro at six.' 'Deal.'" },
+      { "text": "Sale pues, yo llevo las chelas.", "translation": "Alright then, I'll bring the beers." }
+    ],
+    "relatedTerms": ["mexican/orale", "mexican/simon", "mexican/andale"],
+    "synonyms": ["órale", "va", "sobres"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "andale",
+    "term": "ándale",
+    "partOfSpeech": ["interjection"],
+    "register": "informal",
+    "categories": ["discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "pronunciation": { "respelling": "AHN-dah-leh" },
+    "definitions": [
+      { "text": "Come on; hurry up. Urging someone along." },
+      { "text": "That's it; exactly. Confirming that someone has understood correctly." },
+      { "text": "Go on, please. Wheedling — ándale, ¿sí?" }
+    ],
+    "examples": [
+      { "text": "¡Ándale, que ya se va el camión!", "translation": "Come on, the bus is leaving!" },
+      { "text": "—¿Entonces giro a la izquierda? —¡Ándale!", "translation": "'So I turn left?' 'That's it!'" },
+      { "text": "Ándale, préstame el coche, solo una hora.", "translation": "Go on, lend me the car, just for an hour." }
+    ],
+    "origin": {
+      "etymology": "From andar, 'to walk', plus the Mexican emphatic -le. Foreign audiences mostly know it from cartoons, which has given it an unearned reputation as a comic word; in Mexico it is entirely ordinary.",
+      "sources": []
+    },
+    "relatedTerms": ["mexican/orale", "mexican/aguas", "mexican/sale"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "hijole",
+    "term": "híjole",
+    "partOfSpeech": ["interjection"],
+    "register": "informal",
+    "categories": ["emotion"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "pronunciation": { "respelling": "EE-hoh-leh" },
+    "definitions": [
+      { "text": "Wow; geez; oh dear. Surprise, dismay or reluctant sympathy — and very often the sound of someone about to tell you no." }
+    ],
+    "examples": [
+      { "text": "Híjole, no me di cuenta de la hora.", "translation": "Oh no, I didn't notice the time." },
+      { "text": "—¿Me lo puedes tener listo para mañana? —Híjole…", "translation": "'Can you have it ready for tomorrow?' 'Ohh…'", "context": "A soft refusal. Recognising this saves a lot of confusion." }
+    ],
+    "origin": {
+      "etymology": "A euphemistic reshaping of hijo de… ('son of a…'), cut off before the offending noun and given the Mexican -le ending. Completely inoffensive as a result.",
+      "sources": []
+    },
+    "relatedTerms": ["mexican/no-manches", "mexican/chale", "mexican/orale"],
+    "synonyms": ["órale", "chale"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "chingon",
+    "term": "chingón",
+    "partOfSpeech": ["adjective", "noun"],
+    "register": "vulgar",
+    "categories": ["approval"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Awesome, badass, outstanding. Applied to things and situations." },
+      { "text": "Of a person: brilliant at what they do. Es un chingón en la cocina — he's a genius in the kitchen." }
+    ],
+    "examples": [
+      { "text": "Está chingón tu proyecto, en serio.", "translation": "Your project is seriously impressive." },
+      { "text": "Mi tía es una chingona para los negocios.", "translation": "My aunt is a total force in business." }
+    ],
+    "origin": {
+      "etymology": "From chingar, the most productive vulgar root in Mexican Spanish — Octavio Paz devoted a chapter of El laberinto de la soledad to it. Uniquely among its derivatives, chingón is positive.",
+      "sources": [
+        { "title": "Octavio Paz, El laberinto de la soledad — 'Los hijos de la Malinche'", "url": "https://es.wikipedia.org/wiki/El_laberinto_de_la_soledad" }
+      ]
+    },
+    "relatedTerms": ["mexican/chido", "mexican/padre", "mexican/pinche"],
+    "synonyms": ["chido", "padre", "de pelos"],
+    "usageWarning": ["vulgar"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "cabron",
+    "term": "cabrón",
+    "partOfSpeech": ["noun", "adjective"],
+    "register": "vulgar",
+    "categories": ["people", "insults"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "literalMeaning": "Large male goat.",
+    "definitions": [
+      { "text": "Between friends: mate, dude. An affectionate address term, roughly as strong as English 'bastard' used warmly." },
+      { "text": "To a stranger: bastard, son of a bitch. A genuine insult." },
+      { "text": "As an adjective: tough, difficult, or impressively good. Está cabrón el examen — the exam is brutal.", "note": "Which of the three is meant depends on relationship and tone, not on the word." }
+    ],
+    "examples": [
+      { "text": "¿Cómo estás, cabrón? Ya te extrañaba.", "translation": "How are you, you bastard? I've missed you.", "context": "Warm. Only works between established friends." },
+      { "text": "Ese cabrón me chocó el coche y se fue.", "translation": "That bastard hit my car and drove off.", "context": "Genuinely hostile." },
+      { "text": "Está cabrón encontrar estacionamiento por aquí.", "translation": "It's a nightmare finding parking round here." }
+    ],
+    "origin": {
+      "etymology": "The goat is the traditional emblem of the cuckold across Romance languages, which is where the insult's original sting came from. That sense has largely faded in Mexico, leaving a word whose meaning is set almost entirely by the relationship between speakers.",
+      "sources": []
+    },
+    "relatedTerms": ["mexican/guey", "mexican/pendejo", "mexican/chingon"],
+    "usageWarning": ["vulgar", "context-dependent"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "pendejo",
+    "term": "pendejo",
+    "partOfSpeech": ["noun", "adjective"],
+    "register": "vulgar",
+    "categories": ["insults"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Idiot, fool. Stronger than tonto and weaker than the worst options available; it attacks judgement rather than intelligence." },
+      { "text": "As an adjective: stupid, careless. No seas pendejo — don't be an idiot." }
+    ],
+    "examples": [
+      { "text": "No seas pendejo, guarda el archivo antes de cerrarlo.", "translation": "Don't be an idiot, save the file before you close it." },
+      { "text": "Me vio la cara de pendejo y me cobró el doble.", "translation": "He took me for a fool and charged me double.", "context": "ver la cara de pendejo — to be treated as a mug. A very common fixed phrase." }
+    ],
+    "origin": {
+      "etymology": "Originally pubic hair, hence something trivial and worthless. The route from there to 'fool' runs through a general sense of insignificance.",
+      "sources": []
+    },
+    "relatedTerms": ["mexican/cabron", "mexican/guey", "mexican/mamon"],
+    "usageWarning": ["vulgar", "offensive"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "pinche",
+    "term": "pinche",
+    "partOfSpeech": ["adjective"],
+    "register": "vulgar",
+    "categories": ["discourse", "insults"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "literalMeaning": "Kitchen hand, scullion.",
+    "definitions": [
+      { "text": "Damn, bloody, lousy. An intensifier placed before a noun, expressing contempt for it: pinche tráfico, 'bloody traffic'." },
+      { "text": "Contemptibly small or cheap. Me dieron un pinche descuento del dos por ciento — they gave me a measly two percent off." }
+    ],
+    "examples": [
+      { "text": "El pinche tráfico de esta ciudad me está matando.", "translation": "The bloody traffic in this city is killing me." },
+      { "text": "Se quejó todo el pinche día.", "translation": "He complained the entire damn day." }
+    ],
+    "origin": {
+      "etymology": "A pinche was the lowest kitchen assistant. The word's journey from job title to all-purpose slur is a class history in miniature.",
+      "sources": []
+    },
+    "relatedTerms": ["mexican/chingon", "mexican/gacho", "mexican/chafa"],
+    "usageWarning": ["vulgar"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "mamon",
+    "term": "mamón",
+    "partOfSpeech": ["adjective", "noun"],
+    "register": "informal",
+    "categories": ["insults", "people"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Stuck-up, full of oneself; also simply annoying. Describes someone who thinks they are above the company they are in." }
+    ],
+    "examples": [
+      { "text": "No seas mamón, salúdala aunque sea.", "translation": "Don't be so stuck-up, at least say hello to her." },
+      { "text": "Se puso bien mamón desde que lo ascendieron.", "translation": "He's got really full of himself since the promotion." }
+    ],
+    "relatedTerms": ["mexican/fresa", "mexican/sangron", "mexican/pendejo"],
+    "synonyms": ["sangrón", "creído"],
+    "usageWarning": ["context-dependent"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "sangron",
+    "term": "sangrón",
+    "partOfSpeech": ["adjective", "noun"],
+    "register": "informal",
+    "categories": ["insults", "people"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Unpleasant, snooty, hard work to be around. Milder than mamón and aimed at coldness rather than vanity." }
+    ],
+    "examples": [
+      { "text": "Qué sangrón, ni las gracias dio.", "translation": "How rude — he didn't even say thank you." },
+      { "text": "Es buena persona pero un poco sangrona al principio.", "translation": "She's a good person but a bit standoffish at first." }
+    ],
+    "origin": {
+      "etymology": "From sangre, 'blood' — Spanish describes an unlikeable person as having mala sangre or being pesado, heavy in the blood. The same image gives Italian antipatico its force.",
+      "sources": []
+    },
+    "relatedTerms": ["mexican/mamon", "mexican/fresa", "mexican/caer-gordo"],
+    "synonyms": ["mamón", "pesado"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "codo",
+    "term": "codo",
+    "partOfSpeech": ["adjective", "noun"],
+    "register": "informal",
+    "categories": ["money", "people"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "literalMeaning": "Elbow.",
+    "definitions": [
+      { "text": "Stingy, tight-fisted." }
+    ],
+    "examples": [
+      { "text": "No seas codo, deja propina.", "translation": "Don't be so tight, leave a tip." },
+      { "text": "Es tan codo que trajo su propia agua al restaurante.", "translation": "He's so stingy he brought his own water to the restaurant." }
+    ],
+    "origin": {
+      "etymology": "From the gesture of tapping one's elbow, which in Mexico means 'he's cheap' — the image being someone so unwilling to open their wallet that their arm has locked at the joint. The gesture is understood without the word.",
+      "sources": []
+    },
+    "relatedTerms": ["mexican/lana", "mexican/varo"],
+    "synonyms": ["tacaño", "agarrado"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "gacho",
+    "term": "gacho",
+    "partOfSpeech": ["adjective"],
+    "register": "informal",
+    "categories": ["insults", "emotion"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Bad, unpleasant, rough. Applied to situations and weather." },
+      { "text": "Of a person: unkind, mean. Qué gacho eres — that was a rotten thing to do." }
+    ],
+    "examples": [
+      { "text": "Está bien gacho el clima hoy.", "translation": "The weather's really grim today." },
+      { "text": "No seas gacho, invítale aunque sea un taco.", "translation": "Don't be mean, at least buy her a taco." }
+    ],
+    "relatedTerms": ["mexican/chido", "mexican/chafa", "mexican/pinche"],
+    "synonyms": ["feo", "malo"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "chafa",
+    "term": "chafa",
+    "partOfSpeech": ["adjective"],
+    "register": "informal",
+    "categories": ["everyday"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Cheap, shoddy, low quality. Also used of counterfeits and of anything that fails to live up to its billing." }
+    ],
+    "examples": [
+      { "text": "Los audífonos que compré salieron bien chafas.", "translation": "The headphones I bought turned out to be really shoddy." },
+      { "text": "Es una copia chafa, se nota de lejos.", "translation": "It's a cheap knock-off, you can tell from a mile away." }
+    ],
+    "relatedTerms": ["mexican/gacho", "mexican/naco"],
+    "synonyms": ["corriente", "pirata"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "huevon",
+    "term": "huevón",
+    "partOfSpeech": ["noun", "adjective"],
+    "register": "vulgar",
+    "categories": ["people", "money"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "A lazy person; idle, work-shy. The related noun hueva means idleness, and qué hueva means 'what a drag'." }
+    ],
+    "examples": [
+      { "text": "Levántate, huevón, ya son las dos.", "translation": "Get up, you lazy sod, it's two o'clock." },
+      { "text": "Qué hueva ir hasta allá un domingo.", "translation": "What a drag, going all that way on a Sunday.", "context": "hueva — the noun — is far milder than huevón and usable almost anywhere." }
+    ],
+    "origin": {
+      "etymology": "From huevos in the anatomical sense; the image is of someone too weighed down to move. Mild among friends, insulting from a stranger or a superior.",
+      "sources": []
+    },
+    "relatedTerms": ["mexican/chamba", "mexican/jalar"],
+    "synonyms": ["flojo"],
+    "variants": ["hueva", "huevona"],
+    "usageWarning": ["vulgar"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "desmadre",
+    "term": "desmadre",
+    "partOfSpeech": ["noun"],
+    "register": "vulgar",
+    "categories": ["everyday", "partying"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Chaos, a total mess. Of a situation that has come apart." },
+      { "text": "A wild time. Positively, of a party or night out that got gloriously out of hand.", "note": "Whether it is a complaint or a boast depends on context alone." }
+    ],
+    "examples": [
+      { "text": "La oficina es un desmadre desde que se fue la gerente.", "translation": "The office has been chaos since the manager left." },
+      { "text": "Nos armamos un desmadre en su cumpleaños.", "translation": "We had an absolutely wild time at his birthday." }
+    ],
+    "origin": {
+      "etymology": "Literally 'un-mothering' — madre, mother, is the root of a large family of Mexican intensifiers, and the des- prefix turns it into disorder. The mother-word cluster is culturally loaded enough that desmadre still lands harder than 'mess'.",
+      "sources": []
+    },
+    "relatedTerms": ["mexican/relajo", "mexican/pedo", "mexican/peda"],
+    "synonyms": ["relajo", "caos"],
+    "usageWarning": ["vulgar"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "relajo",
+    "term": "relajo",
+    "partOfSpeech": ["noun"],
+    "register": "informal",
+    "categories": ["everyday"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "A commotion, a fuss, a disorderly scene. The polite equivalent of desmadre." }
+    ],
+    "examples": [
+      { "text": "Se armó un relajo en la junta por el presupuesto.", "translation": "There was quite a scene in the meeting over the budget." },
+      { "text": "Los niños hicieron un relajo en la sala.", "translation": "The children made a shambles of the living room." }
+    ],
+    "relatedTerms": ["mexican/desmadre", "mexican/bronca"],
+    "synonyms": ["desmadre", "alboroto"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "banda",
+    "term": "banda",
+    "partOfSpeech": ["noun"],
+    "register": "informal",
+    "categories": ["people"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "literalMeaning": "Band, gang.",
+    "definitions": [
+      { "text": "The crew; the group of friends; by extension, everyone present. Used with the definite article: la banda." }
+    ],
+    "examples": [
+      { "text": "Va a ir toda la banda al concierto.", "translation": "The whole crew's going to the gig." },
+      { "text": "¡Qué onda, banda!", "translation": "What's up, everyone!", "context": "Addressing a group collectively, like 'hey folks'." }
+    ],
+    "relatedTerms": ["mexican/compa", "mexican/antro", "mexican/que-onda"],
+    "synonyms": ["raza", "bola"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "apapachar",
+    "term": "apapachar",
+    "partOfSpeech": ["verb"],
+    "register": "informal",
+    "categories": ["romance", "emotion"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "pronunciation": { "respelling": "ah-pah-pah-CHAR" },
+    "definitions": [
+      { "text": "To cuddle, pamper, comfort. Carries a warmth that abrazar ('to hug') does not — it implies looking after someone, not just holding them." }
+    ],
+    "examples": [
+      { "text": "Hoy necesito que me apapachen.", "translation": "I need some looking after today." },
+      { "text": "Se pasó el domingo apapachando al perro.", "translation": "She spent Sunday fussing over the dog." }
+    ],
+    "origin": {
+      "etymology": "From Nahuatl papatzoa, 'to soften something by pressing'. A widely circulated gloss renders it 'to embrace with the soul', which is poetic rather than linguistic — the real etymology is about kneading, and is arguably nicer for it.",
+      "sources": []
+    },
+    "relatedTerms": ["mexican/antojo"],
+    "synonyms": ["consentir", "mimar"],
+    "variants": ["apapacho"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "antojo",
+    "term": "antojo",
+    "partOfSpeech": ["noun"],
+    "register": "colloquial",
+    "categories": ["food-drink"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "A craving — almost always for a specific food. The verb antojarse means 'to feel like having'." }
+    ],
+    "examples": [
+      { "text": "Traigo antojo de unos tacos al pastor.", "translation": "I've got a craving for some tacos al pastor." },
+      { "text": "¿No se te antoja un helado?", "translation": "Don't you fancy an ice cream?", "context": "The verb construction is more common than the noun in everyday speech." }
+    ],
+    "relatedTerms": ["mexican/botana", "mexican/apapachar"],
+    "variants": ["antojarse", "antojitos"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "botana",
+    "term": "botana",
+    "partOfSpeech": ["noun"],
+    "register": "colloquial",
+    "categories": ["food-drink"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Snacks, nibbles — specifically the food put out alongside drinks." }
+    ],
+    "examples": [
+      { "text": "Trae algo de botana para la película.", "translation": "Bring some snacks for the film." },
+      { "text": "En esa cantina la botana viene incluida.", "translation": "At that cantina the snacks come free with your drink.", "context": "Free botana with drinks is a long-standing cantina tradition." }
+    ],
+    "relatedTerms": ["mexican/chela", "mexican/antojo"],
+    "synonyms": ["picadera", "snacks"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "chupe",
+    "term": "chupe",
+    "partOfSpeech": ["noun"],
+    "register": "informal",
+    "categories": ["food-drink", "partying"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Booze; drinking. The verb chupar means 'to drink alcohol' in this register." }
+    ],
+    "examples": [
+      { "text": "Yo llevo el chupe, tú la botana.", "translation": "I'll bring the booze, you bring the snacks." },
+      { "text": "Se la pasó chupando toda la noche.", "translation": "He spent the whole night drinking." }
+    ],
+    "origin": {
+      "etymology": "From chupar, 'to suck'. The same metaphor for drinking runs through a lot of Spanish slang and through English 'to suck down a few'.",
+      "sources": []
+    },
+    "relatedTerms": ["mexican/chela", "mexican/peda", "mexican/cruda"],
+    "synonyms": ["trago", "alcohol"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "peda",
+    "term": "peda",
+    "partOfSpeech": ["noun"],
+    "register": "vulgar",
+    "categories": ["partying"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "A drinking session; a piss-up. Also the state of being very drunk: traía una peda tremenda." }
+    ],
+    "examples": [
+      { "text": "Hubo peda en casa de Ana el viernes.", "translation": "There was a big session at Ana's on Friday." },
+      { "text": "Se puso una peda que no se acuerda de nada.", "translation": "He got so hammered he remembers nothing." }
+    ],
+    "relatedTerms": ["mexican/pedo", "mexican/cruda", "mexican/chupe", "mexican/antro"],
+    "synonyms": ["borrachera"],
+    "usageWarning": ["vulgar"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "bronca",
+    "term": "bronca",
+    "partOfSpeech": ["noun"],
+    "register": "informal",
+    "categories": ["insults", "everyday"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "A problem or hassle. The clean alternative to pedo in this sense." },
+      { "text": "A row or a fight. Armar bronca is to start trouble." }
+    ],
+    "examples": [
+      { "text": "No hay bronca, lo arreglamos mañana.", "translation": "No problem, we'll sort it out tomorrow." },
+      { "text": "Se armó una bronca afuera del estadio.", "translation": "A fight broke out outside the stadium." }
+    ],
+    "origin": {
+      "etymology": "From bronco, 'rough, untamed' — the same root behind the English bronco, an unbroken horse. What is unbroken is liable to cause trouble.",
+      "sources": []
+    },
+    "relatedTerms": ["mexican/pedo", "mexican/relajo"],
+    "synonyms": ["problema", "pedo"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "aguas",
+    "term": "aguas",
+    "partOfSpeech": ["interjection"],
+    "register": "informal",
+    "categories": ["discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "literalMeaning": "Waters.",
+    "definitions": [
+      { "text": "Watch out! Heads up! A warning of immediate danger, or of someone approaching who shouldn't overhear." }
+    ],
+    "examples": [
+      { "text": "¡Aguas, viene un coche!", "translation": "Look out, there's a car coming!" },
+      { "text": "Aguas con ese vendedor, cobra de más.", "translation": "Watch out for that vendor, he overcharges." }
+    ],
+    "origin": {
+      "etymology": "From colonial-era ¡agua va! — the cry given before emptying a chamber pot into the street from an upper window. A warning worth heeding, and the phrase outlived the practice by several centuries.",
+      "firstAttested": "colonial period",
+      "sources": []
+    },
+    "relatedTerms": ["mexican/andale", "mexican/ponerse-buzo"],
+    "synonyms": ["cuidado", "ojo"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "ahorita",
+    "term": "ahorita",
+    "partOfSpeech": ["adverb"],
+    "register": "colloquial",
+    "categories": ["discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "literalMeaning": "Right now (diminutive of ahora).",
+    "definitions": [
+      { "text": "In a moment; shortly; at some unspecified point that may never arrive. Despite the diminutive suffix promising immediacy, ahorita is famously elastic — it can mean five minutes, five hours, or never." },
+      { "text": "Just now, a moment ago. The same word also looks backwards: ahorita salió, 'he just left'." }
+    ],
+    "examples": [
+      { "text": "—¿Me ayudas? —Ahorita voy.", "translation": "'Can you help me?' 'I'll be right there.'", "context": "Whether this means thirty seconds or forty minutes is genuinely unknowable." },
+      { "text": "Ahorita no, gracias.", "translation": "Not right now, thanks.", "context": "As a refusal this is polite and final, not a deferral." },
+      { "text": "Ahorita acaba de salir.", "translation": "He left just a moment ago.", "context": "The backward-looking sense." }
+    ],
+    "origin": {
+      "etymology": "The -ita diminutive normally intensifies immediacy in Spanish. In Mexico it has drifted so far in practice that the intensifier ahoritita exists to mean what ahorita used to. The gap between the word's form and its use is a standing joke among Mexicans themselves.",
+      "sources": []
+    },
+    "relatedTerms": ["mexican/sale", "mexican/ni-modo"],
+    "variants": ["ahoritita", "orita"],
+    "usageWarning": ["context-dependent"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "chilango",
+    "term": "chilango",
+    "partOfSpeech": ["noun", "adjective"],
+    "register": "informal",
+    "categories": ["people"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "region": "Mexico City",
+    "definitions": [
+      { "text": "A person from Mexico City; of Mexico City. Originally thrown as an insult by the rest of the country, now worn with pride by the capital itself." }
+    ],
+    "examples": [
+      { "text": "Se le nota lo chilango en el acento.", "translation": "You can hear Mexico City in his accent." },
+      { "text": "Soy chilango de nacimiento.", "translation": "I'm a Mexico City native." }
+    ],
+    "origin": {
+      "etymology": "Contested. Proposals include Nahuatl chilan-co ('where the red ones are') and a derivation from chile. What is certain is the reclamation: a term of provincial contempt that the capital adopted as a badge.",
+      "sources": []
+    },
+    "relatedTerms": ["mexican/fresa", "mexican/naco"],
+    "synonyms": ["defeño", "capitalino"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "metiche",
+    "term": "metiche",
+    "partOfSpeech": ["noun", "adjective"],
+    "register": "informal",
+    "categories": ["people", "insults"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "A busybody; nosy. Someone who inserts themselves into matters that are none of their concern." }
+    ],
+    "examples": [
+      { "text": "Mi vecina es bien metiche, sabe todo de todos.", "translation": "My neighbour is such a busybody, she knows everything about everyone." },
+      { "text": "No seas metiche, es asunto de ellos.", "translation": "Don't be nosy, it's their business." }
+    ],
+    "origin": {
+      "etymology": "From meterse, 'to put oneself into' — literally someone who inserts themselves. The suffix -iche adds a note of contempt.",
+      "sources": []
+    },
+    "relatedTerms": ["mexican/sangron", "mexican/mamon"],
+    "synonyms": ["chismoso", "entrometido"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "dar-el-avion",
+    "term": "dar el avión",
+    "partOfSpeech": ["phrase", "idiom"],
+    "register": "informal",
+    "categories": ["discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "literalMeaning": "To give the aeroplane.",
+    "definitions": [
+      { "text": "To humour someone; to agree with everything they say purely to end the conversation, with no intention of acting on it." }
+    ],
+    "examples": [
+      { "text": "No me estás escuchando, me estás dando el avión.", "translation": "You're not listening to me, you're just humouring me." },
+      { "text": "Le di el avión para que ya se callara.", "translation": "I just agreed with him so he'd shut up." }
+    ],
+    "origin": {
+      "etymology": "Usually explained by the image of waving someone off — the hand signal that sends an aircraft on its way, performed while your attention is already elsewhere.",
+      "sources": []
+    },
+    "relatedTerms": ["mexican/hacer-el-paro", "mexican/ahorita"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "hacer-el-paro",
+    "term": "hacer el paro",
+    "partOfSpeech": ["phrase", "idiom"],
+    "register": "informal",
+    "categories": ["everyday"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "literalMeaning": "To do the stop / the block.",
+    "definitions": [
+      { "text": "To do someone a favour; to cover for them or help them out of a bind." }
+    ],
+    "examples": [
+      { "text": "Hazme el paro y dile que ya me fui.", "translation": "Do me a favour and tell him I've already left." },
+      { "text": "Me hizo el paro con la renta este mes.", "translation": "He helped me out with the rent this month." }
+    ],
+    "origin": {
+      "etymology": "From paro in the sense of a block or a save — the image is of stepping in front of something heading for your friend, as a goalkeeper does.",
+      "sources": []
+    },
+    "relatedTerms": ["mexican/compa", "mexican/dar-el-avion", "mexican/carnal"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "caer-gordo",
+    "term": "caer gordo",
+    "partOfSpeech": ["phrase", "idiom"],
+    "register": "informal",
+    "categories": ["emotion"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "literalMeaning": "To fall fat.",
+    "definitions": [
+      { "text": "To rub someone up the wrong way. Note the reversed grammar: the disliked person is the subject — me cae gordo, 'he falls fat to me', means 'I can't stand him'." }
+    ],
+    "examples": [
+      { "text": "Ese tipo me cae gordo y no sé por qué.", "translation": "Something about that guy rubs me the wrong way and I don't know why." },
+      { "text": "Le caigo gordo a tu hermana, ¿verdad?", "translation": "Your sister doesn't like me, does she?", "context": "Note that the speaker is the subject here — 'I fall fat to your sister'." }
+    ],
+    "origin": {
+      "etymology": "Part of the Spanish caer bien / caer mal family, where liking is expressed as how a person 'falls' on you. Gordo — heavy, indigestible — intensifies caer mal.",
+      "sources": []
+    },
+    "relatedTerms": ["mexican/sangron", "mexican/mamon"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "chale",
+    "term": "chale",
+    "partOfSpeech": ["interjection"],
+    "register": "informal",
+    "categories": ["emotion"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Aw, man; damn. Disappointment or mild protest at bad news." },
+      { "text": "Come off it. Dismissive disbelief at something implausible." }
+    ],
+    "examples": [
+      { "text": "Chale, se canceló el viaje.", "translation": "Aw man, the trip got cancelled." },
+      { "text": "¿Chale, en serio no vas a venir?", "translation": "Oh come on, you're really not coming?" }
+    ],
+    "relatedTerms": ["mexican/hijole", "mexican/no-manches", "mexican/ni-modo"],
+    "synonyms": ["híjole", "qué mal"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "ni-modo",
+    "term": "ni modo",
+    "partOfSpeech": ["phrase"],
+    "register": "colloquial",
+    "categories": ["emotion", "discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "literalMeaning": "No way, no manner.",
+    "definitions": [
+      { "text": "Oh well; nothing to be done. Resigned acceptance of something that cannot now be changed." }
+    ],
+    "examples": [
+      { "text": "Ya se acabaron los boletos. Ni modo, será la próxima.", "translation": "The tickets are sold out. Oh well, next time." },
+      { "text": "Ni modo de decirle que no.", "translation": "There was no way to say no to him.", "context": "With de plus an infinitive it means 'there's no way to…' rather than 'oh well'." }
+    ],
+    "origin": {
+      "etymology": "Often cited as a small window into a national temperament — an all-purpose phrase for absorbing a setback without protest. Whether that reading is fair or just tidy, the phrase is genuinely ubiquitous.",
+      "sources": []
+    },
+    "relatedTerms": ["mexican/chale", "mexican/ahorita"],
+    "synonyms": ["qué le vamos a hacer"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "de-pelos",
+    "term": "de pelos",
+    "partOfSpeech": ["phrase", "adjective"],
+    "register": "informal",
+    "categories": ["approval"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "literalMeaning": "Of hairs.",
+    "definitions": [
+      { "text": "Brilliant, excellent, top-notch. An emphatic version of chido, and slightly dated — it peaked with an earlier generation." }
+    ],
+    "examples": [
+      { "text": "El viaje estuvo de pelos.", "translation": "The trip was brilliant." },
+      { "text": "—¿Cómo te fue? —¡De pelos!", "translation": "'How did it go?' 'Fantastic!'" }
+    ],
+    "relatedTerms": ["mexican/chido", "mexican/padre", "mexican/chingon"],
+    "synonyms": ["chido", "padrísimo"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "simon",
+    "term": "simón",
+    "partOfSpeech": ["interjection"],
+    "register": "informal",
+    "categories": ["discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Yeah; yep. An emphatic slang yes." }
+    ],
+    "examples": [
+      { "text": "—¿Vas a ir? —Simón, ahí te veo.", "translation": "'Are you going?' 'Yep, see you there.'" },
+      { "text": "Simón que sí, ya quedamos.", "translation": "Absolutely yes, it's settled." }
+    ],
+    "origin": {
+      "etymology": "An expanded, jokey sí, built by hanging a man's name off the bare syllable. Its negative counterpart nel works the same way. Both belong to a playful register of Mexican Spanish that deliberately over-elaborates small words.",
+      "sources": []
+    },
+    "relatedTerms": ["mexican/nel", "mexican/sale", "mexican/neta"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "nel",
+    "term": "nel",
+    "partOfSpeech": ["interjection"],
+    "register": "informal",
+    "categories": ["discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Nope. A flat slang no, often extended to nel pastel purely for the rhyme." }
+    ],
+    "examples": [
+      { "text": "—¿Le prestaste dinero? —Nel, ni loco.", "translation": "'Did you lend him money?' 'Nope, no chance.'" },
+      { "text": "Nel pastel, esa película ya la vi.", "translation": "Nah, I've already seen that film.", "context": "pastel means 'cake' and contributes nothing but the rhyme." }
+    ],
+    "relatedTerms": ["mexican/simon", "mexican/ni-modo"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "jalar",
+    "term": "jalar",
+    "partOfSpeech": ["verb"],
+    "register": "informal",
+    "categories": ["everyday", "money"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "literalMeaning": "To pull.",
+    "definitions": [
+      { "text": "To work, of a machine or device: ya no jala el control, 'the remote doesn't work any more'." },
+      { "text": "To be up for something; to come along. ¿Jalas? — 'are you in?'" },
+      { "text": "To work hard, of a person. Le jala duro en la chamba.", "note": "The 'are you in?' sense is the one visitors hear most." }
+    ],
+    "examples": [
+      { "text": "Mi celular ya no jala.", "translation": "My phone's stopped working." },
+      { "text": "Vamos al cine, ¿jalas?", "translation": "We're going to the cinema, you in?" },
+      { "text": "Ese chavo sí le jala.", "translation": "That kid really does put the work in." }
+    ],
+    "relatedTerms": ["mexican/chamba", "mexican/huevon", "mexican/sale"],
+    "synonyms": ["funcionar", "apuntarse"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "ponerse-buzo",
+    "term": "ponerse buzo",
+    "partOfSpeech": ["phrase", "idiom"],
+    "register": "informal",
+    "categories": ["discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "literalMeaning": "To become a diver.",
+    "definitions": [
+      { "text": "To sharpen up; to pay close attention. Buzo alone functions as an adjective meaning alert or streetwise." }
+    ],
+    "examples": [
+      { "text": "Ponte buzo, que aquí roban carteras.", "translation": "Keep your wits about you, they steal wallets round here." },
+      { "text": "Es bien buzo para los negocios.", "translation": "He's very sharp when it comes to business." }
+    ],
+    "origin": {
+      "etymology": "Buzo means 'diver'. The link to alertness is disputed — one account points to divers' need for constant vigilance, another to an unrelated older slang sense of 'clever'. We have not found a source that settles it.",
+      "sources": []
+    },
+    "relatedTerms": ["mexican/aguas", "mexican/andale"],
+    "synonyms": ["ponerse trucha", "abusado"],
+    "reviewedBy": "Editorial team"
+  }
+]

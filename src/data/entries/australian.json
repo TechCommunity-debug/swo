@@ -1,0 +1,1137 @@
+[
+  {
+    "slug": "arvo",
+    "term": "arvo",
+    "partOfSpeech": ["noun"],
+    "register": "colloquial",
+    "categories": ["everyday"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Afternoon. One of the most frequently used clipped forms in Australian English — genuinely everyday, not a novelty." }
+    ],
+    "examples": [
+      { "text": "I'll give you a call this arvo.", "translation": "I'll call you this afternoon." },
+      { "text": "We're heading down Saturday arvo.", "translation": "We're going down on Saturday afternoon." }
+    ],
+    "origin": {
+      "etymology": "Afternoon clipped and given the -o ending, one of the two productive diminutive suffixes in Australian English (the other being -ie / -o's counterpart -y). The pattern is generative: speakers coin new ones on the spot and expect to be understood.",
+      "sources": []
+    },
+    "relatedTerms": ["australian/brekkie", "australian/servo", "australian/mozzie"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "brekkie",
+    "term": "brekkie",
+    "partOfSpeech": ["noun"],
+    "register": "colloquial",
+    "categories": ["food-drink"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Breakfast." }
+    ],
+    "examples": [
+      { "text": "Grab some brekkie before we go.", "translation": "Have some breakfast before we leave." },
+      { "text": "That café does a cracking brekkie.", "translation": "That café does an excellent breakfast." }
+    ],
+    "relatedTerms": ["australian/arvo", "australian/sanga", "australian/maccas"],
+    "variants": ["brekky"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "servo",
+    "term": "servo",
+    "partOfSpeech": ["noun"],
+    "register": "colloquial",
+    "categories": ["everyday"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "A petrol station. From 'service station', and the standard word rather than a jokey one." }
+    ],
+    "examples": [
+      { "text": "Pull in at the servo, we're nearly empty.", "translation": "Stop at the petrol station, we're nearly out of fuel." },
+      { "text": "Only the servo's open at this hour.", "translation": "Only the petrol station is open at this time of night." }
+    ],
+    "relatedTerms": ["australian/bottle-o", "australian/arvo", "australian/ute"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "bottle-o",
+    "term": "bottle-o",
+    "partOfSpeech": ["noun"],
+    "register": "colloquial",
+    "categories": ["food-drink"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "A liquor shop. Off-licence in Britain, liquor store in the US." }
+    ],
+    "examples": [
+      { "text": "Stop at the bottle-o on the way.", "translation": "Stop at the off-licence on the way." },
+      { "text": "The bottle-o shuts at ten.", "translation": "The liquor shop closes at ten." }
+    ],
+    "relatedTerms": ["australian/servo", "australian/goon", "australian/tinnie"],
+    "variants": ["bottle shop"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "ambo",
+    "term": "ambo",
+    "partOfSpeech": ["noun"],
+    "register": "colloquial",
+    "categories": ["people"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "A paramedic; also the ambulance itself. Part of a large family of -o occupational names: firie, garbo, journo, muso, pollie." }
+    ],
+    "examples": [
+      { "text": "Someone call the ambos.", "translation": "Someone call an ambulance." },
+      { "text": "My sister's an ambo in Brisbane.", "translation": "My sister's a paramedic in Brisbane." }
+    ],
+    "relatedTerms": ["australian/tradie", "australian/arvo"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "tradie",
+    "term": "tradie",
+    "partOfSpeech": ["noun"],
+    "register": "colloquial",
+    "categories": ["money", "people"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "A tradesperson — electrician, plumber, carpenter and so on. Neutral and extremely common." }
+    ],
+    "examples": [
+      { "text": "We've got a tradie coming out Thursday.", "translation": "We've got a tradesman coming on Thursday." },
+      { "text": "The café fills up with tradies at seven.", "translation": "The café fills with tradespeople at seven." }
+    ],
+    "relatedTerms": ["australian/ambo", "australian/ute", "australian/bludger"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "sunnies",
+    "term": "sunnies",
+    "partOfSpeech": ["noun"],
+    "register": "colloquial",
+    "categories": ["everyday"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Sunglasses." }
+    ],
+    "examples": [
+      { "text": "Have you seen my sunnies?", "translation": "Have you seen my sunglasses?" },
+      { "text": "You'll want sunnies, it's blinding out there.", "translation": "You'll want sunglasses, the glare is intense." }
+    ],
+    "relatedTerms": ["australian/thongs", "australian/mozzie", "australian/arvo"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "mozzie",
+    "term": "mozzie",
+    "partOfSpeech": ["noun"],
+    "register": "colloquial",
+    "categories": ["everyday"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "A mosquito." }
+    ],
+    "examples": [
+      { "text": "The mozzies are shocking out here at dusk.", "translation": "The mosquitoes are terrible out here at dusk." },
+      { "text": "Chuck some mozzie spray in the bag.", "translation": "Put some insect repellent in the bag." }
+    ],
+    "relatedTerms": ["australian/arvo", "australian/sunnies", "australian/barbie"],
+    "variants": ["mozzy"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "barbie",
+    "term": "barbie",
+    "partOfSpeech": ["noun"],
+    "register": "colloquial",
+    "categories": ["food-drink"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "A barbecue — both the appliance and the social occasion." }
+    ],
+    "examples": [
+      { "text": "We're having a barbie Sunday, come round.", "translation": "We're having a barbecue on Sunday, come over." },
+      { "text": "Chuck the snags on the barbie.", "translation": "Put the sausages on the barbecue." }
+    ],
+    "origin": {
+      "etymology": "The phrase 'throw another shrimp on the barbie' comes from a 1980s tourism campaign aimed at Americans and is not something Australians say — not least because they say prawn, not shrimp. The word barbie itself is entirely genuine.",
+      "sources": []
+    },
+    "relatedTerms": ["australian/snag", "australian/esky", "australian/mozzie"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "esky",
+    "term": "esky",
+    "partOfSpeech": ["noun"],
+    "register": "colloquial",
+    "categories": ["everyday", "food-drink"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "A portable insulated cooler box for keeping drinks cold." }
+    ],
+    "examples": [
+      { "text": "Load the esky, we're leaving in ten.", "translation": "Pack the cooler, we're leaving in ten minutes." },
+      { "text": "There's a few coldies left in the esky.", "translation": "There are a few cold beers left in the cooler." }
+    ],
+    "origin": {
+      "etymology": "Originally a trademark — the Esky brand, named after 'Eskimo' — which became the generic term in Australia the way 'hoover' did in Britain. The brand-name origin is the reason it has no equivalent elsewhere.",
+      "sources": []
+    },
+    "relatedTerms": ["australian/barbie", "australian/tinnie", "australian/stubby"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "thongs",
+    "term": "thongs",
+    "partOfSpeech": ["noun"],
+    "register": "colloquial",
+    "categories": ["everyday"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Flip-flops; rubber sandals held on by a strap between the toes. Not underwear — a misunderstanding that causes reliable embarrassment for visitors." }
+    ],
+    "examples": [
+      { "text": "You can't wear thongs to the office.", "translation": "You can't wear flip-flops to the office." },
+      { "text": "I've broken a thong, hang on.", "translation": "My flip-flop has broken, hang on a second." }
+    ],
+    "relatedTerms": ["australian/sunnies", "australian/bogan"],
+    "synonyms": ["double pluggers"],
+    "usageWarning": ["context-dependent"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "ute",
+    "term": "ute",
+    "partOfSpeech": ["noun"],
+    "register": "colloquial",
+    "categories": ["everyday"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "pronunciation": { "respelling": "YOOT" },
+    "definitions": [
+      { "text": "A utility vehicle: a car-based pickup with an open tray at the back. Close to an American pickup truck but built on a passenger-car chassis." }
+    ],
+    "examples": [
+      { "text": "Chuck it in the back of the ute.", "translation": "Put it in the back of the pickup." },
+      { "text": "Every tradie on site drives a ute.", "translation": "Every tradesman on site drives a pickup." }
+    ],
+    "origin": {
+      "etymology": "Clipped from 'coupé utility'. The vehicle type is an Australian invention of the 1930s, so the word arrived with the thing itself.",
+      "firstAttested": "1940s",
+      "sources": []
+    },
+    "relatedTerms": ["australian/tradie", "australian/servo", "australian/bogan"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "dunny",
+    "term": "dunny",
+    "partOfSpeech": ["noun"],
+    "register": "colloquial",
+    "categories": ["everyday"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "A toilet, originally an outdoor one. Slightly rustic and slightly old-fashioned, but universally understood." }
+    ],
+    "examples": [
+      { "text": "The dunny's round the back.", "translation": "The toilet's round the back." },
+      { "text": "Busier than a one-armed bricklayer in Baghdad — or emptier than a dunny at a wedding.", "translation": "An example of the elaborate similes Australian English builds around ordinary words.", "context": "Extended comic similes are a genre of their own in Australian speech." }
+    ],
+    "origin": {
+      "etymology": "From British dialect dunnekin, an outdoor privy. Survived in Australia long after dying out in Britain.",
+      "sources": []
+    },
+    "relatedTerms": ["australian/crook"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "bogan",
+    "term": "bogan",
+    "partOfSpeech": ["noun", "adjective"],
+    "register": "informal",
+    "categories": ["people", "insults"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "A person seen as unsophisticated and working-class, identified by dress, taste and accent. Roughly Britain's chav or America's redneck, and carrying the same class contempt." },
+      { "text": "Sometimes reclaimed and worn with pride, particularly in the compound 'cashed-up bogan'.", "note": "Whether it stings depends entirely on who is saying it about whom." }
+    ],
+    "examples": [
+      { "text": "It's a bit of a bogan pub, but the schnitzel's good.", "translation": "It's a rough-and-ready pub, but the food's good." },
+      { "text": "Proud bogan, me.", "translation": "I'm a bogan and happy to be one.", "context": "Self-applied and affectionate." }
+    ],
+    "origin": {
+      "etymology": "Emerged in the 1980s, popularised by television comedy. The connection to the Bogan River in New South Wales is often asserted and has never been demonstrated.",
+      "firstAttested": "1980s",
+      "sources": []
+    },
+    "relatedTerms": ["australian/yobbo", "australian/dag", "australian/ute"],
+    "usageWarning": ["offensive", "context-dependent"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "yobbo",
+    "term": "yobbo",
+    "partOfSpeech": ["noun"],
+    "register": "informal",
+    "categories": ["people", "insults"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "A loud, boorish, usually drunk man. Focuses on behaviour where bogan focuses on class." }
+    ],
+    "examples": [
+      { "text": "A few yobbos started up in the back bar.", "translation": "A few louts started causing trouble in the back bar." },
+      { "text": "Don't be a yobbo, sit down.", "translation": "Stop being obnoxious and sit down." }
+    ],
+    "origin": {
+      "etymology": "From British yob, which is 'boy' spelled backwards — a 19th-century back-slang coinage. Australia added the -o.",
+      "sources": []
+    },
+    "relatedTerms": ["australian/bogan", "australian/drongo"],
+    "synonyms": ["yob"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "larrikin",
+    "term": "larrikin",
+    "partOfSpeech": ["noun"],
+    "register": "informal",
+    "categories": ["people"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "A mischievous, irreverent person who disregards convention — and is liked for it. Almost always a compliment in modern Australian use." }
+    ],
+    "examples": [
+      { "text": "He's a bit of a larrikin, but he's harmless.", "translation": "He's a cheeky troublemaker, but he means no harm." },
+      { "text": "That larrikin streak runs right through the culture.", "translation": "That irreverent streak runs right through the culture." }
+    ],
+    "origin": {
+      "etymology": "In the 19th century a larrikin was a street hooligan and the word was straightforwardly hostile. Its softening into an affectionate national self-image is one of the clearer examples of a culture rewriting its own vocabulary.",
+      "firstAttested": "1860s",
+      "sources": []
+    },
+    "relatedTerms": ["australian/yobbo", "australian/dag"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "drongo",
+    "term": "drongo",
+    "partOfSpeech": ["noun"],
+    "register": "informal",
+    "categories": ["insults"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "An idiot. Dated but still in use, and rarely aggressive." }
+    ],
+    "examples": [
+      { "text": "Some drongo left the gate open.", "translation": "Some idiot left the gate open." },
+      { "text": "Don't be a drongo, check it first.", "translation": "Don't be a fool, check it first." }
+    ],
+    "origin": {
+      "etymology": "From Drongo, a racehorse of the 1920s that ran 37 times without a single win. The horse was named after the drongo bird; the insult is named after the horse.",
+      "firstAttested": "1940s",
+      "sources": []
+    },
+    "relatedTerms": ["australian/galah", "australian/dag", "australian/yobbo"],
+    "synonyms": ["galah", "dill"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "galah",
+    "term": "galah",
+    "partOfSpeech": ["noun"],
+    "register": "informal",
+    "categories": ["insults"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "pronunciation": { "respelling": "guh-LAH" },
+    "definitions": [
+      { "text": "A fool; someone behaving noisily and stupidly." }
+    ],
+    "examples": [
+      { "text": "Stop carrying on like a pack of galahs.", "translation": "Stop behaving like a bunch of fools." },
+      { "text": "What a galah, he's reversed into the fence.", "translation": "What an idiot, he's reversed into the fence." }
+    ],
+    "origin": {
+      "etymology": "From the pink-and-grey cockatoo, a bird that gathers in loud, chaotic flocks and is known for hanging upside down from wires apparently for fun. The word comes from Yuwaalaraay, an Aboriginal language of New South Wales.",
+      "sources": []
+    },
+    "relatedTerms": ["australian/drongo", "australian/dag"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "dag",
+    "term": "dag",
+    "partOfSpeech": ["noun"],
+    "register": "informal",
+    "categories": ["people"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "An unfashionable, socially awkward but likeable person. Affectionate — closer to 'dork' than to 'loser'." },
+      { "text": "A funny, entertaining person. A bit of a dag can mean either, depending on tone." }
+    ],
+    "examples": [
+      { "text": "He's such a dag, but everyone loves him.", "translation": "He's such a dork, but everyone loves him." },
+      { "text": "You're a dag, you know that?", "translation": "You're a character, you know that?" }
+    ],
+    "origin": {
+      "etymology": "A dag is, literally, matted dung-caked wool on a sheep's rear. That the word has become a term of endearment is a fair summary of Australian humour.",
+      "sources": []
+    },
+    "relatedTerms": ["australian/larrikin", "australian/drongo", "australian/bogan"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "ripper",
+    "term": "ripper",
+    "partOfSpeech": ["adjective", "interjection"],
+    "register": "informal",
+    "categories": ["approval"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Excellent, terrific. Often as 'you little ripper!' — an exclamation of delight." }
+    ],
+    "examples": [
+      { "text": "That was a ripper of a weekend.", "translation": "That was a brilliant weekend." },
+      { "text": "You little ripper! We got the house.", "translation": "Fantastic! We got the house." }
+    ],
+    "relatedTerms": ["australian/you-beauty", "australian/grouse", "australian/stoked"],
+    "synonyms": ["bonzer", "grouse"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "you-beauty",
+    "term": "you beauty",
+    "partOfSpeech": ["interjection", "phrase"],
+    "register": "informal",
+    "categories": ["emotion", "approval"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "An exclamation of triumph or delight. Frequently rendered as 'ya beauty' and drawn out." }
+    ],
+    "examples": [
+      { "text": "You beauty, the rain's stopped!", "translation": "Brilliant, the rain's stopped!" },
+      { "text": "Ya bloody beauty, we won.", "translation": "Absolutely fantastic, we won." }
+    ],
+    "relatedTerms": ["australian/ripper", "australian/stoked", "australian/bloody-oath"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "fair-dinkum",
+    "term": "fair dinkum",
+    "partOfSpeech": ["adjective", "interjection"],
+    "register": "informal",
+    "categories": ["discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Genuine, true, the real thing. A fair dinkum offer is a sincere one." },
+      { "text": "As a question: really? Seriously?" }
+    ],
+    "examples": [
+      { "text": "Is that fair dinkum or are you having me on?", "translation": "Is that true or are you winding me up?" },
+      { "text": "He's a fair dinkum bloke, no side to him.", "translation": "He's a genuine man, no pretence about him." }
+    ],
+    "origin": {
+      "etymology": "Dinkum probably comes from a Lincolnshire dialect word for a fair share of work. The phrase is old enough and quoted often enough that Australians now use it slightly self-consciously — sincerely in politics, half-ironically elsewhere.",
+      "firstAttested": "1890s",
+      "sources": []
+    },
+    "relatedTerms": ["australian/deadset", "australian/bloody-oath"],
+    "synonyms": ["deadset", "genuine"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "deadset",
+    "term": "deadset",
+    "partOfSpeech": ["adjective", "adverb", "interjection"],
+    "register": "informal",
+    "categories": ["discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Genuine; genuinely. Deadset legend, deadset the best thing I've eaten." },
+      { "text": "As a standalone question or exclamation: are you serious? / I'm serious." }
+    ],
+    "examples": [
+      { "text": "Deadset, I've never seen anything like it.", "translation": "Honestly, I've never seen anything like it." },
+      { "text": "—They cancelled the whole thing. —Deadset?", "translation": "'They cancelled the whole thing.' 'Seriously?'" }
+    ],
+    "relatedTerms": ["australian/fair-dinkum", "australian/reckon"],
+    "variants": ["dead set"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "mate",
+    "term": "mate",
+    "partOfSpeech": ["noun"],
+    "register": "informal",
+    "categories": ["people", "greetings"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "A friend, and the default way to address almost any man — and increasingly any person — regardless of acquaintance." },
+      { "text": "Delivered flat and clipped, it signals that the speaker is unimpressed and a confrontation may follow.", "note": "Australians navigate the difference effortlessly and by tone alone; visitors frequently do not." }
+    ],
+    "examples": [
+      { "text": "G'day mate, how's it going?", "translation": "Hello mate, how are you?" },
+      { "text": "He's a good mate of mine from uni.", "translation": "He's a close friend of mine from university." },
+      { "text": "Mate. Settle down.", "translation": "Hey. Calm down.", "context": "A warning, not a greeting." }
+    ],
+    "origin": {
+      "etymology": "Inherited from British English but weighted far more heavily in Australia, where mateship is treated as a national value with its own political rhetoric.",
+      "sources": []
+    },
+    "relatedTerms": ["australian/bloody-oath", "australian/no-worries"],
+    "alsoUsedIn": ["british"],
+    "usageWarning": ["context-dependent"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "bloody-oath",
+    "term": "bloody oath",
+    "partOfSpeech": ["interjection", "phrase"],
+    "register": "informal",
+    "categories": ["discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Absolutely; too right. An emphatic agreement." }
+    ],
+    "examples": [
+      { "text": "—Reckon we should head off early? —Bloody oath.", "translation": "'Think we should leave early?' 'Too right.'" },
+      { "text": "Bloody oath it's hot.", "translation": "It certainly is hot." }
+    ],
+    "relatedTerms": ["australian/mate", "australian/too-right", "australian/fair-dinkum"],
+    "synonyms": ["too right", "my oath"],
+    "usageWarning": ["vulgar"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "too-right",
+    "term": "too right",
+    "partOfSpeech": ["interjection", "phrase"],
+    "register": "informal",
+    "categories": ["discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Absolutely; I agree entirely. The clean version of bloody oath." }
+    ],
+    "examples": [
+      { "text": "—That was worth the drive. —Too right it was.", "translation": "'That was worth the drive.' 'It certainly was.'" },
+      { "text": "Too right, mate.", "translation": "Absolutely, mate." }
+    ],
+    "relatedTerms": ["australian/bloody-oath", "australian/reckon"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "no-worries",
+    "term": "no worries",
+    "partOfSpeech": ["phrase", "interjection"],
+    "register": "colloquial",
+    "categories": ["discourse", "greetings"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "You're welcome; no problem; don't mention it. Serves as a response to thanks, to an apology and to a request alike." }
+    ],
+    "examples": [
+      { "text": "—Thanks for waiting. —No worries.", "translation": "'Thanks for waiting.' 'No problem.'" },
+      { "text": "No worries, I'll sort it out.", "translation": "Don't worry about it, I'll take care of it." }
+    ],
+    "origin": {
+      "etymology": "Recorded from the 1960s and now exported worldwide. Its range in Australia is wider than abroad — it does the work of 'you're welcome', 'that's fine' and 'certainly' all at once.",
+      "sources": []
+    },
+    "relatedTerms": ["australian/shell-be-right", "australian/mate"],
+    "synonyms": ["no dramas", "all good"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "shell-be-right",
+    "term": "she'll be right",
+    "partOfSpeech": ["phrase", "idiom"],
+    "register": "colloquial",
+    "categories": ["discourse", "emotion"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "It'll be fine; it'll work out. An expression of relaxed optimism, sometimes warranted and sometimes an excuse for not checking properly." }
+    ],
+    "examples": [
+      { "text": "Don't stress about it, she'll be right.", "translation": "Don't worry about it, it'll be fine." },
+      { "text": "The whole roof was held on with she'll-be-right engineering.", "translation": "The whole roof was held on by optimism rather than proper work.", "context": "Used attributively, and critically. 'She'll-be-right attitude' is a standard complaint." }
+    ],
+    "origin": {
+      "etymology": "The 'she' is impersonal, as in 'she's a beauty' — a long-standing feature of Australian and New Zealand English in which an unspecified situation takes a feminine pronoun.",
+      "sources": []
+    },
+    "relatedTerms": ["australian/no-worries", "australian/crook"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "heaps",
+    "term": "heaps",
+    "partOfSpeech": ["adverb", "adjective"],
+    "register": "colloquial",
+    "categories": ["discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "A lot; very. Works both as a quantifier and as an intensifier: heaps of people, heaps good." }
+    ],
+    "examples": [
+      { "text": "Thanks heaps, that's really helpful.", "translation": "Thanks a lot, that's really helpful." },
+      { "text": "There were heaps of people at the markets.", "translation": "There were loads of people at the markets." }
+    ],
+    "relatedTerms": ["australian/keen", "australian/stoked"],
+    "synonyms": ["loads", "heaps of"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "keen",
+    "term": "keen",
+    "partOfSpeech": ["adjective"],
+    "register": "colloquial",
+    "categories": ["emotion", "discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Enthusiastic about a plan; up for it. Used absolutely, with no complement: 'You keen?' 'Yeah, keen.'" }
+    ],
+    "examples": [
+      { "text": "We're going for a surf, you keen?", "translation": "We're going surfing, are you up for it?" },
+      { "text": "Keen as, just tell me when.", "translation": "Very keen, just tell me when.", "context": "'Keen as' with nothing after it is a distinctively Australasian construction — the comparison is left deliberately unfinished." }
+    ],
+    "relatedTerms": ["australian/heaps", "australian/stoked", "australian/reckon"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "crook",
+    "term": "crook",
+    "partOfSpeech": ["adjective"],
+    "register": "informal",
+    "categories": ["everyday", "emotion"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Ill, unwell. Feeling crook." },
+      { "text": "Broken or not working properly: a crook knee, a crook alternator." },
+      { "text": "Go crook at someone: to tell them off angrily." }
+    ],
+    "examples": [
+      { "text": "I've been a bit crook since Tuesday.", "translation": "I've been unwell since Tuesday." },
+      { "text": "The old fridge has gone crook again.", "translation": "The old fridge has broken down again." },
+      { "text": "Mum went crook at me for it.", "translation": "Mum told me off for it." }
+    ],
+    "relatedTerms": ["australian/chuck-a-sickie", "australian/cark-it"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "chunder",
+    "term": "chunder",
+    "partOfSpeech": ["verb", "noun"],
+    "register": "informal",
+    "categories": ["partying"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "To vomit, typically from drinking." }
+    ],
+    "examples": [
+      { "text": "He chundered in the taxi on the way home.", "translation": "He was sick in the taxi on the way home." },
+      { "text": "One more of those and I'll chunder.", "translation": "One more of those and I'll be sick." }
+    ],
+    "origin": {
+      "etymology": "Origin disputed. The popular story derives it from a warning shouted on ships — 'watch under' — which is memorable and unverified. It reached a global audience through Men at Work's 'Down Under' in 1981.",
+      "sources": []
+    },
+    "relatedTerms": ["australian/goon", "australian/crook", "australian/tinnie"],
+    "usageWarning": ["vulgar"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "goon",
+    "term": "goon",
+    "partOfSpeech": ["noun"],
+    "register": "informal",
+    "categories": ["food-drink", "partying"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Cheap boxed wine — specifically the silver foil bladder inside the box. Inseparable from Australian student culture." }
+    ],
+    "examples": [
+      { "text": "We could only afford goon that year.", "translation": "We could only afford boxed wine that year." },
+      { "text": "Someone's put the goon in the freezer.", "translation": "Someone's put the boxed wine in the freezer." }
+    ],
+    "origin": {
+      "etymology": "Probably from flagon, clipped and reshaped. The bladder-shaped bag gave rise to a whole vocabulary of its own, including goon sack and goon of fortune.",
+      "sources": []
+    },
+    "relatedTerms": ["australian/chunder", "australian/bottle-o", "australian/tinnie"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "stubby",
+    "term": "stubby",
+    "partOfSpeech": ["noun"],
+    "register": "colloquial",
+    "categories": ["food-drink"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "A short, squat 375ml bottle of beer. A stubby holder is the insulating sleeve that keeps it cold — an object of genuine cultural significance." }
+    ],
+    "examples": [
+      { "text": "Grab us a stubby out of the esky.", "translation": "Get me a bottle of beer from the cooler." },
+      { "text": "Every household has about forty stubby holders.", "translation": "Every household has about forty beer coolers." }
+    ],
+    "relatedTerms": ["australian/tinnie", "australian/esky", "australian/schooner"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "tinnie",
+    "term": "tinnie",
+    "partOfSpeech": ["noun"],
+    "register": "colloquial",
+    "categories": ["food-drink"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "A can of beer." },
+      { "text": "A small aluminium boat. Unrelated, and distinguished entirely by context." }
+    ],
+    "examples": [
+      { "text": "Crack open a tinnie, the game's starting.", "translation": "Open a can of beer, the match is starting." },
+      { "text": "We took the tinnie out on the river.", "translation": "We took the small aluminium boat out on the river." }
+    ],
+    "relatedTerms": ["australian/stubby", "australian/esky", "australian/goon"],
+    "variants": ["tinny"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "schooner",
+    "term": "schooner",
+    "partOfSpeech": ["noun"],
+    "register": "colloquial",
+    "categories": ["food-drink"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "pronunciation": { "respelling": "SKOO-ner" },
+    "definitions": [
+      { "text": "A glass of beer, 425ml in most of Australia. Beer glass sizes and their names vary by state, which is a live source of confusion for Australians themselves." }
+    ],
+    "examples": [
+      { "text": "Two schooners of the pale ale, thanks.", "translation": "Two 425ml glasses of the pale ale, please." },
+      { "text": "In South Australia a schooner is a different size entirely.", "translation": "In South Australia the same word means a smaller glass.", "context": "A schooner is 285ml in South Australia — genuinely the same word for a different measure." }
+    ],
+    "relatedTerms": ["australian/stubby", "australian/tinnie"],
+    "synonyms": ["pot", "middy"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "maccas",
+    "term": "Maccas",
+    "partOfSpeech": ["noun"],
+    "register": "colloquial",
+    "categories": ["food-drink"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "pronunciation": { "respelling": "MACK-us" },
+    "definitions": [
+      { "text": "McDonald's. Universal in Australia to the point that the company itself has used the name on its signage." }
+    ],
+    "examples": [
+      { "text": "Should we just stop at Maccas?", "translation": "Should we just stop at McDonald's?" },
+      { "text": "A Maccas run at midnight never ends well.", "translation": "A late-night McDonald's trip never ends well." }
+    ],
+    "relatedTerms": ["australian/brekkie", "australian/servo"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "sanga",
+    "term": "sanga",
+    "partOfSpeech": ["noun"],
+    "register": "colloquial",
+    "categories": ["food-drink"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "A sandwich. A sausage sanga — a sausage in a slice of white bread with onion and sauce — is the standard offering at community fundraisers." }
+    ],
+    "examples": [
+      { "text": "Chuck together a couple of sangas for the drive.", "translation": "Make a couple of sandwiches for the journey." },
+      { "text": "Sausage sanga with onion, please.", "translation": "A sausage sandwich with onion, please." }
+    ],
+    "relatedTerms": ["australian/snag", "australian/brekkie", "australian/barbie"],
+    "variants": ["sanger"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "snag",
+    "term": "snag",
+    "partOfSpeech": ["noun"],
+    "register": "colloquial",
+    "categories": ["food-drink"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "A sausage." }
+    ],
+    "examples": [
+      { "text": "How many snags do we need for twelve people?", "translation": "How many sausages do we need for twelve people?" },
+      { "text": "Snags are on, come and get one.", "translation": "The sausages are cooked, come and help yourself." }
+    ],
+    "relatedTerms": ["australian/barbie", "australian/sanga", "australian/chook"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "chook",
+    "term": "chook",
+    "partOfSpeech": ["noun"],
+    "register": "colloquial",
+    "categories": ["food-drink", "everyday"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "A chicken — the live bird and the cooked one alike. A chook raffle is a fixture of Australian pub life." }
+    ],
+    "examples": [
+      { "text": "We've got six chooks out the back.", "translation": "We keep six chickens in the back garden." },
+      { "text": "Grab a barbecue chook on the way home.", "translation": "Pick up a roast chicken on the way home." }
+    ],
+    "relatedTerms": ["australian/snag", "australian/barbie"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "bickie",
+    "term": "bickie",
+    "partOfSpeech": ["noun"],
+    "register": "colloquial",
+    "categories": ["food-drink", "money"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "A biscuit or cookie." },
+      { "text": "Big bickies: a large amount of money. That job pays big bickies." }
+    ],
+    "examples": [
+      { "text": "Cup of tea and a bickie?", "translation": "Cup of tea and a biscuit?" },
+      { "text": "Those tickets cost big bickies.", "translation": "Those tickets cost a fortune." }
+    ],
+    "relatedTerms": ["australian/brekkie", "australian/chook"],
+    "variants": ["bikkie"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "bludger",
+    "term": "bludger",
+    "partOfSpeech": ["noun"],
+    "register": "informal",
+    "categories": ["people", "money"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Someone who avoids work and lives off others' effort. The verb bludge means to shirk or to scrounge." }
+    ],
+    "examples": [
+      { "text": "He's a bludger, never does his share.", "translation": "He's a shirker, never does his share." },
+      { "text": "Can I bludge a lift off you?", "translation": "Can I scrounge a lift from you?", "context": "The verb is far milder than the noun and is often said cheerfully about oneself." }
+    ],
+    "origin": {
+      "etymology": "From bludgeoner, 19th-century cant for a pimp who lived off a woman's earnings. The sense narrowed to anyone living off others' work. 'Dole bludger' is a politically loaded term with a long history in Australian public debate.",
+      "sources": []
+    },
+    "relatedTerms": ["australian/chuck-a-sickie", "australian/tradie", "australian/whinge"],
+    "usageWarning": ["offensive"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "whinge",
+    "term": "whinge",
+    "partOfSpeech": ["verb", "noun"],
+    "register": "informal",
+    "categories": ["insults", "discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "pronunciation": { "respelling": "WINJ, rhymes with hinge" },
+    "definitions": [
+      { "text": "To complain persistently in a way that irritates. Distinct from a legitimate complaint — calling something a whinge dismisses it." }
+    ],
+    "examples": [
+      { "text": "Stop whingeing and give me a hand.", "translation": "Stop complaining and help me." },
+      { "text": "He had a good whinge about the parking.", "translation": "He had a good moan about the parking." }
+    ],
+    "origin": {
+      "etymology": "From Old English hwinsian, 'to whine'. Survived in Scots and northern English dialect and became a central Australian word — 'whingeing Pom' has been the standard Australian complaint about the English since at least the 1960s.",
+      "sources": []
+    },
+    "relatedTerms": ["australian/bludger", "australian/spit-the-dummy", "australian/sook"],
+    "alsoUsedIn": ["british"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "sook",
+    "term": "sook",
+    "partOfSpeech": ["noun", "verb"],
+    "register": "informal",
+    "categories": ["insults", "emotion"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "pronunciation": { "respelling": "rhymes with book" },
+    "definitions": [
+      { "text": "Someone who sulks or cries easily; a softie. Often affectionate, especially about children and pets." },
+      { "text": "To sulk. He's off sooking in his room." }
+    ],
+    "examples": [
+      { "text": "Don't be a sook, it's only a scratch.", "translation": "Don't be a baby, it's only a scratch." },
+      { "text": "The dog's a total sook in a thunderstorm.", "translation": "The dog is a complete wimp in a thunderstorm." }
+    ],
+    "relatedTerms": ["australian/whinge", "australian/spit-the-dummy"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "dob",
+    "term": "dob",
+    "partOfSpeech": ["verb"],
+    "register": "informal",
+    "categories": ["discourse", "people"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "To inform on someone. Usually dob someone in. A dobber is the person who does it, and the taboo against it is taken seriously from primary school onwards." }
+    ],
+    "examples": [
+      { "text": "Who dobbed me in?", "translation": "Who reported me?" },
+      { "text": "Nobody likes a dobber.", "translation": "Nobody likes a snitch." }
+    ],
+    "relatedTerms": ["australian/bludger", "australian/mate"],
+    "synonyms": ["snitch"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "spit-the-dummy",
+    "term": "spit the dummy",
+    "partOfSpeech": ["phrase", "idiom"],
+    "register": "informal",
+    "categories": ["emotion"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "literalMeaning": "To spit out the pacifier.",
+    "definitions": [
+      { "text": "To lose one's temper in a disproportionate, childish way." }
+    ],
+    "examples": [
+      { "text": "He completely spat the dummy when they changed the roster.", "translation": "He threw a tantrum when they changed the roster." },
+      { "text": "No need to spit the dummy over it.", "translation": "There's no need to throw a fit over it." }
+    ],
+    "origin": {
+      "etymology": "A dummy is a baby's pacifier. The image is exact: an infant flinging it out of the pram in fury. The phrase always implies the reaction was out of proportion.",
+      "sources": []
+    },
+    "relatedTerms": ["australian/sook", "australian/whinge"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "chuck-a-sickie",
+    "term": "chuck a sickie",
+    "partOfSpeech": ["phrase", "idiom"],
+    "register": "informal",
+    "categories": ["money"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "To take a day off work claiming illness when you are perfectly well." }
+    ],
+    "examples": [
+      { "text": "Half the office chucked a sickie the day after the final.", "translation": "Half the office called in sick the day after the final." },
+      { "text": "Tempted to chuck a sickie tomorrow.", "translation": "I'm tempted to take a fake sick day tomorrow." }
+    ],
+    "origin": {
+      "etymology": "Chuck functions as a general-purpose verb in Australian English — chuck a U-turn, chuck a wobbly, chuck a sickie — where other varieties would use a more specific one.",
+      "sources": []
+    },
+    "relatedTerms": ["australian/bludger", "australian/crook"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "cark-it",
+    "term": "cark it",
+    "partOfSpeech": ["phrase", "verb"],
+    "register": "informal",
+    "categories": ["everyday"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Of a machine: to break down permanently." },
+      { "text": "Of a person or animal: to die. Blunt and irreverent rather than cruel, but not for a condolence card." }
+    ],
+    "examples": [
+      { "text": "The old mower finally carked it.", "translation": "The old lawnmower finally packed up for good." },
+      { "text": "My phone battery carked it halfway through.", "translation": "My phone battery died halfway through." }
+    ],
+    "relatedTerms": ["australian/crook", "australian/chuck-a-sickie"],
+    "usageWarning": ["context-dependent"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "grouse",
+    "term": "grouse",
+    "partOfSpeech": ["adjective"],
+    "register": "dated",
+    "categories": ["approval"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Excellent, great. Dated — associated with an older generation, and now used by younger speakers mostly in knowing imitation." }
+    ],
+    "examples": [
+      { "text": "That's grouse, thanks mate.", "translation": "That's great, thanks mate." },
+      { "text": "We had a grouse time at the coast.", "translation": "We had a great time at the coast." }
+    ],
+    "relatedTerms": ["australian/ripper", "australian/you-beauty"],
+    "synonyms": ["bonzer", "ripper"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "stoked",
+    "term": "stoked",
+    "partOfSpeech": ["adjective"],
+    "register": "informal",
+    "categories": ["emotion"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Delighted, thrilled. Came out of surf culture and is now general." }
+    ],
+    "examples": [
+      { "text": "I'm stoked you could make it.", "translation": "I'm thrilled you could come." },
+      { "text": "She was absolutely stoked with the result.", "translation": "She was over the moon with the result." }
+    ],
+    "relatedTerms": ["australian/keen", "australian/you-beauty", "australian/ripper"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "reckon",
+    "term": "reckon",
+    "partOfSpeech": ["verb"],
+    "register": "colloquial",
+    "categories": ["discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "To think or suppose. Where other varieties say 'I think', Australians say 'I reckon' — it is the default, not a flourish." },
+      { "text": "Standing alone as an emphatic agreement: 'Reckon.'" }
+    ],
+    "examples": [
+      { "text": "I reckon we should leave by six.", "translation": "I think we should leave by six." },
+      { "text": "—That was the best one. —Reckon.", "translation": "'That was the best one.' 'Agreed.'" }
+    ],
+    "relatedTerms": ["australian/deadset", "australian/too-right", "australian/keen"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "rack-off",
+    "term": "rack off",
+    "partOfSpeech": ["phrase", "verb"],
+    "register": "informal",
+    "categories": ["insults"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Go away; clear off. A mild, somewhat dated dismissal." }
+    ],
+    "examples": [
+      { "text": "Rack off, I'm trying to concentrate.", "translation": "Go away, I'm trying to concentrate." },
+      { "text": "Told him to rack off.", "translation": "I told him to get lost." }
+    ],
+    "relatedTerms": ["australian/drongo", "australian/yobbo"],
+    "synonyms": ["nick off", "get stuffed"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "rellies",
+    "term": "rellies",
+    "partOfSpeech": ["noun"],
+    "register": "colloquial",
+    "categories": ["people"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Relatives, family members — usually the extended sort who turn up at Christmas." }
+    ],
+    "examples": [
+      { "text": "The rellies are all coming down for Christmas.", "translation": "The relatives are all coming for Christmas." },
+      { "text": "Staying with rellies in Perth.", "translation": "Staying with relatives in Perth." }
+    ],
+    "relatedTerms": ["australian/arvo", "australian/brekkie"],
+    "variants": ["rellos"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "woop-woop",
+    "term": "woop woop",
+    "partOfSpeech": ["noun"],
+    "register": "informal",
+    "categories": ["everyday"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "An imaginary place standing for anywhere remote and inconvenient. Out in woop woop means a very long way from anything." }
+    ],
+    "examples": [
+      { "text": "The venue's out in woop woop, we'll need a car.", "translation": "The venue is in the middle of nowhere, we'll need a car." },
+      { "text": "They've moved to woop woop, takes three hours to get there.", "translation": "They've moved somewhere remote, it takes three hours to get there." }
+    ],
+    "origin": {
+      "etymology": "A jocular placeholder name in the pattern of Australian place names, several of which genuinely do reduplicate — Wagga Wagga, Woy Woy. The joke works because it sounds entirely plausible.",
+      "sources": []
+    },
+    "relatedTerms": ["australian/ute", "australian/servo"],
+    "synonyms": ["the back of Bourke", "beyond the black stump"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "dodgy",
+    "term": "dodgy",
+    "partOfSpeech": ["adjective"],
+    "register": "informal",
+    "categories": ["everyday"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Suspect, unreliable, probably not above board. Shared with British English and used just as freely." }
+    ],
+    "examples": [
+      { "text": "The wiring in that place looked pretty dodgy.", "translation": "The wiring in that place looked unsafe." },
+      { "text": "He got it from some dodgy website.", "translation": "He got it from some untrustworthy website." }
+    ],
+    "relatedTerms": ["australian/bogan", "australian/servo"],
+    "alsoUsedIn": ["british"],
+    "reviewedBy": "Editorial team"
+  }
+]

@@ -1,0 +1,105 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
+import AlphabetBar from '../../components/AlphabetBar.astro';
+import JsonLd from '../../components/JsonLd.astro';
+import {
+  alphaKey,
+  byTerm,
+  countriesById,
+  entryPath,
+  splitEntryId,
+  type Entry,
+} from '../../lib/urls';
+import { browseSeo, SITE_URL } from '../../lib/seo';
+
+const countries = await getCollection('countries');
+const byId = countriesById(countries);
+const entries = (await getCollection('entries', (e) => e.data.status === 'published')).sort(byTerm);
+
+const groups = new Map<string, Entry[]>();
+for (const e of entries) {
+  const k = alphaKey(e.data.term);
+  (groups.get(k) ?? groups.set(k, []).get(k)!).push(e);
+}
+const available = new Set(groups.keys());
+const sortedGroups = [...groups].sort(([a], [b]) =>
+  a === '#' ? 1 : b === '#' ? -1 : a.localeCompare(b),
+);
+
+const seo = browseSeo(entries.length);
+const pageUrl = new URL(Astro.url.pathname, SITE_URL).href;
+
+const schema = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Home', item: `${SITE_URL}/` },
+    { '@type': 'ListItem', position: 2, name: 'Browse A–Z', item: pageUrl },
+  ],
+};
+---
+
+<Layout title={seo.title} description={seo.description}>
+  <JsonLd slot="head" schema={schema} />
+
+  <div class="container-site py-8 lg:py-12">
+    <Breadcrumbs items={[{ label: 'Browse A–Z' }]} />
+
+    <header class="mt-8 max-w-3xl">
+      <h1 class="text-display-lg text-ink">Every term, A to Z</h1>
+      <p class="mt-5 text-body-md text-body">
+        All {entries.length} terms on the site in one alphabetical index, across {countries.length} countries.
+        Terms are sorted ignoring accents, so <span lang="es-MX">güey</span> sits with the Gs.
+      </p>
+    </header>
+
+    <div class="sticky top-16 z-30 -mx-6 mt-8 border-b border-hairline bg-surface-soft px-6 py-3 md:top-[6.75rem]">
+      <AlphabetBar available={available} />
+    </div>
+
+    <div class="mt-10 grid gap-10">
+      {
+        sortedGroups.map(([letter, items]) => (
+          <section aria-labelledby={`letter-${letter === '#' ? 'other' : letter}-h`}>
+            <h2
+              id={`letter-${letter === '#' ? 'other' : letter}`}
+              class="sr-only"
+            >
+              Terms beginning with {letter}
+            </h2>
+            <p
+              id={`letter-${letter === '#' ? 'other' : letter}-h`}
+              aria-hidden="true"
+              class="border-b border-hairline pb-2 text-heading-xl text-ink"
+            >
+              {letter}
+            </p>
+            <ul class="mt-4 grid gap-x-6 gap-y-1 sm:grid-cols-2 lg:grid-cols-3">
+              {items.map((e) => {
+                const country = byId.get(splitEntryId(e.id)[0])!;
+                return (
+                  <li>
+                    <a
+                      href={entryPath(country.data.urlSlug, splitEntryId(e.id)[1])}
+                      class="focus-ring flex items-baseline gap-2 rounded-sm py-1.5 hover:underline"
+                    >
+                      <span class="text-body-md text-ink" lang={country.data.languageCode}>
+                        {e.data.term}
+                      </span>
+                      <span class="text-caption text-mute" aria-hidden="true">
+                        {country.data.flagEmoji}
+                      </span>
+                      <span class="sr-only">({country.data.adjective})</span>
+                    </a>
+                  </li>
+                );
+              })}
+            </ul>
+          </section>
+        ))
+      }
+    </div>
+  </div>
+</Layout>

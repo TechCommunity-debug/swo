@@ -1,0 +1,229 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
+import EntryCard from '../../components/EntryCard.astro';
+import AlphabetBar from '../../components/AlphabetBar.astro';
+import JsonLd from '../../components/JsonLd.astro';
+import {
+  alphaKey,
+  byTerm,
+  categoryPath,
+  entryPath,
+  splitEntryId,
+  type Country,
+  type Entry,
+} from '../../lib/urls';
+import { CATEGORY_BY_ID, type CategoryId } from '../../data/taxonomy';
+import { countrySeo, SITE_URL } from '../../lib/seo';
+
+export async function getStaticPaths() {
+  const countries = await getCollection('countries');
+  const all = await getCollection('entries', (e) => e.data.status === 'published');
+
+  return countries.map((country) => ({
+    params: { country: country.data.urlSlug },
+    props: {
+      country,
+      entries: all.filter((e) => splitEntryId(e.id)[0] === country.id).sort(byTerm),
+    },
+  }));
+}
+
+interface Props {
+  country: Country;
+  entries: Entry[];
+}
+
+const { country, entries } = Astro.props;
+const c = country.data;
+const seo = countrySeo(c, entries.length);
+const pageUrl = new URL(Astro.url.pathname, SITE_URL).href;
+
+const href = (e: Entry) => entryPath(c.urlSlug, splitEntryId(e.id)[1]);
+
+// Group alphabetically for the A–Z sections.
+const groups = new Map<string, Entry[]>();
+for (const e of entries) {
+  const k = alphaKey(e.data.term);
+  (groups.get(k) ?? groups.set(k, []).get(k)!).push(e);
+}
+const available = new Set(groups.keys());
+const sortedGroups = [...groups].sort(([a], [b]) =>
+  a === '#' ? 1 : b === '#' ? -1 : a.localeCompare(b),
+);
+
+// Category counts within this country, for the chip strip.
+const categoryCounts = new Map<CategoryId, number>();
+for (const e of entries) {
+  for (const cat of e.data.categories) {
+    categoryCounts.set(cat, (categoryCounts.get(cat) ?? 0) + 1);
+  }
+}
+const topCategories = [...categoryCounts]
+  .sort((a, b) => b[1] - a[1])
+  .map(([id, n]) => ({ ...CATEGORY_BY_ID.get(id)!, count: n }));
+
+// The "start here" band: terms carrying the most editorial depth, which is a
+// reasonable proxy for the ones a newcomer most needs.
+const depth = (e: Entry) =>
+  e.data.definitions.length +
+  e.data.examples.length +
+  (e.data.origin ? 2 : 0) +
+  (e.data.relatedTerms?.length ?? 0);
+const starters = [...entries].sort((a, b) => depth(b) - depth(a)).slice(0, 8);
+
+const introParagraphs = c.intro.split('\n\n');
+
+const schema = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'CollectionPage',
+    name: `${c.adjective} Slang`,
+    description: c.metaDescription,
+    url: pageUrl,
+    inLanguage: 'en',
+    about: {
+      '@type': 'DefinedTermSet',
+      '@id': `${pageUrl}#termset`,
+      name: `${c.adjective} Slang`,
+      inLanguage: c.languageCode,
+    },
+    mainEntity: {
+      '@type': 'ItemList',
+      numberOfItems: entries.length,
+      itemListElement: entries.slice(0, 50).map((e, i) => ({
+        '@type': 'ListItem',
+        position: i + 1,
+        name: e.data.term,
+        url: new URL(href(e), SITE_URL).href,
+      })),
+    },
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Home', item: `${SITE_URL}/` },
+      { '@type': 'ListItem', position: 2, name: `${c.adjective} slang`, item: pageUrl },
+    ],
+  },
+];
+---
+
+<Layout title={seo.title} description={seo.description}>
+  <JsonLd slot="head" schema={schema} />
+
+  <div class="container-site py-8 lg:py-12">
+    <Breadcrumbs items={[{ label: `${c.adjective} slang` }]} />
+
+    <header class="mt-8 max-w-3xl">
+      <p class="text-body-sm font-semibold tracking-wide text-mute uppercase">
+        <span aria-hidden="true">{c.flagEmoji}</span>{' '}
+        {c.name} · {c.languageName}
+      </p>
+      <h1 class="mt-2 text-display-lg text-ink">{c.adjective} Slang</h1>
+      <div class="mt-6 grid gap-4">
+        {introParagraphs.map((p) => <p class="text-body-md text-body">{p}</p>)}
+      </div>
+      <p class="mt-6 text-body-sm text-mute">
+        {entries.length} terms, each with definitions and worked examples.
+      </p>
+    </header>
+
+    <section class="mt-section" aria-labelledby="starters">
+      <h2 id="starters" class="text-heading-xl text-ink">Start with these</h2>
+      <p class="mt-2 max-w-2xl text-body-md text-mute">
+        The terms below carry the most usage detail — register, origin and the situations where
+        they go wrong. They are the ones worth reading in full before the rest.
+      </p>
+      <ul class="mt-6 flex flex-wrap gap-2">
+        {
+          starters.map((e) => (
+            <li>
+              <a
+                href={href(e)}
+                class="focus-ring inline-flex rounded-full bg-canvas px-4 py-2 text-body-md font-semibold text-ink ring-1 ring-hairline hover:bg-surface-card"
+                lang={c.languageCode}
+              >
+                {e.data.term}
+              </a>
+            </li>
+          ))
+        }
+      </ul>
+    </section>
+
+    <section class="mt-section" aria-labelledby="by-category">
+      <h2 id="by-category" class="text-heading-xl text-ink">By category</h2>
+      <ul class="mt-6 flex flex-wrap gap-2">
+        {
+          topCategories.map((cat) => (
+            <li>
+              <a
+                href={categoryPath(cat.urlSlug)}
+                class="focus-ring inline-flex items-center gap-2 rounded-full bg-surface-card px-4 py-2 text-body-sm font-semibold text-ink hover:bg-surface-sunk"
+              >
+                {cat.name}
+                <span class="text-caption font-normal text-mute">{cat.count}</span>
+              </a>
+            </li>
+          ))
+        }
+      </ul>
+    </section>
+
+    <section class="mt-section" aria-labelledby="all-terms">
+      <div class="flex flex-wrap items-baseline justify-between gap-4">
+        <h2 id="all-terms" class="text-heading-xl text-ink">
+          All {c.adjective} slang A–Z
+        </h2>
+        <p class="text-body-sm text-mute">{entries.length} terms</p>
+      </div>
+
+      <div class="mt-4">
+        <AlphabetBar available={available} />
+      </div>
+
+      <div class="mt-8 grid gap-10">
+        {
+          sortedGroups.map(([letter, items]) => (
+            <section aria-labelledby={`letter-${letter === '#' ? 'other' : letter}-h`}>
+              <h3
+                id={`letter-${letter === '#' ? 'other' : letter}`}
+                class="sr-only"
+              >
+                Terms beginning with {letter}
+              </h3>
+              <p
+                id={`letter-${letter === '#' ? 'other' : letter}-h`}
+                aria-hidden="true"
+                class="border-b border-hairline pb-2 text-heading-lg text-ink"
+              >
+                {letter}
+              </p>
+              <div class="masonry mt-4">
+                {items.map((e) => (
+                  <EntryCard entry={e} href={href(e)} lang={c.languageCode} />
+                ))}
+              </div>
+            </section>
+          ))
+        }
+      </div>
+    </section>
+
+    <section class="mt-section rounded-lg bg-canvas p-8 ring-1 ring-hairline-soft">
+      <h2 class="text-heading-lg text-ink">Compare across countries</h2>
+      <p class="mt-2 max-w-2xl text-body-md text-mute">
+        Most of these meanings exist in every language on this site — they just wear different
+        words. The category pages put them side by side.
+      </p>
+      <a
+        href="/categories/"
+        class="focus-ring mt-5 inline-flex h-10 items-center rounded-md bg-primary px-4 text-body-sm font-bold text-on-primary hover:bg-primary-pressed"
+        >Browse by category</a
+      >
+    </section>
+  </div>
+</Layout>

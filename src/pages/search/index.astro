@@ -1,0 +1,128 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
+import SearchBox from '../../components/SearchBox.astro';
+import { searchSeo } from '../../lib/seo';
+
+const seo = searchSeo();
+// A client-rendered shell with no indexable content of its own. It is also
+// excluded from the sitemap in astro.config.mjs.
+---
+
+<Layout title={seo.title} description={seo.description} noIndex>
+  <div class="container-site py-8 lg:py-12">
+    <Breadcrumbs items={[{ label: 'Search' }]} />
+
+    <header class="mt-8 max-w-3xl">
+      <h1 class="text-display-lg text-ink">Search</h1>
+      <p class="mt-5 text-body-md text-body">
+        Search by term or by meaning — typing <em>drunk</em> will find the words for it in every
+        language on the site.
+      </p>
+    </header>
+
+    <div class="mt-8 max-w-2xl">
+      <SearchBox autofocus />
+    </div>
+
+    <div id="search-page-results" class="mt-10 max-w-3xl" aria-live="polite">
+      <p class="text-body-md text-mute">Start typing to see results.</p>
+    </div>
+
+    <p class="mt-section text-body-md text-mute">
+      Prefer to browse? Try the <a
+        href="/browse/"
+        class="focus-ring rounded-sm font-semibold text-ink-soft hover:underline">full A–Z index</a
+      > or pick a <a
+        href="/categories/"
+        class="focus-ring rounded-sm font-semibold text-ink-soft hover:underline">category</a
+      >.
+    </p>
+  </div>
+</Layout>
+
+<script>
+  /**
+   * The /search/ page renders its results in the flow of the page rather than
+   * in the dropdown, and reads ?q= on load so search results are linkable.
+   */
+  type Row = [term: string, countryAdj: string, flag: string, href: string, gloss: string];
+
+  const container = document.getElementById('search-page-results');
+  const input = document.querySelector<HTMLInputElement>('#q-main');
+  if (container && input) {
+    const panel = input.closest('form')?.querySelector<HTMLElement>('[data-search-results]');
+    // The inline dropdown is redundant here — results go inline below.
+    panel?.remove();
+
+    const norm = (s: string) =>
+      s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '');
+
+    const escapeHtml = (s: string) =>
+      s.replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' })[c]!);
+
+    let rows: Row[] | null = null;
+    const load = async () => (rows ??= await fetch('/search-index.json').then((r) => r.json()));
+
+    function matches(all: Row[], raw: string) {
+      const q = norm(raw.trim());
+      if (!q) return [];
+      const a: Row[] = [], b: Row[] = [], c: Row[] = [];
+      for (const row of all) {
+        const t = norm(row[0]);
+        if (t.startsWith(q)) a.push(row);
+        else if (t.includes(q)) b.push(row);
+        else if (norm(row[4]).includes(q)) c.push(row);
+      }
+      return [...a, ...b, ...c].slice(0, 60);
+    }
+
+    async function run(pushState: boolean) {
+      const q = input!.value;
+      const url = new URL(location.href);
+      if (q.trim()) url.searchParams.set('q', q);
+      else url.searchParams.delete('q');
+      if (pushState) history.replaceState(null, '', url);
+
+      if (!q.trim()) {
+        container!.innerHTML = '<p class="text-body-md text-mute">Start typing to see results.</p>';
+        return;
+      }
+      const found = matches(await load(), q);
+      if (found.length === 0) {
+        container!.innerHTML = `<p class="text-body-md text-mute">Nothing matches “${escapeHtml(q)}”. Try a shorter word, or <a href="/browse/" class="font-semibold text-ink-soft underline">browse A–Z</a>.</p>`;
+        return;
+      }
+      container!.innerHTML = `
+        <p class="text-body-sm font-bold text-ink">${found.length} result${found.length === 1 ? '' : 's'}</p>
+        <ul class="mt-4 grid gap-1">
+          ${found
+            .map(
+              ([term, adj, flag, href, gloss]) => `
+            <li>
+              <a href="${href}" class="focus-ring block rounded-md p-3 hover:bg-canvas">
+                <span class="flex items-baseline gap-2">
+                  <span class="text-heading-md text-ink">${escapeHtml(term)}</span>
+                  <span class="text-caption text-mute">${flag} ${escapeHtml(adj)}</span>
+                </span>
+                <span class="mt-1 block text-body-sm text-body">${escapeHtml(gloss)}</span>
+              </a>
+            </li>`,
+            )
+            .join('')}
+        </ul>`;
+    }
+
+    input.addEventListener('input', () => void run(true));
+    input.closest('form')?.addEventListener('submit', (e) => {
+      e.preventDefault();
+      void run(true);
+    });
+
+    const initial = new URLSearchParams(location.search).get('q');
+    if (initial) {
+      input.value = initial;
+      void run(false);
+    }
+  }
+</script>

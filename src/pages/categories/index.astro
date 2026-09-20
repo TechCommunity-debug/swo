@@ -1,0 +1,98 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
+import JsonLd from '../../components/JsonLd.astro';
+import { categoryPath, splitEntryId } from '../../lib/urls';
+import { CATEGORIES } from '../../data/taxonomy';
+import { categoriesIndexSeo, SITE_URL } from '../../lib/seo';
+
+const countries = await getCollection('countries');
+const byId = new Map(countries.map((c) => [c.id, c]));
+const entries = await getCollection('entries', (e) => e.data.status === 'published');
+
+const stats = CATEGORIES.map((cat) => {
+  const matching = entries.filter((e) => e.data.categories.includes(cat.id));
+  const countryIds = new Set(matching.map((e) => splitEntryId(e.id)[0]));
+  return {
+    ...cat,
+    count: matching.length,
+    flags: [...countryIds]
+      .map((id) => byId.get(id)?.data.flagEmoji)
+      .filter(Boolean)
+      .join(' '),
+  };
+}).filter((c) => c.count > 0);
+
+const seo = categoriesIndexSeo();
+const pageUrl = new URL(Astro.url.pathname, SITE_URL).href;
+
+const schema = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'CollectionPage',
+    name: 'Slang by category',
+    description: seo.description,
+    url: pageUrl,
+    mainEntity: {
+      '@type': 'ItemList',
+      numberOfItems: stats.length,
+      itemListElement: stats.map((c, i) => ({
+        '@type': 'ListItem',
+        position: i + 1,
+        name: c.name,
+        url: new URL(categoryPath(c.urlSlug), SITE_URL).href,
+      })),
+    },
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Home', item: `${SITE_URL}/` },
+      { '@type': 'ListItem', position: 2, name: 'Categories', item: pageUrl },
+    ],
+  },
+];
+---
+
+<Layout title={seo.title} description={seo.description}>
+  <JsonLd slot="head" schema={schema} />
+
+  <div class="container-site py-8 lg:py-12">
+    <Breadcrumbs items={[{ label: 'Categories' }]} />
+
+    <header class="mt-8 max-w-3xl">
+      <h1 class="text-display-lg text-ink">Slang by category</h1>
+      <p class="mt-5 text-body-md text-body">
+        Slang is not distributed evenly across a language. Every culture builds a dense vocabulary
+        around the same small set of things — saying something is good, calling someone a fool,
+        talking about money, getting drunk — and leaves whole other areas almost untouched. These
+        pages group the terms by what they do rather than where they come from, which is the only
+        way to see that <span lang="es-MX">chido</span>, <span lang="en-GB">mint</span>,{' '}
+        <span lang="it-IT">figo</span> and <span lang="fr-FR">grave bien</span> are the same word wearing
+        four passports.
+      </p>
+    </header>
+
+    <ul class="mt-section grid gap-3 md:grid-cols-2">
+      {
+        stats.map((c) => (
+          <li>
+            <a
+              href={categoryPath(c.urlSlug)}
+              class="focus-ring flex h-full flex-col rounded-md bg-canvas p-6 ring-1 ring-hairline-soft hover:bg-surface-card"
+            >
+              <div class="flex items-baseline justify-between gap-4">
+                <h2 class="text-heading-lg text-ink">{c.name}</h2>
+                <span class="shrink-0 text-body-sm text-mute">{c.count} terms</span>
+              </div>
+              <p class="mt-3 text-body-sm text-body">{c.description}</p>
+              <p class="mt-4 text-body-sm" aria-hidden="true">{c.flags}</p>
+            </a>
+          </li>
+        ))
+      }
+    </ul>
+  </div>
+</Layout>

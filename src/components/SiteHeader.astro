@@ -1,0 +1,135 @@
+---
+import { getCollection } from 'astro:content';
+import { countryPath } from '../lib/urls';
+import SearchBox from './SearchBox.astro';
+
+const countries = (await getCollection('countries')).sort(
+  (a, b) => a.data.order - b.data.order,
+);
+const current = Astro.url.pathname;
+---
+
+<header class="sticky top-0 z-40 border-b border-hairline bg-canvas">
+  <div class="container-site flex h-16 items-center gap-4">
+    <a
+      href="/"
+      class="focus-ring -mx-1 shrink-0 rounded-md px-1 text-heading-md tracking-[-0.5px] text-ink"
+    >
+      <span class="text-primary">Slang</span>WordsOnline
+    </a>
+
+    <div class="ml-auto hidden max-w-md flex-1 md:block">
+      <SearchBox compact />
+    </div>
+
+    <nav aria-label="Main" class="ml-auto hidden items-center gap-1 md:ml-0 md:flex">
+      <a
+        href="/categories/"
+        aria-current={current.startsWith('/categories/') ? 'page' : undefined}
+        class="focus-ring rounded-md px-3 py-2 text-body-sm font-semibold text-ink aria-[current=page]:text-primary hover:bg-surface-card"
+        >Categories</a
+      >
+      <a
+        href="/browse/"
+        aria-current={current.startsWith('/browse/') ? 'page' : undefined}
+        class="focus-ring rounded-md px-3 py-2 text-body-sm font-semibold text-ink aria-[current=page]:text-primary hover:bg-surface-card"
+        >Browse A–Z</a
+      >
+      <a
+        href="/about/"
+        aria-current={current.startsWith('/about/') ? 'page' : undefined}
+        class="focus-ring rounded-md px-3 py-2 text-body-sm font-semibold text-ink aria-[current=page]:text-primary hover:bg-surface-card"
+        >About</a
+      >
+    </nav>
+
+    <!-- Mobile: a details/summary drawer. No JS needed for the core nav. -->
+    <details class="group relative ml-auto md:hidden">
+      <summary
+        class="focus-ring flex size-10 cursor-pointer list-none items-center justify-center rounded-full bg-surface-card [&::-webkit-details-marker]:hidden"
+        aria-label="Open menu"
+      >
+        <svg
+          viewBox="0 0 24 24"
+          class="size-5 group-open:hidden"
+          fill="none"
+          stroke="currentColor"
+          stroke-width="2"
+          stroke-linecap="round"
+          aria-hidden="true"
+        >
+          <path d="M3 6h18M3 12h18M3 18h18" />
+        </svg>
+        <svg
+          viewBox="0 0 24 24"
+          class="hidden size-5 group-open:block"
+          fill="none"
+          stroke="currentColor"
+          stroke-width="2"
+          stroke-linecap="round"
+          aria-hidden="true"
+        >
+          <path d="M6 6l12 12M18 6L6 18" />
+        </svg>
+      </summary>
+      <div
+        class="fixed inset-x-0 top-16 max-h-[calc(100dvh-4rem)] overflow-y-auto border-b border-hairline bg-canvas px-6 pt-4 pb-8"
+      >
+        <SearchBox />
+        <nav aria-label="Countries" class="mt-6">
+          <h2 class="text-caption font-semibold tracking-wide text-mute uppercase">Countries</h2>
+          <ul class="mt-2 grid grid-cols-2 gap-1">
+            {
+              countries.map((c) => (
+                <li>
+                  <a
+                    href={countryPath(c)}
+                    class="focus-ring flex items-center gap-2 rounded-md px-2 py-2 text-body-sm font-semibold text-ink"
+                  >
+                    <span aria-hidden="true">{c.data.flagEmoji}</span>
+                    {c.data.adjective}
+                  </a>
+                </li>
+              ))
+            }
+          </ul>
+        </nav>
+        <nav aria-label="Sections" class="mt-6 border-t border-hairline pt-4">
+          <ul class="grid gap-1">
+            <li>
+              <a href="/categories/" class="focus-ring block rounded-md px-2 py-2 text-body-sm font-semibold text-ink">Categories</a>
+            </li>
+            <li>
+              <a href="/browse/" class="focus-ring block rounded-md px-2 py-2 text-body-sm font-semibold text-ink">Browse A–Z</a>
+            </li>
+            <li>
+              <a href="/about/" class="focus-ring block rounded-md px-2 py-2 text-body-sm font-semibold text-ink">About</a>
+            </li>
+          </ul>
+        </nav>
+      </div>
+    </details>
+  </div>
+
+  <!-- Country strip. Desktop only; mobile gets it in the drawer above. -->
+  <div class="hidden border-t border-hairline-soft md:block">
+    <div class="container-site flex items-center gap-1 overflow-x-auto py-2">
+      {
+        countries.map((c) => {
+          const href = countryPath(c);
+          const active = current.startsWith(href);
+          return (
+            <a
+              href={href}
+              aria-current={active ? 'page' : undefined}
+              class="focus-ring flex shrink-0 items-center gap-1.5 rounded-full px-3 py-1.5 text-body-sm whitespace-nowrap text-charcoal aria-[current=page]:bg-ink aria-[current=page]:text-on-dark hover:bg-surface-card"
+            >
+              <span aria-hidden="true">{c.data.flagEmoji}</span>
+              {c.data.adjective}
+            </a>
+          );
+        })
+      }
+    </div>
+  </div>
+</header>

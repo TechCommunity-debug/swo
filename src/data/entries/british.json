@@ -1,0 +1,1426 @@
+[
+  {
+    "slug": "knackered",
+    "term": "knackered",
+    "partOfSpeech": ["adjective"],
+    "register": "informal",
+    "categories": ["emotion", "everyday"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Exhausted; completely worn out." },
+      { "text": "Of an object: broken beyond repair. The washing machine's knackered." }
+    ],
+    "examples": [
+      { "text": "I'm absolutely knackered, I've been up since five.", "translation": "I'm completely exhausted, I've been awake since five.", "context": "The most frequent use by far." },
+      { "text": "Don't bother with that laptop, it's knackered.", "translation": "Don't bother with that laptop, it's beyond saving." }
+    ],
+    "origin": {
+      "etymology": "A knacker bought worn-out horses for slaughter, and the knacker's yard was where they ended up. A knackered horse was one fit only for that trip — the metaphor has outlived the trade by a century.",
+      "firstAttested": "late 19th century",
+      "sources": []
+    },
+    "relatedTerms": ["british/shattered", "british/kip"],
+    "synonyms": ["shattered", "done in"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "shattered",
+    "term": "shattered",
+    "partOfSpeech": ["adjective"],
+    "register": "informal",
+    "categories": ["emotion"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Extremely tired. Slightly milder in tone than knackered and safe in any company." }
+    ],
+    "examples": [
+      { "text": "I was shattered after the flight.", "translation": "I was worn out after the flight." },
+      { "text": "She looked shattered by the end of the shift.", "translation": "She looked exhausted by the end of the shift." }
+    ],
+    "relatedTerms": ["british/knackered"],
+    "synonyms": ["knackered", "wiped out"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "gutted",
+    "term": "gutted",
+    "partOfSpeech": ["adjective"],
+    "register": "informal",
+    "categories": ["emotion"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Bitterly disappointed. Used for losses that genuinely hurt — a job you didn't get, a match your team lost — and, ironically, for very small ones." }
+    ],
+    "examples": [
+      { "text": "He was gutted when they didn't pick him for the squad.", "translation": "He was devastated when they left him out of the squad." },
+      { "text": "They'd sold the last one. Gutted.", "translation": "They'd sold the last one. Gutting.", "context": "Standing alone as a one-word reaction — very common, and usually lightly ironic." }
+    ],
+    "origin": {
+      "etymology": "From gutting a fish: everything inside removed. The word is a fixture of post-match football interviews, which is largely how it spread from regional use to national.",
+      "sources": []
+    },
+    "relatedTerms": ["british/chuffed", "british/buzzing"],
+    "synonyms": ["devastated"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "chuffed",
+    "term": "chuffed",
+    "partOfSpeech": ["adjective"],
+    "register": "informal",
+    "categories": ["emotion", "approval"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Pleased, delighted — usually about something you had a hand in. Often intensified as chuffed to bits." }
+    ],
+    "examples": [
+      { "text": "She was dead chuffed with her exam results.", "translation": "She was really pleased with her exam results." },
+      { "text": "I'm chuffed to bits for you, honestly.", "translation": "I'm genuinely delighted for you." }
+    ],
+    "origin": {
+      "etymology": "From dialect chuff, 'plump, pleased'. Confusingly, an obsolete second sense of chuffed meant displeased — the two coexisted for a while before the positive one won outright.",
+      "firstAttested": "1950s in the modern sense",
+      "sources": []
+    },
+    "relatedTerms": ["british/gutted", "british/buzzing", "british/made-up"],
+    "synonyms": ["made up", "buzzing"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "made-up",
+    "term": "made up",
+    "partOfSpeech": ["adjective"],
+    "register": "regional",
+    "categories": ["emotion"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "region": "North of England",
+    "definitions": [
+      { "text": "Overjoyed. Strongly associated with Liverpool and the North West, though understood nationally." }
+    ],
+    "examples": [
+      { "text": "I'm made up you could come.", "translation": "I'm so pleased you could come." },
+      { "text": "He was made up when the baby arrived.", "translation": "He was overjoyed when the baby was born." }
+    ],
+    "relatedTerms": ["british/chuffed", "british/buzzing"],
+    "synonyms": ["chuffed", "delighted"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "cheeky",
+    "term": "cheeky",
+    "partOfSpeech": ["adjective"],
+    "register": "informal",
+    "categories": ["people", "everyday"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Impertinent in a way that is more amusing than offensive." },
+      { "text": "Of an indulgence: small, unplanned and mildly naughty. A cheeky pint, a cheeky takeaway.", "note": "This second sense is now the more common one, and it attaches to almost any treat." }
+    ],
+    "examples": [
+      { "text": "Don't be cheeky to your gran.", "translation": "Don't be impertinent to your grandmother.", "context": "The original sense, mostly said to children." },
+      { "text": "Fancy a cheeky pint after work?", "translation": "Fancy a quick unplanned pint after work?", "context": "Nothing rude is implied — cheeky here just means 'slightly indulgent'." }
+    ],
+    "relatedTerms": ["british/banter", "british/taking-the-mickey"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "dodgy",
+    "term": "dodgy",
+    "partOfSpeech": ["adjective"],
+    "register": "informal",
+    "categories": ["everyday"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Suspicious, untrustworthy, probably illegal." },
+      { "text": "Unreliable or in poor condition. A dodgy knee, a dodgy connection." },
+      { "text": "Of food: likely to make you ill." }
+    ],
+    "examples": [
+      { "text": "He got it off some dodgy bloke down the market.", "translation": "He bought it from some shady man at the market." },
+      { "text": "The wifi's been dodgy all morning.", "translation": "The wifi has been unreliable all morning." },
+      { "text": "I think that prawn sandwich was a bit dodgy.", "translation": "I think that prawn sandwich was off." }
+    ],
+    "relatedTerms": ["british/naff", "british/bloke"],
+    "synonyms": ["iffy", "shady"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "faff",
+    "term": "faff",
+    "partOfSpeech": ["noun", "verb"],
+    "register": "informal",
+    "categories": ["everyday"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Pointless fuss and bother; unnecessary hassle. As a noun: it's a bit of a faff." },
+      { "text": "To dither, to busy oneself unproductively. Usually faff about or faff around." }
+    ],
+    "examples": [
+      { "text": "Parking there is a total faff, get the train.", "translation": "Parking there is far more hassle than it's worth, take the train." },
+      { "text": "Stop faffing about and get in the car.", "translation": "Stop dithering and get in the car." }
+    ],
+    "relatedTerms": ["british/dodgy", "british/sorted"],
+    "synonyms": ["hassle", "palaver"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "bloke",
+    "term": "bloke",
+    "partOfSpeech": ["noun"],
+    "register": "informal",
+    "categories": ["people"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "A man; a guy. Completely neutral, and the default word for an unnamed male." }
+    ],
+    "examples": [
+      { "text": "Some bloke came round asking about the car.", "translation": "Some man came by asking about the car." },
+      { "text": "He's a decent bloke, you'll like him.", "translation": "He's a good sort, you'll get on with him." }
+    ],
+    "origin": {
+      "etymology": "Of uncertain origin — proposals include Shelta (Irish Traveller cant) and Dutch blok. It surfaced in mid-19th-century English and has stayed resolutely ordinary ever since.",
+      "firstAttested": "1850s",
+      "sources": []
+    },
+    "relatedTerms": ["british/lad", "british/mate", "british/geezer"],
+    "synonyms": ["geezer", "chap", "fella"],
+    "alsoUsedIn": ["australian"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "geezer",
+    "term": "geezer",
+    "partOfSpeech": ["noun"],
+    "register": "regional",
+    "categories": ["people"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "region": "London",
+    "definitions": [
+      { "text": "A man, with a distinctly London flavour — often implying a certain streetwise swagger. A proper geezer is a compliment." }
+    ],
+    "examples": [
+      { "text": "Ask that geezer behind the bar.", "translation": "Ask that man behind the bar." },
+      { "text": "Dave? He's a proper geezer.", "translation": "Dave? He's a real character, salt of the earth." }
+    ],
+    "origin": {
+      "etymology": "From dialect guiser, a mummer or someone in disguise. Note the transatlantic split: in American English geezer means an old man, which it does not mean in Britain.",
+      "sources": []
+    },
+    "relatedTerms": ["british/bloke", "british/lad"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "mate",
+    "term": "mate",
+    "partOfSpeech": ["noun"],
+    "register": "informal",
+    "categories": ["people", "greetings"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "A friend. The most common word for one in British English." },
+      { "text": "Used to address any man, friend or stranger. Cheers, mate." },
+      { "text": "Said flatly to a stranger who has annoyed you, it is a warning rather than a friendly greeting.", "note": "Tone is everything. 'Alright, mate?' and 'Mate.' are not the same speech act." }
+    ],
+    "examples": [
+      { "text": "I'm meeting a few mates for a drink.", "translation": "I'm meeting some friends for a drink." },
+      { "text": "Cheers, mate, appreciate it.", "translation": "Thanks, pal, I appreciate it." },
+      { "text": "Mate. That's my seat.", "translation": "Excuse me. That's my seat.", "context": "Clipped and flat. This is confrontational." }
+    ],
+    "relatedTerms": ["british/bloke", "british/cheers", "british/lad"],
+    "alsoUsedIn": ["australian"],
+    "usageWarning": ["context-dependent"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "lad",
+    "term": "lad",
+    "partOfSpeech": ["noun"],
+    "register": "informal",
+    "categories": ["people"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "A boy or young man." },
+      { "text": "The lads: a man's group of male friends, particularly in a going-out context." },
+      { "text": "A man given to drinking and boisterousness — sometimes admiring, sometimes not.", "note": "The adjective laddish is almost always critical." }
+    ],
+    "examples": [
+      { "text": "He's a good lad, always helps out.", "translation": "He's a good young man, always helps out." },
+      { "text": "Out with the lads on Saturday.", "translation": "Out with my mates on Saturday." }
+    ],
+    "relatedTerms": ["british/bloke", "british/mate", "british/on-the-lash"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "naff",
+    "term": "naff",
+    "partOfSpeech": ["adjective"],
+    "register": "informal",
+    "categories": ["everyday"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Tacky, in poor taste, unfashionable. Aimed squarely at things that are trying and failing to be impressive." }
+    ],
+    "examples": [
+      { "text": "The hotel was nice but the decor was a bit naff.", "translation": "The hotel was nice but the decor was rather tacky." },
+      { "text": "That's a naff excuse and you know it.", "translation": "That's a feeble excuse and you know it." }
+    ],
+    "origin": {
+      "etymology": "Origin genuinely uncertain. It was current in Polari, the coded slang of gay and theatrical circles in mid-century Britain, and broke into general use in the 1970s. The various acronym explanations circulating online are backronyms with no evidence behind them.",
+      "firstAttested": "1960s",
+      "sources": []
+    },
+    "relatedTerms": ["british/dodgy", "british/rank"],
+    "synonyms": ["tacky", "cheesy"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "minging",
+    "term": "minging",
+    "partOfSpeech": ["adjective"],
+    "register": "informal",
+    "categories": ["insults", "everyday"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "pronunciation": { "respelling": "MING-ing, hard g" },
+    "definitions": [
+      { "text": "Disgusting; foul-smelling or filthy." },
+      { "text": "Of a person: unattractive. This use is unkind and increasingly avoided." }
+    ],
+    "examples": [
+      { "text": "That bin's been out a week, it's minging.", "translation": "That bin's been out for a week, it's revolting." },
+      { "text": "The weather was minging all weekend.", "translation": "The weather was miserable all weekend." }
+    ],
+    "origin": {
+      "etymology": "From Scots ming, 'a bad smell'. It spread south in the 1990s. The 'ugly' sense is a later extension and is the reason the word now carries a caution.",
+      "sources": []
+    },
+    "relatedTerms": ["british/rank", "british/naff"],
+    "synonyms": ["rank", "grim"],
+    "usageWarning": ["offensive"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "rank",
+    "term": "rank",
+    "partOfSpeech": ["adjective"],
+    "register": "informal",
+    "categories": ["everyday", "food-drink"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Disgusting, especially in taste or smell." }
+    ],
+    "examples": [
+      { "text": "That energy drink is absolutely rank.", "translation": "That energy drink tastes revolting." },
+      { "text": "The changing rooms smelled rank.", "translation": "The changing rooms smelled foul." }
+    ],
+    "relatedTerms": ["british/minging", "british/grim"],
+    "synonyms": ["minging", "grim"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "grim",
+    "term": "grim",
+    "partOfSpeech": ["adjective"],
+    "register": "informal",
+    "categories": ["everyday", "emotion"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Bleak, unpleasant, thoroughly bad. Applied to weather, places, moods and situations with equal ease." },
+      { "text": "Of a person: feeling ill or very low. I felt grim all day." }
+    ],
+    "examples": [
+      { "text": "February in Manchester is pretty grim.", "translation": "February in Manchester is fairly bleak." },
+      { "text": "I felt grim after that curry.", "translation": "I felt awful after that curry." }
+    ],
+    "relatedTerms": ["british/rank", "british/gutted"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "sound",
+    "term": "sound",
+    "partOfSpeech": ["adjective", "interjection"],
+    "register": "informal",
+    "categories": ["approval", "people"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Of a person: reliable, decent, good company. He's sound." },
+      { "text": "Fine; no problem. Used alone as an acknowledgement." }
+    ],
+    "examples": [
+      { "text": "Ask Jen, she's sound, she'll help you out.", "translation": "Ask Jen, she's a good sort, she'll help you." },
+      { "text": "—I'll be ten minutes late. —Sound.", "translation": "'I'll be ten minutes late.' 'No problem.'" }
+    ],
+    "relatedTerms": ["british/safe", "british/sorted", "british/mint"],
+    "synonyms": ["safe", "solid"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "mint",
+    "term": "mint",
+    "partOfSpeech": ["adjective"],
+    "register": "regional",
+    "categories": ["approval"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "region": "North of England",
+    "definitions": [
+      { "text": "Excellent, brilliant. Strongest in the North of England and Scotland." }
+    ],
+    "examples": [
+      { "text": "That gig was mint.", "translation": "That gig was brilliant." },
+      { "text": "Your new bike's mint, mate.", "translation": "Your new bike's great, mate." }
+    ],
+    "origin": {
+      "etymology": "From mint condition — an item so unworn it might have just left the mint. The adjective broke free of the phrase and now works on its own.",
+      "sources": []
+    },
+    "relatedTerms": ["british/sound", "british/peng", "british/buzzing"],
+    "synonyms": ["class", "belter"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "buzzing",
+    "term": "buzzing",
+    "partOfSpeech": ["adjective"],
+    "register": "informal",
+    "categories": ["emotion"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Thrilled, elated, full of anticipation." },
+      { "text": "Of a place: lively, full of atmosphere." }
+    ],
+    "examples": [
+      { "text": "I'm buzzing for the weekend.", "translation": "I'm really excited about the weekend." },
+      { "text": "Town was buzzing on Saturday night.", "translation": "The town centre was lively on Saturday night." }
+    ],
+    "relatedTerms": ["british/chuffed", "british/made-up", "british/gutted"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "peng",
+    "term": "peng",
+    "partOfSpeech": ["adjective"],
+    "register": "informal",
+    "categories": ["approval", "romance"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "region": "London",
+    "definitions": [
+      { "text": "Attractive; also, of food, delicious." }
+    ],
+    "examples": [
+      { "text": "That chicken shop is peng, honestly.", "translation": "That chicken shop is genuinely delicious." },
+      { "text": "She looked peng in that photo.", "translation": "She looked gorgeous in that photo." }
+    ],
+    "origin": {
+      "etymology": "From Multicultural London English, with roots in Jamaican Patois. Like much MLE vocabulary it spread nationally through UK rap and drill, and is strongly generation-marked — mostly used by people under about thirty.",
+      "sources": []
+    },
+    "relatedTerms": ["british/bare", "british/safe", "british/mint"],
+    "synonyms": ["fit", "mint"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "bare",
+    "term": "bare",
+    "partOfSpeech": ["adjective", "adverb"],
+    "register": "informal",
+    "categories": ["discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "region": "London",
+    "definitions": [
+      { "text": "A lot of; loads of. Counter-intuitively, it means the opposite of standard 'bare'." },
+      { "text": "Very, as an intensifier: it's bare cold." }
+    ],
+    "examples": [
+      { "text": "There were bare people outside the station.", "translation": "There were loads of people outside the station." },
+      { "text": "It's bare long, that journey.", "translation": "That journey takes ages." }
+    ],
+    "origin": {
+      "etymology": "Multicultural London English. The inversion of the standard meaning is the reason it reliably confuses older speakers, and part of why it caught on.",
+      "sources": []
+    },
+    "relatedTerms": ["british/peng", "british/safe", "british/proper"],
+    "synonyms": ["loads of"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "safe",
+    "term": "safe",
+    "partOfSpeech": ["interjection", "adjective"],
+    "register": "informal",
+    "categories": ["greetings", "approval"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Thanks; cool; understood. A general-purpose acknowledgement." },
+      { "text": "Used as a greeting or a farewell on its own." },
+      { "text": "Of a person: trustworthy, decent." }
+    ],
+    "examples": [
+      { "text": "—I'll send it over tonight. —Safe.", "translation": "'I'll send it over tonight.' 'Cheers.'" },
+      { "text": "Safe, bruv, see you later.", "translation": "See you, mate, catch you later." }
+    ],
+    "relatedTerms": ["british/sound", "british/bare", "british/cheers"],
+    "synonyms": ["sound", "cool"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "innit",
+    "term": "innit",
+    "partOfSpeech": ["interjection"],
+    "register": "informal",
+    "categories": ["discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Contraction of 'isn't it', used as a tag on any statement regardless of the grammar of the sentence it follows." },
+      { "text": "Standing alone: an emphatic agreement, roughly 'exactly'." }
+    ],
+    "examples": [
+      { "text": "It's freezing out, innit.", "translation": "It's freezing out, isn't it." },
+      { "text": "You went all that way for nothing, innit.", "translation": "You went all that way for nothing, didn't you.", "context": "Grammatically the tag should be 'didn't you'. innit has replaced the whole system of tag questions for many speakers." },
+      { "text": "—Prices have gone mad. —Innit.", "translation": "'Prices have gone mad.' 'Tell me about it.'" }
+    ],
+    "relatedTerms": ["british/bare", "british/safe"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "proper",
+    "term": "proper",
+    "partOfSpeech": ["adverb", "adjective"],
+    "register": "informal",
+    "categories": ["discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Very, really. As an intensifier before an adjective: proper cold, proper good." },
+      { "text": "Genuine, the real thing. A proper pub, a proper cup of tea." }
+    ],
+    "examples": [
+      { "text": "It was proper cold on the platform.", "translation": "It was really cold on the platform." },
+      { "text": "Now that's a proper breakfast.", "translation": "Now that's a real breakfast." }
+    ],
+    "relatedTerms": ["british/bare", "british/dead"],
+    "synonyms": ["dead", "well"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "dead",
+    "term": "dead",
+    "partOfSpeech": ["adverb"],
+    "register": "informal",
+    "categories": ["discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Very, extremely. An intensifier with no connection to the literal sense: dead good, dead easy." }
+    ],
+    "examples": [
+      { "text": "The recipe's dead easy, takes ten minutes.", "translation": "The recipe's really easy, it takes ten minutes." },
+      { "text": "She was dead pleased with it.", "translation": "She was very pleased with it." }
+    ],
+    "relatedTerms": ["british/proper", "british/chuffed"],
+    "synonyms": ["proper", "well"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "quid",
+    "term": "quid",
+    "partOfSpeech": ["noun"],
+    "register": "informal",
+    "categories": ["money"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "A pound sterling. The plural is also quid, never quids: fifty quid." }
+    ],
+    "examples": [
+      { "text": "It cost me twenty quid.", "translation": "It cost me twenty pounds." },
+      { "text": "Have you got a quid for the trolley?", "translation": "Have you got a pound coin for the trolley?" }
+    ],
+    "origin": {
+      "etymology": "In use since the 17th century, origin unsettled. The likeliest account points to Latin quid ('what', as in quid pro quo) passing into cant as a word for the necessary consideration.",
+      "firstAttested": "1680s",
+      "sources": []
+    },
+    "relatedTerms": ["british/tenner", "british/skint", "british/dosh"],
+    "synonyms": ["nicker"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "tenner",
+    "term": "tenner",
+    "partOfSpeech": ["noun"],
+    "register": "informal",
+    "categories": ["money"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "A ten-pound note, or the sum of ten pounds. Its companion fiver works the same way." }
+    ],
+    "examples": [
+      { "text": "Lend us a tenner till Friday.", "translation": "Lend me ten pounds until Friday." },
+      { "text": "I found a tenner in my coat pocket.", "translation": "I found a ten-pound note in my coat pocket." }
+    ],
+    "relatedTerms": ["british/quid", "british/skint"],
+    "variants": ["fiver"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "skint",
+    "term": "skint",
+    "partOfSpeech": ["adjective"],
+    "register": "informal",
+    "categories": ["money"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Broke; having no money at all, usually temporarily." }
+    ],
+    "examples": [
+      { "text": "Can't come out, I'm skint till payday.", "translation": "I can't come out, I'm broke until payday." },
+      { "text": "We were completely skint that first year.", "translation": "We had no money at all that first year." }
+    ],
+    "origin": {
+      "etymology": "A worn-down form of skinned — stripped of everything, as an animal is skinned.",
+      "sources": []
+    },
+    "relatedTerms": ["british/quid", "british/dosh", "british/tenner"],
+    "synonyms": ["brassic", "broke"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "dosh",
+    "term": "dosh",
+    "partOfSpeech": ["noun"],
+    "register": "informal",
+    "categories": ["money"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Money, cash. Slightly dated now — it peaked in the 1980s and 90s." }
+    ],
+    "examples": [
+      { "text": "He's made a fair bit of dosh out of it.", "translation": "He's made a decent amount of money out of it." },
+      { "text": "Bring some dosh, the place is cash only.", "translation": "Bring some cash, the place doesn't take cards." }
+    ],
+    "relatedTerms": ["british/quid", "british/skint"],
+    "synonyms": ["wonga", "readies"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "cuppa",
+    "term": "cuppa",
+    "partOfSpeech": ["noun"],
+    "register": "colloquial",
+    "categories": ["food-drink"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "A cup of tea. Tea is assumed unless stated otherwise." }
+    ],
+    "examples": [
+      { "text": "Sit down, I'll put the kettle on for a cuppa.", "translation": "Sit down, I'll make you a cup of tea." },
+      { "text": "Nothing a cuppa won't fix.", "translation": "Nothing a cup of tea won't sort out.", "context": "Offering tea is the standard British response to distress of any magnitude." }
+    ],
+    "relatedTerms": ["british/brew"],
+    "synonyms": ["brew"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "brew",
+    "term": "brew",
+    "partOfSpeech": ["noun"],
+    "register": "regional",
+    "categories": ["food-drink"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "region": "North of England",
+    "definitions": [
+      { "text": "A hot drink, usually tea. Northern England's preferred term where the South says cuppa." }
+    ],
+    "examples": [
+      { "text": "Fancy a brew?", "translation": "Would you like a cup of tea?" },
+      { "text": "I'll stick the kettle on, get a brew going.", "translation": "I'll put the kettle on and make some tea." }
+    ],
+    "relatedTerms": ["british/cuppa"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "chippy",
+    "term": "chippy",
+    "partOfSpeech": ["noun", "adjective"],
+    "register": "informal",
+    "categories": ["food-drink"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "A fish and chip shop." },
+      { "text": "As an adjective: touchy, quick to take offence. An unrelated sense, but a common one." }
+    ],
+    "examples": [
+      { "text": "We got chips from the chippy on the way home.", "translation": "We got chips from the fish and chip shop on the way home." },
+      { "text": "He gets a bit chippy if you mention it.", "translation": "He gets rather defensive if you bring it up." }
+    ],
+    "relatedTerms": ["british/scran", "british/butty"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "butty",
+    "term": "butty",
+    "partOfSpeech": ["noun"],
+    "register": "regional",
+    "categories": ["food-drink"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "region": "North of England",
+    "definitions": [
+      { "text": "A sandwich, particularly a filled roll. A chip butty — chips in buttered bread — is the canonical example." }
+    ],
+    "examples": [
+      { "text": "A bacon butty and a brew, please.", "translation": "A bacon sandwich and a cup of tea, please." },
+      { "text": "You've never had a chip butty?", "translation": "You've never had a chip sandwich?" }
+    ],
+    "origin": {
+      "etymology": "From butter — bread with butter on it. The North of England and Wales say butty, other regions say sarnie or barm, and the national argument over what to call a bread roll is genuinely unresolved.",
+      "sources": []
+    },
+    "relatedTerms": ["british/chippy", "british/scran", "british/brew"],
+    "synonyms": ["sarnie", "sandwich"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "scran",
+    "term": "scran",
+    "partOfSpeech": ["noun"],
+    "register": "regional",
+    "categories": ["food-drink"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "region": "North of England",
+    "definitions": [
+      { "text": "Food; a meal. Common in the North of England, Scotland and among sailors and soldiers." }
+    ],
+    "examples": [
+      { "text": "Right, who's sorting the scran?", "translation": "Right, who's organising the food?" },
+      { "text": "Proper good scran in that pub.", "translation": "Really good food in that pub." }
+    ],
+    "relatedTerms": ["british/butty", "british/chippy"],
+    "synonyms": ["grub", "nosh"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "pissed",
+    "term": "pissed",
+    "partOfSpeech": ["adjective"],
+    "register": "vulgar",
+    "categories": ["partying"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Drunk. Note the transatlantic trap: in American English pissed means angry. British 'pissed off' means angry; plain 'pissed' does not." }
+    ],
+    "examples": [
+      { "text": "He got absolutely pissed at the wedding.", "translation": "He got completely drunk at the wedding." },
+      { "text": "I'm pissed off with the whole thing.", "translation": "I'm fed up with the whole thing.", "context": "With 'off' the meaning flips to annoyance." }
+    ],
+    "relatedTerms": ["british/on-the-lash", "british/legless"],
+    "synonyms": ["legless", "hammered", "steaming"],
+    "usageWarning": ["vulgar"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "legless",
+    "term": "legless",
+    "partOfSpeech": ["adjective"],
+    "register": "informal",
+    "categories": ["partying"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "So drunk as to be unable to walk properly." }
+    ],
+    "examples": [
+      { "text": "She was legless by nine o'clock.", "translation": "She was completely drunk by nine o'clock." },
+      { "text": "They came back from the pub legless.", "translation": "They came back from the pub barely able to stand." }
+    ],
+    "relatedTerms": ["british/pissed", "british/on-the-lash"],
+    "synonyms": ["paralytic", "steaming"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "on-the-lash",
+    "term": "on the lash",
+    "partOfSpeech": ["phrase", "idiom"],
+    "register": "informal",
+    "categories": ["partying"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Out drinking heavily, as a deliberate plan for the evening." }
+    ],
+    "examples": [
+      { "text": "The lads are on the lash tonight.", "translation": "The lads are out drinking tonight." },
+      { "text": "I can't, I was on the lash last night.", "translation": "I can't, I was out drinking last night." }
+    ],
+    "relatedTerms": ["british/pissed", "british/legless", "british/lad"],
+    "synonyms": ["on the razz", "out on the beers"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "gaff",
+    "term": "gaff",
+    "partOfSpeech": ["noun"],
+    "register": "informal",
+    "categories": ["everyday"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "A house or flat; someone's place. Round my gaff." }
+    ],
+    "examples": [
+      { "text": "We're all going back to his gaff after.", "translation": "We're all going back to his place afterwards." },
+      { "text": "Nice gaff you've got here.", "translation": "Nice place you've got here." }
+    ],
+    "relatedTerms": ["british/kip", "british/geezer"],
+    "synonyms": ["place", "pad"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "kip",
+    "term": "kip",
+    "partOfSpeech": ["noun", "verb"],
+    "register": "informal",
+    "categories": ["everyday"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "A sleep or nap: have a kip." },
+      { "text": "To sleep, especially somewhere improvised: kip on the sofa." }
+    ],
+    "examples": [
+      { "text": "I'm going to have a quick kip before we go out.", "translation": "I'm going to have a short nap before we go out." },
+      { "text": "You can kip on the sofa if you miss the last train.", "translation": "You can sleep on the sofa if you miss the last train." }
+    ],
+    "origin": {
+      "etymology": "From Danish kippe, a cheap inn or doss-house. The place-word became the activity.",
+      "sources": []
+    },
+    "relatedTerms": ["british/knackered", "british/gaff", "british/doss"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "doss",
+    "term": "doss",
+    "partOfSpeech": ["verb", "noun"],
+    "register": "informal",
+    "categories": ["everyday"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "To laze around doing nothing. Usually doss about." },
+      { "text": "Something requiring no effort at all: the exam was a doss." }
+    ],
+    "examples": [
+      { "text": "We just dossed about all afternoon.", "translation": "We just lazed around all afternoon." },
+      { "text": "First year was a complete doss.", "translation": "First year required almost no work at all." }
+    ],
+    "relatedTerms": ["british/skive", "british/kip", "british/faff"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "skive",
+    "term": "skive",
+    "partOfSpeech": ["verb", "noun"],
+    "register": "informal",
+    "categories": ["money", "everyday"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "To avoid work or school by slipping away; to shirk. Often skive off." }
+    ],
+    "examples": [
+      { "text": "He skived off school for the whole afternoon.", "translation": "He bunked off school for the whole afternoon." },
+      { "text": "Working from home is not an excuse to skive.", "translation": "Working from home is not an excuse to shirk." }
+    ],
+    "origin": {
+      "etymology": "Entered English through soldiers in the First World War, plausibly from French esquiver, 'to dodge'.",
+      "firstAttested": "1910s",
+      "sources": []
+    },
+    "relatedTerms": ["british/doss", "british/faff"],
+    "synonyms": ["bunk off"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "nick",
+    "term": "nick",
+    "partOfSpeech": ["verb", "noun"],
+    "register": "informal",
+    "categories": ["everyday"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "To steal, usually something small." },
+      { "text": "To arrest. Get nicked." },
+      { "text": "As a noun: a police station, or prison. Down the nick." },
+      { "text": "In good nick / in bad nick: in good or poor condition.", "note": "Four unrelated senses sharing one form. Context always disambiguates." }
+    ],
+    "examples": [
+      { "text": "Someone's nicked my charger.", "translation": "Someone's stolen my charger." },
+      { "text": "He got nicked for driving without insurance.", "translation": "He got arrested for driving without insurance." },
+      { "text": "The car's old but it's in decent nick.", "translation": "The car's old but it's in good condition." }
+    ],
+    "relatedTerms": ["british/grass", "british/dodgy"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "grass",
+    "term": "grass",
+    "partOfSpeech": ["noun", "verb"],
+    "register": "informal",
+    "categories": ["people", "insults"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "An informer; someone who reports others to the authorities." },
+      { "text": "To inform on someone. Usually grass someone up." }
+    ],
+    "examples": [
+      { "text": "Nobody likes a grass.", "translation": "Nobody likes an informer." },
+      { "text": "She grassed him up to the manager.", "translation": "She reported him to the manager." }
+    ],
+    "origin": {
+      "etymology": "Most often traced to rhyming slang — grasshopper for 'copper' — though the chain is disputed and the word may simply come from the idea of a snake in the grass.",
+      "sources": []
+    },
+    "relatedTerms": ["british/nick", "british/git"],
+    "synonyms": ["snitch"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "banter",
+    "term": "banter",
+    "partOfSpeech": ["noun"],
+    "register": "informal",
+    "categories": ["discourse", "people"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Playful mutual teasing; the good-natured insult trading that holds British friendships together." },
+      { "text": "Invoked defensively to excuse something that has landed badly: it was only banter.", "note": "This second use has made the word contentious — it is now the standard cover for a remark the speaker doesn't want to own." }
+    ],
+    "examples": [
+      { "text": "There's good banter in that office.", "translation": "There's a good atmosphere of joking in that office." },
+      { "text": "Relax, it's just banter.", "translation": "Relax, I was only joking.", "context": "Frequently a warning sign rather than a reassurance." }
+    ],
+    "relatedTerms": ["british/taking-the-mickey", "british/wind-up", "british/cheeky"],
+    "variants": ["bants"],
+    "usageWarning": ["context-dependent"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "taking-the-mickey",
+    "term": "taking the mickey",
+    "partOfSpeech": ["phrase", "idiom"],
+    "register": "informal",
+    "categories": ["discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Mocking someone; making fun of them." },
+      { "text": "Being unreasonable or taking advantage. Forty pounds for that? They're taking the mickey." }
+    ],
+    "examples": [
+      { "text": "Are you taking the mickey out of my accent?", "translation": "Are you making fun of my accent?" },
+      { "text": "Six quid for a coffee — they're taking the mickey.", "translation": "Six pounds for a coffee — that's daylight robbery." }
+    ],
+    "origin": {
+      "etymology": "A sanitised version of a cruder phrase; mickey is a euphemistic substitution. The polite form is now far more common than the original.",
+      "sources": []
+    },
+    "relatedTerms": ["british/banter", "british/wind-up"],
+    "synonyms": ["taking the mick", "having a laugh"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "wind-up",
+    "term": "wind-up",
+    "partOfSpeech": ["noun", "verb"],
+    "register": "informal",
+    "categories": ["discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "A deliberate attempt to provoke or fool someone; a prank. Is this a wind-up?" },
+      { "text": "As a verb, wind someone up: to irritate them on purpose, or to string them along." }
+    ],
+    "examples": [
+      { "text": "Tell me you're joking — is this a wind-up?", "translation": "Tell me you're joking — are you having me on?" },
+      { "text": "He knows exactly how to wind his sister up.", "translation": "He knows exactly how to provoke his sister." }
+    ],
+    "origin": {
+      "etymology": "From winding a clockwork mechanism tighter and tighter until something gives.",
+      "sources": []
+    },
+    "relatedTerms": ["british/banter", "british/taking-the-mickey"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "git",
+    "term": "git",
+    "partOfSpeech": ["noun"],
+    "register": "informal",
+    "categories": ["insults"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "An unpleasant or contemptible person. Mild as insults go, and frequently affectionate when prefixed: you lucky git, you daft git." }
+    ],
+    "examples": [
+      { "text": "The miserable old git wouldn't even let us park.", "translation": "The miserable old man wouldn't even let us park." },
+      { "text": "You jammy git, how did you manage that?", "translation": "You lucky devil, how did you pull that off?" }
+    ],
+    "relatedTerms": ["british/pillock", "british/plonker", "british/muppet"],
+    "synonyms": ["sod", "so-and-so"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "pillock",
+    "term": "pillock",
+    "partOfSpeech": ["noun"],
+    "register": "informal",
+    "categories": ["insults"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "An idiot. Mild, slightly old-fashioned, and more exasperated than aggressive." }
+    ],
+    "examples": [
+      { "text": "I felt like a right pillock standing there.", "translation": "I felt like a complete idiot standing there." },
+      { "text": "Some pillock parked across the drive.", "translation": "Some fool parked across the driveway." }
+    ],
+    "relatedTerms": ["british/git", "british/plonker", "british/numpty"],
+    "synonyms": ["plonker", "wally"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "plonker",
+    "term": "plonker",
+    "partOfSpeech": ["noun"],
+    "register": "informal",
+    "categories": ["insults"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "A fool. Affectionate and dated, carried into general use by 1980s television." }
+    ],
+    "examples": [
+      { "text": "You've put it in upside down, you plonker.", "translation": "You've put it in upside down, you idiot." },
+      { "text": "What a plonker, he's locked himself out again.", "translation": "What a fool, he's locked himself out again." }
+    ],
+    "relatedTerms": ["british/pillock", "british/git", "british/muppet"],
+    "synonyms": ["pillock", "wally"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "muppet",
+    "term": "muppet",
+    "partOfSpeech": ["noun"],
+    "register": "informal",
+    "categories": ["insults"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "An incompetent fool. Implies not malice but a total absence of thought." }
+    ],
+    "examples": [
+      { "text": "Some muppet's left the freezer door open.", "translation": "Some idiot has left the freezer door open." },
+      { "text": "I'm such a muppet, I've booked the wrong date.", "translation": "I'm such an idiot, I've booked the wrong date." }
+    ],
+    "origin": {
+      "etymology": "From the puppets of the television series — the image is of someone whose strings are being pulled by someone else. It became general British insult vocabulary in the 1990s.",
+      "sources": []
+    },
+    "relatedTerms": ["british/pillock", "british/numpty", "british/plonker"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "numpty",
+    "term": "numpty",
+    "partOfSpeech": ["noun"],
+    "register": "regional",
+    "categories": ["insults"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "region": "Scotland",
+    "definitions": [
+      { "text": "A foolish or hapless person. Scottish in origin, now widely used across Britain, and notably good-humoured for an insult." }
+    ],
+    "examples": [
+      { "text": "Don't be a numpty, read the instructions.", "translation": "Don't be daft, read the instructions." },
+      { "text": "Some numpty's blocked the fire exit.", "translation": "Some fool has blocked the fire exit." }
+    ],
+    "relatedTerms": ["british/muppet", "british/pillock"],
+    "synonyms": ["eejit", "muppet"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "gobsmacked",
+    "term": "gobsmacked",
+    "partOfSpeech": ["adjective"],
+    "register": "informal",
+    "categories": ["emotion"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Astounded; struck speechless with surprise." }
+    ],
+    "examples": [
+      { "text": "I was gobsmacked when they announced the winner.", "translation": "I was astonished when they announced the winner." },
+      { "text": "She looked absolutely gobsmacked.", "translation": "She looked completely stunned." }
+    ],
+    "origin": {
+      "etymology": "From gob, dialect for 'mouth', plus smacked — the image is of being hit in the mouth, or of clapping a hand over it in shock. Northern English and Scottish in origin, national since the 1980s.",
+      "sources": []
+    },
+    "relatedTerms": ["british/blimey", "british/buzzing"],
+    "synonyms": ["flabbergasted", "stunned"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "blimey",
+    "term": "blimey",
+    "partOfSpeech": ["interjection"],
+    "register": "informal",
+    "categories": ["emotion"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "An exclamation of surprise. Dated but still in genuine use, particularly by older speakers." }
+    ],
+    "examples": [
+      { "text": "Blimey, that was quick.", "translation": "Goodness, that was fast." },
+      { "text": "Blimey, have you seen the price of that?", "translation": "Good grief, have you seen how much that costs?" }
+    ],
+    "origin": {
+      "etymology": "Contracted from 'God blind me' — a minced oath that wore down until nothing of the original was recognisable. Cor blimey is the fuller form.",
+      "firstAttested": "1880s",
+      "sources": []
+    },
+    "relatedTerms": ["british/gobsmacked", "british/bloody"],
+    "synonyms": ["crikey", "blooming heck"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "bloody",
+    "term": "bloody",
+    "partOfSpeech": ["adjective", "adverb"],
+    "register": "informal",
+    "categories": ["discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "A general-purpose intensifier expressing annoyance, emphasis or admiration: bloody hell, bloody brilliant, bloody typical." }
+    ],
+    "examples": [
+      { "text": "It's bloody freezing out there.", "translation": "It's absolutely freezing out there." },
+      { "text": "Bloody hell, look at that queue.", "translation": "Good grief, look at that queue." },
+      { "text": "That was a bloody good meal.", "translation": "That was a really good meal.", "context": "Positive. The word takes its charge from what surrounds it." }
+    ],
+    "origin": {
+      "etymology": "Considered genuinely shocking in print until the mid-20th century — Shaw's Pygmalion caused a scandal with a single use of it in 1914. It is now near the bottom of the offensiveness scale and functions mostly as emphasis.",
+      "sources": []
+    },
+    "relatedTerms": ["british/blimey", "british/bollocks", "british/proper"],
+    "alsoUsedIn": ["australian"],
+    "usageWarning": ["vulgar"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "bollocks",
+    "term": "bollocks",
+    "partOfSpeech": ["noun", "interjection"],
+    "register": "vulgar",
+    "categories": ["emotion", "discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Nonsense, rubbish. That's complete bollocks." },
+      { "text": "As an exclamation of frustration or flat disagreement." },
+      { "text": "The dog's bollocks: excellent, the very best. The same word with the opposite valence.", "note": "A useful illustration of how far context overrides literal meaning in British profanity." }
+    ],
+    "examples": [
+      { "text": "He's talking absolute bollocks.", "translation": "He's talking complete nonsense." },
+      { "text": "Oh bollocks, I've left my keys inside.", "translation": "Oh damn, I've left my keys inside." },
+      { "text": "Their new album is the dog's bollocks.", "translation": "Their new album is superb." }
+    ],
+    "relatedTerms": ["british/bloody", "british/gutted"],
+    "usageWarning": ["vulgar"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "sorted",
+    "term": "sorted",
+    "partOfSpeech": ["adjective", "interjection"],
+    "register": "informal",
+    "categories": ["discourse", "approval"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Dealt with; arranged. That's the tickets sorted." },
+      { "text": "As a one-word confirmation that a matter is closed." },
+      { "text": "Of a person: settled, organised, having their life in order." }
+    ],
+    "examples": [
+      { "text": "Don't worry about the booking, it's sorted.", "translation": "Don't worry about the booking, it's taken care of." },
+      { "text": "—I'll pick you up at seven. —Sorted.", "translation": "'I'll pick you up at seven.' 'Perfect.'" }
+    ],
+    "relatedTerms": ["british/sound", "british/cheers", "british/faff"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "cheers",
+    "term": "cheers",
+    "partOfSpeech": ["interjection"],
+    "register": "informal",
+    "categories": ["greetings", "discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Thanks. By far its most common use in Britain — far more often than as a toast." },
+      { "text": "Goodbye. Frequently both at once, ending a transaction: cheers, bye." },
+      { "text": "A drinking toast, its original sense." }
+    ],
+    "examples": [
+      { "text": "Cheers for sorting that out.", "translation": "Thanks for sorting that out." },
+      { "text": "Cheers then, see you Monday.", "translation": "Bye then, see you Monday." }
+    ],
+    "relatedTerms": ["british/ta", "british/mate", "british/sorted"],
+    "synonyms": ["ta", "thanks"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "ta",
+    "term": "ta",
+    "partOfSpeech": ["interjection"],
+    "register": "colloquial",
+    "categories": ["greetings"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "pronunciation": { "respelling": "TAH" },
+    "definitions": [
+      { "text": "Thanks. Very casual and very short — for small favours, not large ones." }
+    ],
+    "examples": [
+      { "text": "Ta, just pop it on the side.", "translation": "Thanks, just leave it on the counter." },
+      { "text": "Ta very much.", "translation": "Thanks very much." }
+    ],
+    "origin": {
+      "etymology": "Often described as a child's reduction of 'thank you', and recorded in English since the 18th century.",
+      "sources": []
+    },
+    "relatedTerms": ["british/cheers"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "fit",
+    "term": "fit",
+    "partOfSpeech": ["adjective"],
+    "register": "informal",
+    "categories": ["romance"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Physically attractive. Nothing to do with physical fitness, which regularly confuses American and Australian visitors." }
+    ],
+    "examples": [
+      { "text": "His brother's quite fit, actually.", "translation": "His brother is rather good-looking, actually." },
+      { "text": "She thinks the new barista is fit.", "translation": "She thinks the new barista is attractive." }
+    ],
+    "relatedTerms": ["british/peng", "british/fancy", "british/snog"],
+    "synonyms": ["peng", "buff"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "fancy",
+    "term": "fancy",
+    "partOfSpeech": ["verb"],
+    "register": "colloquial",
+    "categories": ["romance", "discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "To be attracted to someone. I think she fancies you." },
+      { "text": "To want or feel like something. Fancy a pint? — this is the more frequent sense by a distance." }
+    ],
+    "examples": [
+      { "text": "Fancy a walk before it gets dark?", "translation": "Would you like to go for a walk before dark?" },
+      { "text": "He's fancied her since university.", "translation": "He's had a crush on her since university." }
+    ],
+    "relatedTerms": ["british/fit", "british/snog"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "snog",
+    "term": "snog",
+    "partOfSpeech": ["verb", "noun"],
+    "register": "informal",
+    "categories": ["romance"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "To kiss passionately; a prolonged kiss. Slightly adolescent in flavour." }
+    ],
+    "examples": [
+      { "text": "They were snogging on the night bus.", "translation": "They were kissing on the night bus." },
+      { "text": "He's never got over that snog at the Christmas party.", "translation": "He's never got over that kiss at the Christmas party." }
+    ],
+    "relatedTerms": ["british/fit", "british/fancy", "british/pull"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "pull",
+    "term": "pull",
+    "partOfSpeech": ["verb", "noun"],
+    "register": "informal",
+    "categories": ["romance", "partying"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "To successfully attract a romantic or sexual partner on a night out." },
+      { "text": "On the pull: out specifically with that intention." }
+    ],
+    "examples": [
+      { "text": "He's wearing his good shirt, he's hoping to pull.", "translation": "He's wearing his good shirt, he's hoping to meet someone." },
+      { "text": "They were out on the pull all weekend.", "translation": "They spent the weekend out looking to meet people." }
+    ],
+    "relatedTerms": ["british/snog", "british/fit", "british/on-the-lash"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "leg-it",
+    "term": "leg it",
+    "partOfSpeech": ["phrase", "verb"],
+    "register": "informal",
+    "categories": ["everyday"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "To run, especially to run away in a hurry." }
+    ],
+    "examples": [
+      { "text": "We had to leg it for the last train.", "translation": "We had to sprint for the last train." },
+      { "text": "He legged it as soon as he saw the warden.", "translation": "He bolted as soon as he saw the warden." }
+    ],
+    "relatedTerms": ["british/bottle", "british/nick"],
+    "synonyms": ["do a runner", "peg it"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "bottle",
+    "term": "bottle",
+    "partOfSpeech": ["noun", "verb"],
+    "register": "informal",
+    "categories": ["emotion"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Nerve, courage. He didn't have the bottle to ask." },
+      { "text": "To bottle it: to lose one's nerve at the decisive moment." }
+    ],
+    "examples": [
+      { "text": "It took some bottle to stand up and say that.", "translation": "It took real courage to stand up and say that." },
+      { "text": "He bottled it on the penalty.", "translation": "He lost his nerve taking the penalty." }
+    ],
+    "origin": {
+      "etymology": "Usually traced to rhyming slang. The reversal is neat: to have bottle is to be brave, but to bottle it is to be a coward.",
+      "sources": []
+    },
+    "relatedTerms": ["british/leg-it", "british/gutted"],
+    "synonyms": ["nerve", "guts"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "mardy",
+    "term": "mardy",
+    "partOfSpeech": ["adjective"],
+    "register": "regional",
+    "categories": ["emotion", "insults"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "region": "North of England",
+    "definitions": [
+      { "text": "Sulky, moody, in a strop. Strongly associated with the East Midlands and Yorkshire." }
+    ],
+    "examples": [
+      { "text": "He's been mardy all morning.", "translation": "He's been sulking all morning." },
+      { "text": "Don't go all mardy on me.", "translation": "Don't start sulking at me." }
+    ],
+    "origin": {
+      "etymology": "From dialect marred, 'spoiled' — a mardy child was a spoiled one. It reached a wider audience through Northern pop music in the 2000s.",
+      "sources": []
+    },
+    "relatedTerms": ["british/grim", "british/git"],
+    "synonyms": ["stroppy", "moody"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "wee",
+    "term": "wee",
+    "partOfSpeech": ["adjective"],
+    "register": "regional",
+    "categories": ["everyday"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "region": "Scotland",
+    "definitions": [
+      { "text": "Small, little. In Scotland and Northern Ireland it is not slang so much as the ordinary word, and it is often affectionate rather than literally about size." }
+    ],
+    "examples": [
+      { "text": "Give me a wee minute.", "translation": "Give me a moment.", "context": "Nothing here is actually small. wee softens the request." },
+      { "text": "We stopped at a wee café by the loch.", "translation": "We stopped at a little café by the loch." }
+    ],
+    "relatedTerms": ["british/canny", "british/numpty"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "canny",
+    "term": "canny",
+    "partOfSpeech": ["adjective", "adverb"],
+    "register": "regional",
+    "categories": ["approval", "discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "region": "North of England",
+    "definitions": [
+      { "text": "In the North East of England: good, pleasant, considerable. A canny lad is a nice bloke; canny good means very good." },
+      { "text": "In standard English and in Scotland: shrewd, cautious. A different word entirely in practice.", "note": "The two senses are genuinely separate, and the regional one surprises outsiders." }
+    ],
+    "examples": [
+      { "text": "He's a canny lad, you'll get on.", "translation": "He's a good bloke, you'll get along.", "context": "Tyneside usage — 'nice', not 'shrewd'." },
+      { "text": "There was a canny few people there.", "translation": "There were quite a lot of people there." }
+    ],
+    "relatedTerms": ["british/wee", "british/sound"],
+    "reviewedBy": "Editorial team"
+  }
+]

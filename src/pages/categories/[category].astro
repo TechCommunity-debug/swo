@@ -1,0 +1,168 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
+import EntryCard from '../../components/EntryCard.astro';
+import JsonLd from '../../components/JsonLd.astro';
+import {
+  byTerm,
+  categoryPath,
+  countryPath,
+  entryPath,
+  splitEntryId,
+  type Country,
+  type Entry,
+} from '../../lib/urls';
+import { CATEGORIES } from '../../data/taxonomy';
+import { categorySeo, SITE_URL } from '../../lib/seo';
+
+export async function getStaticPaths() {
+  const countries = await getCollection('countries');
+  const all = await getCollection('entries', (e) => e.data.status === 'published');
+
+  return CATEGORIES.map((category) => {
+    const matching = all.filter((e) => e.data.categories.includes(category.id)).sort(byTerm);
+
+    // Group by country so the page reads as a comparison, not a flat list.
+    const groups = countries
+      .slice()
+      .sort((a, b) => a.data.order - b.data.order)
+      .map((country) => ({
+        country,
+        entries: matching.filter((e) => splitEntryId(e.id)[0] === country.id),
+      }))
+      .filter((g) => g.entries.length > 0);
+
+    return {
+      params: { category: category.urlSlug },
+      props: { category, groups, total: matching.length },
+    };
+  }).filter((p) => p.props.total > 0);
+}
+
+interface Props {
+  category: (typeof CATEGORIES)[number];
+  groups: { country: Country; entries: Entry[] }[];
+  total: number;
+}
+
+const { category, groups, total } = Astro.props;
+const seo = categorySeo(category, total);
+const pageUrl = new URL(Astro.url.pathname, SITE_URL).href;
+
+const href = (country: Country, e: Entry) =>
+  entryPath(country.data.urlSlug, splitEntryId(e.id)[1]);
+
+const otherCategories = CATEGORIES.filter((c) => c.id !== category.id).slice(0, 5);
+
+const schema = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'CollectionPage',
+    name: `${category.name} slang`,
+    description: category.description,
+    url: pageUrl,
+    mainEntity: {
+      '@type': 'ItemList',
+      numberOfItems: total,
+      itemListElement: groups.flatMap((g) =>
+        g.entries.map((e) => ({
+          '@type': 'ListItem',
+          name: e.data.term,
+          url: new URL(href(g.country, e), SITE_URL).href,
+        })),
+      ),
+    },
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Home', item: `${SITE_URL}/` },
+      { '@type': 'ListItem', position: 2, name: 'Categories', item: `${SITE_URL}/categories/` },
+      { '@type': 'ListItem', position: 3, name: category.name, item: pageUrl },
+    ],
+  },
+];
+---
+
+<Layout title={seo.title} description={seo.description}>
+  <JsonLd slot="head" schema={schema} />
+
+  <div class="container-site py-8 lg:py-12">
+    <Breadcrumbs
+      items={[{ label: 'Categories', href: '/categories/' }, { label: category.name }]}
+    />
+
+    <header class="mt-8 max-w-3xl">
+      <h1 class="text-display-lg text-ink">{category.name}</h1>
+      <p class="mt-5 text-body-md text-body">{category.description}</p>
+      <p class="mt-4 text-body-sm text-mute">
+        {total} terms across {groups.length} countries.
+      </p>
+    </header>
+
+    <nav aria-label="Jump to country" class="mt-8 flex flex-wrap gap-2">
+      {
+        groups.map((g) => (
+          <a
+            href={`#${g.country.id}`}
+            class="focus-ring inline-flex items-center gap-2 rounded-full bg-surface-card px-3 py-1.5 text-body-sm font-semibold text-ink hover:bg-surface-sunk"
+          >
+            <span aria-hidden="true">{g.country.data.flagEmoji}</span>
+            {g.country.data.adjective}
+            <span class="text-caption font-normal text-mute">{g.entries.length}</span>
+          </a>
+        ))
+      }
+    </nav>
+
+    <div class="mt-section grid gap-section">
+      {
+        groups.map((g) => (
+          <section id={g.country.id} aria-labelledby={`${g.country.id}-h`}>
+            <div class="flex flex-wrap items-baseline justify-between gap-4 border-b border-hairline pb-3">
+              <h2 id={`${g.country.id}-h`} class="text-heading-xl text-ink">
+                <span aria-hidden="true">{g.country.data.flagEmoji}</span>{' '}
+                {g.country.data.adjective}
+              </h2>
+              <a
+                href={countryPath(g.country)}
+                class="focus-ring rounded-sm text-body-sm font-semibold text-ink-soft hover:underline"
+              >
+                All {g.country.data.adjective.toLowerCase()} slang
+              </a>
+            </div>
+            <div class="masonry mt-6">
+              {g.entries.map((e) => (
+                <EntryCard
+                  entry={e}
+                  href={href(g.country, e)}
+                  lang={g.country.data.languageCode}
+                />
+              ))}
+            </div>
+          </section>
+        ))
+      }
+    </div>
+
+    <nav aria-labelledby="other-categories" class="mt-section border-t border-hairline pt-8">
+      <h2 id="other-categories" class="text-heading-md text-ink">Other categories</h2>
+      <ul class="mt-4 flex flex-wrap gap-2">
+        {
+          otherCategories.map((c) => (
+            <li>
+              <a
+                href={categoryPath(c.urlSlug)}
+                class="focus-ring inline-flex rounded-full bg-surface-card px-4 py-2 text-body-sm font-semibold text-ink hover:bg-surface-sunk"
+              >
+                {c.name}
+              </a>
+            </li>
+          ))
+        }
+      </ul>
+    </nav>
+  </div>
+</Layout>

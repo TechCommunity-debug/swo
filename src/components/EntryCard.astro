@@ -1,0 +1,58 @@
+---
+import type { CollectionEntry } from 'astro:content';
+import { REGISTER_LABEL } from '../data/taxonomy';
+
+interface Props {
+  entry: CollectionEntry<'entries'>;
+  href: string;
+  /** BCP 47 tag for the term itself, e.g. es-MX. */
+  lang: string;
+  /** Shown on cross-country surfaces (categories, browse, search). */
+  countryLabel?: string;
+  flagEmoji?: string;
+}
+
+const { entry, href, lang, countryLabel, flagEmoji } = Astro.props;
+const { term, definitions, register, partOfSpeech, usageWarning, pronunciation } = entry.data;
+---
+
+<article class="masonry-item">
+  <a
+    href={href}
+    class="focus-ring block rounded-md bg-canvas p-5 ring-1 ring-hairline-soft transition-colors hover:bg-surface-card"
+  >
+    <div class="flex items-baseline gap-2">
+      <h3 class="text-heading-lg text-ink" lang={lang}>{term}</h3>
+      {
+        countryLabel && (
+          <span class="ml-auto shrink-0 text-caption text-mute">
+            <span aria-hidden="true">{flagEmoji}</span> {countryLabel}
+          </span>
+        )
+      }
+    </div>
+
+    <p class="mt-1 text-caption text-mute">
+      {partOfSpeech.join(', ')} · {REGISTER_LABEL[register]}
+      {pronunciation?.respelling && <> · {pronunciation.respelling}</>}
+    </p>
+
+    <p class="mt-3 text-body-sm text-body">{definitions[0].text}</p>
+
+    {
+      definitions.length > 1 && (
+        <p class="mt-2 text-caption text-ash">
+          +{definitions.length - 1} more {definitions.length === 2 ? 'sense' : 'senses'}
+        </p>
+      )
+    }
+
+    {
+      usageWarning.length > 0 && (
+        <p class="mt-3 inline-flex rounded-full bg-warn-pale px-2.5 py-1 text-caption font-medium text-warn-deep">
+          Use with care
+        </p>
+      )
+    }
+  </a>
+</article>

@@ -1,0 +1,48 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../layouts/Layout.astro';
+import SearchBox from '../components/SearchBox.astro';
+import { countryPath } from '../lib/urls';
+import { SITE_NAME } from '../lib/seo';
+
+const countries = (await getCollection('countries')).sort((a, b) => a.data.order - b.data.order);
+---
+
+<Layout
+  title={`Page not found | ${SITE_NAME}`}
+  description="That page doesn't exist. Search the dictionary or pick a country to browse."
+  noIndex
+>
+  <div class="container-site py-section">
+    <div class="max-w-2xl">
+      <p class="text-body-sm font-semibold tracking-wide text-mute uppercase">404</p>
+      <h1 class="mt-2 text-display-lg text-ink">No such word here</h1>
+      <p class="mt-5 text-body-md text-body">
+        That page doesn't exist — the term may not be in the dictionary yet, or the link may be
+        out of date. Searching is usually faster than guessing the URL.
+      </p>
+      <div class="mt-8">
+        <SearchBox autofocus />
+      </div>
+    </div>
+
+    <nav aria-labelledby="pick-country" class="mt-section">
+      <h2 id="pick-country" class="text-heading-md text-ink">Or start from a country</h2>
+      <ul class="mt-4 flex flex-wrap gap-2">
+        {
+          countries.map((c) => (
+            <li>
+              <a
+                href={countryPath(c)}
+                class="focus-ring inline-flex items-center gap-2 rounded-full bg-surface-card px-4 py-2 text-body-sm font-semibold text-ink hover:bg-surface-sunk"
+              >
+                <span aria-hidden="true">{c.data.flagEmoji}</span>
+                {c.data.adjective}
+              </a>
+            </li>
+          ))
+        }
+      </ul>
+    </nav>
+  </div>
+</Layout>

@@ -1,0 +1,982 @@
+[
+  {
+    "slug": "boh",
+    "term": "boh",
+    "partOfSpeech": ["interjection"],
+    "register": "colloquial",
+    "categories": ["discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "pronunciation": { "respelling": "BOH" },
+    "definitions": [
+      { "text": "I don't know; who knows; search me. A complete answer on its own, and usually delivered with a shrug and downturned mouth." }
+    ],
+    "examples": [
+      { "text": "—Quando arriva il treno? —Boh.", "translation": "'When does the train arrive?' 'No idea.'" },
+      { "text": "Boh, forse domani, non si sa.", "translation": "Who knows, maybe tomorrow, nobody's sure." }
+    ],
+    "origin": {
+      "etymology": "Not a word so much as a conventionalised sound, and one of the first things learners notice about real Italian conversation. It communicates not just ignorance but a refusal to speculate.",
+      "sources": []
+    },
+    "relatedTerms": ["italian/mah", "italian/magari", "italian/vabbe"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "mah",
+    "term": "mah",
+    "partOfSpeech": ["interjection"],
+    "register": "colloquial",
+    "categories": ["discourse", "emotion"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Hmm; well now. Signals doubt, scepticism or resigned uncertainty about what has just been said." }
+    ],
+    "examples": [
+      { "text": "Mah, non ne sono così sicuro.", "translation": "Hmm, I'm not so sure about that." },
+      { "text": "Mah, vedremo.", "translation": "Well, we'll see." }
+    ],
+    "relatedTerms": ["italian/boh", "italian/vabbe"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "vabbe",
+    "term": "vabbè",
+    "partOfSpeech": ["interjection"],
+    "register": "colloquial",
+    "categories": ["discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "pronunciation": { "respelling": "vah-BEH" },
+    "definitions": [
+      { "text": "Oh well; fine; whatever. Contracted from va bene, and used to accept something reluctantly or to close off a topic." }
+    ],
+    "examples": [
+      { "text": "Vabbè, non importa, facciamo domani.", "translation": "Fine, never mind, we'll do it tomorrow." },
+      { "text": "Vabbè, dai, non esagerare.", "translation": "Come on now, don't exaggerate." }
+    ],
+    "relatedTerms": ["italian/boh", "italian/dai", "italian/mah"],
+    "variants": ["va beh"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "dai",
+    "term": "dai",
+    "partOfSpeech": ["interjection"],
+    "register": "colloquial",
+    "categories": ["discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "pronunciation": { "respelling": "DYE" },
+    "literalMeaning": "Give (imperative).",
+    "definitions": [
+      { "text": "Come on. Encouragement, impatience or disbelief, depending entirely on intonation." },
+      { "text": "Ma dai! — 'you're kidding!' Expressing surprise." },
+      { "text": "As a softener at the end of a sentence: andiamo, dai." }
+    ],
+    "examples": [
+      { "text": "Dai, che ce la fai!", "translation": "Come on, you can do it!" },
+      { "text": "Ma dai, non ci credo.", "translation": "No way, I don't believe it." },
+      { "text": "Dai, andiamo, è tardi.", "translation": "Come on, let's go, it's late." }
+    ],
+    "relatedTerms": ["italian/vabbe", "italian/magari", "italian/boh"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "magari",
+    "term": "magari",
+    "partOfSpeech": ["interjection", "adverb"],
+    "register": "colloquial",
+    "categories": ["discourse", "emotion"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "pronunciation": { "respelling": "mah-GAH-ree" },
+    "definitions": [
+      { "text": "If only! I wish. Standing alone, it expresses a wish the speaker thinks unlikely." },
+      { "text": "Maybe, perhaps. Mid-sentence it is an ordinary hedge." },
+      { "text": "With a subjunctive: even if, supposing that.", "note": "The standalone 'if only' sense is the one that surprises learners — it is almost the opposite of 'maybe'." }
+    ],
+    "examples": [
+      { "text": "—Vinci tu la lotteria? —Magari!", "translation": "'Are you going to win the lottery?' 'I wish!'" },
+      { "text": "Magari ci vediamo domani.", "translation": "Maybe we'll see each other tomorrow." }
+    ],
+    "origin": {
+      "etymology": "From Greek makários, 'blessed, happy' — a Byzantine borrowing that survived into Italian. The wish sense is closest to the original.",
+      "sources": []
+    },
+    "relatedTerms": ["italian/boh", "italian/dai"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "figo",
+    "term": "figo",
+    "partOfSpeech": ["adjective", "noun"],
+    "register": "informal",
+    "categories": ["approval"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "pronunciation": { "respelling": "FEE-go" },
+    "definitions": [
+      { "text": "Cool, great. Che figo! — 'how cool!'" },
+      { "text": "Of a person: attractive. Un figo, una figa in this sense." },
+      { "text": "Northern in origin; central and southern Italy say fico for the same thing.", "note": "Note that the feminine figa also has a vulgar anatomical sense, which is why the masculine is the safer form." }
+    ],
+    "examples": [
+      { "text": "Che figo il tuo appartamento!", "translation": "Your flat is so cool!" },
+      { "text": "È stato un concerto davvero figo.", "translation": "It was a really great gig." }
+    ],
+    "relatedTerms": ["italian/figata", "italian/fregarsene", "italian/spacca"],
+    "synonyms": ["fico", "bello"],
+    "variants": ["fico", "figa"],
+    "usageWarning": ["context-dependent"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "figata",
+    "term": "figata",
+    "partOfSpeech": ["noun"],
+    "register": "informal",
+    "categories": ["approval"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Something brilliant; a great thing. Che figata! — 'how cool is that!'" }
+    ],
+    "examples": [
+      { "text": "Che figata, hanno aperto una libreria qui.", "translation": "How great, they've opened a bookshop here." },
+      { "text": "Il nuovo album è una figata.", "translation": "The new album is fantastic." }
+    ],
+    "relatedTerms": ["italian/figo", "italian/spacca"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "spacca",
+    "term": "spacca",
+    "partOfSpeech": ["verb"],
+    "register": "informal",
+    "categories": ["approval"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "literalMeaning": "It splits, it cracks.",
+    "definitions": [
+      { "text": "It rocks; it's outstanding. Questo pezzo spacca — 'this track is a banger'." }
+    ],
+    "examples": [
+      { "text": "Quella band dal vivo spacca.", "translation": "That band is incredible live." },
+      { "text": "Il tuo progetto spacca davvero.", "translation": "Your project is genuinely brilliant." }
+    ],
+    "relatedTerms": ["italian/figo", "italian/figata"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "che-palle",
+    "term": "che palle",
+    "partOfSpeech": ["phrase", "interjection"],
+    "register": "vulgar",
+    "categories": ["emotion"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "literalMeaning": "What balls.",
+    "definitions": [
+      { "text": "What a drag; how boring. An extremely common complaint about tedium rather than about anything genuinely bad." }
+    ],
+    "examples": [
+      { "text": "Un'altra riunione? Che palle.", "translation": "Another meeting? What a drag." },
+      { "text": "Che palle questa pioggia.", "translation": "This rain is so tedious." }
+    ],
+    "origin": {
+      "etymology": "Anatomically vulgar in origin but heavily bleached — heard constantly, including from people who would not otherwise swear. Rompere le palle, 'to be a pain', comes from the same root.",
+      "sources": []
+    },
+    "relatedTerms": ["italian/mannaggia", "italian/scocciare"],
+    "usageWarning": ["vulgar"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "mannaggia",
+    "term": "mannaggia",
+    "partOfSpeech": ["interjection"],
+    "register": "informal",
+    "categories": ["emotion"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "pronunciation": { "respelling": "mah-NAH-jah" },
+    "definitions": [
+      { "text": "Damn; blast. A mild curse of frustration, often extended to mannaggia a te or mannaggia la miseria." }
+    ],
+    "examples": [
+      { "text": "Mannaggia, ho dimenticato le chiavi.", "translation": "Damn, I've forgotten my keys." },
+      { "text": "Mannaggia a te e alle tue idee.", "translation": "Damn you and your bright ideas." }
+    ],
+    "origin": {
+      "etymology": "From Neapolitan mal ne aggia, 'may evil come of it'. Southern in origin and now thoroughly national, like a good deal of Italian informal vocabulary.",
+      "sources": []
+    },
+    "relatedTerms": ["italian/che-palle", "italian/porca-miseria"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "porca-miseria",
+    "term": "porca miseria",
+    "partOfSpeech": ["interjection", "phrase"],
+    "register": "informal",
+    "categories": ["emotion"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "literalMeaning": "Filthy misery.",
+    "definitions": [
+      { "text": "Damn it; bloody hell. The socially safe member of a large family of porca... expressions, the others of which are blasphemous and genuinely offensive." }
+    ],
+    "examples": [
+      { "text": "Porca miseria, si è rotto di nuovo.", "translation": "Damn it, it's broken again." },
+      { "text": "Porca miseria che freddo!", "translation": "Bloody hell it's cold!" }
+    ],
+    "origin": {
+      "etymology": "Italian swearing splits sharply between the merely vulgar and the bestemmie — blasphemies against God or the saints, which remain seriously taboo and were until recently punishable by law. porca miseria substitutes an abstract noun for the forbidden one.",
+      "sources": []
+    },
+    "relatedTerms": ["italian/mannaggia", "italian/che-palle"],
+    "usageWarning": ["vulgar"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "fregarsene",
+    "term": "fregarsene",
+    "partOfSpeech": ["verb"],
+    "register": "informal",
+    "categories": ["emotion", "discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Not to care at all. Me ne frego — 'I couldn't care less'. Chi se ne frega — 'who cares'." }
+    ],
+    "examples": [
+      { "text": "Non me ne frega niente di quello che dicono.", "translation": "I don't care in the slightest what they say." },
+      { "text": "E chi se ne frega!", "translation": "And who cares!" }
+    ],
+    "origin": {
+      "etymology": "Worth knowing that me ne frego was a Fascist slogan in the 1920s and 30s. The phrase long predates and outlasts that use and is entirely neutral today, but the association is still recognised by Italians.",
+      "sources": []
+    },
+    "relatedTerms": ["italian/che-palle", "italian/boh"],
+    "synonyms": ["non importare"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "scocciare",
+    "term": "scocciare",
+    "partOfSpeech": ["verb"],
+    "register": "colloquial",
+    "categories": ["emotion", "insults"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "To annoy, to pester. Uno scocciatore is a pest." },
+      { "text": "Reflexively, scocciarsi: to get fed up." }
+    ],
+    "examples": [
+      { "text": "Smettila di scocciare tua sorella.", "translation": "Stop pestering your sister." },
+      { "text": "Mi sono scocciato di aspettare.", "translation": "I've had enough of waiting." }
+    ],
+    "relatedTerms": ["italian/che-palle", "italian/rompiscatole"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "rompiscatole",
+    "term": "rompiscatole",
+    "partOfSpeech": ["noun"],
+    "register": "informal",
+    "categories": ["insults", "people"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "literalMeaning": "Box-breaker.",
+    "definitions": [
+      { "text": "A pain in the neck; someone who will not leave you alone. The polite version of a cruder expression built on the same verb." }
+    ],
+    "examples": [
+      { "text": "Quel tipo è un rompiscatole.", "translation": "That bloke is a real pain." },
+      { "text": "Non fare il rompiscatole.", "translation": "Don't be such a nuisance." }
+    ],
+    "relatedTerms": ["italian/scocciare", "italian/che-palle"],
+    "synonyms": ["rompipalle", "seccatore"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "in-bocca-al-lupo",
+    "term": "in bocca al lupo",
+    "partOfSpeech": ["phrase", "idiom"],
+    "register": "colloquial",
+    "categories": ["greetings", "discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "literalMeaning": "Into the wolf's mouth.",
+    "definitions": [
+      { "text": "Good luck. The conventional reply is crepi il lupo ('may the wolf die') or simply crepi — replying grazie is considered to invite bad luck." }
+    ],
+    "examples": [
+      { "text": "In bocca al lupo per l'esame!", "translation": "Good luck with the exam!" },
+      { "text": "—In bocca al lupo. —Crepi!", "translation": "'Good luck.' 'Thanks!'", "context": "The exchange is fixed. Answering 'grazie' marks you as a foreigner." }
+    ],
+    "origin": {
+      "etymology": "The logic is the same as English 'break a leg': wishing good luck directly is thought to jinx it, so you invoke the danger instead. A minority argue the wolf's mouth is protective, as a she-wolf carries her cubs — in which case crepi il lupo is a mistake. Italians argue about this.",
+      "sources": []
+    },
+    "relatedTerms": ["italian/magari", "italian/dai"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "ci-sta",
+    "term": "ci sta",
+    "partOfSpeech": ["phrase"],
+    "register": "informal",
+    "categories": ["discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "That works; fair enough; it fits. Expresses that something is acceptable or reasonable." },
+      { "text": "Of a person: they're up for it. Ci sta means 'count me in'." }
+    ],
+    "examples": [
+      { "text": "Una birra dopo il lavoro? Ci sta.", "translation": "A beer after work? Sounds good." },
+      { "text": "Ci sta che sia in ritardo, c'è traffico.", "translation": "It's understandable that he's late, there's traffic." }
+    ],
+    "relatedTerms": ["italian/vabbe", "italian/dai"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "allora",
+    "term": "allora",
+    "partOfSpeech": ["interjection", "adverb"],
+    "register": "colloquial",
+    "categories": ["discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "pronunciation": { "respelling": "ahl-LOH-rah" },
+    "definitions": [
+      { "text": "So; right then; well. Opens a sentence, fills a pause, calls a room to order, or introduces a conclusion. Teachers begin lessons with it and waiters begin orders with it." },
+      { "text": "At that time, as an ordinary adverb." }
+    ],
+    "examples": [
+      { "text": "Allora, cosa facciamo stasera?", "translation": "So, what are we doing tonight?" },
+      { "text": "Allora, ragazzi, silenzio!", "translation": "Right, everyone, quiet!" }
+    ],
+    "relatedTerms": ["italian/dai", "italian/boh", "italian/vabbe"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "cavolo",
+    "term": "cavolo",
+    "partOfSpeech": ["interjection", "noun"],
+    "register": "colloquial",
+    "categories": ["emotion", "discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "literalMeaning": "Cabbage.",
+    "definitions": [
+      { "text": "A euphemism for a much cruder word, used both as an exclamation and as an intensifier: che cavolo vuoi? — 'what the hell do you want?'" },
+      { "text": "Non me ne importa un cavolo: I don't care at all." }
+    ],
+    "examples": [
+      { "text": "Che cavolo stai facendo?", "translation": "What on earth are you doing?" },
+      { "text": "Cavolo, che bella notizia!", "translation": "Wow, what great news!" }
+    ],
+    "origin": {
+      "etymology": "Substituted for cazzo, which it resembles in shape and sound. Italian has a rich stock of such vegetable substitutions.",
+      "sources": []
+    },
+    "relatedTerms": ["italian/mannaggia", "italian/porca-miseria", "italian/che-palle"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "sfigato",
+    "term": "sfigato",
+    "partOfSpeech": ["adjective", "noun"],
+    "register": "informal",
+    "categories": ["insults", "people"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "A loser; someone unlucky and uncool. Sfiga, the related noun, means bad luck." }
+    ],
+    "examples": [
+      { "text": "Che sfiga, mi si è bucata la gomma.", "translation": "What rotten luck, I've got a flat tyre.", "context": "sfiga on its own is about misfortune and is very mild." },
+      { "text": "Si sente uno sfigato quando lo escludono.", "translation": "He feels like a loser when they leave him out." }
+    ],
+    "relatedTerms": ["italian/figo", "italian/rompiscatole"],
+    "usageWarning": ["context-dependent"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "abbiocco",
+    "term": "abbiocco",
+    "partOfSpeech": ["noun"],
+    "register": "regional",
+    "categories": ["food-drink", "emotion"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "region": "Rome",
+    "pronunciation": { "respelling": "ahb-BYOK-ko" },
+    "definitions": [
+      { "text": "The overwhelming drowsiness that follows a large meal. Roman in origin, now understood nationally, and with no single-word English equivalent." }
+    ],
+    "examples": [
+      { "text": "Dopo pranzo mi viene sempre l'abbiocco.", "translation": "I always get sleepy after lunch." },
+      { "text": "Ho un abbiocco pazzesco.", "translation": "I'm unbelievably drowsy." }
+    ],
+    "origin": {
+      "etymology": "From Roman dialect, related to a verb for a hen settling onto her eggs. The image is of sinking down and refusing to move.",
+      "sources": []
+    },
+    "relatedTerms": ["italian/che-palle", "italian/apericena"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "apericena",
+    "term": "apericena",
+    "partOfSpeech": ["noun"],
+    "register": "colloquial",
+    "categories": ["food-drink", "partying"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "region": "Milan",
+    "definitions": [
+      { "text": "An aperitivo with enough food laid on to replace dinner: you buy a drink and the buffet is included. A Milanese institution and a student survival strategy." }
+    ],
+    "examples": [
+      { "text": "Facciamo apericena invece di cena?", "translation": "Shall we do an aperitivo-buffet instead of dinner?" },
+      { "text": "Dieci euro per apericena, bevuta inclusa.", "translation": "Ten euros for the buffet aperitivo, drink included." }
+    ],
+    "origin": {
+      "etymology": "A portmanteau of aperitivo and cena, coined in the 2000s. Purists object to both the word and the practice; neither objection has had any effect.",
+      "firstAttested": "2000s",
+      "sources": []
+    },
+    "relatedTerms": ["italian/abbiocco", "italian/spritz"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "spritz",
+    "term": "spritz",
+    "partOfSpeech": ["noun"],
+    "register": "colloquial",
+    "categories": ["food-drink"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "The orange aperitivo of prosecco, bitter liqueur and soda. Ordering one is the standard opening move of an Italian evening." }
+    ],
+    "examples": [
+      { "text": "Ci prendiamo uno spritz in piazza?", "translation": "Shall we have a spritz in the square?" },
+      { "text": "Due spritz, per favore.", "translation": "Two spritzes, please." }
+    ],
+    "origin": {
+      "etymology": "From German spritzen, 'to spray' — Austrian soldiers in nineteenth-century Veneto diluted the local wine with water. The bitter liqueur came later.",
+      "firstAttested": "19th century",
+      "sources": []
+    },
+    "relatedTerms": ["italian/apericena", "italian/abbiocco"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "furbo",
+    "term": "furbo",
+    "partOfSpeech": ["adjective", "noun"],
+    "register": "colloquial",
+    "categories": ["people"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Cunning, sly, quick to spot an angle. Admiring and disapproving at once — the furbo gets away with things, and Italians are ambivalent about whether that is a virtue." },
+      { "text": "Fare il furbo: to try it on, to game the system." }
+    ],
+    "examples": [
+      { "text": "Non fare il furbo con me.", "translation": "Don't try it on with me." },
+      { "text": "È troppo furbo per cascarci.", "translation": "He's too shrewd to fall for that." }
+    ],
+    "origin": {
+      "etymology": "furbizia — the quality of being furbo — is a recurring theme in Italian self-description and satire, generally as a national failing that everyone privately admires.",
+      "sources": []
+    },
+    "relatedTerms": ["italian/sfigato", "italian/beccare"],
+    "synonyms": ["astuto", "sveglio"],
+    "usageWarning": ["context-dependent"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "beccare",
+    "term": "beccare",
+    "partOfSpeech": ["verb"],
+    "register": "informal",
+    "categories": ["everyday"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "literalMeaning": "To peck.",
+    "definitions": [
+      { "text": "To catch someone in the act. Mi hanno beccato — 'I got caught'." },
+      { "text": "Beccarsi: to meet up. Ci becchiamo domani — 'see you tomorrow'." }
+    ],
+    "examples": [
+      { "text": "L'hanno beccato senza biglietto.", "translation": "They caught him without a ticket." },
+      { "text": "Ci becchiamo alle otto.", "translation": "See you at eight." }
+    ],
+    "relatedTerms": ["italian/furbo", "italian/ci-sta"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "ganzo",
+    "term": "ganzo",
+    "partOfSpeech": ["adjective"],
+    "register": "regional",
+    "categories": ["approval"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "region": "Tuscany",
+    "definitions": [
+      { "text": "Cool, great. Tuscan, and a reliable regional marker — hearing it places the speaker between Florence and Livorno." }
+    ],
+    "examples": [
+      { "text": "Ganzo davvero questo posto.", "translation": "This place is really cool." },
+      { "text": "Ma che ganzo!", "translation": "That's brilliant!" }
+    ],
+    "relatedTerms": ["italian/figo", "italian/figata"],
+    "synonyms": ["figo", "bello"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "ao",
+    "term": "aò",
+    "partOfSpeech": ["interjection"],
+    "register": "regional",
+    "categories": ["greetings", "discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "region": "Rome",
+    "pronunciation": { "respelling": "ah-OH" },
+    "definitions": [
+      { "text": "Hey; oi. The Roman attention-getter, used to open a sentence, hail a friend or express exasperation. As Roman as anything gets." }
+    ],
+    "examples": [
+      { "text": "Aò, ma che fai?", "translation": "Oi, what are you doing?" },
+      { "text": "Aò, ce vediamo dopo.", "translation": "Hey, see you later.", "context": "Roman dialect also gives ce for ci — the two travel together." }
+    ],
+    "relatedTerms": ["italian/abbiocco", "italian/allora"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "sticazzi",
+    "term": "sticazzi",
+    "partOfSpeech": ["interjection"],
+    "register": "vulgar",
+    "categories": ["emotion"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "region": "Rome",
+    "definitions": [
+      { "text": "So what; who cares. Roman, vulgar, and widely misused outside Rome — it expresses indifference, not admiration, and Romans will tell you so." }
+    ],
+    "examples": [
+      { "text": "—Ha comprato una macchina nuova. —Sticazzi.", "translation": "'He's bought a new car.' 'So what.'" },
+      { "text": "Sticazzi, che problema c'è?", "translation": "Who cares, what's the problem?" }
+    ],
+    "origin": {
+      "etymology": "Contracted from questi cazzi. Non-Romans frequently use it to mean 'wow, amazing', which is wrong; the correct word for that is the near-identical mecojoni.",
+      "sources": []
+    },
+    "relatedTerms": ["italian/fregarsene", "italian/ao", "italian/che-palle"],
+    "usageWarning": ["vulgar"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "scialla",
+    "term": "scialla",
+    "partOfSpeech": ["interjection", "adjective"],
+    "register": "informal",
+    "categories": ["discourse", "emotion"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "region": "Rome",
+    "definitions": [
+      { "text": "Relax; take it easy; no worries. Youth slang, Roman in origin and now broadly understood." }
+    ],
+    "examples": [
+      { "text": "Scialla, arriviamo in tempo.", "translation": "Relax, we'll get there on time." },
+      { "text": "Stai scialla, ci penso io.", "translation": "Take it easy, I'll handle it." }
+    ],
+    "origin": {
+      "etymology": "Probably from Arabic inshallah, by way of a general Mediterranean fatalism. The derivation is plausible and not firmly established.",
+      "sources": []
+    },
+    "relatedTerms": ["italian/ao", "italian/vabbe", "italian/ci-sta"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "pazzesco",
+    "term": "pazzesco",
+    "partOfSpeech": ["adjective"],
+    "register": "colloquial",
+    "categories": ["approval", "emotion"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Insane, unbelievable — usually in a good sense, but usable for anything extreme." }
+    ],
+    "examples": [
+      { "text": "La vista da lassù è pazzesca.", "translation": "The view from up there is unbelievable." },
+      { "text": "C'era una fila pazzesca.", "translation": "There was an insane queue." }
+    ],
+    "relatedTerms": ["italian/figata", "italian/spacca", "italian/figo"],
+    "synonyms": ["assurdo", "incredibile"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "assurdo",
+    "term": "assurdo",
+    "partOfSpeech": ["adjective"],
+    "register": "colloquial",
+    "categories": ["emotion"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Absurd — but used far more loosely than the English word, as a general marker of anything remarkable, exasperating or extreme." }
+    ],
+    "examples": [
+      { "text": "È assurdo quanto costa affittare qui.", "translation": "It's ridiculous how much renting costs here." },
+      { "text": "Assurdo, non ci posso credere.", "translation": "Unbelievable, I can't believe it." }
+    ],
+    "relatedTerms": ["italian/pazzesco", "italian/mah"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "macche",
+    "term": "macché",
+    "partOfSpeech": ["interjection"],
+    "register": "colloquial",
+    "categories": ["discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "pronunciation": { "respelling": "mah-KEH" },
+    "definitions": [
+      { "text": "Not at all; nonsense; no chance. A flat, emphatic denial of what has just been suggested." }
+    ],
+    "examples": [
+      { "text": "—Sarà costato caro. —Macché, l'ho preso in saldo.", "translation": "'That must have been expensive.' 'Not at all, I got it on sale.'" },
+      { "text": "Macché stanco, sto benissimo.", "translation": "Tired? Not a bit of it, I feel great." }
+    ],
+    "relatedTerms": ["italian/mah", "italian/boh", "italian/vabbe"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "capito",
+    "term": "capito?",
+    "partOfSpeech": ["interjection"],
+    "register": "colloquial",
+    "categories": ["discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "literalMeaning": "Understood?",
+    "definitions": [
+      { "text": "You know? A tag appended to statements to check the listener is following, functioning much like English 'you know what I mean'." },
+      { "text": "Hai capito! as an exclamation of surprised admiration: 'well I never'." }
+    ],
+    "examples": [
+      { "text": "È una cosa delicata, capito?", "translation": "It's a delicate matter, you know?" },
+      { "text": "Hai capito che roba!", "translation": "Well, would you look at that!" }
+    ],
+    "relatedTerms": ["italian/allora", "italian/cioe", "italian/dai"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "cioe",
+    "term": "cioè",
+    "partOfSpeech": ["interjection", "adverb"],
+    "register": "colloquial",
+    "categories": ["discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "pronunciation": { "respelling": "choh-EH" },
+    "literalMeaning": "That is to say.",
+    "definitions": [
+      { "text": "I mean; like. Nominally a clarifier, in practice one of the most common fillers in spoken Italian, particularly among younger speakers." }
+    ],
+    "examples": [
+      { "text": "Cioè, non è che non voglia, è che non posso.", "translation": "I mean, it's not that I don't want to, it's that I can't." },
+      { "text": "Era, cioè, veramente strano.", "translation": "It was, like, really strange." }
+    ],
+    "relatedTerms": ["italian/capito", "italian/allora", "italian/boh"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "meno-male",
+    "term": "meno male",
+    "partOfSpeech": ["phrase", "interjection"],
+    "register": "colloquial",
+    "categories": ["emotion"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "literalMeaning": "Less bad.",
+    "definitions": [
+      { "text": "Thank goodness; just as well. Expresses relief that something worse did not happen." }
+    ],
+    "examples": [
+      { "text": "Meno male che hai chiamato.", "translation": "Thank goodness you called." },
+      { "text": "Meno male, pensavo di averlo perso.", "translation": "What a relief, I thought I'd lost it." }
+    ],
+    "relatedTerms": ["italian/magari", "italian/mannaggia"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "tipo",
+    "term": "tipo",
+    "partOfSpeech": ["adverb", "noun"],
+    "register": "informal",
+    "categories": ["discourse", "people"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Like; about; sort of. A hedge and approximator: tipo alle sette, 'around seven'." },
+      { "text": "A guy, a bloke. Un tipo strano — 'an odd bloke'." }
+    ],
+    "examples": [
+      { "text": "Ci vediamo tipo alle otto.", "translation": "Let's meet around eight." },
+      { "text": "C'era un tipo che chiedeva di te.", "translation": "There was a guy asking for you." }
+    ],
+    "relatedTerms": ["italian/cioe", "italian/capito"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "figurati",
+    "term": "figurati",
+    "partOfSpeech": ["interjection"],
+    "register": "colloquial",
+    "categories": ["greetings", "discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Don't mention it; not at all. The standard reply to thanks, and to an apology." },
+      { "text": "Imagine that; as if. Sarcastically, dismissing a suggestion as obviously unlikely." }
+    ],
+    "examples": [
+      { "text": "—Grazie mille! —Figurati.", "translation": "'Thank you so much!' 'Don't mention it.'" },
+      { "text": "Figurati se arriva puntuale.", "translation": "As if he'd turn up on time." }
+    ],
+    "relatedTerms": ["italian/prego", "italian/dai", "italian/macche"],
+    "variants": ["si figuri"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "prego",
+    "term": "prego",
+    "partOfSpeech": ["interjection"],
+    "register": "colloquial",
+    "categories": ["greetings", "discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "literalMeaning": "I pray.",
+    "definitions": [
+      { "text": "You're welcome." },
+      { "text": "After you; please, go ahead. Holding a door, offering a seat." },
+      { "text": "What can I get you? From a waiter or shopkeeper, it is an invitation to order." },
+      { "text": "Sorry, what? Said with rising intonation, it asks for repetition." }
+    ],
+    "examples": [
+      { "text": "—Grazie. —Prego.", "translation": "'Thanks.' 'You're welcome.'" },
+      { "text": "Prego, si accomodi.", "translation": "Please, have a seat." },
+      { "text": "Prego? Non ho sentito.", "translation": "Sorry? I didn't catch that." }
+    ],
+    "relatedTerms": ["italian/figurati", "italian/allora"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "che-ne-so",
+    "term": "che ne so",
+    "partOfSpeech": ["phrase"],
+    "register": "colloquial",
+    "categories": ["discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "literalMeaning": "What do I know of it.",
+    "definitions": [
+      { "text": "How should I know? Also used mid-sentence as a hedge introducing an example plucked at random: 'a book, che ne so, or a plant'." }
+    ],
+    "examples": [
+      { "text": "Portagli qualcosa, che ne so, un vino.", "translation": "Take him something, I don't know, a bottle of wine." },
+      { "text": "E che ne so io?", "translation": "How am I supposed to know?" }
+    ],
+    "relatedTerms": ["italian/boh", "italian/mah", "italian/tipo"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "sgamare",
+    "term": "sgamare",
+    "partOfSpeech": ["verb"],
+    "register": "informal",
+    "categories": ["everyday"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "To rumble someone; to work out what they are really up to. Stronger than beccare — it implies seeing through a deception, not just catching someone out." }
+    ],
+    "examples": [
+      { "text": "L'ho sgamato subito, stava mentendo.", "translation": "I saw through him straight away, he was lying." },
+      { "text": "Ci hanno sgamato.", "translation": "They rumbled us." }
+    ],
+    "relatedTerms": ["italian/beccare", "italian/furbo"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "sbattersi",
+    "term": "sbattersi",
+    "partOfSpeech": ["verb"],
+    "register": "informal",
+    "categories": ["money", "everyday"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "To go to a lot of trouble over something. Uno sbattimento is a hassle." }
+    ],
+    "examples": [
+      { "text": "Mi sono sbattuto tutto il giorno per trovarlo.", "translation": "I ran around all day trying to find it." },
+      { "text": "Che sbattimento organizzare tutto.", "translation": "What a hassle organising all of it." }
+    ],
+    "relatedTerms": ["italian/che-palle", "italian/scocciare"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "raga",
+    "term": "raga",
+    "partOfSpeech": ["noun"],
+    "register": "informal",
+    "categories": ["greetings", "people"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "Guys, everyone. Clipped from ragazzi and used to address a group regardless of gender." }
+    ],
+    "examples": [
+      { "text": "Raga, ci muoviamo?", "translation": "Guys, shall we get going?" },
+      { "text": "Ciao raga, a domani.", "translation": "Bye everyone, see you tomorrow." }
+    ],
+    "relatedTerms": ["italian/dai", "italian/allora", "italian/tipo"],
+    "synonyms": ["ragazzi"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "sclerare",
+    "term": "sclerare",
+    "partOfSpeech": ["verb"],
+    "register": "informal",
+    "categories": ["emotion"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "To lose it; to flip out from stress or frustration." }
+    ],
+    "examples": [
+      { "text": "Sto per sclerare con questa stampante.", "translation": "I'm about to lose it with this printer." },
+      { "text": "Ha sclerato in mezzo alla riunione.", "translation": "He lost his temper in the middle of the meeting." }
+    ],
+    "origin": {
+      "etymology": "From sclerosi, a medical term pressed into slang service. Italian youth slang borrows from clinical vocabulary fairly often.",
+      "sources": []
+    },
+    "relatedTerms": ["italian/che-palle", "italian/scocciare", "italian/sbattersi"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "che-due-palle",
+    "term": "che due palle",
+    "partOfSpeech": ["phrase"],
+    "register": "vulgar",
+    "categories": ["emotion"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "definitions": [
+      { "text": "An intensified che palle — what an almighty drag." }
+    ],
+    "examples": [
+      { "text": "Che due palle 'sta fila.", "translation": "This queue is an absolute nightmare." },
+      { "text": "Che due palle, devo rifare tutto.", "translation": "What a pain, I've got to redo the whole thing." }
+    ],
+    "relatedTerms": ["italian/che-palle", "italian/sclerare"],
+    "usageWarning": ["vulgar"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "andare-a-ruba",
+    "term": "andare a ruba",
+    "partOfSpeech": ["phrase", "idiom"],
+    "register": "colloquial",
+    "categories": ["money", "everyday"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "literalMeaning": "To go at a robbery.",
+    "definitions": [
+      { "text": "To sell out fast; to fly off the shelves." }
+    ],
+    "examples": [
+      { "text": "I biglietti sono andati a ruba.", "translation": "The tickets sold out instantly." },
+      { "text": "Quel modello va a ruba.", "translation": "That model is flying off the shelves." }
+    ],
+    "relatedTerms": ["italian/pazzesco", "italian/figata"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "acqua-in-bocca",
+    "term": "acqua in bocca",
+    "partOfSpeech": ["phrase", "idiom"],
+    "register": "colloquial",
+    "categories": ["discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "literalMeaning": "Water in the mouth.",
+    "definitions": [
+      { "text": "Keep it to yourself; don't breathe a word. The image is of holding a mouthful of water so you physically cannot speak." }
+    ],
+    "examples": [
+      { "text": "È una sorpresa, acqua in bocca!", "translation": "It's a surprise, don't say a word!" },
+      { "text": "Te lo dico, ma acqua in bocca.", "translation": "I'll tell you, but keep it quiet." }
+    ],
+    "relatedTerms": ["italian/in-bocca-al-lupo", "italian/capito"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "non-ci-piove",
+    "term": "non ci piove",
+    "partOfSpeech": ["phrase", "idiom"],
+    "register": "colloquial",
+    "categories": ["discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "literalMeaning": "It doesn't rain on it.",
+    "definitions": [
+      { "text": "There's no doubt about it. Appended to a statement to mark it as beyond argument." }
+    ],
+    "examples": [
+      { "text": "È il migliore del gruppo, non ci piove.", "translation": "He's the best in the group, no question about it." },
+      { "text": "Su questo non ci piove.", "translation": "There's no arguing with that." }
+    ],
+    "relatedTerms": ["italian/macche", "italian/ci-sta"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "avere-le-mani-in-pasta",
+    "term": "avere le mani in pasta",
+    "partOfSpeech": ["phrase", "idiom"],
+    "register": "colloquial",
+    "categories": ["money", "people"],
+    "status": "published",
+    "updatedDate": "2026-09-20",
+    "literalMeaning": "To have one's hands in the dough.",
+    "definitions": [
+      { "text": "To be involved in something, with good connections and inside knowledge. Can imply useful influence or something less savoury." }
+    ],
+    "examples": [
+      { "text": "Ha le mani in pasta in mezza città.", "translation": "He's got a finger in every pie in half the city." },
+      { "text": "Chiedi a lei, ha le mani in pasta.", "translation": "Ask her, she knows how it all works." }
+    ],
+    "relatedTerms": ["italian/furbo", "italian/sgamare"],
+    "usageWarning": ["context-dependent"],
+    "reviewedBy": "Editorial team"
+  }
+]

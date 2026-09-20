@@ -22,3 +22,9 @@ pnpm-debug.log*
 
 # jetbrains setting folder
 .idea/
+
+# Tailwind docs snapshot — source-available upstream, kept local per the skill's
+# guidance. Regenerate with:
+#   python3 .agents/skills/tailwind-4-docs/scripts/sync_tailwind_docs.py --accept-docs-license
+.agents/skills/tailwind-4-docs/references/docs/
+.agents/skills/tailwind-4-docs/references/docs-index.tsx
