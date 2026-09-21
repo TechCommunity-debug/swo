@@ -1,0 +1,137 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import Breadcrumbs from '../Breadcrumbs.astro';
+import EntryCard from '../EntryCard.astro';
+import JsonLd from '../JsonLd.astro';
+import { countryCategorySeo } from '../../lib/seo';
+import { breadcrumbs, collectionPage } from '../../lib/schema';
+import { homePath } from '../../lib/urls';
+import { t } from '../../i18n/ui';
+import type { CountryCategoryPageProps } from '../../lib/routes';
+
+/**
+ * The long-tail page: one country, one topic.
+ *
+ * This is the page the whole URL restructure exists for. "Mexican slang for
+ * people" is a query someone types; "people slang" is not, which is why the
+ * category has no page of its own above this level.
+ */
+
+type Props = CountryCategoryPageProps;
+
+const { locale, country, category, entries, otherTopics, elsewhere, countryHref, alternates } =
+  Astro.props;
+const strings = t(locale);
+
+const heading = strings.slangFor(country.adjective, category.topic);
+const seo = countryCategorySeo(country, category, entries.length, locale);
+const path = Astro.url.pathname;
+
+const schema = [
+  collectionPage({
+    name: heading,
+    description: seo.description,
+    path,
+    locale,
+    items: entries.map((e) => ({ name: e.entry.data.term, path: e.href })),
+  }),
+  breadcrumbs([
+    { name: strings.home, path: homePath(locale) },
+    { name: strings.countrySlang(country.adjective), path: countryHref },
+    { name: category.name, path },
+  ]),
+];
+---
+
+<Layout
+  title={seo.title}
+  description={seo.description}
+  locale={locale}
+  alternates={alternates}
+>
+  <JsonLd slot="head" schema={schema} />
+
+  <div class="container-site py-8 lg:py-12">
+    <Breadcrumbs
+      locale={locale}
+      items={[
+        { label: strings.countrySlang(country.adjective), href: countryHref },
+        { label: category.name },
+      ]}
+    />
+
+    <header class="mt-8 max-w-3xl">
+      <p class="text-body-sm font-semibold tracking-wide text-mute uppercase">
+        <span aria-hidden="true">{country.flagEmoji}</span> {country.name}
+      </p>
+      <h1 class="mt-2 text-display-lg text-ink">{heading}</h1>
+      <p class="mt-5 text-body-md text-body">
+        {strings.categoryLead(entries.length, country.adjective, category.topic)}
+      </p>
+      <p class="mt-4 text-body-md text-mute">{category.description}</p>
+    </header>
+
+    <div class="masonry mt-section">
+      {
+        entries.map((item) => (
+          <EntryCard
+            entry={item.entry}
+            href={item.href}
+            lang={country.languageCode}
+            gloss={item.gloss}
+            senseCount={item.senseCount}
+            locale={locale}
+          />
+        ))
+      }
+    </div>
+
+    {
+      otherTopics.length > 0 && (
+        <nav aria-labelledby="other-topics" class="mt-section border-t border-hairline pt-8">
+          <h2 id="other-topics" class="text-heading-md text-ink">
+            {strings.otherTopicsIn(country.adjective)}
+          </h2>
+          <ul class="mt-4 flex flex-wrap gap-2">
+            {otherTopics.map((topic) => (
+              <li>
+                <a
+                  href={topic.href}
+                  class="focus-ring inline-flex items-center gap-2 rounded-full bg-surface-card px-4 py-2 text-body-sm font-semibold text-ink hover:bg-surface-sunk"
+                >
+                  {topic.category.name}
+                  <span class="text-caption font-normal text-mute">{topic.count}</span>
+                </a>
+              </li>
+            ))}
+          </ul>
+        </nav>
+      )
+    }
+
+    {
+      elsewhere.length > 0 && (
+        <nav aria-labelledby="elsewhere" class="mt-12 rounded-lg bg-canvas p-8 ring-1 ring-hairline-soft">
+          <h2 id="elsewhere" class="text-heading-lg text-ink">
+            {strings.sameTopicElsewhere(category.name)}
+          </h2>
+          <p class="mt-2 max-w-2xl text-body-md text-mute">{strings.sameTopicElsewhereLead}</p>
+          <ul class="mt-5 flex flex-wrap gap-2">
+            {elsewhere.map((other) => (
+              <li>
+                <a
+                  href={other.href}
+                  class="focus-ring inline-flex items-center gap-2 rounded-full bg-surface-card px-4 py-2 text-body-sm font-semibold text-ink hover:bg-surface-sunk"
+                >
+                  <span aria-hidden="true">{other.country.flagEmoji}</span>
+                  {strings.slangFor(other.country.adjective, category.topic)}
+                  <span class="text-caption font-normal text-mute">{other.count}</span>
+                </a>
+              </li>
+            ))}
+          </ul>
+        </nav>
+      )
+    }
+  </div>
+</Layout>

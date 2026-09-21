@@ -1,34 +1,44 @@
 ---
+import { DEFAULT_LOCALE, type Locale } from '../data/locales';
+import { searchPath } from '../lib/urls';
+import { t } from '../i18n/ui';
+
 interface Props {
   /** Nav-bar variant: shorter, no label, no autofocus. */
   compact?: boolean;
-  /** Pre-fill from ?q= on the /search/ page. */
+  /** Pre-fill from ?q= on the search page. */
   value?: string;
   autofocus?: boolean;
+  locale?: Locale;
 }
 
-const { compact = false, value = '', autofocus = false } = Astro.props;
+const { compact = false, value = '', autofocus = false, locale = DEFAULT_LOCALE } = Astro.props;
+const strings = t(locale);
 const id = compact ? 'q-nav' : 'q-main';
+
+// One index per locale: the Spanish index holds Spanish glosses and links to
+// `/es/` URLs, so the reader never gets bounced out of their language by a
+// search result.
+const indexUrl = locale === DEFAULT_LOCALE ? '/search-index.json' : `/${locale}/search-index.json`;
 ---
 
 <!--
-  Progressive enhancement: this is a real GET form to /search/, so it works with
-  JavaScript disabled. The island below upgrades it to instant results.
+  Progressive enhancement: this is a real GET form to the search page, so it
+  works with JavaScript disabled. The island below upgrades it to instant results.
 -->
 <form
-  action="/search/"
+  action={searchPath(locale)}
   method="get"
   role="search"
   data-search-form
+  data-search-index={indexUrl}
   class="relative w-full"
   autocomplete="off"
 >
-  <label for={id} class="sr-only">Search slang terms</label>
+  <label for={id} class="sr-only">{strings.searchLabel}</label>
   <svg
     viewBox="0 0 24 24"
-    class:list={[
-      'pointer-events-none absolute top-1/2 left-4 size-5 -translate-y-1/2 text-ash',
-    ]}
+    class="pointer-events-none absolute top-1/2 left-4 size-5 -translate-y-1/2 text-ash"
     fill="none"
     stroke="currentColor"
     stroke-width="2"
@@ -44,7 +54,7 @@ const id = compact ? 'q-nav' : 'q-main';
     name="q"
     value={value}
     autofocus={autofocus}
-    placeholder={compact ? 'Search slang…' : 'Search a slang word, or a meaning…'}
+    placeholder={compact ? strings.searchPlaceholderCompact : strings.searchPlaceholder}
     data-search-input
     aria-describedby={`${id}-hint`}
     class:list={[
@@ -52,13 +62,12 @@ const id = compact ? 'q-nav' : 'q-main';
       compact ? 'h-10 text-body-sm' : 'h-14 text-body-md',
     ]}
   />
-  <p id={`${id}-hint`} class="sr-only">
-    Results appear below as you type. Press Enter to open the full search page.
-  </p>
+  <p id={`${id}-hint`} class="sr-only">{strings.searchHint}</p>
 
   <!-- Live results panel, populated by the island. -->
   <div
     data-search-results
+    data-empty-label={strings.noMatches('%s')}
     hidden
     class="absolute inset-x-0 top-full z-50 mt-2 max-h-96 overflow-y-auto rounded-md border border-hairline bg-canvas py-2"
   >
@@ -70,22 +79,35 @@ const id = compact ? 'q-nav' : 'q-main';
    * Instant search over a prebuilt index.
    *
    * The index is fetched once, on the first keystroke, and matched in memory.
-   * At ~430 entries this is faster than any library would be and costs no
-   * bundle. The result card deliberately renders only term / country / gloss —
-   * keeping it that narrow is what lets the index be swapped for per-country
+   * At a few hundred entries this is faster than any library would be and costs
+   * no bundle. The result card deliberately renders only term / country / gloss
+   * — keeping it that narrow is what lets the index be swapped for per-country
    * shards or Pagefind later without touching this file.
+   *
+   * Row 5 is the romanization, present only for non-Latin scripts. It is
+   * matched but not displayed separately: someone typing "yabai" has to find
+   * ヤバい, and someone reading the results wants to see the word itself.
    */
-  type Row = [term: string, countryAdj: string, flag: string, href: string, gloss: string];
+  type Row = [
+    term: string,
+    countryAdj: string,
+    flag: string,
+    href: string,
+    gloss: string,
+    romanization?: string,
+  ];
 
-  let index: Row[] | null = null;
-  let loading: Promise<Row[]> | null = null;
+  const caches = new Map<string, Promise<Row[]>>();
 
-  function loadIndex(): Promise<Row[]> {
-    loading ??= fetch('/search-index.json')
-      .then((r) => r.json())
-      .then((rows: Row[]) => (index = rows))
-      .catch(() => (index = []));
-    return loading;
+  function loadIndex(url: string): Promise<Row[]> {
+    let p = caches.get(url);
+    if (!p) {
+      p = fetch(url)
+        .then((r) => r.json())
+        .catch(() => [] as Row[]);
+      caches.set(url, p);
+    }
+    return p;
   }
 
   const norm = (s: string) =>
@@ -101,9 +123,9 @@ const id = compact ? 'q-nav' : 'q-main';
     const contains: Row[] = [];
     const inGloss: Row[] = [];
     for (const row of rows) {
-      const term = norm(row[0]);
-      if (term.startsWith(q)) starts.push(row);
-      else if (term.includes(q)) contains.push(row);
+      const keys = [norm(row[0]), row[5] ? norm(row[5]) : ''];
+      if (keys.some((k) => k && k.startsWith(q))) starts.push(row);
+      else if (keys.some((k) => k && k.includes(q))) contains.push(row);
       else if (norm(row[4]).includes(q)) inGloss.push(row);
       if (starts.length >= 10) break;
     }
@@ -121,14 +143,19 @@ const id = compact ? 'q-nav' : 'q-main';
     }
     panel.hidden = false;
     if (rows.length === 0) {
-      panel.innerHTML = `<p class="px-4 py-3 text-body-sm text-mute">No terms match “${escapeHtml(query)}”.</p>`;
+      const template = panel.dataset.emptyLabel ?? 'No results for %s';
+      panel.innerHTML = `<p class="px-4 py-3 text-body-sm text-mute">${escapeHtml(
+        template.replace('%s', query),
+      )}</p>`;
       return;
     }
     panel.innerHTML = rows
       .map(
-        ([term, adj, flag, href, gloss]) => `
+        ([term, adj, flag, href, gloss, roman]) => `
         <a href="${href}" class="focus-ring flex items-baseline gap-3 px-4 py-2.5 hover:bg-surface-card">
-          <span class="text-body-md font-semibold text-ink">${escapeHtml(term)}</span>
+          <span class="text-body-md font-semibold text-ink">${escapeHtml(term)}${
+            roman ? ` <span class="font-normal text-mute">(${escapeHtml(roman)})</span>` : ''
+          }</span>
           <span class="shrink-0 text-caption text-mute">${flag} ${escapeHtml(adj)}</span>
           <span class="ml-auto hidden max-w-[55%] truncate text-body-sm text-mute sm:block">${escapeHtml(gloss)}</span>
         </a>`,
@@ -139,20 +166,21 @@ const id = compact ? 'q-nav' : 'q-main';
   for (const form of document.querySelectorAll<HTMLFormElement>('[data-search-form]')) {
     const input = form.querySelector<HTMLInputElement>('[data-search-input]')!;
     const panel = form.querySelector<HTMLElement>('[data-search-results]')!;
+    const url = form.dataset.searchIndex!;
 
     const update = async () => {
       const q = input.value;
       if (!q.trim()) return render(panel, [], q);
-      render(panel, search(index ?? (await loadIndex()), q), q);
+      render(panel, search(await loadIndex(url), q), q);
     };
 
-    input.addEventListener('input', update);
+    input.addEventListener('input', () => void update());
     input.addEventListener('focus', () => {
-      void loadIndex();
+      void loadIndex(url);
       if (input.value.trim()) void update();
     });
 
-    // Enter falls through to the form's normal GET submit to /search/.
+    // Enter falls through to the form's normal GET submit to the search page.
     input.addEventListener('keydown', (e) => {
       if (e.key === 'Escape') {
         panel.hidden = true;

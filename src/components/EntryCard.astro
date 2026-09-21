@@ -1,19 +1,42 @@
 ---
-import type { CollectionEntry } from 'astro:content';
-import { REGISTER_LABEL } from '../data/taxonomy';
+import type { Entry } from '../lib/urls';
+import TermName from './TermName.astro';
+import { PART_OF_SPEECH_LABEL, REGISTER_LABEL } from '../data/taxonomy';
+import { DEFAULT_LOCALE, type Locale } from '../data/locales';
 
 interface Props {
-  entry: CollectionEntry<'entries'>;
+  entry: Entry;
   href: string;
   /** BCP 47 tag for the term itself, e.g. es-MX. */
   lang: string;
-  /** Shown on cross-country surfaces (categories, browse, search). */
+  /** The first definition in the page's locale, not necessarily the entry's. */
+  gloss: string;
+  senseCount: number;
+  locale?: Locale;
+  /** Shown on cross-country surfaces (browse, search). */
   countryLabel?: string;
   flagEmoji?: string;
 }
 
-const { entry, href, lang, countryLabel, flagEmoji } = Astro.props;
-const { term, definitions, register, partOfSpeech, usageWarning, pronunciation } = entry.data;
+const {
+  entry,
+  href,
+  lang,
+  gloss,
+  senseCount,
+  locale = DEFAULT_LOCALE,
+  countryLabel,
+  flagEmoji,
+} = Astro.props;
+const { term, romanization, register, partOfSpeech, usageWarning, pronunciation } = entry.data;
+
+const pos = partOfSpeech.map((p) => PART_OF_SPEECH_LABEL[locale][p]).join(', ');
+
+const moreSenses =
+  locale === 'es'
+    ? `+${senseCount - 1} ${senseCount === 2 ? 'acepción más' : 'acepciones más'}`
+    : `+${senseCount - 1} more ${senseCount === 2 ? 'sense' : 'senses'}`;
+const careLabel = locale === 'es' ? 'Úsala con cuidado' : 'Use with care';
 ---
 
 <article class="masonry-item">
@@ -22,7 +45,12 @@ const { term, definitions, register, partOfSpeech, usageWarning, pronunciation }
     class="focus-ring block rounded-md bg-canvas p-5 ring-1 ring-hairline-soft transition-colors hover:bg-surface-card"
   >
     <div class="flex items-baseline gap-2">
-      <h3 class="text-heading-lg text-ink" lang={lang}>{term}</h3>
+      <TermName
+        term={term}
+        romanization={romanization}
+        lang={lang}
+        class="text-heading-lg text-ink"
+      />
       {
         countryLabel && (
           <span class="ml-auto shrink-0 text-caption text-mute">
@@ -33,24 +61,18 @@ const { term, definitions, register, partOfSpeech, usageWarning, pronunciation }
     </div>
 
     <p class="mt-1 text-caption text-mute">
-      {partOfSpeech.join(', ')} · {REGISTER_LABEL[register]}
+      {pos} · {REGISTER_LABEL[locale][register]}
       {pronunciation?.respelling && <> · {pronunciation.respelling}</>}
     </p>
 
-    <p class="mt-3 text-body-sm text-body">{definitions[0].text}</p>
+    <p class="mt-3 text-body-sm text-body">{gloss}</p>
 
-    {
-      definitions.length > 1 && (
-        <p class="mt-2 text-caption text-ash">
-          +{definitions.length - 1} more {definitions.length === 2 ? 'sense' : 'senses'}
-        </p>
-      )
-    }
+    {senseCount > 1 && <p class="mt-2 text-caption text-ash">{moreSenses}</p>}
 
     {
       usageWarning.length > 0 && (
         <p class="mt-3 inline-flex rounded-full bg-warn-pale px-2.5 py-1 text-caption font-medium text-warn-deep">
-          Use with care
+          {careLabel}
         </p>
       )
     }

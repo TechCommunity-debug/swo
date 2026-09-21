@@ -1,43 +1,55 @@
 ---
-import { getCollection } from 'astro:content';
 import Layout from '../layouts/Layout.astro';
 import SearchBox from '../components/SearchBox.astro';
 import { countryPath } from '../lib/urls';
-import { SITE_NAME } from '../lib/seo';
+import { countriesFor, loadSite } from '../lib/site';
+import { localizeCountry } from '../lib/localize';
+import { notFoundSeo } from '../lib/seo';
+import { t } from '../i18n/ui';
 
-const countries = (await getCollection('countries')).sort((a, b) => a.data.order - b.data.order);
+/**
+ * A single 404 for the whole site.
+ *
+ * Static hosting serves one `404.html` for every path, including `/es/…`, so a
+ * second Spanish copy under `/es/` would never actually be reached. It is
+ * written in English with the country list in both editions' reach, and the
+ * header's language switcher is the way back into Spanish.
+ */
+const strings = t('en');
+const site = await loadSite();
+const countries = countriesFor(site, 'en').map((c) => ({
+  href: countryPath(c, 'en'),
+  ...localizeCountry(c, 'en'),
+}));
+
+const seo = notFoundSeo('en');
 ---
 
-<Layout
-  title={`Page not found | ${SITE_NAME}`}
-  description="That page doesn't exist. Search the dictionary or pick a country to browse."
-  noIndex
->
+<Layout title={seo.title} description={seo.description} locale="en" noIndex>
   <div class="container-site py-section">
     <div class="max-w-2xl">
-      <p class="text-body-sm font-semibold tracking-wide text-mute uppercase">404</p>
-      <h1 class="mt-2 text-display-lg text-ink">No such word here</h1>
-      <p class="mt-5 text-body-md text-body">
-        That page doesn't exist — the term may not be in the dictionary yet, or the link may be
-        out of date. Searching is usually faster than guessing the URL.
+      <p class="text-body-sm font-semibold tracking-wide text-mute uppercase">
+        {strings.notFoundKicker}
       </p>
+      <h1 class="mt-2 text-display-lg text-ink">{strings.notFoundH1}</h1>
+      <p class="mt-5 text-body-md text-body">{strings.notFoundBody}</p>
       <div class="mt-8">
-        <SearchBox autofocus />
+        <SearchBox autofocus locale="en" />
       </div>
     </div>
 
     <nav aria-labelledby="pick-country" class="mt-section">
-      <h2 id="pick-country" class="text-heading-md text-ink">Or start from a country</h2>
+      <h2 id="pick-country" class="text-heading-md text-ink">{strings.orStartFromCountry}</h2>
       <ul class="mt-4 flex flex-wrap gap-2">
         {
           countries.map((c) => (
             <li>
               <a
-                href={countryPath(c)}
+                href={c.href}
                 class="focus-ring inline-flex items-center gap-2 rounded-full bg-surface-card px-4 py-2 text-body-sm font-semibold text-ink hover:bg-surface-sunk"
               >
-                <span aria-hidden="true">{c.data.flagEmoji}</span>
-                {c.data.adjective}
+                <span aria-hidden="true">{c.flagEmoji}</span>
+                {c.adjective}
               </a>
             </li>
           ))

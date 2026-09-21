@@ -1,0 +1,58 @@
+{
+  "mexican": {
+    "name": "México",
+    "adjective": "mexicano",
+    "languageName": "español mexicano",
+    "intro": "El español de México arrastra probablemente el vocabulario informal más denso de todo el mundo hispanohablante, y lo primero que hay que entender de él es el registro. La misma palabra puede ser un insulto, un apodo cariñoso o una simple muletilla según el tono y según quién esté delante. Equivocarse ahí es el error clásico de quien aprende: el vocabulario se pega rápido y se usa mal con la misma rapidez.\n\nLa segunda característica es el doble fondo. Muchos términos tienen un significado inocente en la superficie y otro bastante más crudo debajo: es la base del albur, la tradición mexicana del juego de palabras de doble sentido. Cuando una entrada tiene esa segunda capa, lo señalamos.",
+    "metaDescription": "Argot mexicano explicado en español: palabras y expresiones del español de México con significados, pronunciación, ejemplos de uso y avisos de registro."
+  },
+  "spanish": {
+    "name": "España",
+    "adjective": "español",
+    "languageName": "español peninsular",
+    "intro": "El español de España es bastante más directo que la mayoría de las variedades latinoamericanas. Palabras que resultarían escandalosas en Bogotá o Lima son mobiliario conversacional corriente en Madrid, y los hablantes sueltan tacos a menudo y sin ninguna intención de ofender.\n\nLas entradas señalan con claridad cuándo un término es solo peninsular, porque buena parte del argot de España no es portátil: usarlo en México o en Argentina te gana una cara de desconcierto, con suerte.",
+    "metaDescription": "Argot español de España explicado: palabras y expresiones del español peninsular con significados, pronunciación y ejemplos de uso reales."
+  },
+  "american": {
+    "name": "Estados Unidos",
+    "adjective": "estadounidense",
+    "languageName": "inglés estadounidense",
+    "intro": "El argot estadounidense es el vocabulario informal más exportado del planeta, y eso mismo es lo que lo hace difícil de fijar. Un término puede estar vigente en Atlanta, pasado de moda en Los Ángeles y recién llegado a Londres, todo en el mismo mes.\n\nBuena parte de lo que el resto del mundo oye como argot «americano» genérico nació en el inglés vernáculo afroamericano y llegó al habla mayoritaria a través de la música y el deporte. Conviene saberlo: explica por qué tantos términos cargan una historia que quien los usa suele desconocer.",
+    "metaDescription": "Argot estadounidense explicado en español: palabras y expresiones del inglés de EE. UU. con significados, pronunciación y ejemplos traducidos."
+  },
+  "british": {
+    "name": "Reino Unido",
+    "adjective": "británico",
+    "languageName": "inglés británico",
+    "intro": "El argot británico está inusualmente estratificado. La clase social, la región y la edad dejan huella en él, y una palabra que suena cálida en Newcastle puede sonar sarcástica en Surrey.\n\nUna trampa recurrente para el visitante es el understatement. Buena parte del habla informal británica significa bastante más, o bastante menos, de lo que dice literalmente, y varias entradas existen sobre todo para señalar ese hueco.",
+    "metaDescription": "Argot británico explicado en español: palabras y expresiones del inglés del Reino Unido con significados, pronunciación y ejemplos traducidos."
+  },
+  "australian": {
+    "name": "Australia",
+    "adjective": "australiano",
+    "languageName": "inglés australiano",
+    "intro": "El argot australiano funciona con dos motores: el acortamiento y la ironía. Casi cualquier palabra admite recortarse y rematarse en -o o en -ie, y el resultado es productivo más que fijo: los hablantes inventan formas nuevas sobre la marcha y esperan que se les entienda.\n\nEl segundo motor es la costumbre de nombrar las cosas por su contrario, que es por lo que a la persona más alta de la sala pueden llamarla Shorty.",
+    "metaDescription": "Argot australiano explicado en español: palabras y expresiones del inglés de Australia con significados, pronunciación y ejemplos traducidos."
+  },
+  "canadian": {
+    "name": "Canadá",
+    "adjective": "canadiense",
+    "languageName": "inglés canadiense",
+    "intro": "El argot canadiense se describe a menudo como una variante suave del estadounidense, y eso lo infravalora. Canadá tiene su propio vocabulario institucional —términos de su moneda, su sistema escolar, sus inviernos y sus cadenas de café— y dos variedades regionales fuertes que no se parecen en nada entre sí.\n\nEl bilingüismo también deja marca: varias palabras cotidianas del inglés canadiense son préstamos directos del francés de Quebec, usados por hablantes que ignoran por completo su origen.",
+    "metaDescription": "Argot canadiense explicado en español: palabras y expresiones del inglés de Canadá con significados, pronunciación y ejemplos traducidos."
+  },
+  "italian": {
+    "name": "Italia",
+    "adjective": "italiano",
+    "languageName": "italiano",
+    "intro": "Italia unificó su lengua hace relativamente poco, y su argot todavía enseña las costuras. Mucho de lo que pasa por argot italiano es dialecto regional que se escapó de su ciudad de origen: las palabras romanas y napolitanas, en particular, se han extendido por todo el país a través del cine y la televisión sin perder su sabor local.\n\nEl italiano también se apoya mucho en el gesto y la entonación, y varias entradas son palabras cuyo significado lo lleva casi todo la interpretación.",
+    "metaDescription": "Argot italiano explicado en español: palabras y expresiones del italiano con significados, pronunciación, ejemplos traducidos y notas regionales."
+  },
+  "french": {
+    "name": "Francia",
+    "adjective": "francés",
+    "languageName": "francés",
+    "intro": "El argot francés tiene una peculiaridad estructural que no comparte ningún otro idioma de este sitio: el verlan, la práctica de invertir las sílabas de una palabra para crear otra. Fête se convierte en teuf, femme en meuf, y unas cuantas palabras en verlan se han invertido una segunda vez.\n\nLa otra gran fuente es el argot de París y Marsella, más un goteo constante de préstamos del árabe llegados por las banlieues. Las entradas indican de qué corriente viene cada palabra, porque eso dice mucho de quién la usa.",
+    "metaDescription": "Argot francés explicado en español: palabras y expresiones del francés con significados, pronunciación, origen verlan y ejemplos traducidos."
+  }
+}

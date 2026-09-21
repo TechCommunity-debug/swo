@@ -1,53 +1,68 @@
 ---
-import { getCollection } from 'astro:content';
-import { countryPath } from '../lib/urls';
 import SearchBox from './SearchBox.astro';
+import LocaleSwitcher from './LocaleSwitcher.astro';
+import { aboutPath, browsePath, countryPath, homePath } from '../lib/urls';
+import { countriesFor, loadSite, type Alternate } from '../lib/site';
+import { localizeCountry } from '../lib/localize';
+import { DEFAULT_LOCALE, type Locale } from '../data/locales';
+import { t } from '../i18n/ui';
 
-const countries = (await getCollection('countries')).sort(
-  (a, b) => a.data.order - b.data.order,
-);
+interface Props {
+  locale?: Locale;
+  /** Passed through so the switcher can jump to *this* page in the other language. */
+  alternates?: Alternate[];
+}
+
+const { locale = DEFAULT_LOCALE, alternates = [] } = Astro.props;
+const strings = t(locale);
+
+// Only countries that have readable content in this locale appear in the
+// chrome. A `/es/` nav listing eight countries where seven lead nowhere would
+// be worse than a short one that is honest about its coverage.
+const site = await loadSite();
+const countries = countriesFor(site, locale).map((c) => ({
+  href: countryPath(c, locale),
+  ...localizeCountry(c, locale),
+}));
+
 const current = Astro.url.pathname;
+const isCurrent = (href: string) => (current.startsWith(href) ? 'page' : undefined);
 ---
 
 <header class="sticky top-0 z-40 border-b border-hairline bg-canvas">
   <div class="container-site flex h-16 items-center gap-4">
     <a
-      href="/"
+      href={homePath(locale)}
       class="focus-ring -mx-1 shrink-0 rounded-md px-1 text-heading-md tracking-[-0.5px] text-ink"
     >
       <span class="text-primary">Slang</span>WordsOnline
     </a>
 
     <div class="ml-auto hidden max-w-md flex-1 md:block">
-      <SearchBox compact />
+      <SearchBox compact locale={locale} />
     </div>
 
-    <nav aria-label="Main" class="ml-auto hidden items-center gap-1 md:ml-0 md:flex">
+    <nav aria-label={strings.mainNav} class="ml-auto hidden items-center gap-1 md:ml-0 md:flex">
       <a
-        href="/categories/"
-        aria-current={current.startsWith('/categories/') ? 'page' : undefined}
+        href={browsePath(locale)}
+        aria-current={isCurrent(browsePath(locale))}
         class="focus-ring rounded-md px-3 py-2 text-body-sm font-semibold text-ink aria-[current=page]:text-primary hover:bg-surface-card"
-        >Categories</a
+        >{strings.browse}</a
       >
       <a
-        href="/browse/"
-        aria-current={current.startsWith('/browse/') ? 'page' : undefined}
+        href={aboutPath(locale)}
+        aria-current={isCurrent(aboutPath(locale))}
         class="focus-ring rounded-md px-3 py-2 text-body-sm font-semibold text-ink aria-[current=page]:text-primary hover:bg-surface-card"
-        >Browse A–Z</a
+        >{strings.about}</a
       >
-      <a
-        href="/about/"
-        aria-current={current.startsWith('/about/') ? 'page' : undefined}
-        class="focus-ring rounded-md px-3 py-2 text-body-sm font-semibold text-ink aria-[current=page]:text-primary hover:bg-surface-card"
-        >About</a
-      >
+      <LocaleSwitcher locale={locale} alternates={alternates} />
     </nav>
 
     <!-- Mobile: a details/summary drawer. No JS needed for the core nav. -->
     <details class="group relative ml-auto md:hidden">
       <summary
         class="focus-ring flex size-10 cursor-pointer list-none items-center justify-center rounded-full bg-surface-card [&::-webkit-details-marker]:hidden"
-        aria-label="Open menu"
+        aria-label={strings.openMenu}
       >
         <svg
           viewBox="0 0 24 24"
@@ -58,7 +73,7 @@ const current = Astro.url.pathname;
           stroke-linecap="round"
           aria-hidden="true"
         >
-          <path d="M3 6h18M3 12h18M3 18h18" />
+          <path d="M3 6h18M3 12h18M3 18h18"></path>
         </svg>
         <svg
           viewBox="0 0 24 24"
@@ -69,66 +84,73 @@ const current = Astro.url.pathname;
           stroke-linecap="round"
           aria-hidden="true"
         >
-          <path d="M6 6l12 12M18 6L6 18" />
+          <path d="M6 6l12 12M18 6L6 18"></path>
         </svg>
       </summary>
       <div
         class="fixed inset-x-0 top-16 max-h-[calc(100dvh-4rem)] overflow-y-auto border-b border-hairline bg-canvas px-6 pt-4 pb-8"
       >
-        <SearchBox />
-        <nav aria-label="Countries" class="mt-6">
-          <h2 class="text-caption font-semibold tracking-wide text-mute uppercase">Countries</h2>
+        <SearchBox locale={locale} />
+        <nav aria-label={strings.countriesNav} class="mt-6">
+          <h2 class="text-caption font-semibold tracking-wide text-mute uppercase">
+            {strings.countriesNav}
+          </h2>
           <ul class="mt-2 grid grid-cols-2 gap-1">
             {
               countries.map((c) => (
                 <li>
                   <a
-                    href={countryPath(c)}
+                    href={c.href}
                     class="focus-ring flex items-center gap-2 rounded-md px-2 py-2 text-body-sm font-semibold text-ink"
                   >
-                    <span aria-hidden="true">{c.data.flagEmoji}</span>
-                    {c.data.adjective}
+                    <span aria-hidden="true">{c.flagEmoji}</span>
+                    {c.adjective}
                   </a>
                 </li>
               ))
             }
           </ul>
         </nav>
-        <nav aria-label="Sections" class="mt-6 border-t border-hairline pt-4">
+        <nav aria-label={strings.sectionsNav} class="mt-6 border-t border-hairline pt-4">
           <ul class="grid gap-1">
             <li>
-              <a href="/categories/" class="focus-ring block rounded-md px-2 py-2 text-body-sm font-semibold text-ink">Categories</a>
+              <a
+                href={browsePath(locale)}
+                class="focus-ring block rounded-md px-2 py-2 text-body-sm font-semibold text-ink"
+                >{strings.browse}</a
+              >
             </li>
             <li>
-              <a href="/browse/" class="focus-ring block rounded-md px-2 py-2 text-body-sm font-semibold text-ink">Browse A–Z</a>
-            </li>
-            <li>
-              <a href="/about/" class="focus-ring block rounded-md px-2 py-2 text-body-sm font-semibold text-ink">About</a>
+              <a
+                href={aboutPath(locale)}
+                class="focus-ring block rounded-md px-2 py-2 text-body-sm font-semibold text-ink"
+                >{strings.about}</a
+              >
             </li>
           </ul>
         </nav>
+        <div class="mt-6 border-t border-hairline pt-4">
+          <LocaleSwitcher locale={locale} alternates={alternates} />
+        </div>
       </div>
     </details>
   </div>
 
-  <!-- Country strip. Desktop only; mobile gets it in the drawer above. -->
+  <!-- Country strip. Country/region is the site's primary taxonomy, so it gets
+       the persistent slot; topics live one level down, inside a country. -->
   <div class="hidden border-t border-hairline-soft md:block">
     <div class="container-site flex items-center gap-1 overflow-x-auto py-2">
       {
-        countries.map((c) => {
-          const href = countryPath(c);
-          const active = current.startsWith(href);
-          return (
-            <a
-              href={href}
-              aria-current={active ? 'page' : undefined}
-              class="focus-ring flex shrink-0 items-center gap-1.5 rounded-full px-3 py-1.5 text-body-sm whitespace-nowrap text-charcoal aria-[current=page]:bg-ink aria-[current=page]:text-on-dark hover:bg-surface-card"
-            >
-              <span aria-hidden="true">{c.data.flagEmoji}</span>
-              {c.data.adjective}
-            </a>
-          );
-        })
+        countries.map((c) => (
+          <a
+            href={c.href}
+            aria-current={isCurrent(c.href)}
+            class="focus-ring flex shrink-0 items-center gap-1.5 rounded-full px-3 py-1.5 text-body-sm whitespace-nowrap text-charcoal aria-[current=page]:bg-ink aria-[current=page]:text-on-dark hover:bg-surface-card"
+          >
+            <span aria-hidden="true">{c.flagEmoji}</span>
+            {c.adjective}
+          </a>
+        ))
       }
     </div>
   </div>

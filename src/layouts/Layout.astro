@@ -4,25 +4,51 @@ import '../styles/global.css';
 import SiteHeader from '../components/SiteHeader.astro';
 import SiteFooter from '../components/SiteFooter.astro';
 import { SITE_NAME } from '../lib/seo';
+import { DEFAULT_LOCALE, localeConfig, type Locale } from '../data/locales';
+import { t } from '../i18n/ui';
+import type { Alternate } from '../lib/site';
 
 interface Props {
   title: string;
   description: string;
+  locale?: Locale;
   /** `article` for entry pages, `website` everywhere else. */
   ogType?: 'website' | 'article';
-  /** Rendered into <head>. Use for JSON-LD. */
   noIndex?: boolean;
+  /**
+   * The same page in its other languages. Emitted as `rel="alternate"` links.
+   *
+   * Built by `alternatesFor()` so that a page is only ever advertised in a
+   * locale where it actually exists — see the note there.
+   */
+  alternates?: Alternate[];
 }
 
-const { title, description, ogType = 'website', noIndex = false } = Astro.props;
+const {
+  title,
+  description,
+  locale = DEFAULT_LOCALE,
+  ogType = 'website',
+  noIndex = false,
+  alternates = [],
+} = Astro.props;
+
+const config = localeConfig(locale);
+const strings = t(locale);
 
 // Canonical is computed once, here. Never passed per-page — that is how
-// paginated pages end up wrongly canonicalising to page one.
+// paginated pages end up wrongly canonicalising to page one. Each localized
+// page canonicalises to *itself*, not to its English original: they are
+// genuinely different content for genuinely different readers, and the
+// relationship between them is expressed with hreflang, not with canonical.
 const canonical = new URL(Astro.url.pathname, Astro.site).href;
+
+/** og:locale wants an underscore form. */
+const ogLocale = locale === 'es' ? 'es_ES' : 'en_US';
 ---
 
 <!doctype html>
-<html lang="en">
+<html lang={config.hreflang} dir={config.dir}>
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -31,11 +57,18 @@ const canonical = new URL(Astro.url.pathname, Astro.site).href;
     <link rel="canonical" href={canonical} />
     {noIndex && <meta name="robots" content="noindex, follow" />}
 
+    {
+      alternates.map((a) => (
+        <link rel="alternate" hreflang={a.hreflang} href={a.href} />
+      ))
+    }
+
     <meta property="og:type" content={ogType} />
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
     <meta property="og:url" content={canonical} />
     <meta property="og:site_name" content={SITE_NAME} />
+    <meta property="og:locale" content={ogLocale} />
     <meta property="og:image" content={new URL('/og.png', Astro.site).href} />
     <meta name="twitter:card" content="summary_large_image" />
 
@@ -48,12 +81,12 @@ const canonical = new URL(Astro.url.pathname, Astro.site).href;
     <a
       href="#main"
       class="focus-ring sr-only rounded-md bg-canvas px-4 py-2 text-body-sm font-semibold text-ink focus:not-sr-only focus:absolute focus:top-3 focus:left-3 focus:z-50"
-      >Skip to content</a
+      >{strings.skipToContent}</a
     >
-    <SiteHeader />
+    <SiteHeader locale={locale} alternates={alternates} />
     <main id="main">
       <slot />
     </main>
-    <SiteFooter />
+    <SiteFooter locale={locale} />
   </body>
 </html>

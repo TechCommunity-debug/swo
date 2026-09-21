@@ -1,0 +1,188 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import Breadcrumbs from '../Breadcrumbs.astro';
+import EntryCard from '../EntryCard.astro';
+import AlphabetBar from '../AlphabetBar.astro';
+import JsonLd from '../JsonLd.astro';
+import TermName from '../TermName.astro';
+import { countrySeo } from '../../lib/seo';
+import { absolute, breadcrumbs } from '../../lib/schema';
+import { alphaKey, homePath } from '../../lib/urls';
+import { localeConfig } from '../../data/locales';
+import { t } from '../../i18n/ui';
+import type { CountryPageProps, EntryListItem } from '../../lib/routes';
+
+type Props = CountryPageProps;
+
+const { locale, country, entries, topics, starters, alternates } = Astro.props;
+const strings = t(locale);
+const path = Astro.url.pathname;
+const seo = countrySeo(country, entries.length, locale);
+
+// Group alphabetically for the A–Z sections.
+const groups = new Map<string, EntryListItem[]>();
+for (const item of entries) {
+  const k = alphaKey(item.entry);
+  const list = groups.get(k);
+  if (list) list.push(item);
+  else groups.set(k, [item]);
+}
+const available = new Set(groups.keys());
+const sortedGroups = [...groups].sort(([a], [b]) =>
+  a === '#' ? 1 : b === '#' ? -1 : a.localeCompare(b),
+);
+
+const introParagraphs = country.intro.split('\n\n');
+const anchorId = (letter: string) => `letter-${letter === '#' ? 'other' : letter}`;
+
+const schema = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'CollectionPage',
+    name: strings.countrySlang(country.adjective),
+    description: seo.description,
+    url: absolute(path),
+    inLanguage: localeConfig(locale).hreflang,
+    about: {
+      '@type': 'DefinedTermSet',
+      // The stable id every entry in this country points its
+      // `inDefinedTermSet` at. It is per-locale, like the pages themselves.
+      '@id': `${absolute(path)}#termset`,
+      name: strings.countrySlang(country.adjective),
+      inLanguage: country.languageCode,
+    },
+    mainEntity: {
+      '@type': 'ItemList',
+      numberOfItems: entries.length,
+      itemListElement: entries.slice(0, 100).map((item, i) => ({
+        '@type': 'ListItem',
+        position: i + 1,
+        name: item.entry.data.term,
+        url: absolute(item.href),
+      })),
+    },
+  },
+  breadcrumbs([
+    { name: strings.home, path: homePath(locale) },
+    { name: strings.countrySlang(country.adjective), path },
+  ]),
+];
+---
+
+<Layout
+  title={seo.title}
+  description={seo.description}
+  locale={locale}
+  alternates={alternates}
+>
+  <JsonLd slot="head" schema={schema} />
+
+  <div class="container-site py-8 lg:py-12">
+    <Breadcrumbs locale={locale} items={[{ label: strings.countrySlang(country.adjective) }]} />
+
+    <header class="mt-8 max-w-3xl">
+      <p class="text-body-sm font-semibold tracking-wide text-mute uppercase">
+        <span aria-hidden="true">{country.flagEmoji}</span>{' '}
+        {country.name} · {country.languageName}
+      </p>
+      <h1 class="mt-2 text-display-lg text-ink">
+        {locale === 'es' ? `Argot ${country.adjective}` : `${country.adjective} Slang`}
+      </h1>
+      <div class="mt-6 grid gap-4">
+        {introParagraphs.map((p) => <p class="text-body-md text-body">{p}</p>)}
+      </div>
+      <p class="mt-6 text-body-sm text-mute">{strings.termsWithExamples(entries.length)}</p>
+    </header>
+
+    <!-- Topics come before the A–Z list: they are the pages worth reaching,
+         and burying them under 60 cards is what makes a dictionary feel flat. -->
+    <section class="mt-section" aria-labelledby="by-topic">
+      <h2 id="by-topic" class="text-heading-xl text-ink">{strings.byTopic}</h2>
+      <p class="mt-2 max-w-2xl text-body-md text-mute">
+        {strings.byTopicLead(country.adjective)}
+      </p>
+      <ul class="mt-6 grid gap-2 sm:grid-cols-2 lg:grid-cols-3">
+        {
+          topics.map((topic) => (
+            <li>
+              <a
+                href={topic.href}
+                class="focus-ring flex h-full flex-col rounded-md bg-canvas p-5 ring-1 ring-hairline-soft hover:bg-surface-card"
+              >
+                <span class="text-heading-md text-ink">
+                  {strings.slangFor(country.adjective, topic.category.topic)}
+                </span>
+                <span class="mt-1 text-caption text-mute">
+                  {strings.termsCount(topic.count)}
+                </span>
+              </a>
+            </li>
+          ))
+        }
+      </ul>
+    </section>
+
+    <section class="mt-section" aria-labelledby="starters">
+      <h2 id="starters" class="text-heading-xl text-ink">{strings.startHere}</h2>
+      <p class="mt-2 max-w-2xl text-body-md text-mute">{strings.startHereLead}</p>
+      <ul class="mt-6 flex flex-wrap gap-2">
+        {
+          starters.map((s) => (
+            <li>
+              <a
+                href={s.href}
+                class="focus-ring inline-flex rounded-full bg-canvas px-4 py-2 text-body-md font-semibold text-ink ring-1 ring-hairline hover:bg-surface-card"
+              >
+                <TermName term={s.term} romanization={s.romanization} lang={s.lang} />
+              </a>
+            </li>
+          ))
+        }
+      </ul>
+    </section>
+
+    <section class="mt-section" aria-labelledby="all-terms">
+      <div class="flex flex-wrap items-baseline justify-between gap-4">
+        <h2 id="all-terms" class="text-heading-xl text-ink">
+          {strings.allTermsAz(country.adjective)}
+        </h2>
+        <p class="text-body-sm text-mute">{strings.termsCount(entries.length)}</p>
+      </div>
+
+      <div class="mt-4">
+        <AlphabetBar available={available} locale={locale} />
+      </div>
+
+      <div class="mt-8 grid gap-10">
+        {
+          sortedGroups.map(([letter, items]) => (
+            <section aria-labelledby={`${anchorId(letter)}-h`}>
+              <h3 id={anchorId(letter)} class="sr-only">
+                {strings.termsBeginningWith(letter)}
+              </h3>
+              <p
+                id={`${anchorId(letter)}-h`}
+                aria-hidden="true"
+                class="border-b border-hairline pb-2 text-heading-lg text-ink"
+              >
+                {letter}
+              </p>
+              <div class="masonry mt-4">
+                {items.map((item) => (
+                  <EntryCard
+                    entry={item.entry}
+                    href={item.href}
+                    lang={country.languageCode}
+                    gloss={item.gloss}
+                    senseCount={item.senseCount}
+                    locale={locale}
+                  />
+                ))}
+              </div>
+            </section>
+          ))
+        }
+      </div>
+    </section>
+  </div>
+</Layout>

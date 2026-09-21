@@ -1,0 +1,270 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import SearchBox from '../SearchBox.astro';
+import EntryCard from '../EntryCard.astro';
+import JsonLd from '../JsonLd.astro';
+import TermName from '../TermName.astro';
+import {
+  categoryPath,
+  countryPath,
+  entryUrl,
+  homePath,
+  searchPath,
+  type Entry,
+} from '../../lib/urls';
+import {
+  categoriesFor,
+  countriesFor,
+  entriesFor,
+  homeAlternates,
+  loadSite,
+} from '../../lib/site';
+import { localizeCountry, translatedEntry } from '../../lib/localize';
+import { localizeCategory, regionGroupName, REGION_GROUPS } from '../../data/taxonomy';
+import { aboutPath } from '../../lib/urls';
+import { homeSeo, SITE_NAME, SITE_TAGLINE, SITE_URL } from '../../lib/seo';
+import { DEFAULT_LOCALE, localeConfig, type Locale } from '../../data/locales';
+import { depth } from '../../lib/routes';
+import { t } from '../../i18n/ui';
+
+interface Props {
+  locale?: Locale;
+}
+
+const { locale = DEFAULT_LOCALE } = Astro.props;
+const strings = t(locale);
+
+const site = await loadSite();
+const countries = countriesFor(site, locale);
+
+const localized = countries.map((country) => {
+  const entries = entriesFor(site, country.id, locale);
+  return { country, entries, c: localizeCountry(country, locale) };
+});
+
+const totalTerms = localized.reduce((n, x) => n + x.entries.length, 0);
+
+const grouped = REGION_GROUPS.map((group) => ({
+  name: regionGroupName(group, locale),
+  countries: localized.filter((x) => x.c.regionGroup === group.id),
+})).filter((g) => g.countries.length > 0);
+
+/**
+ * The topic band: the biggest country × topic page for each country.
+ *
+ * These are the site's long-tail entry points, so the home page links to them
+ * directly rather than to an abstract category index — there is no longer any
+ * such index, because "slang for people" with no country attached is not a
+ * page anyone was looking for.
+ */
+const topics = localized
+  .flatMap(({ c, entries }) =>
+    categoriesFor(entries)
+      .sort((a, b) => b.count - a.count)
+      .slice(0, 1)
+      .map(({ category, count }) => {
+        const cat = localizeCategory(category, locale);
+        return {
+          href: categoryPath(c.urlSlug, cat.urlSlug, locale),
+          label: strings.slangFor(c.adjective, cat.topic),
+          description: cat.description,
+          count,
+          flag: c.flagEmoji,
+        };
+      }),
+  )
+  .slice(0, 6);
+
+// One term per country, picked for editorial depth rather than shuffled, so the
+// home page shows the site at its best and stays stable between builds.
+const featured = localized
+  .map(({ c, entries }) => {
+    const best = [...entries].sort((a, b) => depth(b) - depth(a))[0];
+    return best ? { entry: best, c } : null;
+  })
+  .filter((x): x is { entry: Entry; c: (typeof localized)[number]['c'] } => Boolean(x));
+
+const examples = featured.slice(0, 3);
+
+const seo = homeSeo(
+  locale,
+  localized.map((x) => x.c.adjective),
+);
+
+const schema = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'WebSite',
+    '@id': `${SITE_URL}/#website`,
+    name: SITE_NAME,
+    alternateName: SITE_TAGLINE[locale],
+    url: new URL(homePath(locale), SITE_URL).href,
+    inLanguage: localeConfig(locale).hreflang,
+    potentialAction: {
+      '@type': 'SearchAction',
+      target: {
+        '@type': 'EntryPoint',
+        urlTemplate: `${new URL(searchPath(locale), SITE_URL).href}?q={search_term_string}`,
+      },
+      'query-input': 'required name=search_term_string',
+    },
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Organization',
+    '@id': `${SITE_URL}/#organization`,
+    name: SITE_NAME,
+    url: `${SITE_URL}/`,
+  },
+];
+---
+
+<Layout
+  title={seo.title}
+  description={seo.description}
+  locale={locale}
+  alternates={homeAlternates()}
+>
+  <JsonLd slot="head" schema={schema} />
+
+  <section class="border-b border-hairline-soft bg-canvas">
+    <div class="container-site py-16 lg:py-24">
+      <div class="max-w-3xl">
+        <h1 class="text-display-lg text-ink sm:text-display-xl">{strings.homeH1}</h1>
+        <p class="mt-5 max-w-2xl text-body-md text-mute sm:text-heading-md sm:font-normal">
+          {strings.homeLead(totalTerms, countries.length)}
+        </p>
+        <div class="mt-8 max-w-2xl">
+          <SearchBox locale={locale} />
+        </div>
+        {
+          examples.length > 0 && (
+            <p class="mt-3 text-body-sm text-mute">
+              {strings.tryTerms}{' '}
+              {examples.map((x, i) => (
+                <>
+                  {i > 0 && ', '}
+                  <a
+                    href={entryUrl(x.entry, site.byId, locale)}
+                    class="focus-ring rounded-sm font-semibold text-ink-soft hover:underline"
+                  >
+                    <TermName
+                      term={x.entry.data.term}
+                      romanization={x.entry.data.romanization}
+                      lang={x.c.languageCode}
+                    />
+                  </a>
+                </>
+              ))}
+              .
+            </p>
+          )
+        }
+      </div>
+    </div>
+  </section>
+
+  <div class="container-site py-section">
+    <section aria-labelledby="countries">
+      <h2 id="countries" class="text-heading-xl text-ink">{strings.pickCountry}</h2>
+      <p class="mt-2 max-w-2xl text-body-md text-mute">{strings.pickCountryLead}</p>
+      <div class="mt-8 grid gap-10">
+        {
+          grouped.map((group) => (
+            <div>
+              <h3 class="text-caption font-semibold tracking-wide text-mute uppercase">
+                {group.name}
+              </h3>
+              <ul class="mt-4 grid gap-2 sm:grid-cols-2 lg:grid-cols-4">
+                {group.countries.map(({ country, c, entries }) => (
+                  <li>
+                    <a
+                      href={countryPath(country, locale)}
+                      class="focus-ring flex h-full flex-col gap-1 rounded-md bg-canvas p-5 ring-1 ring-hairline-soft hover:bg-surface-card"
+                    >
+                      <span class="text-heading-lg" aria-hidden="true">
+                        {c.flagEmoji}
+                      </span>
+                      <span class="text-heading-md text-ink">
+                        {strings.countrySlang(c.adjective)}
+                      </span>
+                      <span class="text-body-sm text-mute">
+                        {strings.termsCount(entries.length)} · {c.languageName}
+                      </span>
+                    </a>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          ))
+        }
+      </div>
+    </section>
+
+    <section class="mt-section" aria-labelledby="topics">
+      <div class="max-w-2xl">
+        <h2 id="topics" class="text-heading-xl text-ink">{strings.popularTopics}</h2>
+        <p class="mt-2 text-body-md text-mute">{strings.popularTopicsLead}</p>
+      </div>
+      <ul class="mt-8 grid gap-2 sm:grid-cols-2 lg:grid-cols-3">
+        {
+          topics.map((topic) => (
+            <li>
+              <a
+                href={topic.href}
+                class="focus-ring flex h-full flex-col rounded-md bg-surface-card p-5 hover:bg-surface-sunk"
+              >
+                <span class="text-heading-md text-ink">
+                  <span aria-hidden="true">{topic.flag}</span> {topic.label}
+                </span>
+                <span class="mt-1 text-caption text-mute">{strings.termsCount(topic.count)}</span>
+                <span class="mt-3 line-clamp-3 text-body-sm text-charcoal">
+                  {topic.description}
+                </span>
+              </a>
+            </li>
+          ))
+        }
+      </ul>
+    </section>
+
+    <section class="mt-section" aria-labelledby="featured">
+      <h2 id="featured" class="text-heading-xl text-ink">{strings.oneWordEach}</h2>
+      <p class="mt-2 max-w-2xl text-body-md text-mute">{strings.oneWordEachLead}</p>
+      <div class="masonry mt-8">
+        {
+          featured.map(({ entry, c }) => {
+            const content = translatedEntry(entry, locale)!;
+            return (
+              <EntryCard
+                entry={entry}
+                href={entryUrl(entry, site.byId, locale)}
+                lang={c.languageCode}
+                gloss={content.definitions[0].text}
+                senseCount={content.definitions.length}
+                locale={locale}
+                countryLabel={c.adjective}
+                flagEmoji={c.flagEmoji}
+              />
+            );
+          })
+        }
+      </div>
+    </section>
+
+    <section
+      class="mt-section grid gap-6 rounded-lg bg-canvas p-8 ring-1 ring-hairline-soft lg:grid-cols-[minmax(0,2fr)_minmax(0,1fr)] lg:items-center lg:p-12"
+      aria-labelledby="editorial"
+    >
+      <div>
+        <h2 id="editorial" class="text-heading-xl text-ink">{strings.editorialH2}</h2>
+        <p class="mt-4 text-body-md text-body">{strings.editorialBody}</p>
+      </div>
+      <a
+        href={aboutPath(locale)}
+        class="focus-ring inline-flex h-10 w-fit items-center rounded-md bg-primary px-4 text-body-sm font-bold text-on-primary hover:bg-primary-pressed"
+        >{strings.howWeSource}</a
+      >
+    </section>
+  </div>
+</Layout>

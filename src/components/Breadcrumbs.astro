@@ -1,4 +1,8 @@
 ---
+import { DEFAULT_LOCALE, type Locale } from '../data/locales';
+import { homePath } from '../lib/urls';
+import { t } from '../i18n/ui';
+
 interface Crumb {
   label: string;
   href?: string;
@@ -6,15 +10,19 @@ interface Crumb {
 
 interface Props {
   items: Crumb[];
+  locale?: Locale;
 }
 
-const { items } = Astro.props;
+const { items, locale = DEFAULT_LOCALE } = Astro.props;
+const strings = t(locale);
 ---
 
-<nav aria-label="Breadcrumb" class="text-caption">
+<nav aria-label={strings.breadcrumb} class="text-caption">
   <ol class="flex flex-wrap items-center gap-1.5 text-mute">
     <li>
-      <a href="/" class="focus-ring rounded-sm hover:text-ink hover:underline">Home</a>
+      <a href={homePath(locale)} class="focus-ring rounded-sm hover:text-ink hover:underline"
+        >{strings.home}</a
+      >
     </li>
     {
       items.map((item, i) => (

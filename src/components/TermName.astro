@@ -1,0 +1,31 @@
+---
+interface Props {
+  term: string;
+  /** Latin transliteration, present only for non-Latin scripts. */
+  romanization?: string;
+  /** BCP 47 tag for the term itself, e.g. es-MX. */
+  lang: string;
+  class?: string;
+  /** Wrap the romanization in its own muted span. Off inside link text. */
+  muted?: boolean;
+}
+
+const { term, romanization, lang, class: className, muted = true } = Astro.props;
+---
+
+{/*
+  A term written in a script the reader cannot type is unusable on its own:
+  they cannot search for it, say it, or check they have the right word. So
+  every non-Latin term shows its romanization next to it — ヤバい (yabai),
+  круто (kruto) — at every size, in headings, cards and search results alike.
+
+  The `lang` attribute stays on the term itself, never on the romanization:
+  "yabai" is not Japanese text and a screen reader should not pronounce it as
+  though it were.
+*/}<span class={className}
+  ><span lang={lang}>{term}</span>{
+    romanization && (
+      <span class:list={['font-normal', muted && 'text-mute']}> ({romanization})</span>
+    )
+  }</span
+>

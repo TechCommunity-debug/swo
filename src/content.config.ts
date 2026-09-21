@@ -49,6 +49,15 @@ const entries = defineCollection({
       .regex(/^[a-z0-9]+(?:-[a-z0-9]+)*$/, 'slug must be lowercase kebab-case'),
     country: reference('countries'),
     partOfSpeech: z.array(z.enum(PARTS_OF_SPEECH)).min(1),
+    /**
+     * Latin-alphabet transliteration of `term`, for terms written in another
+     * script — ヤバい (yabai), круто (kruto). Absent for Latin-script terms.
+     *
+     * Load-bearing rather than decorative: where it is present it drives the
+     * A–Z bucket, the search index and the page title, because nobody searches
+     * for a word in a script they cannot type.
+     */
+    romanization: z.string().min(1).optional(),
 
     /**
      * At least one definition and one worked example are *required*. This is
@@ -77,6 +86,15 @@ const entries = defineCollection({
       )
       .min(1),
     register: z.enum(REGISTERS),
+    /**
+     * Order is load-bearing. `categories[0]` is the entry's *primary* category
+     * and forms the middle segment of its canonical URL —
+     * `/mexican-slang/people/guey/`. The remaining categories still list the
+     * entry on their own country pages, but never change its address.
+     *
+     * Reordering this array therefore moves a live URL. Add a redirect when you
+     * do it, the same as any other rename.
+     */
     categories: z.array(z.enum(CATEGORY_IDS)).min(1),
     status: z.enum(['draft', 'review', 'published']).default('draft'),
     updatedDate: z.coerce.date(),

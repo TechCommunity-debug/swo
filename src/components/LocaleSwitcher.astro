@@ -1,0 +1,54 @@
+---
+import { LOCALES, type Locale } from '../data/locales';
+import { homePath } from '../lib/urls';
+import { t } from '../i18n/ui';
+import type { Alternate } from '../lib/site';
+
+interface Props {
+  locale: Locale;
+  /** This page in its other languages, when it has any. */
+  alternates?: Alternate[];
+}
+
+const { locale, alternates = [] } = Astro.props;
+const strings = t(locale);
+
+/**
+ * Prefer the equivalent page; fall back to the locale's home page.
+ *
+ * Dropping a reader on a 404 because the page they were looking at isn't
+ * translated is the worst of the three options, and silently hiding the
+ * switcher is the second worst — it makes the site look monolingual. Landing
+ * them on the Spanish home page is honest about what exists.
+ */
+const hrefFor = (code: Locale) =>
+  alternates.find((a) => a.locale === code && a.hreflang !== 'x-default')?.href ?? homePath(code);
+
+const options = LOCALES.map((l) => ({ ...l, href: hrefFor(l.code) }));
+---
+
+<nav aria-label={strings.language} class="flex items-center gap-1">
+  {
+    options.map((o) =>
+      o.code === locale ? (
+        <span
+          aria-current="true"
+          class="rounded-md px-2.5 py-2 text-body-sm font-bold text-ink"
+          lang={o.hreflang}
+        >
+          {o.endonym}
+        </span>
+      ) : (
+        <a
+          href={o.href}
+          hreflang={o.hreflang}
+          lang={o.hreflang}
+          rel="alternate"
+          class="focus-ring rounded-md px-2.5 py-2 text-body-sm font-semibold text-mute hover:bg-surface-card hover:text-ink"
+        >
+          {o.endonym}
+        </a>
+      ),
+    )
+  }
+</nav>

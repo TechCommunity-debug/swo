@@ -1,0 +1,129 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import Breadcrumbs from '../Breadcrumbs.astro';
+import AlphabetBar from '../AlphabetBar.astro';
+import JsonLd from '../JsonLd.astro';
+import TermName from '../TermName.astro';
+import { alphaKey, browsePath, byTerm, entryUrl, homePath, type Entry } from '../../lib/urls';
+import { chromeAlternates, countriesFor, entriesFor, loadSite } from '../../lib/site';
+import { localizeCountry } from '../../lib/localize';
+import { browseSeo } from '../../lib/seo';
+import { breadcrumbs } from '../../lib/schema';
+import { DEFAULT_LOCALE, type Locale } from '../../data/locales';
+import { t } from '../../i18n/ui';
+
+interface Props {
+  locale?: Locale;
+}
+
+const { locale = DEFAULT_LOCALE } = Astro.props;
+const strings = t(locale);
+
+const site = await loadSite();
+const countries = countriesFor(site, locale);
+
+interface Row {
+  entry: Entry;
+  href: string;
+  flag: string;
+  adjective: string;
+  lang: string;
+}
+
+const rows: Row[] = countries
+  .flatMap((country) => {
+    const c = localizeCountry(country, locale);
+    return entriesFor(site, country.id, locale).map((entry) => ({
+      entry,
+      href: entryUrl(entry, site.byId, locale),
+      flag: c.flagEmoji,
+      adjective: c.adjective,
+      lang: c.languageCode,
+    }));
+  })
+  .sort((a, b) => byTerm(a.entry, b.entry));
+
+const groups = new Map<string, Row[]>();
+for (const row of rows) {
+  const k = alphaKey(row.entry);
+  const list = groups.get(k);
+  if (list) list.push(row);
+  else groups.set(k, [row]);
+}
+const available = new Set(groups.keys());
+const sortedGroups = [...groups].sort(([a], [b]) =>
+  a === '#' ? 1 : b === '#' ? -1 : a.localeCompare(b),
+);
+
+const anchorId = (letter: string) => `letter-${letter === '#' ? 'other' : letter}`;
+const seo = browseSeo(rows.length, countries.length, locale);
+
+const schema = breadcrumbs([
+  { name: strings.home, path: homePath(locale) },
+  { name: strings.browse, path: Astro.url.pathname },
+]);
+---
+
+<Layout
+  title={seo.title}
+  description={seo.description}
+  locale={locale}
+  alternates={chromeAlternates(browsePath)}
+>
+  <JsonLd slot="head" schema={schema} />
+
+  <div class="container-site py-8 lg:py-12">
+    <Breadcrumbs locale={locale} items={[{ label: strings.browse }]} />
+
+    <header class="mt-8 max-w-3xl">
+      <h1 class="text-display-lg text-ink">{strings.browseH1}</h1>
+      <p class="mt-5 text-body-md text-body">{strings.browseLead(rows.length, countries.length)}</p>
+    </header>
+
+    <div
+      class="sticky top-16 z-30 -mx-6 mt-8 border-b border-hairline bg-surface-soft px-6 py-3 md:top-[6.75rem]"
+    >
+      <AlphabetBar available={available} locale={locale} />
+    </div>
+
+    <div class="mt-10 grid gap-10">
+      {
+        sortedGroups.map(([letter, items]) => (
+          <section aria-labelledby={`${anchorId(letter)}-h`}>
+            <h2 id={anchorId(letter)} class="sr-only">
+              {strings.termsBeginningWith(letter)}
+            </h2>
+            <p
+              id={`${anchorId(letter)}-h`}
+              aria-hidden="true"
+              class="border-b border-hairline pb-2 text-heading-xl text-ink"
+            >
+              {letter}
+            </p>
+            <ul class="mt-4 grid gap-x-6 gap-y-1 sm:grid-cols-2 lg:grid-cols-3">
+              {items.map((row) => (
+                <li>
+                  <a
+                    href={row.href}
+                    class="focus-ring flex items-baseline gap-2 rounded-sm py-1.5 hover:underline"
+                  >
+                    <TermName
+                      term={row.entry.data.term}
+                      romanization={row.entry.data.romanization}
+                      lang={row.lang}
+                      class="text-body-md text-ink"
+                    />
+                    <span class="text-caption text-mute" aria-hidden="true">
+                      {row.flag}
+                    </span>
+                    <span class="sr-only">({row.adjective})</span>
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </section>
+        ))
+      }
+    </div>
+  </div>
+</Layout>

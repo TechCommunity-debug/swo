@@ -1,0 +1,175 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import Breadcrumbs from '../Breadcrumbs.astro';
+import SearchBox from '../SearchBox.astro';
+import { browsePath } from '../../lib/urls';
+import { searchSeo } from '../../lib/seo';
+import { DEFAULT_LOCALE, type Locale } from '../../data/locales';
+import { t } from '../../i18n/ui';
+
+interface Props {
+  locale?: Locale;
+}
+
+const { locale = DEFAULT_LOCALE } = Astro.props;
+const strings = t(locale);
+const seo = searchSeo(locale);
+
+// A client-rendered shell with no indexable content of its own, and no
+// hreflang for the same reason: there is nothing here for either language
+// edition to be the canonical version of. Also excluded from the sitemap.
+const labels = {
+  startTyping: strings.startTyping,
+  noMatches: strings.noMatches('%s'),
+  tryBrowse: strings.noMatchesTryBrowse,
+  browseHref: browsePath(locale),
+  resultOne: strings.resultCount(1),
+  resultMany: strings.resultCount(2),
+  indexUrl: locale === DEFAULT_LOCALE ? '/search-index.json' : `/${locale}/search-index.json`,
+};
+---
+
+<Layout title={seo.title} description={seo.description} locale={locale} noIndex>
+  <div class="container-site py-8 lg:py-12">
+    <Breadcrumbs locale={locale} items={[{ label: strings.search }]} />
+
+    <header class="mt-8 max-w-3xl">
+      <h1 class="text-display-lg text-ink">{strings.searchH1}</h1>
+      <p class="mt-5 text-body-md text-body">{strings.searchLead}</p>
+    </header>
+
+    <div class="mt-8 max-w-2xl">
+      <SearchBox autofocus locale={locale} />
+    </div>
+
+    <div
+      id="search-page-results"
+      class="mt-10"
+      data-labels={JSON.stringify(labels)}
+      aria-live="polite"
+    >
+      <p class="text-body-md text-mute">{strings.startTyping}</p>
+    </div>
+  </div>
+</Layout>
+
+<script>
+  /**
+   * The search page renders its results in the flow of the page rather than in
+   * the dropdown, and reads ?q= on load so search results are linkable.
+   */
+  type Row = [
+    term: string,
+    countryAdj: string,
+    flag: string,
+    href: string,
+    gloss: string,
+    romanization?: string,
+  ];
+
+  const container = document.getElementById('search-page-results');
+  const input = document.querySelector<HTMLInputElement>('#q-main');
+
+  if (container && input) {
+    const labels = JSON.parse(container.dataset.labels!) as {
+      startTyping: string;
+      noMatches: string;
+      tryBrowse: string;
+      browseHref: string;
+      resultOne: string;
+      resultMany: string;
+      indexUrl: string;
+    };
+
+    const panel = input.closest('form')?.querySelector<HTMLElement>('[data-search-results]');
+    // The inline dropdown is redundant here — results go inline below.
+    panel?.remove();
+
+    const norm = (s: string) =>
+      s
+        .toLowerCase()
+        .normalize('NFD')
+        .replace(/[̀-ͯ]/g, '');
+
+    const escapeHtml = (s: string) =>
+      s.replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' })[c]!);
+
+    let rows: Row[] | null = null;
+    const load = async () =>
+      (rows ??= await fetch(labels.indexUrl)
+        .then((r) => r.json())
+        .catch(() => [] as Row[]));
+
+    function matches(all: Row[], raw: string) {
+      const q = norm(raw.trim());
+      if (!q) return [];
+      const a: Row[] = [],
+        b: Row[] = [],
+        c: Row[] = [];
+      for (const row of all) {
+        const keys = [norm(row[0]), row[5] ? norm(row[5]) : ''];
+        if (keys.some((k) => k && k.startsWith(q))) a.push(row);
+        else if (keys.some((k) => k && k.includes(q))) b.push(row);
+        else if (norm(row[4]).includes(q)) c.push(row);
+      }
+      return [...a, ...b, ...c].slice(0, 60);
+    }
+
+    const countLabel = (n: number) =>
+      (n === 1 ? labels.resultOne : labels.resultMany).replace(/\d+/, String(n));
+
+    async function run(pushState: boolean) {
+      const q = input!.value;
+      const url = new URL(location.href);
+      if (q.trim()) url.searchParams.set('q', q);
+      else url.searchParams.delete('q');
+      if (pushState) history.replaceState(null, '', url);
+
+      if (!q.trim()) {
+        container!.innerHTML = `<p class="text-body-md text-mute">${escapeHtml(labels.startTyping)}</p>`;
+        return;
+      }
+      const found = matches(await load(), q);
+      if (found.length === 0) {
+        container!.innerHTML = `<p class="text-body-md text-mute">${escapeHtml(
+          labels.noMatches.replace('%s', q),
+        )} <a href="${labels.browseHref}" class="font-semibold text-ink-soft underline">${escapeHtml(
+          labels.tryBrowse,
+        )}</a></p>`;
+        return;
+      }
+      container!.innerHTML = `
+        <p class="text-body-sm font-bold text-ink">${escapeHtml(countLabel(found.length))}</p>
+        <ul class="mt-4 grid gap-1">
+          ${found
+            .map(
+              ([term, adj, flag, href, gloss, roman]) => `
+            <li>
+              <a href="${href}" class="focus-ring block rounded-md p-3 hover:bg-canvas">
+                <span class="flex items-baseline gap-2">
+                  <span class="text-heading-md text-ink">${escapeHtml(term)}${
+                    roman ? ` <span class="font-normal text-mute">(${escapeHtml(roman)})</span>` : ''
+                  }</span>
+                  <span class="text-caption text-mute">${flag} ${escapeHtml(adj)}</span>
+                </span>
+                <span class="mt-1 block text-body-sm text-body">${escapeHtml(gloss)}</span>
+              </a>
+            </li>`,
+            )
+            .join('')}
+        </ul>`;
+    }
+
+    input.addEventListener('input', () => void run(true));
+    input.closest('form')?.addEventListener('submit', (e) => {
+      e.preventDefault();
+      void run(true);
+    });
+
+    const initial = new URLSearchParams(location.search).get('q');
+    if (initial) {
+      input.value = initial;
+      void run(false);
+    }
+  }
+</script>

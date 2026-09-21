@@ -1,0 +1,238 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import Breadcrumbs from '../Breadcrumbs.astro';
+import JsonLd from '../JsonLd.astro';
+import { aboutPath, homePath } from '../../lib/urls';
+import { chromeAlternates, countriesFor, entriesFor, loadSite } from '../../lib/site';
+import { aboutSeo, SITE_NAME, SITE_URL } from '../../lib/seo';
+import { absolute, breadcrumbs } from '../../lib/schema';
+import { DEFAULT_LOCALE, type Locale } from '../../data/locales';
+import { t } from '../../i18n/ui';
+
+interface Props {
+  locale?: Locale;
+}
+
+const { locale = DEFAULT_LOCALE } = Astro.props;
+const strings = t(locale);
+
+const site = await loadSite();
+const countries = countriesFor(site, locale);
+const termCount = countries.reduce((n, c) => n + entriesFor(site, c.id, locale).length, 0);
+
+/**
+ * The editorial-policy page is long-form prose, so it lives here rather than in
+ * `i18n/ui.ts` — that dictionary is for chrome, and burying six hundred words
+ * of policy in it would make every other string harder to find.
+ */
+interface Section {
+  heading: string;
+  paragraphs?: string[];
+  bullets?: { lead: string; rest: string }[];
+}
+
+const CONTENT: Record<Locale, { h1: string; lead: string; sections: Section[] }> = {
+  en: {
+    h1: 'How we source definitions',
+    lead: `${SITE_NAME} currently holds ${termCount} entries across ${countries.length} countries. This page explains how they are written, what we do when the facts are unclear, and where we know the dictionary is weak. If you only read one page on this site before trusting the rest, this is the one to read.`,
+    sections: [
+      {
+        heading: 'What every entry has to contain',
+        paragraphs: [
+          'No entry is published without at least one definition and at least one worked example sentence with a natural translation. This is enforced by the build: an entry missing either one fails validation and the site does not compile. It is a deliberately blunt instrument, and it exists because the failure mode of a large slang dictionary is hundreds of thin, padded entries that each technically say something and collectively say nothing.',
+          'Beyond that minimum, entries carry what is actually known about them. Some have detailed etymologies; some have none, because none is reliably established. We would rather an entry be visibly shorter than pad it out to match its neighbours.',
+        ],
+      },
+      {
+        heading: 'Register and usage warnings',
+        paragraphs: [
+          'Every term is tagged with a register — informal, colloquial, vulgar, taboo, dated or regional — and some carry an explicit usage warning. These are the most useful and the most subjective fields on the site. A word like cabrón is an affectionate greeting between friends and a serious insult from a stranger; no single label captures that, so the entry says so in the definitions rather than pretending the tag is sufficient.',
+          'We list slurs and offensive terms rather than omitting them, with the warning attached. A dictionary that leaves out the words you most need explained is not protecting anyone.',
+        ],
+      },
+      {
+        heading: 'Disputed and invented etymologies',
+        paragraphs: [
+          'Slang attracts folk etymology more than any other part of a language, and the good stories travel faster than the true ones. Several origins repeated confidently across the web are simply unverifiable — the Mexican chamba supposedly coming from "Chamber of Commerce", the Australian chunder from a shipboard cry of "watch under", the acronym backstories attached to naff.',
+          'Where we include one of these, we say plainly that it is unverified, and we say why it is worth mentioning anyway — usually because it is repeated so widely that leaving it out would be more confusing than addressing it. Where the origin is genuinely contested among people who study this, the entry says the question is open rather than picking the tidiest answer.',
+        ],
+      },
+      {
+        heading: 'Where slang comes from',
+        paragraphs: [
+          'A large share of what circulates as generic "American" slang originated in African American Vernacular English; a large share of current British youth slang comes from Multicultural London English and, before that, Jamaican Patois; a great deal of French slang arrived through the banlieues from Arabic. These routes are noted in the entries, because a word’s history is frequently the most interesting thing about it and because attribution matters.',
+        ],
+      },
+      {
+        heading: 'How the site is organised',
+        paragraphs: [
+          'Country comes first, then topic, then the term: /mexican-slang/people/guey/. That order is not arbitrary. Slang belongs to a place before it belongs to a language — Mexican and peninsular Spanish share a grammar and almost none of their informal vocabulary — so the country is the taxonomy everything else hangs off.',
+          'A term filed under several topics still has exactly one address, built from the first of them. It appears on the other topic pages too, but those pages link to its one canonical URL rather than serving a second copy of it.',
+        ],
+      },
+      {
+        heading: 'Languages',
+        paragraphs: [
+          'The English edition lives at the root of the site; the Spanish edition lives under /es/. A page appears in Spanish only when its content has genuinely been written in Spanish — there is no machine fallback, and no page is duplicated across languages with the same words in it. Where a page exists in both, each links to the other with hreflang so search engines can serve the right one.',
+          'Spanish is the only second language for now, and it covers the Mexican entries. More will follow the same rule: translated content first, then the pages.',
+        ],
+      },
+      {
+        heading: 'What this dictionary is currently bad at',
+        bullets: [
+          {
+            lead: 'Coverage is uneven.',
+            rest: 'Eight countries and four languages is a start, not a survey. Large slang traditions — Brazilian Portuguese, Nigerian Pidgin, Indian English, Japanese, Arabic — are simply absent.',
+          },
+          {
+            lead: 'Regional depth is shallow.',
+            rest: 'Terms are tagged to a broad region where we are confident, and left untagged where we are not. A word marked "General" may well be regional in ways we have not captured.',
+          },
+          {
+            lead: 'Slang expires.',
+            rest: 'Some entries here will read as dated within a few years. Where a term is already on its way out we mark it dated, but we will not always catch it in time.',
+          },
+          {
+            lead: 'No audio.',
+            rest: 'Pronunciation is given as IPA and as a plain respelling. For tonal and intonation-dependent terms — a good part of the Italian and Mexican entries — that is genuinely not enough.',
+          },
+        ],
+      },
+      {
+        heading: 'Corrections',
+        paragraphs: [
+          'If an entry is wrong, out of date, or misses the way a word is actually used where you live, that is worth knowing. Native-speaker corrections are the single most valuable input a dictionary like this can get, and the fields most likely to be wrong are register and region — exactly the ones that are hardest to research and easiest for a speaker to spot.',
+        ],
+      },
+    ],
+  },
+  es: {
+    h1: 'Cómo documentamos las definiciones',
+    lead: `${SITE_NAME} tiene ahora mismo ${termCount} entradas de ${countries.length} ${countries.length === 1 ? 'país' : 'países'} en su edición en español. Esta página explica cómo se escriben, qué hacemos cuando los datos no están claros y dónde sabemos que el diccionario flojea. Si solo vas a leer una página antes de fiarte del resto, que sea esta.`,
+    sections: [
+      {
+        heading: 'Qué tiene que llevar cada entrada',
+        paragraphs: [
+          'Ninguna entrada se publica sin al menos una acepción y al menos una frase de ejemplo trabajada con su traducción natural. Lo impone la compilación: una entrada a la que le falte cualquiera de las dos no pasa la validación y el sitio no compila. Es un instrumento deliberadamente tosco, y existe porque el modo de fallo de un diccionario de argot grande son cientos de entradas escuálidas y rellenas que técnicamente dicen algo y en conjunto no dicen nada.',
+          'Más allá de ese mínimo, cada entrada lleva lo que de verdad se sabe de ella. Algunas tienen etimologías detalladas; otras no tienen ninguna, porque no hay ninguna establecida con fiabilidad. Preferimos que una entrada se vea más corta antes que rellenarla para igualarla con sus vecinas.',
+        ],
+      },
+      {
+        heading: 'Registro y avisos de uso',
+        paragraphs: [
+          'Cada término lleva una etiqueta de registro —informal, coloquial, vulgar, tabú, anticuado o regional— y algunos llevan además un aviso de uso explícito. Son los campos más útiles y también los más subjetivos del sitio. Una palabra como cabrón es un saludo cariñoso entre amigos y un insulto serio viniendo de un desconocido; ninguna etiqueta suelta recoge eso, así que la entrada lo dice en las acepciones en vez de fingir que la etiqueta basta.',
+          'Incluimos los insultos discriminatorios y los términos ofensivos en lugar de omitirlos, con su aviso al lado. Un diccionario que se deja fuera justo las palabras que más necesitas que te expliquen no está protegiendo a nadie.',
+        ],
+      },
+      {
+        heading: 'Etimologías en disputa e inventadas',
+        paragraphs: [
+          'El argot atrae la etimología popular más que ninguna otra parte de una lengua, y las historias buenas viajan más rápido que las verdaderas. Varios orígenes que se repiten con mucha seguridad por internet son sencillamente inverificables: el chamba mexicano supuestamente sacado de «Chamber of Commerce», el chunder australiano de un grito de cubierta, las siglas inventadas que se le cuelgan a naff.',
+          'Cuando incluimos una de estas, decimos con todas las letras que no está verificada, y decimos por qué merece mencionarse igualmente: normalmente porque se repite tanto que omitirla confundiría más que abordarla. Cuando el origen está genuinamente discutido entre quienes estudian esto, la entrada dice que la cuestión sigue abierta en vez de quedarse con la respuesta más redonda.',
+        ],
+      },
+      {
+        heading: 'De dónde viene el argot',
+        paragraphs: [
+          'Buena parte de lo que circula como argot «americano» genérico nació en el inglés vernáculo afroamericano; buena parte del argot juvenil británico actual viene del inglés multicultural de Londres y, antes de eso, del patois jamaicano; mucho argot francés llegó por las banlieues desde el árabe. Estas rutas se anotan en las entradas, porque la historia de una palabra suele ser lo más interesante que tiene y porque atribuirla importa.',
+        ],
+      },
+      {
+        heading: 'Cómo está organizado el sitio',
+        paragraphs: [
+          'Primero el país, luego el tema, luego el término: /es/mexican-slang/people/guey/. Ese orden no es arbitrario. El argot pertenece a un lugar antes que a un idioma —el español de México y el de España comparten la gramática y casi nada de su vocabulario informal—, así que el país es la taxonomía de la que cuelga todo lo demás.',
+          'Un término archivado en varios temas sigue teniendo exactamente una dirección, construida a partir del primero de ellos. Aparece también en las otras páginas de tema, pero esas páginas enlazan a su única URL canónica en vez de servir una segunda copia de él.',
+        ],
+      },
+      {
+        heading: 'Idiomas',
+        paragraphs: [
+          'La edición en inglés vive en la raíz del sitio; la edición en español, bajo /es/. Una página aparece en español solo cuando su contenido se ha escrito de verdad en español: no hay recurso automático al inglés, y ninguna página se duplica entre idiomas con las mismas palabras dentro. Cuando una página existe en los dos, cada una enlaza a la otra con hreflang para que los buscadores puedan servir la correcta.',
+          'Por ahora el español es el único segundo idioma, y cubre las entradas mexicanas. Los siguientes seguirán la misma regla: primero el contenido traducido, después las páginas.',
+        ],
+      },
+      {
+        heading: 'En qué flojea ahora mismo este diccionario',
+        bullets: [
+          {
+            lead: 'La cobertura es desigual.',
+            rest: 'Ocho países y cuatro idiomas son un comienzo, no un panorama. Tradiciones enormes de argot —el portugués de Brasil, el pidgin nigeriano, el inglés de India, el japonés, el árabe— sencillamente no están.',
+          },
+          {
+            lead: 'La profundidad regional es escasa.',
+            rest: 'Los términos se etiquetan con una región amplia cuando tenemos confianza, y se dejan sin etiquetar cuando no. Una palabra marcada como «General» puede muy bien ser regional de formas que no hemos recogido.',
+          },
+          {
+            lead: 'El argot caduca.',
+            rest: 'Algunas entradas de aquí sonarán anticuadas dentro de unos años. Cuando un término ya va de salida lo marcamos como anticuado, pero no siempre llegaremos a tiempo.',
+          },
+          {
+            lead: 'No hay audio.',
+            rest: 'La pronunciación se da en AFI y en una transcripción llana. Para los términos que dependen del tono y la entonación —buena parte de las entradas italianas y mexicanas— eso no basta, sinceramente.',
+          },
+        ],
+      },
+      {
+        heading: 'Correcciones',
+        paragraphs: [
+          'Si una entrada está mal, se ha quedado vieja o no recoge cómo se usa de verdad una palabra donde tú vives, merece la pena saberlo. Las correcciones de hablantes nativos son la aportación más valiosa que puede recibir un diccionario como este, y los campos con más papeletas de estar equivocados son el registro y la región: justo los más difíciles de investigar y los más fáciles de detectar para un hablante.',
+        ],
+      },
+    ],
+  },
+};
+
+const content = CONTENT[locale];
+const seo = aboutSeo(locale);
+
+const schema = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'AboutPage',
+    name: seo.title,
+    description: seo.description,
+    url: absolute(Astro.url.pathname),
+    publisher: { '@id': `${SITE_URL}/#organization` },
+  },
+  breadcrumbs([
+    { name: strings.home, path: homePath(locale) },
+    { name: strings.about, path: Astro.url.pathname },
+  ]),
+];
+---
+
+<Layout
+  title={seo.title}
+  description={seo.description}
+  locale={locale}
+  alternates={chromeAlternates(aboutPath)}
+>
+  <JsonLd slot="head" schema={schema} />
+
+  <div class="container-site py-8 lg:py-12">
+    <Breadcrumbs locale={locale} items={[{ label: strings.about }]} />
+
+    <article class="mt-8 max-w-2xl">
+      <h1 class="text-display-lg text-ink">{content.h1}</h1>
+      <p class="mt-6 text-body-md text-body">{content.lead}</p>
+
+      {
+        content.sections.map((section) => (
+          <>
+            <h2 class="mt-10 text-heading-xl text-ink">{section.heading}</h2>
+            {section.paragraphs?.map((p) => <p class="mt-4 text-body-md text-body">{p}</p>)}
+            {section.bullets && (
+              <ul class="mt-4 grid list-disc gap-3 pl-5 text-body-md text-body">
+                {section.bullets.map((b) => (
+                  <li>
+                    <strong class="font-semibold text-ink">{b.lead}</strong> {b.rest}
+                  </li>
+                ))}
+              </ul>
+            )}
+          </>
+        ))
+      }
+    </article>
+  </div>
+</Layout>

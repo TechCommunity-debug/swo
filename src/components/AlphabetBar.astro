@@ -1,18 +1,22 @@
 ---
 import { ALPHABET } from '../lib/urls';
+import { DEFAULT_LOCALE, type Locale } from '../data/locales';
+import { t } from '../i18n/ui';
 
 interface Props {
   /** Letters that actually have entries. Others render disabled. */
   available: Set<string>;
   /** Prefix for the anchor ids, so two bars on one page don't collide. */
   idPrefix?: string;
+  locale?: Locale;
 }
 
-const { available, idPrefix = 'letter' } = Astro.props;
+const { available, idPrefix = 'letter', locale = DEFAULT_LOCALE } = Astro.props;
+const strings = t(locale);
 const letters = available.has('#') ? [...ALPHABET, '#'] : ALPHABET;
 ---
 
-<nav aria-label="Jump to letter" class="flex flex-wrap gap-1">
+<nav aria-label={strings.jumpToLetter} class="flex flex-wrap gap-1">
   {
     letters.map((letter) =>
       available.has(letter) ? (
