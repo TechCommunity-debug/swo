@@ -22,7 +22,7 @@ const strings = t(locale);
  * them on the Spanish home page is honest about what exists.
  */
 const hrefFor = (code: Locale) =>
-  alternates.find((a) => a.locale === code && a.hreflang !== 'x-default')?.href ?? homePath(code);
+  alternates.find((a) => a.locale === code && a.hreflang !== 'x-default')?.path ?? homePath(code);
 
 const options = LOCALES.map((l) => ({ ...l, href: hrefFor(l.code) }));
 ---

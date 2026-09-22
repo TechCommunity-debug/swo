@@ -1,0 +1,377 @@
+{
+  "tio": {
+    "definitions": [
+      { "text": "Tío, colega. El tratamiento estándar entre amigos en España, y el equivalente aproximado del güey mexicano." },
+      { "text": "Cualquier hombre sin nombrar: ese tío, «ese tipo»." },
+      { "text": "Como muletilla pura que marca el habla informal, sin ningún contenido propio." }
+    ],
+    "origin": {
+      "etymology": "Que los términos de parentesco pasen a usarse para dirigirse a quien no lo es es uno de los patrones más fiables de la jerga en todo el mundo. El español lo hizo con tío igual que el español mexicano lo hizo con carnal y el inglés con bro."
+    }
+  },
+  "vale": {
+    "definitions": [
+      { "text": "Vale; de acuerdo. La palabra más frecuente de la conversación en español después de lo básico, y prácticamente intraducible en toda su gama de matices." },
+      { "text": "Como pregunta, ¿vale?, añadida para comprobar el acuerdo: «¿de acuerdo?»." }
+    ],
+    "examples": {
+      "2": { "context": "Doblado, señala una impaciencia leve." }
+    },
+    "origin": {
+      "etymology": "De valer, «tener valor» — «vale la pena», de ahí «con eso basta». Es casi exclusivamente peninsular: en Hispanoamérica se dice bueno, dale o listo, y vale es una de las señales más rápidas de que quien habla es de España."
+    }
+  },
+  "venga": {
+    "definitions": [
+      { "text": "Venga, vamos. Ánimo o incitación." },
+      { "text": "Vale, bueno. Acuerdo a regañadientes." },
+      { "text": "Bueno, pues. Se usa para cerrar una llamada de teléfono, casi siempre como venga, hasta luego.", "note": "Las llamadas telefónicas en España terminan a menudo con una cascada de estas palabras: venga, vale, hasta luego, adiós, adiós." }
+    ],
+    "literalMeaning": "Ven (subjuntivo)."
+  },
+  "guay": {
+    "definitions": [
+      { "text": "Guay, genial. El equivalente peninsular del chido mexicano, e invariable: no cambia de género ni de número." }
+    ],
+    "origin": {
+      "etymology": "Surgió en la jerga juvenil madrileña de los años setenta y ochenta y se generalizó. A los hablantes más jóvenes les suena algo de otra época, y pueden preferir guapo o brutal, pero sigue muy vivo.",
+      "firstAttested": "años 1970"
+    }
+  },
+  "molar": {
+    "definitions": [
+      { "text": "Molar; gustar, hacer tilín. Se construye como gustar — lo que gusta es el sujeto: me mola, «me gusta»." }
+    ]
+  },
+  "flipar": {
+    "definitions": [
+      { "text": "Alucinar, quedarse flipado. Flipé con el concierto — el concierto me dejó flipando." },
+      { "text": "Flipar en colores: una extensión enfática que significa quedarse absolutamente pasmado." },
+      { "text": "Estar en las nubes, delirar, en frases como en flipas o estás flipando — «estás soñando»." }
+    ],
+    "origin": {
+      "etymology": "Del inglés to flip, tomado prestado por el español en los años setenta. El sentido negativo — estar en las nubes — se desarrolló después y de forma local."
+    }
+  },
+  "alucinar": {
+    "definitions": [
+      { "text": "Quedarse alucinado, no dar crédito. Alucino contigo — «no puedo contigo», dicho normalmente con exasperación más que con admiración." }
+    ],
+    "literalMeaning": "Alucinar (en sentido literal, tener alucinaciones)."
+  },
+  "joder": {
+    "definitions": [
+      { "text": "Joder; maldita sea. Una exclamación de frustración, sorpresa o énfasis, y la palabrota más frecuente de España con diferencia." },
+      { "text": "Molestar o fastidiar a alguien: no me jodas, «no me vaciles» o «no me lo puedo creer»." },
+      { "text": "Estropear algo: se jodió el móvil, «se ha roto el móvil»." }
+    ],
+    "origin": {
+      "etymology": "El sentido literal es obsceno. La naturalidad y la frecuencia con que se jura en España sorprende a los hablantes hispanoamericanos más que casi cualquier otra cosa del español peninsular: un joder de un compañero de trabajo o de una abuela es de lo más normal."
+    }
+  },
+  "hostia": {
+    "definitions": [
+      { "text": "Hostia; vaya. Una exclamación de sorpresa, a menudo como ¡hostia! o ¡hostia puta!" },
+      { "text": "Un golpe o un tortazo: le dio una hostia, «le dio un puñetazo»." },
+      { "text": "Ser la hostia: ser excepcional, o escandaloso, según el tono." }
+    ],
+    "literalMeaning": "Hostia consagrada.",
+    "origin": {
+      "etymology": "El taco español recurre mucho al vocabulario religioso — hostia, me cago en Dios, etcétera — donde el inglés echa mano del cuerpo. Las palabras conservan un poder de choque real para los hablantes mayores o más religiosos, aun cuando los jóvenes las usen sin reparo."
+    }
+  },
+  "cono": {
+    "definitions": [
+      { "text": "Coño; maldita sea. Se usa como exclamación general y como intensificador dentro de preguntas: ¿qué coño haces?" }
+    ],
+    "origin": {
+      "etymology": "De origen anatómico y obsceno, y mucho más fuertemente tabú en Hispanoamérica que en España, donde funciona casi como un signo de puntuación. Esta diferencia provoca ofensas reales en ambas direcciones."
+    }
+  },
+  "chaval": {
+    "definitions": [
+      { "text": "Un chico joven, un crío. Femenino chavala. También se usa para dirigirse a un hombre más joven." }
+    ],
+    "origin": {
+      "etymology": "Del caló chavale, vocativo de chavó, «chico» — la misma raíz romaní que dio el inglés chav, aunque las dos palabras han recorrido caminos sociales opuestos."
+    }
+  },
+  "colega": {
+    "definitions": [
+      { "text": "Colega, tío. En España significa amigo, no compañero de trabajo — un falso amigo tanto para los hablantes de inglés como para el español de Hispanoamérica." }
+    ],
+    "literalMeaning": "Colega (de trabajo)."
+  },
+  "que-pasa": {
+    "definitions": [
+      { "text": "¿Qué tal? El saludo informal estándar, normalmente con tío añadido." }
+    ],
+    "examples": {
+      "1": { "context": "Con con pregunta por un asunto concreto." }
+    },
+    "literalMeaning": "¿Qué está pasando?"
+  },
+  "que-tal": {
+    "definitions": [
+      { "text": "¿Cómo va? Algo más neutro que ¿qué pasa? y utilizable con desconocidos y en tiendas." },
+      { "text": "Con un sustantivo, pide una opinión: ¿qué tal la película? — «¿qué tal estuvo la película?»." }
+    ]
+  },
+  "curro": {
+    "definitions": [
+      { "text": "Trabajo, curro. El verbo currar significa trabajar, y un currante es alguien currante, un trabajador esforzado." }
+    ]
+  },
+  "pasta": {
+    "definitions": [
+      { "text": "Dinero, pasta. Nada que ver con la comida." }
+    ],
+    "origin": {
+      "etymology": "«Pasta» como palabra para el dinero es casi universal — el inglés dough, el francés blé (trigo), el italiano grana. El alimento básico de un lugar tiende a convertirse en la palabra para el medio de comprarlo."
+    }
+  },
+  "cutre": {
+    "definitions": [
+      { "text": "Cutre, hortera, cochambroso y algo lúgubre. Se aplica a bares, hoteles, ropa y comportamientos." },
+      { "text": "A veces con cariño: un bar cutre puede ser exactamente el sitio donde uno quiere estar." }
+    ],
+    "examples": {
+      "1": { "context": "Con cariño. España tiene un aprecio genuino por el bar cutre bien llevado." }
+    }
+  },
+  "cani": {
+    "definitions": [
+      { "text": "Un joven de clase trabajadora identificado por una estética concreta — chándal, oro en abundancia, un corte de pelo particular. El equivalente español del chav británico o el bogan australiano, con el mismo desprecio de clase incorporado." }
+    ],
+    "origin": {
+      "etymology": "Probablemente del caló, donde cani se relaciona con la identidad gitana — de ahí que la palabra cargue con una connotación étnica además de la de clase. Se recoge aquí para su comprensión; no es una descripción neutra."
+    }
+  },
+  "pijo": {
+    "definitions": [
+      { "text": "Pijo, repipi, de clase alta y algo esnob. El equivalente español de la fresa mexicana, y el opuesto de clase de cani." }
+    ]
+  },
+  "chulo": {
+    "definitions": [
+      { "text": "De una cosa: bonito, mono, chulo. Qué chulo — «qué bonito»." },
+      { "text": "De una persona: creído, chulesco. Ponerse chulo es ponerse respondón." },
+      { "text": "Un proxeneta. El sentido más antiguo, todavía vigente y la razón por la que importa el contexto.", "note": "Tres sentidos que van de lo elogioso a lo delictivo. La distinción entre cosa y persona suele resolverlo." }
+    ]
+  },
+  "marron": {
+    "definitions": [
+      { "text": "Un marrón: un problema o una situación incómoda que te cae encima. Comerse un marrón es cargar con algo desagradable." }
+    ],
+    "literalMeaning": "Marrón, color castaño."
+  },
+  "movida": {
+    "definitions": [
+      { "text": "Una movida; un lío, un asunto, un rollo. Deliberadamente impreciso: vaya movida, «menudo lío»." },
+      { "text": "Un ambiente o un fenómeno cultural. La Movida Madrileña fue el nombre que se dio a la explosión cultural de Madrid tras la muerte de Franco." }
+    ]
+  },
+  "liarse": {
+    "definitions": [
+      { "text": "Enrollarse con alguien: liarse románticamente con alguien, normalmente de forma casual: se liaron en la fiesta." },
+      { "text": "Enfrascarse en algo y perder la noción del tiempo: me lié con el trabajo." },
+      { "text": "Liarla es montar un lío. La liaste parda — «la has liado bien gorda»." }
+    ],
+    "literalMeaning": "Enredarse, hacerse un lío."
+  },
+  "ligar": {
+    "definitions": [
+      { "text": "Ligar; coquetear con éxito. Salir a ligar es salir con la intención de conocer a alguien." }
+    ],
+    "literalMeaning": "Atar, unir."
+  },
+  "botellon": {
+    "definitions": [
+      { "text": "Una gran reunión al aire libre en la que los jóvenes beben en una plaza o un parque antes de salir de marcha, sobre todo porque sale mucho más barato que ir de bares." }
+    ],
+    "examples": {
+      "1": { "context": "Está regulado o prohibido en la mayoría de las ciudades españolas, lo que apenas ha cambiado nada en la práctica." }
+    },
+    "origin": {
+      "etymology": "Aumentativo de botella — literalmente «botella grande». Tanto la costumbre como la palabra se remontan a los años noventa, y el fenómeno es lo bastante específico de España como para que la palabra no tenga un equivalente real en otros lugares.",
+      "firstAttested": "años 1990"
+    }
+  },
+  "marcha": {
+    "definitions": [
+      { "text": "Marcha; ambiente, ganas de salir de fiesta. Irse de marcha es salir de fiesta." },
+      { "text": "De una persona: tener mucha marcha significa tener mucho ánimo y ganas de fiesta." }
+    ],
+    "literalMeaning": "Marcha; velocidad (de un coche)."
+  },
+  "resaca": {
+    "definitions": [
+      { "text": "Una resaca." }
+    ],
+    "literalMeaning": "Resaca, retroceso de la ola.",
+    "origin": {
+      "etymology": "Del mar: la corriente que arrastra hacia atrás cuando la ola ya ha roto. Una imagen mejor para la mañana después de una fiesta que la que consigue la mayoría de los idiomas."
+    }
+  },
+  "tapear": {
+    "definitions": [
+      { "text": "Ir de bar en bar comiendo tapas. Ir de tapas es la forma más habitual de decirlo." }
+    ],
+    "examples": {
+      "1": { "context": "Las tapas gratis con la bebida son costumbre en Granada y León, pero poco habituales en el resto de España." }
+    }
+  },
+  "cana": {
+    "definitions": [
+      { "text": "Una caña, un vaso pequeño de cerveza de barril, unos 200ml. El pedido por defecto en un bar español." },
+      { "text": "Dar caña: apretar duro, meter presión." }
+    ]
+  },
+  "majo": {
+    "definitions": [
+      { "text": "Simpático, agradable, majo. Se dice sobre todo de las personas — es muy maja es un elogio alto dicho como quien no quiere la cosa." }
+    ]
+  },
+  "vaya-tela": {
+    "definitions": [
+      { "text": "Vaya tela, madre mía. Expresa asombro, normalmente ante algo excesivo o absurdo." }
+    ],
+    "literalMeaning": "Qué tela (de tejido)."
+  },
+  "en-plan": {
+    "definitions": [
+      { "text": "En plan; como que, tipo. Un marcador discursivo que introduce una aproximación o una cita, casi exactamente paralelo al «like» citativo del inglés." }
+    ],
+    "origin": {
+      "etymology": "Reciente y marcado generacionalmente. Los hablantes mayores lo critican igual que los angloparlantes critican el «like» citativo, y con la misma poca eficacia."
+    }
+  },
+  "rollo": {
+    "definitions": [
+      { "text": "Un rollo; algo pesado y tedioso. Qué rollo — «qué pesadez»." },
+      { "text": "Un ambiente o un estilo: buen rollo es buen ambiente, mal rollo es mal ambiente." },
+      { "text": "Un lío romántico pasajero: tuvieron un rollo." }
+    ],
+    "literalMeaning": "Rollo, rollo de papel.",
+    "origin": {
+      "etymology": "De la imagen de un rollo de papel que no deja de desenrollarse — algo que se alarga y se alarga. El par buen rollo / mal rollo es hoy el uso más frecuente."
+    }
+  },
+  "currante": {
+    "definitions": [
+      { "text": "Un currante; un trabajador esforzado. Elogioso, con un marcado tono de clase trabajadora." }
+    ]
+  },
+  "chungo": {
+    "definitions": [
+      { "text": "Chungo, sospechoso, en mal estado. De una situación: difícil o poco prometedora." },
+      { "text": "De una persona: pachucho, mal. Estoy chungo — «me encuentro mal»." }
+    ],
+    "origin": {
+      "etymology": "Del caló chungo, «feo, malo». El vocabulario romaní es una fuente importante y poco reconocida de la jerga española — chaval, camelar, currar y molar vienen todas, con toda probabilidad, de la misma dirección."
+    }
+  },
+  "mogollon": {
+    "definitions": [
+      { "text": "Un montón, mogollón. Un mogollón de gente, o como adverbio: me gusta mogollón." }
+    ]
+  },
+  "pillar": {
+    "definitions": [
+      { "text": "Coger o agarrar: voy a pillar el metro." },
+      { "text": "Conseguir o comprar algo de paso: pilla pan de camino." },
+      { "text": "Entender, especialmente un chiste: no lo pillo — «no lo entiendo»." }
+    ]
+  },
+  "ostras": {
+    "definitions": [
+      { "text": "Ostras, vaya, madre mía. Un eufemismo de hostia, y por eso completamente inofensivo." }
+    ],
+    "literalMeaning": "Ostras (el marisco).",
+    "origin": {
+      "etymology": "Un tabú eufemístico construido sustituyendo una palabra inofensiva que empieza igual — el mismo mecanismo que el no manches mexicano por no mames, o el «miércoles» que sustituye una palabra más fuerte."
+    }
+  },
+  "jolin": {
+    "definitions": [
+      { "text": "Jolín, vaya. Un eufemismo suave de joder, seguro delante de niños y abuelos." }
+    ]
+  },
+  "quedar": {
+    "definitions": [
+      { "text": "Quedar; citarse con alguien, hacer planes. Absolutamente central en la vida social española y sin un equivalente de una sola palabra en inglés — «hemos quedado a las ocho» significa que la cita ya está acordada." }
+    ]
+  },
+  "morro": {
+    "definitions": [
+      { "text": "Cara, morro, jeta. Tener mucho morro es tener mucha cara." },
+      { "text": "Por el morro: gratis, a fuerza de morro. Entró por el morro — se coló con toda su cara." }
+    ],
+    "literalMeaning": "Morro, hocico."
+  },
+  "de-puta-madre": {
+    "definitions": [
+      { "text": "Genial, de puta madre. Muy positivo pese a estar construido enteramente a base de insultos — una buena muestra de cómo funciona el taco en español." }
+    ],
+    "origin": {
+      "etymology": "Literalmente algo que ningún diccionario debería traducir palabra por palabra. El español construye a menudo sus superlativos con material tabú y luego invierte la polaridad — emparentado en espíritu con el inglés the dog's bollocks."
+    }
+  },
+  "ni-de-cona": {
+    "definitions": [
+      { "text": "Ni de coña; ni hablar. Una negativa enfática o la negación rotunda de una posibilidad." }
+    ]
+  },
+  "buah": {
+    "definitions": [
+      { "text": "Buah, vaya. Una partícula de reacción comodín que abre una frase, expresando cualquier cosa entre el asombro y el hastío según cómo se diga." }
+    ]
+  },
+  "empanado": {
+    "definitions": [
+      { "text": "Empanado, en las nubes, atontado, sin prestar atención. Estar empanado es estar en Babia." }
+    ],
+    "literalMeaning": "Empanado, rebozado en pan rallado.",
+    "origin": {
+      "etymology": "De empanar, rebozar en pan rallado — la imagen es la de una mente con una costra gruesa por encima."
+    }
+  },
+  "petarlo": {
+    "definitions": [
+      { "text": "Petarlo; triunfar, hacerlo genial. Lo petaron en el concierto — arrasaron en el concierto." },
+      { "text": "Petar solo: estar a reventar, de un local." }
+    ]
+  },
+  "tela": {
+    "definitions": [
+      { "text": "Un montón; mucho. Es tela de caro — «es carísimo»." },
+      { "text": "También dinero, en la jerga más antigua: soltar la tela, apoquinar." }
+    ],
+    "literalMeaning": "Tela, tejido."
+  },
+  "fiera": {
+    "definitions": [
+      { "text": "Crack, campeón; un término de dirección admirativo para alguien que lo ha hecho muy bien, o simplemente un saludo amistoso entre hombres." }
+    ],
+    "literalMeaning": "Fiera, animal salvaje."
+  },
+  "crack": {
+    "definitions": [
+      { "text": "Un crack; alguien excepcionalmente bueno en algo. Eres un crack es un elogio alto y casual, y no tiene nada que ver con la droga." }
+    ],
+    "origin": {
+      "etymology": "Tomado del inglés deportivo — a crack player — y reducido en español a significar una persona sobresaliente. Los comentarios de fútbol son el canal principal."
+    }
+  },
+  "cotilla": {
+    "definitions": [
+      { "text": "Un cotilla; una persona chismosa. El verbo cotillear es cotillear, y la prensa del corazón es su forma profesional." }
+    ]
+  },
+  "sobremesa": {
+    "definitions": [
+      { "text": "La sobremesa; la larga conversación que continúa en la mesa una vez terminada la comida. No es jerga exactamente, pero es intraducible y lo bastante central en la vida española como para merecer un puesto aquí." }
+    ],
+    "literalMeaning": "Sobre la mesa."
+  }
+}

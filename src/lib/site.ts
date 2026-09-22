@@ -83,7 +83,10 @@ export const countriesFor = (site: SiteData, locale: Locale) =>
 export interface Alternate {
   locale: Locale;
   hreflang: string;
+  /** Absolute URL, for `<link rel="alternate" hreflang>` tags — Google requires these to be absolute. */
   href: string;
+  /** Site-relative path, for in-page links (e.g. the locale switcher) so they stay on the current host. */
+  path: string;
 }
 
 /**
@@ -106,12 +109,14 @@ export function alternatesFor(
     locale: l.code,
     hreflang: l.hreflang,
     href: new URL(path(l.code), SITE_URL).href,
+    path: path(l.code),
   }));
   if (available.includes(DEFAULT_LOCALE)) {
     out.push({
       locale: DEFAULT_LOCALE,
       hreflang: 'x-default',
       href: new URL(path(DEFAULT_LOCALE), SITE_URL).href,
+      path: path(DEFAULT_LOCALE),
     });
   }
   return out;

@@ -2,6 +2,13 @@ import type { Entry, Country } from './urls';
 import { DEFAULT_LOCALE, type Locale } from '../data/locales';
 import esCountries from '../data/i18n/es/countries.json';
 import esMexican from '../data/i18n/es/entries/mexican.json';
+import esAmerican from '../data/i18n/es/entries/american.json';
+import esBritish from '../data/i18n/es/entries/british.json';
+import esAustralian from '../data/i18n/es/entries/australian.json';
+import esCanadian from '../data/i18n/es/entries/canadian.json';
+import esFrench from '../data/i18n/es/entries/french.json';
+import esItalian from '../data/i18n/es/entries/italian.json';
+import esSpanish from '../data/i18n/es/entries/spanish.json';
 
 /**
  * Overlays translated content onto an entry or a country.
@@ -70,7 +77,16 @@ interface EntryOverride {
 
 const ENTRY_OVERRIDES: Record<Locale, Record<string, Record<string, EntryOverride>>> = {
   en: {},
-  es: { mexican: esMexican as Record<string, EntryOverride> },
+  es: {
+    mexican: esMexican as Record<string, EntryOverride>,
+    american: esAmerican as Record<string, EntryOverride>,
+    british: esBritish as Record<string, EntryOverride>,
+    australian: esAustralian as Record<string, EntryOverride>,
+    canadian: esCanadian as Record<string, EntryOverride>,
+    french: esFrench as Record<string, EntryOverride>,
+    italian: esItalian as Record<string, EntryOverride>,
+    spanish: esSpanish as Record<string, EntryOverride>,
+  },
 };
 
 /** Whether a locale has a full translation of this entry, and therefore a page. */

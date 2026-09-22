@@ -1,0 +1,509 @@
+{
+  "boh": {
+    "definitions": [
+      { "text": "No sé; quién sabe; ni idea. Una respuesta completa por sí misma, que suele acompañarse de un encogimiento de hombros y la boca hacia abajo." }
+    ],
+    "examples": {
+      "0": { "translation": "«¿Cuándo llega el tren?» «Ni idea.»" },
+      "1": { "translation": "Quién sabe, a lo mejor mañana, no se sabe." }
+    },
+    "origin": {
+      "etymology": "Más que una palabra, un sonido convencionalizado, y una de las primeras cosas que los estudiantes notan en el italiano hablado real. Comunica no solo ignorancia sino la negativa a especular."
+    }
+  },
+  "mah": {
+    "definitions": [
+      { "text": "Hum; bueno, a ver. Señala duda, escepticismo o una incertidumbre resignada sobre lo que se acaba de decir." }
+    ],
+    "examples": {
+      "0": { "translation": "Hum, no estoy tan seguro de eso." },
+      "1": { "translation": "Bueno, ya veremos." }
+    }
+  },
+  "vabbe": {
+    "definitions": [
+      { "text": "Bueno, vale; da igual. Contracción de va bene, se usa para aceptar algo a regañadientes o para cerrar un tema." }
+    ],
+    "examples": {
+      "0": { "translation": "Bueno, no importa, lo hacemos mañana." },
+      "1": { "translation": "Venga, va, no exageres." }
+    }
+  },
+  "dai": {
+    "literalMeaning": "Da (imperativo de dar).",
+    "definitions": [
+      { "text": "Venga, vamos. Ánimo, impaciencia o incredulidad, según la entonación." },
+      { "text": "Ma dai! — «¡no me digas!» Expresa sorpresa." },
+      { "text": "Como suavizante al final de una frase: andiamo, dai." }
+    ],
+    "examples": {
+      "0": { "translation": "¡Venga, que tú puedes!" },
+      "1": { "translation": "Anda ya, no me lo creo." },
+      "2": { "translation": "Venga, vámonos, que es tarde." }
+    }
+  },
+  "magari": {
+    "definitions": [
+      { "text": "¡Ojalá! Me encantaría. Suelta, expresa un deseo que el hablante cree poco probable." },
+      { "text": "Quizá, tal vez. En mitad de una frase es una simple matización." },
+      { "text": "Con subjuntivo: aunque, suponiendo que.", "note": "El sentido de «ojalá» en solitario es el que sorprende a los estudiantes — es casi lo contrario de «quizá»." }
+    ],
+    "examples": {
+      "0": { "translation": "«¿Vas a ganar la lotería?» «¡Ojalá!»" },
+      "1": { "translation": "Quizá nos veamos mañana." }
+    },
+    "origin": {
+      "etymology": "Del griego makários, «bendito, feliz» — un préstamo bizantino que sobrevivió en italiano. El sentido de deseo es el más cercano al original."
+    }
+  },
+  "figo": {
+    "definitions": [
+      { "text": "Guay, genial. Che figo! — «¡qué guay!»" },
+      { "text": "De una persona: atractivo/a. Un figo, una figa en este sentido." },
+      { "text": "De origen norteño; el centro y el sur de Italia dicen fico para lo mismo.", "note": "El femenino figa tiene además un sentido anatómico vulgar, razón por la cual el masculino es la forma más segura." }
+    ],
+    "examples": {
+      "0": { "translation": "¡Qué guay tu piso!" },
+      "1": { "translation": "Fue un concierto realmente genial." }
+    }
+  },
+  "figata": {
+    "definitions": [
+      { "text": "Algo genial; una pasada. Che figata! — «¡qué pasada!»" }
+    ],
+    "examples": {
+      "0": { "translation": "Qué pasada, han abierto una librería por aquí." },
+      "1": { "translation": "El nuevo álbum es una pasada." }
+    }
+  },
+  "spacca": {
+    "literalMeaning": "Parte, raja (de partir en dos).",
+    "definitions": [
+      { "text": "Es la caña; es brutal. Questo pezzo spacca — «este tema es un temazo»." }
+    ],
+    "examples": {
+      "0": { "translation": "Ese grupo en directo es una pasada." },
+      "1": { "translation": "Tu proyecto mola de verdad." }
+    }
+  },
+  "che-palle": {
+    "literalMeaning": "Qué pelotas.",
+    "definitions": [
+      { "text": "Qué rollo; qué aburrimiento. Una queja extremadamente común sobre el tedio, no sobre algo realmente malo." }
+    ],
+    "examples": {
+      "0": { "translation": "¿Otra reunión más? Qué rollo." },
+      "1": { "translation": "Qué pesadez esta lluvia." }
+    },
+    "origin": {
+      "etymology": "Vulgar en origen por su referencia anatómica, pero muy blanqueado — se oye constantemente, incluso de boca de gente que no soltaría tacos por lo demás. Rompere le palle, «dar la lata», viene de la misma raíz."
+    }
+  },
+  "mannaggia": {
+    "definitions": [
+      { "text": "Maldita sea; vaya por Dios. Una maldición leve de frustración, a menudo ampliada a mannaggia a te o mannaggia la miseria." }
+    ],
+    "examples": {
+      "0": { "translation": "Maldita sea, se me han olvidado las llaves." },
+      "1": { "translation": "Maldito seas tú y tus brillantes ideas." }
+    },
+    "origin": {
+      "etymology": "Del napolitano mal ne aggia, «que le venga mal de ello». De origen sureño y hoy plenamente nacional, como buena parte del vocabulario informal italiano."
+    }
+  },
+  "porca-miseria": {
+    "literalMeaning": "Miseria cochina.",
+    "definitions": [
+      { "text": "Maldita sea; mecachis. El miembro socialmente aceptable de una gran familia de expresiones con porca..., cuyos demás miembros son blasfemos y realmente ofensivos." }
+    ],
+    "examples": {
+      "0": { "translation": "Maldita sea, se ha vuelto a romper." },
+      "1": { "translation": "¡Mecachis, qué frío hace!" }
+    },
+    "origin": {
+      "etymology": "Los tacos italianos se dividen claramente entre lo meramente vulgar y las bestemmie —blasfemias contra Dios o los santos—, que siguen siendo un tabú muy serio y hasta hace poco eran punibles por ley. Porca miseria sustituye un sustantivo abstracto por el prohibido."
+    }
+  },
+  "fregarsene": {
+    "definitions": [
+      { "text": "No importarle a alguien nada de nada. Me ne frego — «me importa un bledo». Chi se ne frega — «a quién le importa»." }
+    ],
+    "examples": {
+      "0": { "translation": "No me importa lo más mínimo lo que digan." },
+      "1": { "translation": "¡Y a quién le importa!" }
+    },
+    "origin": {
+      "etymology": "Vale la pena saber que me ne frego fue un eslogan fascista en los años veinte y treinta. La frase es muy anterior a ese uso y lo ha sobrevivido con creces, y hoy es del todo neutra, pero los italianos siguen reconociendo la asociación."
+    }
+  },
+  "scocciare": {
+    "definitions": [
+      { "text": "Molestar, fastidiar. Uno scocciatore es un pesado." },
+      { "text": "En forma reflexiva, scocciarsi: hartarse." }
+    ],
+    "examples": {
+      "0": { "translation": "Deja de molestar a tu hermana." },
+      "1": { "translation": "Me he hartado de esperar." }
+    }
+  },
+  "rompiscatole": {
+    "literalMeaning": "Rompecajas.",
+    "definitions": [
+      { "text": "Un pesado; alguien que no te deja en paz. La versión educada de una expresión más burda construida sobre el mismo verbo." }
+    ],
+    "examples": {
+      "0": { "translation": "Ese tipo es un pesado de cuidado." },
+      "1": { "translation": "No seas tan pesado." }
+    }
+  },
+  "in-bocca-al-lupo": {
+    "literalMeaning": "En la boca del lobo.",
+    "definitions": [
+      { "text": "Buena suerte. La respuesta convencional es crepi il lupo («que muera el lobo») o simplemente crepi — responder grazie se considera que trae mala suerte." }
+    ],
+    "examples": {
+      "0": { "translation": "¡Buena suerte con el examen!" },
+      "1": { "translation": "«Buena suerte.» «¡Gracias!»", "context": "El intercambio es fijo. Responder «grazie» delata al extranjero." }
+    },
+    "origin": {
+      "etymology": "La lógica es la misma que la del inglés «break a leg»: se cree que desear buena suerte directamente la gafa, así que se invoca el peligro en su lugar. Una minoría sostiene que la boca del lobo es protectora, ya que la loba lleva a sus cachorros en ella — en cuyo caso crepi il lupo sería un error. Los italianos discuten sobre esto."
+    }
+  },
+  "ci-sta": {
+    "definitions": [
+      { "text": "Eso vale; de acuerdo; encaja. Expresa que algo es aceptable o razonable." },
+      { "text": "De una persona: se apunta. Ci sta significa «cuenta conmigo»." }
+    ],
+    "examples": {
+      "0": { "translation": "¿Una cerveza después del trabajo? Me apunto." },
+      "1": { "translation": "Se entiende que llegue tarde, hay tráfico." }
+    }
+  },
+  "allora": {
+    "definitions": [
+      { "text": "Entonces; bueno, a ver; pues bien. Abre una frase, rellena una pausa, pone orden en una sala o introduce una conclusión. Los profesores empiezan las clases con ella y los camareros toman nota con ella." },
+      { "text": "En aquel entonces, como adverbio corriente." }
+    ],
+    "examples": {
+      "0": { "translation": "Entonces, ¿qué hacemos esta noche?" },
+      "1": { "translation": "¡A ver, chicos, silencio!" }
+    }
+  },
+  "cavolo": {
+    "literalMeaning": "Col, berza.",
+    "definitions": [
+      { "text": "Un eufemismo de una palabra mucho más gruesa, usado tanto como exclamación como intensificador: che cavolo vuoi? — «¿qué demonios quieres?»" },
+      { "text": "Non me ne importa un cavolo: no me importa lo más mínimo." }
+    ],
+    "examples": {
+      "0": { "translation": "¿Qué demonios estás haciendo?" },
+      "1": { "translation": "¡Anda, qué buena noticia!" }
+    },
+    "origin": {
+      "etymology": "Sustituye a cazzo, al que se parece en forma y sonido. El italiano cuenta con un buen repertorio de estas sustituciones vegetales."
+    }
+  },
+  "sfigato": {
+    "definitions": [
+      { "text": "Un perdedor; alguien con mala suerte y sin gracia. Sfiga, el sustantivo relacionado, significa mala suerte." }
+    ],
+    "examples": {
+      "0": { "translation": "Qué mala pata, se me ha pinchado la rueda.", "context": "sfiga por sí sola habla de mala suerte y es muy suave." },
+      "1": { "translation": "Se siente un perdedor cuando lo dejan fuera." }
+    }
+  },
+  "abbiocco": {
+    "definitions": [
+      { "text": "La somnolencia arrolladora que sigue a una comida copiosa. De origen romano, hoy entendida en toda Italia, y sin un equivalente de una sola palabra en español." }
+    ],
+    "examples": {
+      "0": { "translation": "Después de comer siempre me entra el sueño." },
+      "1": { "translation": "Tengo un sueño tremendo." }
+    },
+    "origin": {
+      "etymology": "Del dialecto romano, relacionado con un verbo que describe a una gallina asentándose sobre sus huevos. La imagen es la de hundirse y negarse a moverse."
+    }
+  },
+  "apericena": {
+    "definitions": [
+      { "text": "Un aperitivo con tanta comida servida que sustituye a la cena: pagas la bebida y el bufé va incluido. Una institución milanesa y una estrategia de supervivencia estudiantil." }
+    ],
+    "examples": {
+      "0": { "translation": "¿Hacemos apericena en vez de cenar?" },
+      "1": { "translation": "Diez euros por el aperitivo con bufé, bebida incluida." }
+    },
+    "origin": {
+      "etymology": "Un acrónimo de aperitivo y cena, acuñado en los años 2000. Los puristas objetan tanto a la palabra como a la costumbre; ninguna de las dos objeciones ha tenido efecto alguno.",
+      "firstAttested": "años 2000"
+    }
+  },
+  "spritz": {
+    "definitions": [
+      { "text": "El aperitivo anaranjado de prosecco, licor amargo y soda. Pedir uno es el movimiento de apertura estándar de una velada italiana." }
+    ],
+    "examples": {
+      "0": { "translation": "¿Nos tomamos un spritz en la plaza?" },
+      "1": { "translation": "Dos spritz, por favor." }
+    },
+    "origin": {
+      "etymology": "Del alemán spritzen, «rociar» — los soldados austríacos en el Véneto del siglo XIX diluían el vino local con agua. El licor amargo llegó después.",
+      "firstAttested": "siglo XIX"
+    }
+  },
+  "furbo": {
+    "definitions": [
+      { "text": "Astuto, ladino, rápido para ver una ventaja. Admirado y reprobado a la vez — el furbo se sale con la suya, y los italianos no se ponen de acuerdo sobre si eso es una virtud." },
+      { "text": "Fare il furbo: intentar colar algo, tratar de aprovecharse del sistema." }
+    ],
+    "examples": {
+      "0": { "translation": "No intentes engañarme." },
+      "1": { "translation": "Es demasiado listo para caer en eso." }
+    },
+    "origin": {
+      "etymology": "La furbizia —la cualidad de ser furbo— es un tema recurrente en la autodescripción y la sátira italianas, generalmente como un defecto nacional que todos admiran en secreto."
+    }
+  },
+  "beccare": {
+    "literalMeaning": "Picotear.",
+    "definitions": [
+      { "text": "Pillar a alguien in fraganti. Mi hanno beccato — «me han pillado»." },
+      { "text": "Beccarsi: quedar, verse. Ci becchiamo domani — «nos vemos mañana»." }
+    ],
+    "examples": {
+      "0": { "translation": "Lo pillaron sin billete." },
+      "1": { "translation": "Nos vemos a las ocho." }
+    }
+  },
+  "ganzo": {
+    "definitions": [
+      { "text": "Guay, genial. Toscano, y un marcador regional fiable — oírlo sitúa al hablante entre Florencia y Livorno." }
+    ],
+    "examples": {
+      "0": { "translation": "Este sitio mola de verdad." },
+      "1": { "translation": "¡Qué pasada!" }
+    }
+  },
+  "ao": {
+    "definitions": [
+      { "text": "¡Eh! ¡Oye! El reclamo de atención romano, usado para abrir una frase, saludar a un amigo o expresar exasperación. Tan romano como pueda serlo algo." }
+    ],
+    "examples": {
+      "0": { "translation": "Oye, ¿qué haces?" },
+      "1": { "translation": "Oye, nos vemos luego.", "context": "El dialecto romano también da ce en lugar de ci — las dos formas van juntas." }
+    }
+  },
+  "sticazzi": {
+    "definitions": [
+      { "text": "Y a mí qué; qué más da. Romano, vulgar y muy malinterpretado fuera de Roma — expresa indiferencia, no admiración, y los romanos te lo dirán." }
+    ],
+    "examples": {
+      "0": { "translation": "«Se ha comprado un coche nuevo.» «Y a mí qué.»" },
+      "1": { "translation": "Y a mí qué, ¿cuál es el problema?" }
+    },
+    "origin": {
+      "etymology": "Contracción de questi cazzi. Fuera de Roma se usa a menudo con el sentido erróneo de «guau, qué pasada»; la palabra correcta para eso es la casi idéntica mecojoni."
+    }
+  },
+  "scialla": {
+    "definitions": [
+      { "text": "Relájate; tranquilo; no pasa nada. Argot juvenil, de origen romano y hoy ampliamente entendido." }
+    ],
+    "examples": {
+      "0": { "translation": "Tranquilo, llegamos a tiempo." },
+      "1": { "translation": "Tranqui, yo me encargo." }
+    },
+    "origin": {
+      "etymology": "Probablemente del árabe inshallah, a través de un fatalismo mediterráneo general. La derivación es verosímil pero no está firmemente establecida."
+    }
+  },
+  "pazzesco": {
+    "definitions": [
+      { "text": "Una locura, increíble — normalmente en sentido positivo, pero se usa para cualquier cosa extrema." }
+    ],
+    "examples": {
+      "0": { "translation": "La vista desde ahí arriba es increíble." },
+      "1": { "translation": "Había una cola de locos." }
+    }
+  },
+  "assurdo": {
+    "definitions": [
+      { "text": "Absurdo — pero se usa de forma mucho más laxa que la palabra española, como marcador general de cualquier cosa notable, exasperante o extrema." }
+    ],
+    "examples": {
+      "0": { "translation": "Es absurdo lo que cuesta alquilar aquí." },
+      "1": { "translation": "Increíble, no me lo puedo creer." }
+    }
+  },
+  "macche": {
+    "definitions": [
+      { "text": "En absoluto; qué va; ni de broma. Una negación tajante y enfática de lo que se acaba de sugerir." }
+    ],
+    "examples": {
+      "0": { "translation": "«Debe de haber costado caro.» «Qué va, lo compré rebajado.»" },
+      "1": { "translation": "¿Cansado? Qué va, estoy estupendamente." }
+    }
+  },
+  "capito": {
+    "literalMeaning": "¿Entendido?",
+    "definitions": [
+      { "text": "¿Sabes? Una coletilla que se añade a las frases para comprobar que el oyente sigue el hilo; funciona de forma parecida al «¿me entiendes?» español." },
+      { "text": "Hai capito! como exclamación de sorpresa y admiración: «vaya, mira tú»." }
+    ],
+    "examples": {
+      "0": { "translation": "Es un asunto delicado, ¿sabes?" },
+      "1": { "translation": "¡Anda, mira lo que hay!" }
+    }
+  },
+  "cioe": {
+    "literalMeaning": "Es decir.",
+    "definitions": [
+      { "text": "O sea; es como. Nominalmente un aclarador, en la práctica una de las muletillas más comunes del italiano hablado, sobre todo entre los hablantes más jóvenes." }
+    ],
+    "examples": {
+      "0": { "translation": "O sea, no es que no quiera, es que no puedo." },
+      "1": { "translation": "Fue, o sea, de verdad muy raro." }
+    }
+  },
+  "meno-male": {
+    "literalMeaning": "Menos mal.",
+    "definitions": [
+      { "text": "Menos mal; menos mal que. Expresa alivio porque no ha pasado algo peor." }
+    ],
+    "examples": {
+      "0": { "translation": "Menos mal que llamaste." },
+      "1": { "translation": "Menos mal, pensaba que lo había perdido." }
+    }
+  },
+  "tipo": {
+    "definitions": [
+      { "text": "Como; más o menos; tipo. Una muletilla aproximadora: tipo alle sette, «sobre las siete»." },
+      { "text": "Un tío, un tipo. Un tipo strano — «un tipo raro»." }
+    ],
+    "examples": {
+      "0": { "translation": "Nos vemos sobre las ocho." },
+      "1": { "translation": "Había un tipo que preguntaba por ti." }
+    }
+  },
+  "figurati": {
+    "definitions": [
+      { "text": "No hay de qué; faltaría más. La respuesta habitual a un agradecimiento y a una disculpa." },
+      { "text": "Ya, claro; como si fuera a pasar. Con sarcasmo, para descartar una sugerencia por obviamente improbable." }
+    ],
+    "examples": {
+      "0": { "translation": "«¡Muchas gracias!» «No hay de qué.»" },
+      "1": { "translation": "Como si fuera a llegar puntual." }
+    }
+  },
+  "prego": {
+    "literalMeaning": "Ruego.",
+    "definitions": [
+      { "text": "De nada, no hay de qué." },
+      { "text": "Después de usted; adelante, por favor. Al sostener una puerta, al ofrecer un asiento." },
+      { "text": "¿Qué va a ser? De un camarero o tendero, es una invitación a pedir." },
+      { "text": "¿Perdón? Dicho con entonación ascendente, pide que se repita algo." }
+    ],
+    "examples": {
+      "0": { "translation": "«Gracias.» «De nada.»" },
+      "1": { "translation": "Por favor, siéntese." },
+      "2": { "translation": "¿Perdón? No le he oído." }
+    }
+  },
+  "che-ne-so": {
+    "literalMeaning": "Qué sé yo de ello.",
+    "definitions": [
+      { "text": "¿Cómo quieres que lo sepa? También se usa en mitad de una frase como muletilla que introduce un ejemplo elegido al azar: «un libro, qué sé yo, o una planta»." }
+    ],
+    "examples": {
+      "0": { "translation": "Llévale algo, qué sé yo, una botella de vino." },
+      "1": { "translation": "¿Y yo qué sé?" }
+    }
+  },
+  "sgamare": {
+    "definitions": [
+      { "text": "Calar a alguien; descubrir lo que en realidad trama. Más fuerte que beccare — implica ver a través de un engaño, no solo pillar a alguien con las manos en la masa." }
+    ],
+    "examples": {
+      "0": { "translation": "Lo calé enseguida, estaba mintiendo." },
+      "1": { "translation": "Nos calaron." }
+    }
+  },
+  "sbattersi": {
+    "definitions": [
+      { "text": "Tomarse muchas molestias por algo. Uno sbattimento es un follón." }
+    ],
+    "examples": {
+      "0": { "translation": "Me pasé todo el día dando vueltas para encontrarlo." },
+      "1": { "translation": "Menudo follón organizarlo todo." }
+    }
+  },
+  "raga": {
+    "definitions": [
+      { "text": "Chicos, gente. Forma abreviada de ragazzi, usada para dirigirse a un grupo sin importar el género." }
+    ],
+    "examples": {
+      "0": { "translation": "Chicos, ¿nos movemos?" },
+      "1": { "translation": "Adiós, chicos, hasta mañana." }
+    }
+  },
+  "sclerare": {
+    "definitions": [
+      { "text": "Perder los papeles; explotar por el estrés o la frustración." }
+    ],
+    "examples": {
+      "0": { "translation": "Estoy a punto de perder los papeles con esta impresora." },
+      "1": { "translation": "Perdió los nervios en mitad de la reunión." }
+    },
+    "origin": {
+      "etymology": "De sclerosi, un término médico reconvertido en argot. El argot juvenil italiano toma prestado del vocabulario clínico con cierta frecuencia."
+    }
+  },
+  "che-due-palle": {
+    "definitions": [
+      { "text": "Un che palle intensificado — qué pedazo de rollo." }
+    ],
+    "examples": {
+      "0": { "translation": "Menuda pesadilla esta cola." },
+      "1": { "translation": "Qué rollo, tengo que rehacerlo todo." }
+    }
+  },
+  "andare-a-ruba": {
+    "literalMeaning": "Ir a robo.",
+    "definitions": [
+      { "text": "Agotarse enseguida; volar de las estanterías." }
+    ],
+    "examples": {
+      "0": { "translation": "Las entradas se agotaron al instante." },
+      "1": { "translation": "Ese modelo vuela de las estanterías." }
+    }
+  },
+  "acqua-in-bocca": {
+    "literalMeaning": "Agua en la boca.",
+    "definitions": [
+      { "text": "Que quede entre nosotros; ni una palabra a nadie. La imagen es la de tener la boca llena de agua, de modo que físicamente no se puede hablar." }
+    ],
+    "examples": {
+      "0": { "translation": "Es una sorpresa, ¡ni una palabra!" },
+      "1": { "translation": "Te lo cuento, pero que quede entre nosotros." }
+    }
+  },
+  "non-ci-piove": {
+    "literalMeaning": "No llueve sobre ello.",
+    "definitions": [
+      { "text": "No hay ninguna duda al respecto. Se añade a una afirmación para señalar que está fuera de discusión." }
+    ],
+    "examples": {
+      "0": { "translation": "Es el mejor del grupo, no hay duda." },
+      "1": { "translation": "Sobre esto no hay discusión posible." }
+    }
+  },
+  "avere-le-mani-in-pasta": {
+    "literalMeaning": "Tener las manos en la masa.",
+    "definitions": [
+      { "text": "Estar metido en algo, con buenos contactos e información privilegiada. Puede implicar una influencia útil o algo menos limpio." }
+    ],
+    "examples": {
+      "0": { "translation": "Tiene mano en medio pueblo." },
+      "1": { "translation": "Pregúntale a ella, que está metida en todo." }
+    }
+  }
+}

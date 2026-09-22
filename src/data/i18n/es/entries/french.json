@@ -1,0 +1,577 @@
+{
+  "meuf": {
+    "definitions": [
+      { "text": "Una mujer; una chica. También 'mi novia': ma meuf." }
+    ],
+    "examples": {
+      "0": { "translation": "Vino con su novia." },
+      "1": { "translation": "Hay una mujer que te busca." }
+    },
+    "origin": {
+      "etymology": "Verlan de femme: fe-mme invertida a me-fe, luego comprimida en meuf. Una de las palabras en verlan más antiguas y plenamente asentadas — aparece en los diccionarios y muchos hablantes ya no la perciben como invertida en absoluto.",
+      "firstAttested": "años 70"
+    }
+  },
+  "keum": {
+    "definitions": [
+      { "text": "Un tío, un chaval. También 'mi novio': mon keum." }
+    ],
+    "examples": {
+      "0": { "translation": "¿Quién es ese tío?" },
+      "1": { "translation": "Su novio trabaja en restauración." }
+    },
+    "origin": {
+      "etymology": "Verlan de mec ('tío'), que ya es de por sí informal. El verlan toma a menudo el argot como base en lugar del vocabulario estándar, produciendo una segunda capa de ocultamiento."
+    }
+  },
+  "mec": {
+    "definitions": [
+      { "text": "Un tío, un chaval. La palabra de todos los días para un hombre sin nombrar." },
+      { "text": "Se usa para dirigirse a un amigo: 'mec, arrête' — 'tío, para ya'." },
+      { "text": "Un novio: mon mec." }
+    ],
+    "examples": {
+      "0": { "translation": "Ese tío es la mar de simpático." },
+      "1": { "translation": "Tío, estás de coña." }
+    }
+  },
+  "gars": {
+    "definitions": [
+      { "text": "Un tío; un chaval. Algo más suave y con un aire más rural que mec. Les gars se usa para dirigirse a un grupo." }
+    ],
+    "examples": {
+      "0": { "translation": "Hola chicos, ¿qué tal?" },
+      "1": { "translation": "Es un buen chaval." }
+    }
+  },
+  "pote": {
+    "definitions": [
+      { "text": "Un colega, un amigo. Más cálido que copain y reservado para amigos cercanos." }
+    ],
+    "examples": {
+      "0": { "translation": "Esta noche salgo con unos colegas." },
+      "1": { "translation": "Es mi colega desde el instituto." }
+    }
+  },
+  "frere": {
+    "definitions": [
+      { "text": "Colega; hermano. Un término de tratamiento entre amigos varones, muy habitual en el habla juvenil." }
+    ],
+    "examples": {
+      "0": { "translation": "¿Qué tal, colega?" },
+      "1": { "translation": "Gracias, colega, eres el mejor." }
+    }
+  },
+  "verlan": {
+    "definitions": [
+      { "text": "La práctica francesa de invertir las sílabas de una palabra para crear una forma de argot. No es una sola palabra, sino todo un sistema productivo, y el rasgo más distintivo del argot francés." }
+    ],
+    "examples": {
+      "0": { "translation": "Meuf, keum y relou son todas palabras en verlan." },
+      "1": { "translation": "Los jóvenes inventan verlan constantemente." }
+    },
+    "origin": {
+      "etymology": "El propio nombre es verlan: l'envers ('el revés') se convierte en verlan. Algunas palabras se han invertido dos veces — beur, verlan de arabe, volvió a invertirse en rebeu en cuanto beur se hizo mainstream. Esa doble inversión es un mecanismo de defensa: el verlan existe para mantenerse siempre un paso por delante de los de fuera.",
+      "firstAttested": "documentado desde el siglo XIX; extendido desde los años setenta"
+    }
+  },
+  "relou": {
+    "definitions": [
+      { "text": "Pesado, cargante, un rollo. Tanto de personas como de situaciones." }
+    ],
+    "examples": {
+      "0": { "translation": "Es súper pesado con sus preguntas." },
+      "1": { "translation": "Es un rollo tener que volver allí." }
+    },
+    "origin": {
+      "etymology": "Verlan de lourd, 'pesado', que en francés ya significa 'cargante' aplicado a una persona."
+    }
+  },
+  "chelou": {
+    "definitions": [
+      { "text": "Raro, sospechoso, que no cuadra. De personas, lugares y situaciones que no dan buena espina." }
+    ],
+    "examples": {
+      "0": { "translation": "Ese tío es un poco raro." },
+      "1": { "translation": "Había un ambiente raro." }
+    },
+    "origin": {
+      "etymology": "Verlan de louche, que ya significa 'sospechoso'. Igual que con relou, la forma en verlan ha desplazado en gran medida al original en el habla informal."
+    }
+  },
+  "louche": {
+    "definitions": [
+      { "text": "Sospechoso, turbio, dudoso. La palabra de registro estándar que chelou invierte." }
+    ],
+    "examples": {
+      "0": { "translation": "Este asunto es turbio." },
+      "1": { "translation": "Un barrio un poco sospechoso de noche." }
+    }
+  },
+  "wesh": {
+    "definitions": [
+      { "text": "Eh; qué pasa. Un saludo, y también una llamada de atención: wesh, tu fais quoi? — 'eh, ¿qué haces?'" },
+      { "text": "Se usa a solas como expresión de sorpresa o indignación." }
+    ],
+    "examples": {
+      "0": { "translation": "Eh, ¿qué tal va eso?" },
+      "1": { "translation": "Anda, ¿has visto eso?" }
+    },
+    "origin": {
+      "etymology": "Del árabe argelino wešnu / weš rak, '¿qué tal estás?'. Uno de tantos préstamos magrebíes que entraron en el francés a través de los banlieues y luego se extendieron a todo el país gracias al rap. Está muy marcado: usarlo fuera de su registro de origen suena a imitación."
+    }
+  },
+  "kiffer": {
+    "definitions": [
+      { "text": "Encantar, disfrutar muchísimo de algo. Je kiffe ce morceau — 'me encanta esta canción'." },
+      { "text": "Estar colado por alguien: je la kiffe grave." }
+    ],
+    "examples": {
+      "0": { "translation": "Me encanta muchísimo esta serie." },
+      "1": { "translation": "Está colado por ella desde que empezó el curso." }
+    },
+    "origin": {
+      "etymology": "Del árabe kayf, 'placer, estado de bienestar' — la misma raíz que la palabra inglesa kif. Llegó a través del francés magrebí y hoy es totalmente mainstream, usada con toda naturalidad por hablantes de cualquier origen."
+    }
+  },
+  "seum": {
+    "definitions": [
+      { "text": "Amargura, rabia, el escozor de una derrota. Avoir le seum es estar hundido y furioso a la vez — no hay una sola palabra en español para eso." }
+    ],
+    "examples": {
+      "0": { "translation": "Estoy hundido, perdimos en la final." },
+      "1": { "translation": "Eso le sentó fatal." }
+    },
+    "origin": {
+      "etymology": "Del árabe sèmm, 'veneno'. La metáfora es exacta: la amargura como algo tóxico que uno se ha tragado."
+    }
+  },
+  "degoute": {
+    "definitions": [
+      { "text": "Hundido, amargamente decepcionado. En este uso no tiene nada que ver con la repugnancia — es el equivalente francés del inglés 'gutted' (hecho polvo)." }
+    ],
+    "examples": {
+      "0": { "translation": "Estoy hundido, he perdido el tren." },
+      "1": { "translation": "Estaba completamente destrozado después del partido." }
+    },
+    "literalMeaning": "Asqueado."
+  },
+  "grave": {
+    "definitions": [
+      { "text": "Muy, de verdad. Un intensificador: c'est grave bien, 'está muy pero que muy bien'." },
+      { "text": "Solo, como respuesta: totalmente, sin duda. Una confirmación enfática." }
+    ],
+    "examples": {
+      "0": { "translation": "Ese concierto estuvo muy bien." },
+      "1": { "translation": "'Se está pasando, ¿no?' 'Totalmente.'" }
+    },
+    "literalMeaning": "Serio, grave."
+  },
+  "trop": {
+    "definitions": [
+      { "text": "Muy, tan. En el habla informal trop ha perdido su sentido de exceso y simplemente intensifica: c'est trop bien significa 'es genial', no 'es demasiado bueno'." }
+    ],
+    "examples": {
+      "0": { "translation": "Tu hermana es súper simpática." },
+      "1": { "translation": "Tengo unas ganas locas de ir." }
+    },
+    "literalMeaning": "Demasiado, en exceso."
+  },
+  "carrement": {
+    "definitions": [
+      { "text": "Completamente, directamente, sin duda." },
+      { "text": "A solas como respuesta: por supuesto; y tanto." }
+    ],
+    "examples": {
+      "0": { "translation": "Se le olvidó venir por completo." },
+      "1": { "translation": "'¿Vamos?' 'Por supuesto.'" }
+    }
+  },
+  "bof": {
+    "definitions": [
+      { "text": "Bah. Señala indiferencia o una opinión tibia, y es una respuesta completa por sí sola." }
+    ],
+    "examples": {
+      "0": { "translation": "'¿Te gustó la película?' 'Bah.'" },
+      "1": { "translation": "Bah, prefiero quedarme aquí." }
+    },
+    "origin": {
+      "etymology": "Un sonido convencionalizado más que una palabra propiamente dicha, normalmente acompañado de un encogimiento de hombros y una mueca hacia abajo. Junto con ese gesto, es uno de los ademanes más reconocibles de la conversación francesa."
+    }
+  },
+  "bref": {
+    "definitions": [
+      { "text": "Bueno; en resumen. Se usa para cortar una digresión y volver al tema, o para terminar una historia que ya no da más de sí." }
+    ],
+    "examples": {
+      "0": { "translation": "Bueno, al final nunca llegamos." },
+      "1": { "translation": "En resumen, ya te haces una idea." }
+    }
+  },
+  "du-coup": {
+    "definitions": [
+      { "text": "Así que; por tanto; como resultado. Nominalmente causal, en la práctica un conector comodín que muchos hablantes usan varias veces por frase." }
+    ],
+    "examples": {
+      "0": { "translation": "Llovía, así que nos quedamos." },
+      "1": { "translation": "Entonces, ¿vienes o no?" }
+    },
+    "origin": {
+      "etymology": "Su expansión explosiva desde la década de 2000 es uno de los cambios más criticados del francés contemporáneo. Los columnistas de lengua llevan dos décadas quejándose sin ningún efecto apreciable."
+    }
+  },
+  "genre": {
+    "definitions": [
+      { "text": "Como, tipo. Una partícula citativa y aproximadora, exactamente paralela al 'como' o al 'tipo' del español: il a fait genre 'je sais pas' — 'me hizo así como que no sabía'." },
+      { "text": "Faire genre: hacer como que, fingir." }
+    ],
+    "examples": {
+      "0": { "translation": "Me dijo, como, que se le había olvidado." },
+      "1": { "translation": "Deja de hacer teatro." }
+    },
+    "literalMeaning": "Tipo, clase."
+  },
+  "voila": {
+    "definitions": [
+      { "text": "Ahí lo tienes; eso es. Al entregar algo, o al confirmar que alguien lo ha entendido." },
+      { "text": "Se usa para cerrar una frase cuando no hay nada más que añadir — a menudo dejándola en el aire: et voilà, quoi." }
+    ],
+    "examples": {
+      "0": { "translation": "Listo, ya está hecho." },
+      "1": { "translation": "Se fue, y ya está." }
+    }
+  },
+  "quoi": {
+    "definitions": [
+      { "text": "Una partícula final de frase sin contenido traducible, con más o menos la función de 'ya sabes' o 'total' — marca lo dicho como algo obvio o ya compartido." }
+    ],
+    "examples": {
+      "0": { "translation": "No es complicado, vamos." },
+      "1": { "translation": "Es majo pero raro, no sé si me explico." }
+    },
+    "literalMeaning": "Qué."
+  },
+  "boulot": {
+    "definitions": [
+      { "text": "Trabajo; un curro. Métro, boulot, dodo — 'metro, curro, cama' — es el resumen estándar en francés de una rutina gris." }
+    ],
+    "examples": {
+      "0": { "translation": "Salgo para el curro en diez minutos." },
+      "1": { "translation": "Ha encontrado un curro en Lyon." }
+    }
+  },
+  "bosser": {
+    "definitions": [
+      { "text": "Trabajar, especialmente trabajar duro. Bosser dur es currar a tope." }
+    ],
+    "examples": {
+      "0": { "translation": "Trabaja en una agencia de comunicación." },
+      "1": { "translation": "He currado todo el fin de semana." }
+    }
+  },
+  "glander": {
+    "definitions": [
+      { "text": "Vaguear, no hacer nada en particular. Un glandeur es un vago." }
+    ],
+    "examples": {
+      "0": { "translation": "He vagueado toda la tarde." },
+      "1": { "translation": "¿Qué narices estás haciendo?", "context": "En una pregunta significa 'en qué andas perdiendo el tiempo', y suena impaciente." }
+    }
+  },
+  "thune": {
+    "definitions": [
+      { "text": "Dinero, pasta." }
+    ],
+    "examples": {
+      "0": { "translation": "Estoy sin pasta hasta fin de mes." },
+      "1": { "translation": "Esa cosa cuesta un dineral." }
+    },
+    "origin": {
+      "etymology": "Originalmente una moneda de cinco francos en el argot del siglo XIX. La moneda desapareció hace tiempo; la palabra le sobrevivió, como suele pasar con el argot del dinero."
+    }
+  },
+  "ble": {
+    "definitions": [
+      { "text": "Dinero. Una de varias palabras francesas de comida usadas para el dinero, junto con oseille (acedera) y fric." }
+    ],
+    "examples": {
+      "0": { "translation": "Se está sacando un buen dinero con eso." },
+      "1": { "translation": "Hace falta pasta para vivir en París." }
+    },
+    "literalMeaning": "Trigo.",
+    "origin": {
+      "etymology": "El grano como metáfora de la riqueza es casi universal — el inglés dough, el español pasta, el italiano grana. Los alimentos básicos se convierten en la medida del valor en el argot de todas partes."
+    }
+  },
+  "fauche": {
+    "definitions": [
+      { "text": "Sin blanca, pelado. A menudo intensificado: fauché comme les blés — 'pelado como los trigales', es decir, segado hasta no quedar nada." }
+    ],
+    "examples": {
+      "0": { "translation": "Estoy sin blanca, lo hacemos en mi casa." },
+      "1": { "translation": "Estudiante y sin blanca, lo de siempre." }
+    },
+    "literalMeaning": "Segado."
+  },
+  "galere": {
+    "definitions": [
+      { "text": "Una pesadilla; una lucha de verdad. Quelle galère! — 'menudo marrón'." },
+      { "text": "Como verbo, galérer: pasarlo mal, batallar con algo." }
+    ],
+    "examples": {
+      "0": { "translation": "Encontrar piso en París es una pesadilla." },
+      "1": { "translation": "Estoy peleándome con este programa." }
+    },
+    "literalMeaning": "Galera (el barco).",
+    "origin": {
+      "etymology": "De las galeras remadas por los presidiarios — una condena a galeras era el castigo más duro que había, solo por debajo de la muerte. La frase de Molière 'que diable allait-il faire dans cette galère?' mantuvo viva la imagen."
+    }
+  },
+  "truc": {
+    "definitions": [
+      { "text": "Una cosa; un chisme. El comodín universal para un objeto cuyo nombre se te escapa." },
+      { "text": "Un truco o una maña: il y a un truc pour l'ouvrir — 'hay un truco para abrirlo'." },
+      { "text": "Algo que es o no santo de tu devoción: c'est pas mon truc — 'no es lo mío'." }
+    ],
+    "examples": {
+      "0": { "translation": "Pásame ese chisme de ahí, en la mesa." },
+      "1": { "translation": "Bailar no es lo mío." }
+    }
+  },
+  "machin": {
+    "definitions": [
+      { "text": "Un chisme, un trasto; también una persona cuyo nombre has olvidado. Monsieur Machin es el 'señor Fulano' francés." }
+    ],
+    "examples": {
+      "0": { "translation": "¿Dónde está el chisme para abrir las botellas?" },
+      "1": { "translation": "Me encontré con fulano, ya sabes, el de la oficina." }
+    }
+  },
+  "bidule": {
+    "definitions": [
+      { "text": "Un cacharro o chisme — un comodín para un objeto pequeño, normalmente uno con algún mecanismo." }
+    ],
+    "examples": {
+      "0": { "translation": "¿Qué es ese cacharro que hay en la estantería?" },
+      "1": { "translation": "Se ha comprado un cacharro para la cocina." }
+    }
+  },
+  "bouffer": {
+    "definitions": [
+      { "text": "Comer — sin ceremonias, a lo bruto. La bouffe es el sustantivo: la comida, el condumio." }
+    ],
+    "examples": {
+      "0": { "translation": "¿Vamos a comer algo?" },
+      "1": { "translation": "La comida estaba buenísima." }
+    }
+  },
+  "apero": {
+    "definitions": [
+      { "text": "El aperitivo previo a la cena, con algo para picar. Una institución social más que una comida, y prendre l'apéro es ya una invitación en sí misma." }
+    ],
+    "examples": {
+      "0": { "translation": "¿Nos tomamos un aperitivo hacia las siete?" },
+      "1": { "translation": "Aperitivo en casa el sábado, ven." }
+    },
+    "origin": {
+      "etymology": "Acortamiento de apéritif. El patrón francés de recortar el final de una palabra — apéro, resto, ado, dico, ordi — es paralelo a las palabras terminadas en -o del inglés australiano, y es igual de productivo."
+    }
+  },
+  "picoler": {
+    "definitions": [
+      { "text": "Beber alcohol, normalmente en exceso. Implica un hábito más que una ocasión puntual." }
+    ],
+    "examples": {
+      "0": { "translation": "Últimamente bebe demasiado." },
+      "1": { "translation": "Estuvimos bebiendo hasta las tres." }
+    }
+  },
+  "bourre": {
+    "definitions": [
+      { "text": "Borracho. La palabra de todos los días para eso, y no especialmente grosera." },
+      { "text": "De un lugar: a rebosar. Le métro était bourré — 'el metro iba a tope'." }
+    ],
+    "examples": {
+      "0": { "translation": "Anoche iba completamente borracho." },
+      "1": { "translation": "El bar estaba a reventar." }
+    },
+    "literalMeaning": "Relleno, atestado."
+  },
+  "gueule-de-bois": {
+    "definitions": [
+      { "text": "Una resaca. La imagen es la de una boca tan seca que parece tallada en madera." }
+    ],
+    "examples": {
+      "0": { "translation": "Tengo una resaca tremenda." },
+      "1": { "translation": "Resaca asegurada mañana por la mañana." }
+    },
+    "literalMeaning": "Boca de madera."
+  },
+  "teuf": {
+    "definitions": [
+      { "text": "Una fiesta. Verlan de fête." }
+    ],
+    "examples": {
+      "0": { "translation": "Hay una fiesta en casa de Sarah el sábado." },
+      "1": { "translation": "Fue una buena fiesta." }
+    }
+  },
+  "ouf": {
+    "definitions": [
+      { "text": "Loco, increíble. Verlan de fou. Un truc de ouf es 'una pasada', normalmente con admiración." },
+      { "text": "Por separado, como interjección: uf, el sonido del alivio. Las dos cosas no están relacionadas y se distinguen por la posición." }
+    ],
+    "examples": {
+      "0": { "translation": "Ese concierto fue una auténtica pasada." },
+      "1": { "translation": "Uf, creí que había perdido el pasaporte." }
+    }
+  },
+  "nul": {
+    "definitions": [
+      { "text": "Malísimo, inútil, negado. De las cosas: c'est nul. De las personas: je suis nul en maths, 'soy negado para las mates'." }
+    ],
+    "examples": {
+      "0": { "translation": "La película era realmente mala." },
+      "1": { "translation": "Soy negado para la cocina." }
+    }
+  },
+  "naze": {
+    "definitions": [
+      { "text": "Cutre; roto; hecho polvo. De objetos que ya no funcionan y de personas agotadas." }
+    ],
+    "examples": {
+      "0": { "translation": "Mi bici está para el arrastre." },
+      "1": { "translation": "Estoy hecho polvo, me voy a la cama." }
+    }
+  },
+  "souler": {
+    "definitions": [
+      { "text": "Sacar de quicio; agotar a alguien a base de hablar. Tu me soûles — 'me tienes hasta la coronilla'." }
+    ],
+    "examples": {
+      "0": { "translation": "Me saca de quicio con sus historias." },
+      "1": { "translation": "Me agota tener que empezar otra vez." }
+    },
+    "literalMeaning": "Emborrachar."
+  },
+  "embrouille": {
+    "definitions": [
+      { "text": "Un lío; una bronca; una situación enredada. Chercher les embrouilles es buscar pelea." }
+    ],
+    "examples": {
+      "0": { "translation": "No quiero líos." },
+      "1": { "translation": "Hubo una bronca a la salida del bar." }
+    }
+  },
+  "deconner": {
+    "definitions": [
+      { "text": "Hacer el tonto; decir tonterías. Tu déconnes? — '¿me estás vacilando?'" },
+      { "text": "De un aparato: fallar, hacer de las suyas. Mon ordi déconne." },
+      { "text": "Sans déconner: en serio, sin coña." }
+    ],
+    "examples": {
+      "0": { "translation": "En serio, ¿de verdad dijo eso?" },
+      "1": { "translation": "Mi conexión lleva fallando desde esta mañana." }
+    },
+    "origin": {
+      "etymology": "Construida sobre una raíz vulgar, aunque la palabra en sí se usa muchísimo y se acerca más a 'hacer el tonto' que a algo más fuerte."
+    }
+  },
+  "putain": {
+    "definitions": [
+      { "text": "Joder; maldita sea. La palabrota más común del francés, expresa desde el asombro hasta la furia." },
+      { "text": "Como intensificador delante de un sustantivo: putain de voiture, 'puto coche'." },
+      { "text": "En el sur, y sobre todo en Marsella, putain funciona como una muletilla casi continua, sin apenas fuerza alguna.", "note": "Su sentido literal es un insulto para una trabajadora sexual, algo que conviene saber aunque casi ningún hablante lo tenga en mente al usarla." }
+    ],
+    "examples": {
+      "0": { "translation": "¡Joder, qué frío hace!" },
+      "1": { "translation": "Joder, ¿dónde están mis llaves?" }
+    }
+  },
+  "merde": {
+    "definitions": [
+      { "text": "Mierda; joder. Frustración de uso general." },
+      { "text": "Buena suerte — se dice a un artista antes de salir a escena, igual que el inglés dice 'break a leg'. Se cree que responder merci rompe el hechizo." }
+    ],
+    "examples": {
+      "0": { "translation": "Mierda, se me ha olvidado la cartera." },
+      "1": { "translation": "¡Mucha mierda para tu examen de mañana!", "context": "Totalmente sincero y de buena fe. El origen teatral es una superstición de los carruajes de caballos: cuanto más estiércol había fuera, más grande era el público." }
+    }
+  },
+  "ca-marche": {
+    "definitions": [
+      { "text": "Vale; de acuerdo; suena bien. Acuerdo con un plan, y la confirmación estándar de un camarero al tomar tu pedido." }
+    ],
+    "examples": {
+      "0": { "translation": "'¿Decimos a las ocho?' 'Vale.'" },
+      "1": { "translation": "Dos cafés, marchando." }
+    },
+    "literalMeaning": "Anda / camina."
+  },
+  "chiant": {
+    "definitions": [
+      { "text": "Profundamente pesado; aburrido hasta el dolor. Más fuerte que relou y bastante más basto." }
+    ],
+    "examples": {
+      "0": { "translation": "Esta reunión es un tostón insoportable." },
+      "1": { "translation": "Eres verdaderamente pesado, ¿sabes?" }
+    }
+  },
+  "ambiance": {
+    "definitions": [
+      { "text": "Ambiente, rollo. Se usa mucho más a menudo en francés que la palabra prestada 'ambiance' en inglés — il y a de l'ambiance significa que un sitio está a tope, y 'bonne ambiance' es un gran elogio para una noche." }
+    ],
+    "examples": {
+      "0": { "translation": "Ayer había un ambientazo." },
+      "1": { "translation": "Ambiente de mierda en la reunión." }
+    }
+  },
+  "chouette": {
+    "definitions": [
+      { "text": "Bonito, majo, genial. Ligeramente anticuado — cálido, un poco pasado de moda, del tipo de palabra que usaría un abuelo para aprobar algo." }
+    ],
+    "examples": {
+      "0": { "translation": "Este cafetito es un encanto." },
+      "1": { "translation": "¡Qué bien, has venido!" }
+    },
+    "literalMeaning": "Lechuza."
+  },
+  "sympa": {
+    "definitions": [
+      { "text": "Simpático, amable, agradable. Sobre todo de personas, pero también de lugares y planes. Uno de los adjetivos más usados en el francés hablado." }
+    ],
+    "examples": {
+      "0": { "translation": "Tu compañera es muy simpática." },
+      "1": { "translation": "Es un barrio agradable." }
+    },
+    "origin": {
+      "etymology": "Acortamiento de sympathique. El recorte está tan asentado que la forma completa suena hoy afectada en el habla."
+    }
+  },
+  "ras-le-bol": {
+    "definitions": [
+      { "text": "Estar harto; hasta la coronilla. J'en ai ras-le-bol — 'estoy hasta las narices'. El sustantivo también se usa en el comentario político para el hartazgo popular." }
+    ],
+    "examples": {
+      "0": { "translation": "Estoy hasta las narices de esta situación." },
+      "1": { "translation": "Un hartazgo generalizado entre los empleados." }
+    },
+    "literalMeaning": "Al ras del cuenco.",
+    "origin": {
+      "etymology": "La imagen es la de un cuenco lleno hasta el borde — una gota más y se desborda. El inglés recurre a la misma imagen en 'the last straw'."
+    }
+  },
+  "cest-pas-faux": {
+    "definitions": [
+      { "text": "Tiene su punto; no te falta razón. Un acuerdo a regañadientes, a menudo de alguien que no quería ceder en el argumento." }
+    ],
+    "examples": {
+      "0": { "translation": "'Sería más barato en tren.' 'No te falta razón.'" },
+      "1": { "translation": "No te falta razón, pero aun así." }
+    },
+    "literalMeaning": "No es mentira.",
+    "origin": {
+      "etymology": "Recibió una segunda vida gracias a la serie de televisión Kaamelott, donde un personaje la usa para disimular que no ha entendido nada. Muchos hablantes franceses la usan hoy con esa broma en mente."
+    }
+  }
+}
