@@ -11,6 +11,12 @@ import esItalian from '../data/i18n/es/entries/italian.json';
 import esSpanish from '../data/i18n/es/entries/spanish.json';
 import esJapanese from '../data/i18n/es/entries/japanese.json';
 import esKorean from '../data/i18n/es/entries/korean.json';
+import esColombian from '../data/i18n/es/entries/colombian.json';
+import esCuban from '../data/i18n/es/entries/cuban.json';
+import esDominican from '../data/i18n/es/entries/dominican.json';
+import esIrish from '../data/i18n/es/entries/irish.json';
+import esGerman from '../data/i18n/es/entries/german.json';
+import esRussian from '../data/i18n/es/entries/russian.json';
 
 /**
  * Overlays translated content onto an entry or a country.
@@ -90,6 +96,12 @@ const ENTRY_OVERRIDES: Record<Locale, Record<string, Record<string, EntryOverrid
     spanish: esSpanish as Record<string, EntryOverride>,
     japanese: esJapanese as Record<string, EntryOverride>,
     korean: esKorean as Record<string, EntryOverride>,
+    colombian: esColombian as Record<string, EntryOverride>,
+    cuban: esCuban as Record<string, EntryOverride>,
+    dominican: esDominican as Record<string, EntryOverride>,
+    irish: esIrish as Record<string, EntryOverride>,
+    german: esGerman as Record<string, EntryOverride>,
+    russian: esRussian as Record<string, EntryOverride>,
   },
 };
 

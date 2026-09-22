@@ -1,0 +1,1325 @@
+[
+  {
+    "slug": "geil",
+    "term": "geil",
+    "partOfSpeech": ["adjective"],
+    "register": "informal",
+    "categories": ["approval", "emotion"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "literalMeaning": "Horny, randy — still the word's other live sense.",
+    "pronunciation": { "respelling": "GYLE — rhymes with 'mile'" },
+    "definitions": [
+      { "text": "Great, brilliant, fantastic. The default all-purpose German word of approval, and by some distance the most-used slang adjective in the language." },
+      { "text": "Of a person: horny. This sense never went away, which is why 'du bist geil' and 'das ist geil' land very differently." }
+    ],
+    "examples": [
+      { "text": "Das Konzert war voll geil.", "translation": "That concert was absolutely brilliant." },
+      { "text": "Geile Jacke, wo hast du die her?", "translation": "Sick jacket, where'd you get it?" },
+      { "text": "Ey, der ist voll geil auf dich.", "translation": "Mate, he's seriously into you.", "context": "With 'auf' plus a person, the sexual reading is the only one available." }
+    ],
+    "origin": {
+      "etymology": "Middle High German geil, 'exuberant, high-spirited, luxuriant' — the sexual narrowing came later, and the gardening sense survives in 'geiler Boden', over-rich soil. The approval sense spread out of West German youth speech in the 1970s–80s and was fully mainstream by the 1990s. Intensified forms (saugeil, affengeil, oberaffengeil) date the speaker fairly precisely to that era.",
+      "firstAttested": "1970s in the modern sense",
+      "sources": []
+    },
+    "relatedTerms": ["german/krass", "german/hammer", "german/gonn-dir"],
+    "synonyms": ["super", "mega", "stark"],
+    "variants": ["saugeil", "affengeil"],
+    "usageWarning": ["context-dependent"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "krass",
+    "term": "krass",
+    "partOfSpeech": ["adjective", "interjection"],
+    "register": "informal",
+    "categories": ["approval", "emotion"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "KRAHSS" },
+    "definitions": [
+      { "text": "Extreme, intense, out of the ordinary — and evaluatively neutral. A krasse Party and a krasser Unfall are equally krass; only tone and context tell you whether the speaker approves." },
+      { "text": "As a standalone interjection: whoa, no way. The German reflex on hearing something startling." },
+      { "text": "As an intensifier before an adjective: 'krass gut', really good. This use is younger and more marked than the others." }
+    ],
+    "examples": [
+      { "text": "Krass, hast du das gesehen?", "translation": "Whoa, did you see that?" },
+      { "text": "Der Film war echt krass.", "translation": "That film was intense." },
+      { "text": "Sie hat krass abgeliefert.", "translation": "She absolutely delivered." }
+    ],
+    "origin": {
+      "etymology": "From Latin crassus, 'thick, dense', which entered learned German meaning 'blatant, glaring' — a krasser Widerspruch is a stark contradiction, and that sense is still standard written German. Youth speech took the intensity and dropped the disapproval, a shift already visible by the late 1980s.",
+      "firstAttested": "late 1980s in youth speech",
+      "sources": []
+    },
+    "relatedTerms": ["german/geil", "german/hammer", "german/boah"],
+    "synonyms": ["heftig", "übel"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "hammer",
+    "term": "der Hammer",
+    "partOfSpeech": ["noun", "adjective"],
+    "register": "informal",
+    "categories": ["approval", "emotion"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "literalMeaning": "A hammer.",
+    "pronunciation": { "respelling": "HAH-mer" },
+    "definitions": [
+      { "text": "Something outstanding: 'das ist der Hammer' is the German for 'that's amazing'. Used bare as an adjective too — 'Der Abend war hammer' — which is grammatically odd and entirely normal in speech." },
+      { "text": "The kicker, the outrageous part of a story: 'der Hammer ist, dass er nichts gesagt hat' — and the best part is, he said nothing. Here it is not praise at all." }
+    ],
+    "examples": [
+      { "text": "Das neue Album ist der absolute Hammer.", "translation": "The new album is an absolute knockout." },
+      { "text": "Und jetzt kommt der Hammer: er war gar nicht da.", "translation": "And here's the kicker: he wasn't even there." }
+    ],
+    "origin": {
+      "etymology": "A transparent metaphor of impact rather than a borrowing — the same image English uses in 'it hit me'. Reinforced in the 1970s–80s by sports commentary, where a Hammer is a thunderous shot on goal.",
+      "sources": []
+    },
+    "relatedTerms": ["german/geil", "german/krass", "german/boah"],
+    "synonyms": ["Wahnsinn", "der Knaller"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "gonn-dir",
+    "term": "gönn dir",
+    "partOfSpeech": ["phrase", "interjection"],
+    "register": "informal",
+    "categories": ["approval", "discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "literalMeaning": "Grant yourself (it).",
+    "pronunciation": { "respelling": "GURN deer" },
+    "definitions": [
+      { "text": "Treat yourself; go on, you've earned it. Said to encourage someone to indulge — the second dessert, the expensive trainers, the day off." },
+      { "text": "Said flatly and without an object, it is a dry blessing on someone else's excess: roughly 'you do you'. Whether it is warm or mocking is carried entirely by tone." }
+    ],
+    "examples": [
+      { "text": "Noch ein Stück Kuchen? Gönn dir!", "translation": "Another slice of cake? Go for it." },
+      { "text": "Er hat sich den ganzen Tag freigenommen. — Gönn dir.", "translation": "He took the whole day off. — Fair enough, honestly." }
+    ],
+    "origin": {
+      "etymology": "The ordinary reflexive verb sich etwas gönnen, 'to allow oneself something', clipped to an imperative. It spread through German rap around 2013–14 — the noun Gönnung, coined in that scene, is the giveaway — and was a Youth Word of the Year nominee. Unlike most words from that moment it survived, though it now reads as millennial rather than teenage.",
+      "firstAttested": "around 2013",
+      "sources": []
+    },
+    "relatedTerms": ["german/geil", "german/krass", "german/digga"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "moin",
+    "term": "moin",
+    "partOfSpeech": ["interjection"],
+    "register": "regional",
+    "categories": ["greetings"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "region": "Northern Germany",
+    "pronunciation": { "respelling": "MOYN" },
+    "definitions": [
+      { "text": "Hello — at any hour. The northern German all-day greeting, from Hamburg and Bremen up through Schleswig-Holstein, East Frisia and into the northern Netherlands and Denmark." },
+      { "text": "Doubled as 'moin moin' it is warmer and chattier. In parts of East Frisia there is a running joke that saying it twice counts as small talk." }
+    ],
+    "examples": [
+      { "text": "Moin! Alles klar bei dir?", "translation": "Morning! You all right?", "context": "Said at three in the afternoon without anyone blinking." },
+      { "text": "Moin moin, lange nicht gesehen.", "translation": "Hello there, long time no see." }
+    ],
+    "origin": {
+      "etymology": "From Low German and Frisian moi, 'good, pleasant' — so 'moin Dag' is 'good day'. The widespread belief that it is a clipped 'Morgen' is folk etymology, and it is the reason outsiders wrongly restrict it to the morning. Since the 2000s it has spread south as a jokey or casual greeting among younger speakers, but in the south it still marks you as playing at being northern.",
+      "sources": []
+    },
+    "relatedTerms": ["german/servus", "german/na", "german/digga"],
+    "variants": ["moin moin", "moinsen"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "servus",
+    "term": "servus",
+    "partOfSpeech": ["interjection"],
+    "register": "regional",
+    "categories": ["greetings"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "region": "Bavaria",
+    "literalMeaning": "Servant (Latin).",
+    "pronunciation": { "respelling": "SER-voos" },
+    "definitions": [
+      { "text": "Hello and goodbye, in Bavaria and Austria. It works in both directions, which surprises learners who meet it as a greeting and then hear it again as someone leaves." },
+      { "text": "Informal in register: you say it to friends, colleagues you are on du terms with, and the landlord of your local — not to a stranger in a bank." }
+    ],
+    "examples": [
+      { "text": "Servus, wie schaut's?", "translation": "Hi, how's things?" },
+      { "text": "Servus, bis morgen!", "translation": "See you, till tomorrow!" }
+    ],
+    "origin": {
+      "etymology": "A shortening of the Latin courtesy formula servus humillimus, 'your most humble servant', which circulated in the Habsburg lands and stuck in the Bavarian-Austrian area long after the rest of German-speaking Europe dropped it. The same Latin route gave Czech servus and Hungarian szervusz.",
+      "firstAttested": "18th century",
+      "sources": []
+    },
+    "relatedTerms": ["german/moin", "german/depp", "german/brotzeit"],
+    "synonyms": ["grüß dich", "pfiat di"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "digga",
+    "term": "Digga",
+    "partOfSpeech": ["noun", "interjection"],
+    "register": "informal",
+    "categories": ["greetings", "people"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "DIG-ah" },
+    "definitions": [
+      { "text": "Mate, bro, dude. The dominant address term in German youth speech since roughly 2015, and now so bleached of meaning that it functions almost as punctuation." },
+      { "text": "Used to and by women as often as men, despite the masculine source word — 'Digga, echt jetzt?' from a woman to her female friend is completely ordinary." }
+    ],
+    "examples": [
+      { "text": "Digga, was machst du da?", "translation": "Mate, what are you doing?" },
+      { "text": "Alter, Digga, das ist ja mal krass.", "translation": "Bro, seriously, that's wild.", "context": "Stacking two address terms in one breath is entirely normal and carries no extra meaning." }
+    ],
+    "origin": {
+      "etymology": "From Hamburg slang Dicker, 'fat one' — originally a rough-affectionate label for a big friend, with the -er reduced to -a in the local pronunciation. It left Hamburg through the city's hip-hop scene in the 1990s and 2000s and went national from there. Almost no current speaker hears 'fat' in it any more.",
+      "firstAttested": "1990s, Hamburg",
+      "sources": []
+    },
+    "relatedTerms": ["german/alter", "german/moin", "german/ehrenmann"],
+    "variants": ["Digger", "Diggi", "Dicka"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "alter",
+    "term": "Alter",
+    "partOfSpeech": ["noun", "interjection"],
+    "register": "informal",
+    "categories": ["greetings", "emotion"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "literalMeaning": "Old one.",
+    "pronunciation": { "respelling": "AHL-ter" },
+    "definitions": [
+      { "text": "Dude, man — an address term with no reference to age whatsoever. Older than Digga and slightly more mainstream; plenty of forty-year-olds still say it." },
+      { "text": "On its own, a full exclamation of disbelief, exasperation or awe: 'Alter!' does the work of an entire sentence." }
+    ],
+    "examples": [
+      { "text": "Alter, lass mich in Ruhe.", "translation": "Dude, leave me alone." },
+      { "text": "Alter! Hast du die Rechnung gesehen?", "translation": "Bloody hell! Have you seen the bill?" }
+    ],
+    "origin": {
+      "etymology": "From 'mein Alter', once a jokey way of referring to one's father or husband, generalised into an address term in youth speech from the 1970s onwards. The unrelated exclamation 'alter Schwede' — literally 'old Swede', supposedly from Swedish drill sergeants hired by the Great Elector after the Thirty Years' War — is a separate idiom and is not shortened to 'Alter'.",
+      "firstAttested": "1970s",
+      "sources": []
+    },
+    "relatedTerms": ["german/digga", "german/boah", "german/krass"],
+    "variants": ["Alta", "Alte"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "na",
+    "term": "na?",
+    "partOfSpeech": ["interjection"],
+    "register": "colloquial",
+    "categories": ["greetings", "discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "NAH — rising tone" },
+    "definitions": [
+      { "text": "A complete greeting on its own, asked with a rising tone: roughly 'hey — how are you?' The expected answer is 'na' back, and the exchange is over. Foreigners consistently mistake it for the start of a question." },
+      { "text": "In combination it steers the sentence: 'na ja' is a hedged 'well…', 'na und?' is 'so what?', 'na klar' is 'of course', 'na also' is 'there you go, told you'." }
+    ],
+    "examples": [
+      { "text": "Na? Alles gut?", "translation": "Hey — you all right?" },
+      { "text": "Na ja, so schlimm war's auch wieder nicht.", "translation": "Well… it wasn't that bad, honestly." },
+      { "text": "Na und? Ist doch egal.", "translation": "So what? It doesn't matter." }
+    ],
+    "origin": {
+      "etymology": "An old Germanic interjection of address with no lexical content, recorded in German since the Middle Ages and cognate with similar particles across the continent. Its greeting use is strongest in the north and east and is near-universal among speakers under fifty.",
+      "sources": []
+    },
+    "relatedTerms": ["german/halt", "german/ne", "german/moin"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "yalla",
+    "term": "yalla",
+    "partOfSpeech": ["interjection"],
+    "register": "informal",
+    "categories": ["greetings", "discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "YAH-lah" },
+    "definitions": [
+      { "text": "Come on; let's go; hurry up. A general call to get moving, and one of the most fully naturalised Arabic borrowings in German youth speech — used by speakers with no Arabic connection at all." },
+      { "text": "Also a sign-off, roughly 'right, I'm off': 'Yalla, bis später.'" }
+    ],
+    "examples": [
+      { "text": "Yalla, wir kommen zu spät!", "translation": "Come on, we're going to be late!" },
+      { "text": "Yalla, Leute, aufstehen.", "translation": "Right, everyone, up you get." }
+    ],
+    "origin": {
+      "etymology": "From Arabic يا الله yā allāh, literally 'O God', long since worn down to a simple 'come on' across the Arabic-speaking world; Turkish has the same word as hadi/yallah, and both communities carried it into German. It reached general youth speech through schoolyards and rap rather than through any single song, and is now neutral enough to appear in advertising.",
+      "sources": []
+    },
+    "relatedTerms": ["german/wallah", "german/digga", "german/alman"],
+    "variants": ["yallah", "jalla"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "alman",
+    "term": "Alman",
+    "partOfSpeech": ["noun"],
+    "register": "informal",
+    "categories": ["people"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "literalMeaning": "German (in Turkish).",
+    "pronunciation": { "respelling": "AL-mahn" },
+    "definitions": [
+      { "text": "A stereotypically German German: the one who rings the Ordnungsamt about your barbecue smoke, insists on separating the recycling correctly, and books the sun lounger at 6am. It describes behaviour, not ancestry." },
+      { "text": "Overwhelmingly used as a joke, including by ethnic Germans about themselves — 'voll der Alman-Move' is a standard self-deprecation. Said with a straight face and no affection, it is a mild ethnic jab." }
+    ],
+    "examples": [
+      { "text": "Er hat sich über die Lautstärke beschwert — voll der Alman.", "translation": "He complained about the noise level — absolute German move." },
+      { "text": "Ich hab die Mülltrennung dreimal kontrolliert. Ich weiß, ich bin ein Alman.", "translation": "I checked the recycling three times. I know, I'm a walking German stereotype." }
+    ],
+    "origin": {
+      "etymology": "Turkish Alman, 'German', itself from the French-derived name for the country. It moved from Turkish-German family speech into general youth speech around 2017–18 via meme accounts, above all @almans on Instagram, which built the modern stereotype catalogue almost single-handedly.",
+      "firstAttested": "around 2017",
+      "sources": []
+    },
+    "relatedTerms": ["german/kartoffel", "german/spiesser", "german/talahon"],
+    "usageWarning": ["context-dependent"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "kartoffel",
+    "term": "Kartoffel",
+    "partOfSpeech": ["noun"],
+    "register": "informal",
+    "categories": ["people"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "literalMeaning": "Potato.",
+    "pronunciation": { "respelling": "kar-TOF-el" },
+    "definitions": [
+      { "text": "An ethnic German, as seen from outside — the blunter, older sibling of Alman. Where Alman mocks behaviour, Kartoffel names the group." },
+      { "text": "Widely reclaimed: Germans use it of themselves ('meine Kartoffel-Seele'), and the 2017 novel and film title Die Kartoffel is part of why. Between strangers it is still a dig, and at the hostile end it is an ethnic insult." }
+    ],
+    "examples": [
+      { "text": "Meine Eltern sind Kartoffeln, bei uns gab's nie Gewürze.", "translation": "My parents are white-bread Germans — we never had spices in the house.", "context": "Self-deprecating, from a German speaker about her own family." },
+      { "text": "Er redet wie eine Kartoffel.", "translation": "He talks like a total German.", "context": "Of accent and manner; can be teasing or contemptuous depending on the speaker." }
+    ],
+    "origin": {
+      "etymology": "The potato as the emblematic German staple, part of a family of food-based ethnic labels found across Europe. In circulation in German-Turkish and German-Arab speech since at least the 1990s, long before Alman, and popularised beyond it in the 2010s by comedians and writers of migrant background.",
+      "firstAttested": "1990s",
+      "sources": []
+    },
+    "relatedTerms": ["german/alman", "german/talahon", "german/spiesser"],
+    "usageWarning": ["context-dependent", "offensive"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "spiesser",
+    "term": "Spießer",
+    "partOfSpeech": ["noun"],
+    "register": "colloquial",
+    "categories": ["people", "insults"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "SHPEE-ser" },
+    "definitions": [
+      { "text": "A narrow-minded conformist: hedge trimmed to the millimetre, opinions borrowed from the regional paper, deep suspicion of anything unfamiliar. One of the most-used German insults that is not remotely rude." },
+      { "text": "The adjective spießig extends to things — a spießige Hochzeit, a spießiges Wohnzimmer — meaning stuffily conventional." }
+    ],
+    "examples": [
+      { "text": "Sei nicht so ein Spießer, komm einfach mit.", "translation": "Don't be such a stick in the mud, just come along." },
+      { "text": "Das Viertel ist mir zu spießig geworden.", "translation": "The neighbourhood has got too suburban for me." }
+    ],
+    "origin": {
+      "etymology": "Shortened from Spießbürger, literally 'pike citizen' — the medieval townsman who turned out for militia duty with a Spieß. Nineteenth-century writers, Romantics especially, turned the term into a byword for philistine small-mindedness, and that is the sense that survives.",
+      "firstAttested": "19th century in this sense",
+      "sources": []
+    },
+    "relatedTerms": ["german/alman", "german/kartoffel", "german/vollpfosten"],
+    "synonyms": ["Kleinbürger", "Philister"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "ehrenmann",
+    "term": "Ehrenmann",
+    "partOfSpeech": ["noun"],
+    "register": "informal",
+    "categories": ["people", "approval"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "literalMeaning": "Man of honour.",
+    "pronunciation": { "respelling": "AIR-en-man" },
+    "definitions": [
+      { "text": "Someone who did you a solid — held a seat, covered a round, returned the charger. Roughly 'absolute legend', and about as sincere as that English phrase, which is to say half-ironic." },
+      { "text": "Feminine Ehrenfrau is used in parallel, and the associated 'Ehre genommen' ('honour taken') is the set reply to a compliment." }
+    ],
+    "examples": [
+      { "text": "Du hast mir einen Platz freigehalten? Ehrenmann!", "translation": "You saved me a seat? Absolute legend." },
+      { "text": "Danke, Ehrenfrau. — Ehre genommen.", "translation": "Thanks, legend. — Much obliged." }
+    ],
+    "origin": {
+      "etymology": "An old and entirely respectable compound, revived as slang by German rap around 2017 — Capital Bra and Kollegah both pushed it — and named Youth Word of the Year 2018. It is one of the few winners of that competition that genuinely caught on, though by now it reads as late-2010s rather than current teenage speech.",
+      "firstAttested": "2017 in the slang sense",
+      "sources": []
+    },
+    "relatedTerms": ["german/digga", "german/gonn-dir", "german/talahon"],
+    "variants": ["Ehrenfrau", "Ehrenbruder"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "talahon",
+    "term": "Talahon",
+    "partOfSpeech": ["noun"],
+    "register": "informal",
+    "categories": ["people"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "literalMeaning": "Come here (Arabic).",
+    "pronunciation": { "respelling": "tah-lah-HON" },
+    "definitions": [
+      { "text": "A young man, usually read as Arab or Turkish, in a specific look: designer tracksuit, man-bag worn across the chest, heavy logo branding, fake or aspirational luxury. Named Youth Word of the Year 2024." },
+      { "text": "Unlike most winners of that award, this one is genuinely in teenage mouths — but it is also the most loaded. It carries an assumption of petty criminality, and the German far right adopted it wholesale as an ethnic slur within months of it going viral. Listed here so you recognise it, not so you use it." }
+    ],
+    "examples": [
+      { "text": "Vor dem Bahnhof standen drei Talahons.", "translation": "There were three lads in full trackie-and-manbag uniform outside the station.", "context": "Even neutrally meant, this sentence is making a judgement about ethnicity as much as about clothing." },
+      { "text": "Der Talahon-Look ist gerade überall.", "translation": "That whole look is everywhere right now." }
+    ],
+    "origin": {
+      "etymology": "From Levantine Arabic تعال هنا taʿāl hōn, 'come here'. It reached German through the 2022 track 'Ta3al Lahon' by the Lebanese-German rapper Hassan, whose refrain became a TikTok sound in 2023–24; the sound attached itself to a visual stereotype and the noun followed.",
+      "firstAttested": "2023",
+      "sources": []
+    },
+    "relatedTerms": ["german/alman", "german/kartoffel", "german/digga"],
+    "usageWarning": ["offensive", "slur"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "vollpfosten",
+    "term": "Vollpfosten",
+    "partOfSpeech": ["noun"],
+    "register": "colloquial",
+    "categories": ["insults"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "literalMeaning": "Complete fencepost.",
+    "pronunciation": { "respelling": "FOL-pfos-ten" },
+    "definitions": [
+      { "text": "A complete idiot — the German for 'absolute muppet'. Contemptuous but not obscene, which is why it turns up in newspaper columns and on daytime television." },
+      { "text": "Pfosten on its own does the same job in a shorter, more casual form." }
+    ],
+    "examples": [
+      { "text": "Der Vollpfosten hat den Schlüssel im Auto liegen lassen.", "translation": "The muppet left the key in the car." },
+      { "text": "Sorry, ich war gestern echt ein Vollpfosten.", "translation": "Sorry, I was a complete idiot yesterday." }
+    ],
+    "origin": {
+      "etymology": "Voll- ('utterly') plus Pfosten, a post — the image is of something wooden, solid and hollow-headed, the same metaphor as English 'thick as a plank'. A late-20th-century coinage; the Voll- prefix is productive and gives Volltrottel, Vollhorst, Vollidiot.",
+      "sources": []
+    },
+    "relatedTerms": ["german/depp", "german/arschloch", "german/spast"],
+    "synonyms": ["Volltrottel", "Honk", "Vollhorst"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "arschloch",
+    "term": "Arschloch",
+    "partOfSpeech": ["noun"],
+    "register": "vulgar",
+    "categories": ["insults"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "literalMeaning": "Arsehole.",
+    "pronunciation": { "respelling": "ARSH-lokh" },
+    "definitions": [
+      { "text": "Arsehole — a genuinely nasty person, not merely a fool. The single most-used serious insult in German, and the register is exactly what the English cognate suggests." },
+      { "text": "Worth knowing that German law treats it as actionable Beleidigung. Saying it to a police officer reliably produces a fine running into three figures, and the tariffs are published." }
+    ],
+    "examples": [
+      { "text": "Was für ein Arschloch.", "translation": "What an arsehole." },
+      { "text": "Sei kein Arschloch, ruf sie zurück.", "translation": "Don't be a dick, call her back." }
+    ],
+    "origin": {
+      "etymology": "Transparent compound, Arsch plus Loch, attested as an insult since the early modern period. Its legal salience is the interesting part: German courts have a long-running jurisprudence on which insults cost how much, and this one is the reference case.",
+      "sources": []
+    },
+    "relatedTerms": ["german/hurensohn", "german/verpiss-dich", "german/vollpfosten"],
+    "usageWarning": ["vulgar", "offensive"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "spast",
+    "term": "Spast",
+    "partOfSpeech": ["noun"],
+    "register": "vulgar",
+    "categories": ["insults"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "SHPAST" },
+    "definitions": [
+      { "text": "Idiot, moron — a disability slur used casually as a general insult, chiefly by teenagers and by adults who were teenagers in the 1990s." },
+      { "text": "Listed for comprehension. Many German speakers use it without registering the source; enough others do register it that it now reliably draws a reaction, and it has no neutral use." }
+    ],
+    "examples": [
+      { "text": "Bist du ein Spast oder was?", "translation": "Are you a moron or what?", "context": "Schoolyard register. An adult saying this in public will be read as either aggressive or badly out of date." }
+    ],
+    "origin": {
+      "etymology": "Clipped from Spastiker, the clinical term for a person with spastic cerebral palsy. Entered playground speech in the 1980s along with the parallel English development, and the disability-rights objection to it is the same in both languages.",
+      "firstAttested": "1980s",
+      "sources": []
+    },
+    "relatedTerms": ["german/vollpfosten", "german/arschloch", "german/depp"],
+    "variants": ["Spasti"],
+    "usageWarning": ["slur", "offensive"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "hurensohn",
+    "term": "Hurensohn",
+    "partOfSpeech": ["noun", "interjection"],
+    "register": "taboo",
+    "categories": ["insults"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "literalMeaning": "Son of a whore.",
+    "pronunciation": { "respelling": "HOO-ren-zohn" },
+    "definitions": [
+      { "text": "The strongest common insult in German. Directed at a person it insults his mother, which is precisely why it functions as a fight-starter in a way Arschloch does not." },
+      { "text": "Among teenage boys and in German rap it is partly bleached into a general intensifier or exclamation, thrown at objects and situations rather than people. That bleaching is real but it is confined to that register — nobody else hears it as anything but the full-strength original." }
+    ],
+    "examples": [
+      { "text": "Nenn mich noch einmal so, du Hurensohn.", "translation": "Call me that one more time, you son of a bitch.", "context": "This is the sentence before a fight, not a turn of phrase." },
+      { "text": "Der Drucker geht nicht, dieser Hurensohn.", "translation": "The printer's not working, the bastard thing.", "context": "The bleached use, and only plausible from a young male speaker." }
+    ],
+    "origin": {
+      "etymology": "An old Germanic construction with parallels across Europe, but its present frequency in German is recent and contact-driven: Turkish and Arabic both have high-salience mother insults, and German rap from the 2000s onward made this one the default translation. Courts treat it as one of the most expensive insults on the tariff.",
+      "sources": []
+    },
+    "relatedTerms": ["german/arschloch", "german/verpiss-dich", "german/spast"],
+    "variants": ["HS"],
+    "usageWarning": ["vulgar", "offensive"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "depp",
+    "term": "Depp",
+    "partOfSpeech": ["noun"],
+    "register": "regional",
+    "categories": ["insults", "people"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "region": "Southern Germany",
+    "pronunciation": { "respelling": "DEP" },
+    "definitions": [
+      { "text": "A fool, a clot. The standard southern German, Austrian and Swiss word for an idiot, and much milder than its northern equivalents — close friends call each other Depp with real affection." },
+      { "text": "The adjective deppert ('daft') extends to situations: a depperte Regel is a stupid rule." }
+    ],
+    "examples": [
+      { "text": "Du bist scho a Depp.", "translation": "You really are a daft one.", "context": "Bavarian pronunciation, and said fondly more often than not." },
+      { "text": "So a depperte Idee.", "translation": "What a daft idea." }
+    ],
+    "origin": {
+      "etymology": "A Bavarian-Austrian dialect word related to täppisch, 'clumsy, fumbling', from the same root as tappen, to grope about. Nothing to do with the English surname, despite a persistent joke to the contrary.",
+      "sources": []
+    },
+    "relatedTerms": ["german/vollpfosten", "german/schmarrn", "german/servus"],
+    "synonyms": ["Dodel", "Trottel"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "verpiss-dich",
+    "term": "verpiss dich",
+    "partOfSpeech": ["phrase"],
+    "register": "vulgar",
+    "categories": ["insults"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "literalMeaning": "Piss yourself away.",
+    "pronunciation": { "respelling": "fer-PISS dikh" },
+    "definitions": [
+      { "text": "Piss off; get lost. Rude but not the rudest — it sits above 'hau ab' and below 'fick dich', and is roughly as strong as the English 'piss off'." },
+      { "text": "The reflexive verb sich verpissen also works descriptively, meaning to clear off or slip away: 'er hat sich verpisst'." }
+    ],
+    "examples": [
+      { "text": "Verpiss dich, ich will dich nicht sehen.", "translation": "Piss off, I don't want to see you." },
+      { "text": "Der hat sich einfach verpisst, ohne was zu sagen.", "translation": "He just cleared off without saying anything." }
+    ],
+    "origin": {
+      "etymology": "The ver- prefix of removal on pissen, built on the same logic as verschwinden ('disappear'). Twentieth-century, and structurally parallel to English 'piss off' without being a loan translation of it.",
+      "sources": []
+    },
+    "relatedTerms": ["german/arschloch", "german/hurensohn", "german/vollpfosten"],
+    "synonyms": ["hau ab", "verschwinde"],
+    "usageWarning": ["vulgar"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "kohle",
+    "term": "Kohle",
+    "partOfSpeech": ["noun"],
+    "register": "colloquial",
+    "categories": ["money"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "literalMeaning": "Coal.",
+    "pronunciation": { "respelling": "KOH-luh" },
+    "definitions": [
+      { "text": "Cash, dough. The most widely used German money slang, neutral enough for a workplace conversation and understood everywhere." },
+      { "text": "'Kohle machen' means to earn serious money; 'die Kohle stimmt' means the pay is good." }
+    ],
+    "examples": [
+      { "text": "Ich hab gerade keine Kohle.", "translation": "I'm skint at the moment." },
+      { "text": "Damit machst du richtig Kohle.", "translation": "You can make proper money with that." }
+    ],
+    "origin": {
+      "etymology": "Nineteenth-century slang in which coal stands for the substance you cannot live without and must constantly buy — the same figure as English 'bread'. The Ruhr coalfields reinforced but did not create it. It sits in a large family of money words (Knete, Kies, Zaster, Moneten, Schotter), several of which came in through Rotwelsch and Yiddish.",
+      "firstAttested": "19th century",
+      "sources": []
+    },
+    "relatedTerms": ["german/malochen", "german/pleite", "german/homeoffice"],
+    "synonyms": ["Knete", "Kies", "Schotter", "Moneten"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "malochen",
+    "term": "malochen",
+    "partOfSpeech": ["verb"],
+    "register": "colloquial",
+    "categories": ["money"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "mah-LOKH-en" },
+    "definitions": [
+      { "text": "To graft, to slog — hard physical or grinding work, with a note of grievance about it. You malochst on a building site or through a double shift, never at a pleasant desk job." },
+      { "text": "The noun Maloche is the work itself: 'ab zur Maloche', off to the grind." }
+    ],
+    "examples": [
+      { "text": "Ich hab den ganzen Samstag malocht.", "translation": "I grafted the whole of Saturday." },
+      { "text": "Er malocht seit dreißig Jahren im Schichtbetrieb.", "translation": "He's been slogging away on shifts for thirty years." }
+    ],
+    "origin": {
+      "etymology": "From Yiddish melocho (מלאכה), 'work, craft', ultimately Hebrew melakhah, which reached German through Rotwelsch, the cant of travellers and traders. It is strongly associated with the Ruhr and its mining and steel industry, but is understood and used nationally.",
+      "firstAttested": "19th century",
+      "sources": []
+    },
+    "relatedTerms": ["german/kohle", "german/pleite", "german/bock-haben"],
+    "synonyms": ["schuften", "ackern", "rackern"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "pleite",
+    "term": "pleite",
+    "partOfSpeech": ["adjective", "noun"],
+    "register": "colloquial",
+    "categories": ["money"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "PLY-tuh" },
+    "definitions": [
+      { "text": "Broke, skint — of a person with no money right now, or of a company that has actually gone under." },
+      { "text": "As a noun, die Pleite is a bankruptcy and, by extension, any flop: 'der Abend war eine Pleite', the evening was a washout." }
+    ],
+    "examples": [
+      { "text": "Ich bin komplett pleite bis Freitag.", "translation": "I'm completely skint until Friday." },
+      { "text": "Die Firma ist pleite gegangen.", "translation": "The company went bust." }
+    ],
+    "origin": {
+      "etymology": "From Yiddish plejte, from Hebrew pleitah, 'flight, escape' — the image is the insolvent merchant absconding from his creditors, which is also why the older full phrase was 'Pleite gehen', to go into flight. Nothing to do with any Romance word.",
+      "firstAttested": "19th century",
+      "sources": []
+    },
+    "relatedTerms": ["german/kohle", "german/malochen", "german/homeoffice"],
+    "synonyms": ["blank", "abgebrannt"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "homeoffice",
+    "term": "Homeoffice",
+    "partOfSpeech": ["noun"],
+    "register": "colloquial",
+    "categories": ["money", "everyday"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "HOHM-off-iss" },
+    "definitions": [
+      { "text": "Working from home, as a state rather than a room: 'ich bin im Homeoffice' means 'I'm working from home today', not 'I am in my study'." },
+      { "text": "A pseudo-anglicism. To a British reader the Home Office is a government ministry; to an American it is a company's headquarters. Neither is what a German means, and this causes real confusion in English-language emails from German colleagues." }
+    ],
+    "examples": [
+      { "text": "Ich bin morgen im Homeoffice.", "translation": "I'm working from home tomorrow." },
+      { "text": "Wir haben zwei Tage Homeoffice pro Woche.", "translation": "We get two work-from-home days a week." }
+    ],
+    "origin": {
+      "etymology": "Assembled in German from English parts in the 1990s office-jargon wave that also produced Handy and Beamer. Marginal until 2020, when the pandemic made it one of the most-used nouns in the language almost overnight.",
+      "firstAttested": "1990s, in general use from 2020",
+      "sources": []
+    },
+    "relatedTerms": ["german/handy", "german/beamer", "german/shitstorm"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "brotzeit",
+    "term": "Brotzeit",
+    "partOfSpeech": ["noun"],
+    "register": "regional",
+    "categories": ["food-drink"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "region": "Bavaria",
+    "literalMeaning": "Bread time.",
+    "pronunciation": { "respelling": "BROHT-tsyte" },
+    "definitions": [
+      { "text": "A cold snack meal — bread, cold cuts, cheese, radish, maybe Obatzda — and equally the break in which you eat it. Mid-morning on a building site, mid-afternoon on a hike, or all evening in a beer garden." },
+      { "text": "Bavarian and Austrian. The Swabian word is Vesper, the northern Abendbrot is specifically the evening meal, and the beer garden's legal right to bring your own Brotzeit is a point of genuine local pride." }
+    ],
+    "examples": [
+      { "text": "Machen wir erst mal Brotzeit.", "translation": "Let's stop for a bite first." },
+      { "text": "Ich hab die Brotzeit dabei.", "translation": "I've brought the picnic stuff." }
+    ],
+    "origin": {
+      "etymology": "A straightforward Bavarian compound of Brot and Zeit, recorded since the 19th century in the sense of the working man's bread break. The institution is older than the word.",
+      "sources": []
+    },
+    "relatedTerms": ["german/mass", "german/servus", "german/gaudi"],
+    "synonyms": ["Vesper", "Marende"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "schrippe",
+    "term": "Schrippe",
+    "partOfSpeech": ["noun"],
+    "register": "regional",
+    "categories": ["food-drink", "everyday"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "region": "Berlin",
+    "pronunciation": { "respelling": "SHRIP-uh" },
+    "definitions": [
+      { "text": "A bread roll — but only in Berlin and Brandenburg. Ask for a Schrippe in Munich and you will get a blank look." },
+      { "text": "The bread roll is Germany's sharpest regional shibboleth: Brötchen in most of the north and centre, Semmel in Bavaria and Austria, Weck or Weckle in Swabia and Franconia, Rundstück in Hamburg, Bröt'chen reduced to Brötsch in parts of the west." }
+    ],
+    "examples": [
+      { "text": "Zwei Schrippen und ein Brötchen mit Körnern, bitte.", "translation": "Two rolls and one seeded one, please.", "context": "Ordering at a Berlin bakery — where using the wrong word is the fastest way to be identified as new in town." },
+      { "text": "Ich hol schnell Schrippen zum Frühstück.", "translation": "I'll nip out for rolls for breakfast." }
+    ],
+    "origin": {
+      "etymology": "Probably from schrippen / schripfen, a Middle German verb meaning to scratch or score — the roll is named for the cut down its top. The competing derivation from 'schrumpfen' is not supported.",
+      "sources": []
+    },
+    "relatedTerms": ["german/spaeti", "german/brotzeit", "german/mass"],
+    "synonyms": ["Brötchen", "Semmel", "Weck", "Rundstück"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "mass",
+    "term": "Maß",
+    "partOfSpeech": ["noun"],
+    "register": "regional",
+    "categories": ["food-drink", "partying"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "region": "Bavaria",
+    "literalMeaning": "A measure.",
+    "pronunciation": { "respelling": "MASS — short a, as in 'mass', never 'mahss'" },
+    "definitions": [
+      { "text": "A litre of beer in a dimpled glass mug. The standard unit at the Oktoberfest and in Bavarian beer gardens, and the reason people underestimate how much they have drunk." },
+      { "text": "Two traps for outsiders: it is feminine — die Maß, eine Maß — where standard German has das Maß for a measurement, and the vowel is short. 'Eine Maß, bitte' said with a long a and the wrong article marks you instantly." }
+    ],
+    "examples": [
+      { "text": "Eine Maß, bitte.", "translation": "A litre of beer, please." },
+      { "text": "Nach der zweiten Maß war er nicht mehr zu gebrauchen.", "translation": "After the second litre he was a write-off." }
+    ],
+    "origin": {
+      "etymology": "From Middle High German mâʒ, a measure of volume, standardised in Bavaria at 1.069 litres before the metric litre took over in 1871. The mug itself is the Maßkrug; ordering 'einen Maßkrug' gets you the empty glassware, at least in theory.",
+      "sources": []
+    },
+    "relatedTerms": ["german/brotzeit", "german/gaudi", "german/vorgluehen"],
+    "variants": ["Mass", "Maßkrug"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "fressen",
+    "term": "fressen",
+    "partOfSpeech": ["verb"],
+    "register": "colloquial",
+    "categories": ["food-drink"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "FRESS-en" },
+    "definitions": [
+      { "text": "Properly the verb for animals eating — German keeps essen and fressen strictly apart, and a cow never isst. Applied to a person it means to shovel, scoff or gorge, and is deliberately insulting or jokey." },
+      { "text": "Also 'to swallow' figuratively: 'das hat er gefressen' means he has finally got it into his head; 'ich hab die Nase voll' is a different idiom, but 'einen Narren an jemandem gefressen haben' means to have taken an inexplicable liking to someone." }
+    ],
+    "examples": [
+      { "text": "Friss nicht so, das ist ja widerlich.", "translation": "Don't wolf it down like that, it's revolting.", "context": "Said between family or close friends. To a stranger it would be a flat insult." },
+      { "text": "Gib mir was zu fressen, ich sterbe.", "translation": "Give me something to eat, I'm dying.", "context": "Self-applied, it is just jokey exaggeration and perfectly friendly." }
+    ],
+    "origin": {
+      "etymology": "Old High German freʒʒan, from ver- plus eʒʒan — literally 'eat up, eat away'. The animal/human split is one of the oldest live distinctions in the German lexicon, which is exactly what makes the crossover insulting.",
+      "sources": []
+    },
+    "relatedTerms": ["german/brotzeit", "german/kater", "german/bock-haben"],
+    "synonyms": ["reinhauen", "schlingen"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "vorgluehen",
+    "term": "vorglühen",
+    "partOfSpeech": ["verb"],
+    "register": "informal",
+    "categories": ["partying"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "literalMeaning": "To preheat — specifically, a diesel engine's glow plugs.",
+    "pronunciation": { "respelling": "FOR-glue-en" },
+    "definitions": [
+      { "text": "To pre-drink: to get most of the way to drunk at someone's flat before going out, because club and bar prices make doing it on the premises unaffordable." },
+      { "text": "A whole social ritual rather than just a verb — the Vorglühen is an event you get invited to, often with its own playlist and start time." }
+    ],
+    "examples": [
+      { "text": "Wir glühen bei mir vor, so ab zehn.", "translation": "We're pre-drinking at mine, from about ten." },
+      { "text": "Ich hab zu viel vorgeglüht, ich komm nicht mehr rein.", "translation": "I pre-drank too hard, they won't let me in.", "context": "Berlin door policy being what it is, this is a real outcome." }
+    ],
+    "origin": {
+      "etymology": "From the diesel engine's glow plugs, which have to be pre-heated before the engine will start — vorglühen is the dashboard light. Student slang picked up the metaphor in the 1990s and it is now the ordinary word.",
+      "firstAttested": "1990s",
+      "sources": []
+    },
+    "relatedTerms": ["german/absacker", "german/kater", "german/mass"],
+    "synonyms": ["vorheizen", "vortrinken"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "kater",
+    "term": "Kater",
+    "partOfSpeech": ["noun"],
+    "register": "colloquial",
+    "categories": ["partying", "emotion"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "literalMeaning": "Tomcat.",
+    "pronunciation": { "respelling": "KAH-ter" },
+    "definitions": [
+      { "text": "A hangover. 'Einen Kater haben' is the set phrase; 'Katerfrühstück' is the greasy breakfast that follows." },
+      { "text": "Extended to non-alcoholic letdowns: the Wahlkater after an election result, the Kater after a holiday ends." }
+    ],
+    "examples": [
+      { "text": "Ich hab einen fürchterlichen Kater.", "translation": "I've got a shocking hangover." },
+      { "text": "Nach der Firmenfeier hatte das halbe Büro Kater.", "translation": "Half the office was hungover after the work party." }
+    ],
+    "origin": {
+      "etymology": "Almost certainly not the cat. The likeliest derivation is from Katarrh ('catarrh'), 19th-century Leipzig student slang for the morning-after malaise, reshaped by local pronunciation into a word that happened to already exist. The tomcat story is folk etymology, but it is so well established that Germans now picture the cat, and cartoonists draw one.",
+      "firstAttested": "19th century, Leipzig students",
+      "sources": []
+    },
+    "relatedTerms": ["german/vorgluehen", "german/absacker", "german/fressen"],
+    "synonyms": ["Brummschädel"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "absacker",
+    "term": "Absacker",
+    "partOfSpeech": ["noun"],
+    "register": "colloquial",
+    "categories": ["partying"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "AP-zack-er" },
+    "definitions": [
+      { "text": "A nightcap — the one last drink before bed or before going home, usually something short and usually not actually the last." },
+      { "text": "Said with a certain knowing irony: proposing an Absacker at one in the morning is understood by everyone present as an intention rather than a plan." }
+    ],
+    "examples": [
+      { "text": "Noch einen Absacker?", "translation": "One for the road?" },
+      { "text": "Wir hatten noch drei Absacker an der Bar.", "translation": "We had three more 'last drinks' at the bar." }
+    ],
+    "origin": {
+      "etymology": "From absacken, 'to sink, to subside' — what the drinker does afterwards, and also what the evening does. Twentieth-century, with the same nautical verb behind it that describes a ship settling in the water.",
+      "sources": []
+    },
+    "relatedTerms": ["german/vorgluehen", "german/kater", "german/mass"],
+    "synonyms": ["Schlummertrunk"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "gaudi",
+    "term": "Gaudi",
+    "partOfSpeech": ["noun"],
+    "register": "regional",
+    "categories": ["partying", "emotion"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "region": "Bavaria",
+    "pronunciation": { "respelling": "GOW-dee" },
+    "definitions": [
+      { "text": "Fun, a laugh, a good time — Bavarian and Austrian. 'Eine Gaudi' is a specific occasion of fun, not the abstract quality." },
+      { "text": "The gender is unsettled: die Gaudi in Bavaria, das Gaudi in much of Austria and Swabia. Both are correct in their own place." }
+    ],
+    "examples": [
+      { "text": "Des war a Gaudi!", "translation": "That was an absolute laugh!", "context": "Bavarian pronunciation of 'das war eine Gaudi'." },
+      { "text": "Nur zur Gaudi, nicht ernst gemeint.", "translation": "Just for a laugh, not meant seriously." }
+    ],
+    "origin": {
+      "etymology": "From Latin gaudium, 'joy', by way of the macaronic Latin of students and monastery schools — the same route that gave Gaudeamus igitur. It survived in the Catholic south and never crossed north.",
+      "sources": []
+    },
+    "relatedTerms": ["german/mass", "german/brotzeit", "german/servus"],
+    "synonyms": ["Hetz", "Spaß"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "anbaggern",
+    "term": "anbaggern",
+    "partOfSpeech": ["verb"],
+    "register": "informal",
+    "categories": ["romance"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "literalMeaning": "To dig at someone with an excavator.",
+    "pronunciation": { "respelling": "AHN-bag-ern" },
+    "definitions": [
+      { "text": "To hit on someone — heavily, obviously and usually without success. The excavator in the etymology is doing real work: the word implies persistence and a total absence of subtlety." },
+      { "text": "Almost always used of other people. You say someone was angebaggert; you rarely describe your own approach that way unless you are being self-deprecating." }
+    ],
+    "examples": [
+      { "text": "Der hat sie den ganzen Abend angebaggert.", "translation": "He was all over her the entire evening." },
+      { "text": "Werd ich hier gerade angebaggert?", "translation": "Am I being chatted up right now?" }
+    ],
+    "origin": {
+      "etymology": "From Bagger, an excavator, itself from Dutch baggeren, to dredge. A 20th-century coinage, and one of the more vivid images in German slang — the suitor as heavy plant machinery.",
+      "sources": []
+    },
+    "relatedTerms": ["german/knutschen", "german/schatzi", "german/smash"],
+    "synonyms": ["anmachen", "aufreißen"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "knutschen",
+    "term": "knutschen",
+    "partOfSpeech": ["verb"],
+    "register": "informal",
+    "categories": ["romance"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "KNOOT-shen — the k is pronounced" },
+    "definitions": [
+      { "text": "To snog, to make out. Enthusiastic and prolonged, as distinct from küssen, which covers everything from a peck upwards." },
+      { "text": "Rumknutschen adds the sense of doing it in public and at length; a Knutschfleck is a love bite." }
+    ],
+    "examples": [
+      { "text": "Die haben den halben Abend rumgeknutscht.", "translation": "They were snogging for half the evening." },
+      { "text": "Du hast einen Knutschfleck am Hals.", "translation": "You've got a love bite on your neck." }
+    ],
+    "origin": {
+      "etymology": "Expressive in origin, from a family of knu- words suggesting squeezing and pressing (knautschen, to crumple; kneten, to knead). Not a borrowing — the sound is doing the work.",
+      "sources": []
+    },
+    "relatedTerms": ["german/anbaggern", "german/schatzi", "german/smash"],
+    "synonyms": ["rumknutschen", "fummeln"],
+    "usageWarning": ["sexual"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "schatzi",
+    "term": "Schatzi",
+    "partOfSpeech": ["noun"],
+    "register": "informal",
+    "categories": ["romance", "greetings"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "literalMeaning": "Little treasure.",
+    "pronunciation": { "respelling": "SHAT-see" },
+    "definitions": [
+      { "text": "Sweetheart, darling. The diminutive of Schatz, and the default endearment between partners and from parents to children." },
+      { "text": "Also weaponised. 'Hör mal, Schatzi' from a stranger or a colleague is condescending and often sexist, and 'Nein, Schatzi' is how you refuse a request while making clear the asker is being ridiculous. Learners who pick it up as a friendly word and use it on acquaintances cause real awkwardness." }
+    ],
+    "examples": [
+      { "text": "Schatzi, kannst du mal kurz kommen?", "translation": "Sweetheart, could you come here a second?" },
+      { "text": "Hör mal zu, Schatzi, so läuft das nicht.", "translation": "Now listen here, love, that's not how this works.", "context": "Flatly patronising. The diminutive is the insult." }
+    ],
+    "origin": {
+      "etymology": "Schatz, 'treasure', has been a term of endearment since the Middle Ages; the -i diminutive is southern German and Austrian in origin and spread nationally through television and pop music in the second half of the 20th century.",
+      "sources": []
+    },
+    "relatedTerms": ["german/knutschen", "german/anbaggern", "german/digga"],
+    "synonyms": ["Schatz", "Maus", "Hase"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "smash",
+    "term": "smash",
+    "partOfSpeech": ["verb", "interjection"],
+    "register": "informal",
+    "categories": ["romance"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "SMESH" },
+    "definitions": [
+      { "text": "To sleep with someone, or to judge someone worth sleeping with. Youth Word of the Year 2022, and mainly encountered in the game format 'Smash oder Pass' rather than as a free verb." },
+      { "text": "Honestly: outside that game and its TikTok context it is thin. German teenagers do say it, but adults deploying 'smash' in ordinary conversation sound exactly as odd as the award coverage made them sound, and it never developed the full verbal paradigm a native word would have." }
+    ],
+    "examples": [
+      { "text": "Smash oder Pass?", "translation": "Would you or wouldn't you?", "context": "The game format. Almost all real-world use of the word is this." },
+      { "text": "Den würde ich smashen.", "translation": "I'd go there.", "context": "Grammatically German, lexically English — the hybrid is typical of current youth borrowings." }
+    ],
+    "origin": {
+      "etymology": "Straight from English internet slang, where 'smash or pass' had been a meme format since the early 2010s. It arrived in German through TikTok around 2021 and won Langenscheidt's Youth Word of the Year in 2022, an award whose winners are chosen by public vote and which reliably overstates how established a word is.",
+      "firstAttested": "2021",
+      "sources": []
+    },
+    "relatedTerms": ["german/cringe", "german/anbaggern", "german/talahon"],
+    "usageWarning": ["sexual"],
+    "alsoUsedIn": ["american"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "boah",
+    "term": "boah",
+    "partOfSpeech": ["interjection"],
+    "register": "colloquial",
+    "categories": ["emotion"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "BOH-ah" },
+    "definitions": [
+      { "text": "The German all-purpose exclamation: awe, exasperation, disgust, disbelief. Length and pitch do all the semantic work — a short flat boah is annoyance, a long rising one is amazement." },
+      { "text": "'Boah ey' is the classic 1980s–90s Ruhr-flavoured version. It still gets said constantly, but it now carries a faint retro colouring, a bit like English 'no way' does." }
+    ],
+    "examples": [
+      { "text": "Boah, ist das heiß hier.", "translation": "God, it's hot in here." },
+      { "text": "Boah ey, jetzt reicht's.", "translation": "Oh for crying out loud, that's enough." }
+    ],
+    "origin": {
+      "etymology": "A natural expressive sound rather than a word with an etymology, standardised in spelling by comics and by the Ruhr-comedy boom of the 1980s. Its spread nationally is usually credited to television — Ruhr dialect was heavily represented in West German comedy of that decade.",
+      "sources": []
+    },
+    "relatedTerms": ["german/krass", "german/alter", "german/geil"],
+    "variants": ["boa", "boah ey", "boar"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "cringe",
+    "term": "cringe",
+    "partOfSpeech": ["adjective", "noun"],
+    "register": "informal",
+    "categories": ["emotion"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "KRINSH — often with a German sh at the end" },
+    "definitions": [
+      { "text": "Embarrassing to witness; second-hand embarrassment. Used as a predicate adjective — 'das ist so cringe' — which is not how English uses the word." },
+      { "text": "Youth Word of the Year 2021, and genuinely one of the few winners that stuck. It stuck so well that adults and brands now use it, which is precisely why teenagers have started finding the word itself cringe." }
+    ],
+    "examples": [
+      { "text": "Das war so cringe, ich konnte nicht hinschauen.", "translation": "That was so painful, I couldn't watch." },
+      { "text": "Der Auftritt war fremdscham-cringe hoch zehn.", "translation": "That performance was second-hand embarrassment to the power of ten.", "context": "Stacking it on the native Fremdscham is common and mildly jokey." }
+    ],
+    "origin": {
+      "etymology": "Borrowed from English internet usage around 2019–20 and reanalysed as an adjective, which English does not permit. German already had the precise native noun for the feeling — Fremdscham — which makes the borrowing a pure register move rather than a gap-filler.",
+      "firstAttested": "2019",
+      "sources": []
+    },
+    "relatedTerms": ["german/smash", "german/krass", "german/talahon"],
+    "synonyms": ["peinlich", "Fremdscham"],
+    "alsoUsedIn": ["american", "british"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "schmarrn",
+    "term": "Schmarrn",
+    "partOfSpeech": ["noun", "interjection"],
+    "register": "regional",
+    "categories": ["emotion", "insults"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "region": "Bavaria",
+    "literalMeaning": "A shredded pancake — as in Kaiserschmarrn.",
+    "pronunciation": { "respelling": "SHMAR-n" },
+    "definitions": [
+      { "text": "Nonsense, rubbish, tripe. Bavarian and Austrian, and the standard way of dismissing something someone has just said." },
+      { "text": "Also 'a whole load of nothing': 'a Schmarrn hab i davon' means I got precisely nothing out of it." }
+    ],
+    "examples": [
+      { "text": "Red kan Schmarrn.", "translation": "Don't talk rubbish.", "context": "Bavarian for 'red keinen Schmarrn' — one of the most-heard sentences in the state." },
+      { "text": "So ein Schmarrn steht in der Zeitung?", "translation": "They printed that nonsense in the paper?" }
+    ],
+    "origin": {
+      "etymology": "The same word as the dish: a Schmarrn is something torn into shapeless bits, from a dialect verb meaning to smear or scrape. Rubbish talk is talk in shreds. The Kaiserschmarrn story about Franz Joseph's ruined pancake is a later legend attached to the dish, not the source of the word.",
+      "sources": []
+    },
+    "relatedTerms": ["german/depp", "german/servus", "german/gaudi"],
+    "synonyms": ["Quatsch", "Blödsinn", "Unsinn"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "wurst",
+    "term": "das ist mir Wurst",
+    "partOfSpeech": ["idiom"],
+    "register": "colloquial",
+    "categories": ["emotion", "discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "literalMeaning": "That is sausage to me.",
+    "pronunciation": { "respelling": "dass ist meer VOORST" },
+    "definitions": [
+      { "text": "I couldn't care less; it's all the same to me. Not rude, not aggressive — just a flat statement of indifference, and far more common in speech than the neutral 'das ist mir egal'." },
+      { "text": "The southern and Austrian form is 'Wurscht', and 'wurscht' also works as a bare adjective: 'is mir wurscht'." }
+    ],
+    "examples": [
+      { "text": "Italienisch oder Thai? — Ist mir Wurst.", "translation": "Italian or Thai? — I really don't mind." },
+      { "text": "Ob er kommt oder nicht, das ist mir völlig Wurst.", "translation": "Whether he comes or not, I couldn't care less." }
+    ],
+    "origin": {
+      "etymology": "Attested since the 19th century; the reasoning behind it is genuinely unclear. The two standard explanations — that a sausage has two ends and it makes no difference which you start at, and that the butcher's offcuts all went into the sausage regardless — are both after-the-fact rationalisations, and neither has documentary support.",
+      "firstAttested": "19th century",
+      "sources": []
+    },
+    "relatedTerms": ["german/boah", "german/halt", "german/schmarrn"],
+    "variants": ["das ist mir wurscht", "wurscht"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "halt",
+    "term": "halt",
+    "partOfSpeech": ["adverb"],
+    "register": "colloquial",
+    "categories": ["discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "HALT" },
+    "definitions": [
+      { "text": "The resignation particle. It marks what follows as an unchangeable fact you have stopped arguing with: 'das ist halt so' — that's just how it is, and there's no point discussing it." },
+      { "text": "It has no English equivalent and translations have to reach for 'just', 'simply' or nothing at all. Removing it does not change the truth of the sentence, only the speaker's stance, which is why learners can speak German for years without ever producing one." },
+      { "text": "Southern in origin; the northern equivalent is eben, though halt has been winning nationally for decades." }
+    ],
+    "examples": [
+      { "text": "Dann müssen wir halt laufen.", "translation": "We'll just have to walk, then." },
+      { "text": "Er ist halt so, da kannst du nichts machen.", "translation": "That's just how he is, there's nothing to be done." }
+    ],
+    "origin": {
+      "etymology": "From the adverb halt, 'certainly, indeed', an Upper German form related to the comparative of 'hold/gehalten'. Nothing to do with the imperative halt! ('stop!'), which is a different word that happens to look identical — a coincidence that confuses almost every learner at least once.",
+      "sources": []
+    },
+    "relatedTerms": ["german/ne", "german/voll", "german/na"],
+    "synonyms": ["eben", "nun mal"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "ne",
+    "term": "ne?",
+    "partOfSpeech": ["interjection"],
+    "register": "colloquial",
+    "categories": ["discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "NEH — short, rising" },
+    "definitions": [
+      { "text": "The German tag question: 'isn't it', 'right?', 'you know?'. Tacked onto a statement to invite agreement, and used far more densely than any English equivalent." },
+      { "text": "It is the single clearest regional marker in German speech. Ne in the north and most of the centre, gell or gelle across the south, wa in Berlin, oder in the southwest and Switzerland, woll in the Sauerland, nich in parts of the north. Speakers rarely notice they have one until they move." }
+    ],
+    "examples": [
+      { "text": "Das war doch gestern, ne?", "translation": "That was yesterday, wasn't it?" },
+      { "text": "Ist ganz schön teuer geworden, ne?", "translation": "Got pretty expensive, hasn't it?" }
+    ],
+    "origin": {
+      "etymology": "A reduction of 'nicht wahr?', 'not true?', via 'nich wahr' and 'nech' to a single syllable. The southern gell has a parallel history from 'gelten', 'to hold true'.",
+      "sources": []
+    },
+    "relatedTerms": ["german/halt", "german/voll", "german/na"],
+    "variants": ["nech", "wa", "gell", "woll"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "voll",
+    "term": "voll",
+    "partOfSpeech": ["adverb", "adjective"],
+    "register": "informal",
+    "categories": ["discourse", "approval"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "literalMeaning": "Full.",
+    "pronunciation": { "respelling": "FOL" },
+    "definitions": [
+      { "text": "Totally, really — the workhorse intensifier of German youth and casual speech: voll gut, voll nervig, voll der Stress." },
+      { "text": "The construction 'voll der/die/das + noun' ('voll der Hammer', 'voll die Katastrophe') is the distinctive part. It has no standard-German justification, exists only in speech, and is one of the reliable markers of informal register." },
+      { "text": "As a plain adjective of a person, voll means drunk — 'der war total voll'. Context keeps the two apart without difficulty." }
+    ],
+    "examples": [
+      { "text": "Das Essen war voll lecker.", "translation": "The food was seriously good." },
+      { "text": "Das ist voll der Quatsch.", "translation": "That's complete nonsense." },
+      { "text": "Er war schon um neun voll.", "translation": "He was already hammered by nine." }
+    ],
+    "origin": {
+      "etymology": "The ordinary adjective voll pressed into service as an intensifier, a development of the 1980s that became the defining tic of German youth speech in the 1990s. Unlike most tics of that decade it never went away; it simply stopped being marked as young.",
+      "firstAttested": "1980s",
+      "sources": []
+    },
+    "relatedTerms": ["german/krass", "german/geil", "german/halt"],
+    "synonyms": ["total", "mega", "richtig"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "wallah",
+    "term": "wallah",
+    "partOfSpeech": ["interjection"],
+    "register": "informal",
+    "categories": ["discourse", "emotion"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "literalMeaning": "By God (Arabic).",
+    "pronunciation": { "respelling": "VAH-lah" },
+    "definitions": [
+      { "text": "I swear; honestly; no joke. An oath used to insist that what you are saying is true, and the single most recognisable item of Kiezdeutsch — the multi-ethnic urban German of Berlin, Hamburg, Duisburg and the Rhine-Ruhr." },
+      { "text": "Frequently doubled with a German gloss: 'Wallah, ich schwör'. Used by young speakers across ethnic backgrounds, with no religious force whatever for most of them." },
+      { "text": "Sharply age- and register-marked. From a teenager it is unremarkable; from a thirty-five-year-old in an office it sounds like costume." }
+    ],
+    "examples": [
+      { "text": "Wallah, ich war das nicht.", "translation": "I swear, it wasn't me." },
+      { "text": "Wallah Bruder, das ist echt passiert.", "translation": "Honestly bro, that actually happened." }
+    ],
+    "origin": {
+      "etymology": "Arabic والله wallāh, 'by God', an ordinary oath formula across the Arabic-speaking world; Turkish has it as vallah, and the Turkish route is probably the more important one for German. Established in German schoolyards by the 1990s and documented as a grammaticalised discourse marker by linguists studying Kiezdeutsch from the 2000s onward.",
+      "firstAttested": "1990s",
+      "sources": []
+    },
+    "relatedTerms": ["german/yalla", "german/digga", "german/talahon"],
+    "variants": ["vallah", "walla", "wallah billah"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "spaeti",
+    "term": "Späti",
+    "partOfSpeech": ["noun"],
+    "register": "regional",
+    "categories": ["everyday"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "region": "Berlin",
+    "pronunciation": { "respelling": "SHPAY-tee" },
+    "definitions": [
+      { "text": "The late-opening corner shop — beer, cigarettes, crisps, a bottle opener chained to the counter and often a couple of chairs outside. A Berlin institution, and the reason the city's street-drinking culture works." },
+      { "text": "Berlin and Brandenburg usage. Other cities have the shops but not the word: Kiosk in the Ruhr and Cologne, Büdchen in Düsseldorf and Mainz, Trinkhalle in the Ruhr, Spätkauf as the unclipped Berlin original." }
+    ],
+    "examples": [
+      { "text": "Ich geh kurz zum Späti, brauchst du was?", "translation": "I'm popping to the corner shop, do you need anything?" },
+      { "text": "Wir haben den halben Abend vorm Späti gesessen.", "translation": "We spent half the evening sitting outside the corner shop." }
+    ],
+    "origin": {
+      "etymology": "Clipped from Spätverkaufsstelle, the East German state 'late sales outlet' that stayed open when everything else shut — so the institution is genuinely a GDR inheritance, which is why it is concentrated in the eastern districts. Spätkauf is the post-1990 form and Späti the affectionate clipping of it.",
+      "firstAttested": "GDR-era as Spätverkauf; Späti from the 1990s",
+      "sources": []
+    },
+    "relatedTerms": ["german/schrippe", "german/vorgluehen", "german/kohle"],
+    "synonyms": ["Spätkauf", "Büdchen", "Trinkhalle", "Kiosk"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "handy",
+    "term": "Handy",
+    "partOfSpeech": ["noun"],
+    "register": "colloquial",
+    "categories": ["everyday"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "HEN-dee" },
+    "definitions": [
+      { "text": "A mobile phone. The standard German word — not slang at all any more, and used in contracts and news bulletins — but it is the country's most famous pseudo-anglicism, and English speakers reliably misparse it." },
+      { "text": "'Handy' in English is an adjective meaning convenient. No English-speaking country calls a phone a handy, which is a recurring source of confusion in German-English conversations." }
+    ],
+    "examples": [
+      { "text": "Hast du mein Handy gesehen?", "translation": "Have you seen my phone?" },
+      { "text": "Mein Handy ist gleich leer.", "translation": "My phone's about to die." }
+    ],
+    "origin": {
+      "etymology": "Coined in German marketing in the early 1990s from the English adjective 'handy', probably with an assist from Motorola's wartime Handie-Talkie, whose name was known in the trade. The much-repeated story that it comes from Swabians asking 'Hän die kae Schnur?' ('have they got no cord?') is a joke, not an etymology, and is told as one.",
+      "firstAttested": "early 1990s",
+      "sources": []
+    },
+    "relatedTerms": ["german/beamer", "german/homeoffice", "german/shitstorm"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "beamer",
+    "term": "Beamer",
+    "partOfSpeech": ["noun"],
+    "register": "colloquial",
+    "categories": ["everyday"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "BEE-mer" },
+    "definitions": [
+      { "text": "A video projector — the thing on the ceiling of a meeting room. Entirely ordinary German, and entirely opaque to English speakers, for whom a Beemer is a BMW." },
+      { "text": "The German for the car is simply BMW, pronounced bay-em-VAY. The overlap catches out German speakers abroad about as often as it catches out English speakers in Germany." }
+    ],
+    "examples": [
+      { "text": "Kannst du den Beamer anschließen?", "translation": "Can you hook up the projector?" },
+      { "text": "Der Beamer im Konferenzraum ist kaputt.", "translation": "The projector in the meeting room is broken." }
+    ],
+    "origin": {
+      "etymology": "Built in German from the English verb 'beam' plus the agent suffix, in the same 1990s office-equipment wave that produced Handy. English has no such noun for a projector, so it is a German invention using English parts, not a borrowing.",
+      "firstAttested": "1990s",
+      "sources": []
+    },
+    "relatedTerms": ["german/handy", "german/homeoffice", "german/shitstorm"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "shitstorm",
+    "term": "Shitstorm",
+    "partOfSpeech": ["noun"],
+    "register": "colloquial",
+    "categories": ["everyday", "emotion"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "SHIT-shtorm" },
+    "definitions": [
+      { "text": "A wave of public outrage, almost always online — a company, politician or influencer 'bekommt einen Shitstorm'. Narrower than the English word, which covers any chaotic disaster." },
+      { "text": "The register is the surprise: German speakers do not hear the obscenity. It was named Anglicism of the Year 2011, appears in broadsheet headlines, and Angela Merkel used it in a public appearance in 2012 without anyone commenting on the language. Native English speakers in the room usually notice." }
+    ],
+    "examples": [
+      { "text": "Die Kampagne hat einen ordentlichen Shitstorm ausgelöst.", "translation": "The campaign set off a proper storm of outrage." },
+      { "text": "Nach dem Interview gab es einen Shitstorm auf Twitter.", "translation": "There was a pile-on on Twitter after the interview." }
+    ],
+    "origin": {
+      "etymology": "Borrowed from English around 2010 but immediately narrowed to the online-outrage sense, which English did not have at the time and only partly developed later. The narrowing plus the total loss of vulgarity makes it a textbook case of what German does to English loans.",
+      "firstAttested": "around 2010",
+      "sources": []
+    },
+    "relatedTerms": ["german/handy", "german/cringe", "german/beamer"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "bock-haben",
+    "term": "Bock haben",
+    "partOfSpeech": ["phrase", "idiom"],
+    "register": "colloquial",
+    "categories": ["everyday", "emotion"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "literalMeaning": "To have a billy goat.",
+    "pronunciation": { "respelling": "BOCK HAH-ben" },
+    "definitions": [
+      { "text": "To fancy something, to be up for it. 'Hast du Bock auf Kino?' — do you fancy the cinema?" },
+      { "text": "Far commoner in the negative. 'Keinen Bock' is the standard German expression of can't-be-bothered, and 'null Bock' as a generational label was applied to West German teenagers throughout the 1980s." },
+      { "text": "Also used with a verb: 'Ich hab keinen Bock, das nochmal zu machen.'" }
+    ],
+    "examples": [
+      { "text": "Hast du Bock, heute Abend rauszugehen?", "translation": "Do you fancy going out tonight?" },
+      { "text": "Ich hab echt null Bock auf die Sitzung.", "translation": "I really cannot be bothered with this meeting." }
+    ],
+    "origin": {
+      "etymology": "Not the goat, despite the spelling and a persistent folk etymology about rutting animals. It comes from Romani bokh, 'hunger', which entered German through Rotwelsch — the same route that gave Kaff, Zaster and a good deal of other German slang. German speakers then respelled it as the existing word Bock, and the goat took over the imagination afterwards.",
+      "firstAttested": "19th century",
+      "sources": []
+    },
+    "relatedTerms": ["german/malochen", "german/fressen", "german/geil"],
+    "synonyms": ["Lust haben"],
+    "variants": ["null Bock", "keinen Bock"],
+    "reviewedBy": "Editorial team"
+  }
+]

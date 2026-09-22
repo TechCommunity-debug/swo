@@ -1,0 +1,1387 @@
+[
+  {
+    "slug": "bacano",
+    "term": "bacano",
+    "partOfSpeech": ["adjective"],
+    "register": "informal",
+    "categories": ["approval"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "bah-KAH-noh" },
+    "definitions": [
+      { "text": "Great, cool, enjoyable. The safe all-purpose compliment in Colombian Spanish — usable in front of your in-laws, which is exactly what distinguishes it from chimba." },
+      { "text": "Of a person: easy-going, decent, good company. 'Es muy bacano' is a character reference, not a comment on style." }
+    ],
+    "examples": [
+      { "text": "El plan está bacano, yo me le mido.", "translation": "The plan sounds great, I'm in." },
+      { "text": "Conocí al papá de Laura y es un tipo bacano.", "translation": "I met Laura's dad and he's a really decent guy.", "context": "The 'good sort' sense — nothing to do with being fashionable." },
+      { "text": "Qué bacano que hayas venido.", "translation": "It's so good that you came." }
+    ],
+    "origin": {
+      "etymology": "Related to bacán, which travelled through the Río de la Plata in the early twentieth century meaning a man who keeps a woman, and is usually traced from there to Genoese bacan, 'master of the house'. The route into Colombia is not documented and the semantic jump to 'enjoyable' happened locally; treat any confident single-source origin story as speculation.",
+      "firstAttested": "mid-20th century",
+      "sources": []
+    },
+    "relatedTerms": ["colombian/chimba", "colombian/berraco", "colombian/teso"],
+    "synonyms": ["bacán", "chévere", "una nota"],
+    "variants": ["bacana", "bacanísimo"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "chimba",
+    "term": "chimba",
+    "partOfSpeech": ["noun", "adjective", "interjection"],
+    "register": "vulgar",
+    "categories": ["approval", "emotion"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "CHEEM-bah" },
+    "definitions": [
+      { "text": "Excellent, brilliant. '¡Qué chimba!' is the strongest everyday expression of enthusiasm Colombians have, and 'una chimba de carro' is a fantastic car." },
+      { "text": "With de, the exact opposite: 'de la chimba' means fake, shoddy or not happening at all. Context and preposition carry the whole meaning." },
+      { "text": "Vulgar term for the vulva. This sense is the reason the word is not neutral, and the reason older or more conservative speakers wince at it." }
+    ],
+    "examples": [
+      { "text": "¡Qué chimba de concierto, parce!", "translation": "What an incredible gig, man!" },
+      { "text": "Ese reloj es de la chimba, se lo compró en el semáforo.", "translation": "That watch is a knock-off, he bought it at a traffic light.", "context": "The negative sense. Same word, opposite verdict." },
+      { "text": "Se ganó la beca. — ¡Ah, qué chimba!", "translation": "He got the scholarship. — Oh, that's amazing!" }
+    ],
+    "origin": {
+      "etymology": "Origin genuinely obscure. In Antioquian parlache the word also named a home-made pistol, and the anatomical sense is recorded across the country; which came first is unresolved. The widely repeated Quechua derivation has no solid support.",
+      "sources": []
+    },
+    "relatedTerms": ["colombian/bacano", "colombian/mera", "colombian/gonorrea", "colombian/berraco"],
+    "variants": ["chimbo", "chimbita"],
+    "usageWarning": ["vulgar", "context-dependent"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "berraco",
+    "term": "berraco",
+    "partOfSpeech": ["adjective", "noun"],
+    "register": "colloquial",
+    "categories": ["approval", "people"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "beh-RRAH-koh" },
+    "literalMeaning": "Boar — an uncastrated breeding pig.",
+    "definitions": [
+      { "text": "Tough, gutsy, formidably good at something. 'Es un berraco' is high praise for someone who works relentlessly or has come through something hard." },
+      { "text": "Of a task or situation: brutally difficult. 'Está berraco el examen' means the exam is a monster." },
+      { "text": "Furious. Estar berraco is to be seething, and emberracarse is to lose your temper." }
+    ],
+    "examples": [
+      { "text": "Ese man es un berraco, levantó la empresa él solo.", "translation": "That guy is a machine — he built the company on his own." },
+      { "text": "Está berraco conseguir cita con ese médico.", "translation": "Getting an appointment with that doctor is a nightmare." },
+      { "text": "No le hable ahora que está berraco.", "translation": "Don't talk to him right now, he's furious.", "context": "Three different senses hang on tone and on the verb; 'ser berraco' praises, 'estar berraco' complains." }
+    ],
+    "origin": {
+      "etymology": "From verraco, the standard Spanish word for a breeding boar. The animal's stubborn strength became a compliment, and its bad temper became the anger sense. Both spellings circulate; the b- form is far more common in Colombian writing even though dictionaries prefer v-. Berraquera, the abstract noun, is a national point of pride, especially in Antioquia.",
+      "sources": []
+    },
+    "relatedTerms": ["colombian/teso", "colombian/bacano", "colombian/chimba"],
+    "synonyms": ["teso", "duro"],
+    "variants": ["verraco", "berraquera"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "teso",
+    "term": "teso",
+    "partOfSpeech": ["adjective", "noun"],
+    "register": "informal",
+    "categories": ["approval", "people"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "TEH-soh" },
+    "definitions": [
+      { "text": "Extremely good at something; an expert. 'Un teso del Excel' is the person the whole office asks." },
+      { "text": "Of a thing or situation: hard, intense, heavy going. 'Está teso el tráfico' — the traffic is brutal." }
+    ],
+    "examples": [
+      { "text": "Llame a Andrés, ese man es teso arreglando motos.", "translation": "Call Andrés, he's a wizard with motorbikes." },
+      { "text": "Está teso conseguir apartamento por acá.", "translation": "Finding a flat around here is rough." }
+    ],
+    "origin": {
+      "etymology": "From standard Spanish teso, 'taut, stretched tight'. The metaphor is the same one behind English 'hard': difficulty and competence share a word, and only the syntax tells them apart.",
+      "sources": []
+    },
+    "relatedTerms": ["colombian/berraco", "colombian/bacano", "colombian/man"],
+    "synonyms": ["duro", "berraco", "bacán"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "mera",
+    "term": "mera",
+    "partOfSpeech": ["adjective", "adverb"],
+    "register": "regional",
+    "categories": ["approval", "discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "region": "Cali & Valle del Cauca",
+    "pronunciation": { "respelling": "MEH-rah" },
+    "definitions": [
+      { "text": "Intensifier placed before a noun, meaning 'absolute' or 'total': mera nota, mera chimba, mera vaina. Strongly marked as vallecaucano and Pacific-coast speech." },
+      { "text": "On its own, as an exclamation of astonishment — '¡Mera!' — roughly 'unbelievable'." }
+    ],
+    "examples": [
+      { "text": "¡Mera rumba la de anoche, ve!", "translation": "Last night's party was something else, man!" },
+      { "text": "Se compró una mera camioneta.", "translation": "He bought himself one hell of a truck." }
+    ],
+    "origin": {
+      "etymology": "From mero/mera, 'mere, pure', which in several American varieties flipped from limiting to intensifying. The Colombian use is concentrated in Cali, Buenaventura and the Pacific littoral; a Bogotá speaker using it is quoting, not speaking.",
+      "sources": []
+    },
+    "relatedTerms": ["colombian/chimba", "colombian/bacano", "colombian/rumbear"],
+    "variants": ["mero"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "parcero",
+    "term": "parcero",
+    "partOfSpeech": ["noun"],
+    "register": "informal",
+    "categories": ["greetings", "people"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "region": "Medellín & Antioquia",
+    "pronunciation": { "respelling": "par-SEH-roh" },
+    "definitions": [
+      { "text": "Mate, buddy. Both a term of address and a noun for a friend. The clipped form parce is far more frequent in speech than the full word." },
+      { "text": "Used to address a stranger of roughly your own age and class, the way English uses 'mate' — warm, but presumptuous if aimed at someone much older." }
+    ],
+    "examples": [
+      { "text": "Parce, ¿usted sabe a qué hora abren?", "translation": "Mate, do you know what time they open?" },
+      { "text": "Voy con unos parceros del trabajo.", "translation": "I'm going with some workmates." },
+      { "text": "¡Ey, parcero, cuánto tiempo!", "translation": "Hey man, long time no see!" }
+    ],
+    "origin": {
+      "etymology": "From aparcero, 'sharecropper, partner', and cognate with Portuguese parceiro — both from Latin partiarius, 'one who shares'. It spread from Medellín's parlache to the whole country through 1990s music and television. The popular claim that the drug trade carried it in from Brazil is repeated constantly and evidenced nowhere.",
+      "firstAttested": "1980s in Medellín; nationwide by the 2000s",
+      "sources": []
+    },
+    "relatedTerms": ["colombian/quiubo", "colombian/man", "colombian/pues", "colombian/bien-o-que"],
+    "synonyms": ["llave", "socio", "cucho"],
+    "variants": ["parce", "parcerito"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "quiubo",
+    "term": "quiubo",
+    "partOfSpeech": ["interjection", "phrase"],
+    "register": "informal",
+    "categories": ["greetings"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "KYOO-boh" },
+    "literalMeaning": "What was there? — a worn-down ¿qué hubo?",
+    "definitions": [
+      { "text": "Hi; what's up. The default informal greeting across Colombia, usually first in the sentence and usually followed by a name or by parce." },
+      { "text": "With rising intonation and no greeting function: 'so what happened?', pressing someone for an answer they owe you." }
+    ],
+    "examples": [
+      { "text": "¡Quiubo, parce! ¿Cómo va todo?", "translation": "Hey man! How's everything going?" },
+      { "text": "Quiubo, ¿entonces sí vamos o no?", "translation": "So what's the deal, are we going or not?", "context": "Impatient sense — asked of someone who has been dodging the question." }
+    ],
+    "origin": {
+      "etymology": "Phonetic reduction of ¿qué hubo?, literally 'what has there been?'. The spelling is unsettled — quiubo, qué hubo and the eye-dialect q'hubo all appear, and a Bogotá tabloid is named after the last of them.",
+      "sources": []
+    },
+    "relatedTerms": ["colombian/parcero", "colombian/que-mas", "colombian/bien-o-que"],
+    "synonyms": ["qué más", "bien o qué"],
+    "variants": ["qué hubo", "q'hubo", "quiubo pues"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "que-mas",
+    "term": "¿qué más?",
+    "partOfSpeech": ["phrase"],
+    "register": "informal",
+    "categories": ["greetings"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "keh MAHS" },
+    "literalMeaning": "What else?",
+    "definitions": [
+      { "text": "How are you? — a greeting, not a question about anything additional. This is the single most reliable way to spot a foreigner: answered literally, it produces bafflement on both sides." },
+      { "text": "Often expanded to ¿qué más pues? in Antioquia, where the pues is obligatory rather than decorative." }
+    ],
+    "examples": [
+      { "text": "¿Qué más, Juli? ¿Cómo te ha ido?", "translation": "Hey Juli, how have you been?" },
+      { "text": "¿Qué más pues, mija?", "translation": "How's it going, love?", "context": "Paisa form. The pues carries no meaning at all here." }
+    ],
+    "origin": {
+      "etymology": "An elliptical greeting formula of the kind Spanish produces readily — compare ¿qué tal?. The literal reading survives in other varieties, which is precisely why it confuses visiting Spaniards and Mexicans.",
+      "sources": []
+    },
+    "relatedTerms": ["colombian/quiubo", "colombian/bien-o-que", "colombian/pues"],
+    "synonyms": ["quiubo", "bien o qué"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "bien-o-que",
+    "term": "¿bien o qué?",
+    "partOfSpeech": ["phrase"],
+    "register": "informal",
+    "categories": ["greetings"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "region": "Medellín & Antioquia",
+    "pronunciation": { "respelling": "BYEN oh KEH" },
+    "literalMeaning": "Well, or what?",
+    "definitions": [
+      { "text": "Hello; how's it going. A paisa greeting that has spread nationally among under-forties, delivered as a statement rather than a genuine enquiry." },
+      { "text": "Used to prod someone who is stalling: 'well, are we doing this or not?'" }
+    ],
+    "examples": [
+      { "text": "¡Bien o qué, parce!", "translation": "Hey, how's it going, man!" },
+      { "text": "Bien o qué, ¿nos vamos ya?", "translation": "Right then — are we heading off?" }
+    ],
+    "origin": {
+      "etymology": "A contraction of the greeting-and-answer pair ¿bien? / ¿o qué?. The o qué tag is productive in Colombian speech generally — ¿estudia o qué?, ¿comemos o qué? — and works as a nudge towards a decision.",
+      "sources": []
+    },
+    "relatedTerms": ["colombian/quiubo", "colombian/que-mas", "colombian/parcero"],
+    "synonyms": ["quiubo", "qué más"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "sumerce",
+    "term": "sumercé",
+    "partOfSpeech": ["noun"],
+    "register": "regional",
+    "categories": ["greetings", "discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "region": "Andean interior",
+    "pronunciation": { "respelling": "soo-mehr-SEH" },
+    "literalMeaning": "Your mercy — from su merced.",
+    "definitions": [
+      { "text": "A second-person pronoun and form of address used in Boyacá, Cundinamarca and parts of Bogotá. It is simultaneously deferential and affectionate, which has no English equivalent." },
+      { "text": "Crucially, it runs in both directions: grandparents say it to grandchildren and spouses say it to each other. Reading it as pure deference misses the point." }
+    ],
+    "examples": [
+      { "text": "¿Sumercé ya almorzó?", "translation": "Have you had lunch?" },
+      { "text": "Venga, sumercé, siéntese acá.", "translation": "Come here, dear, sit down.", "context": "An older woman to a child — affection, not respect." }
+    ],
+    "origin": {
+      "etymology": "A worn-down su merced, the colonial-era honorific that also produced usted. It survived in the Andean highlands after dying out elsewhere. Its association with rural Boyacá means urban speakers sometimes use it jokingly, which rural speakers notice.",
+      "firstAttested": "colonial period",
+      "sources": []
+    },
+    "relatedTerms": ["colombian/que-mas", "colombian/cucho", "colombian/listo"],
+    "variants": ["su mercé", "sumercecita"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "ome",
+    "term": "ome",
+    "partOfSpeech": ["interjection", "noun"],
+    "register": "regional",
+    "categories": ["greetings", "discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "region": "Caribbean Coast",
+    "pronunciation": { "respelling": "OH-meh" },
+    "definitions": [
+      { "text": "Man, mate — a vocative on the Caribbean coast, tacked on to the end of clauses more often than the beginning." },
+      { "text": "As a standalone interjection of protest or disbelief, close to 'come on'." }
+    ],
+    "examples": [
+      { "text": "¡Ajá, ome, no sea así!", "translation": "Come on, man, don't be like that!" },
+      { "text": "Espérame ahí, ome.", "translation": "Wait for me there, mate." }
+    ],
+    "origin": {
+      "etymology": "A reduction of hombre, with the coastal loss of the aspirated h- and the final -r. Written ome, hombe or ombe depending on the writer; there is no settled orthography because it is a spoken form.",
+      "sources": []
+    },
+    "relatedTerms": ["colombian/eche", "colombian/no-joda", "colombian/vaina"],
+    "synonyms": ["hombe", "ajá"],
+    "variants": ["hombe", "ombe"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "gomelo",
+    "term": "gomelo",
+    "partOfSpeech": ["noun", "adjective"],
+    "register": "colloquial",
+    "categories": ["people"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "region": "Bogotá",
+    "pronunciation": { "respelling": "goh-MEH-loh" },
+    "definitions": [
+      { "text": "A rich, preppy young person — private school, brand names, a particular drawled accent, a north-Bogotá postcode. Mildly derisive but not an insult you would be punched for." },
+      { "text": "As an adjective, of clothes, bars or neighbourhoods: posh in a slightly try-hard way." }
+    ],
+    "examples": [
+      { "text": "Ese bar es muy gomelo para mi bolsillo.", "translation": "That bar is far too posh for my wallet." },
+      { "text": "Llegó un combo de gomelos en camionetas.", "translation": "A pack of rich kids turned up in SUVs." }
+    ],
+    "origin": {
+      "etymology": "Most plausibly from gomoso, a nineteenth-century Colombian word for a dandy or fop. The various stories tying it to a particular Bogotá family or shop are folk etymology and mutually contradictory.",
+      "firstAttested": "1970s in its current sense",
+      "sources": []
+    },
+    "relatedTerms": ["colombian/nero", "colombian/lobo", "colombian/man"],
+    "synonyms": ["pepito", "cuico"],
+    "variants": ["gomela", "gomelito"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "nero",
+    "term": "ñero",
+    "partOfSpeech": ["noun", "adjective"],
+    "register": "colloquial",
+    "categories": ["people", "insults"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "NYEH-roh" },
+    "definitions": [
+      { "text": "A person read as poor, rough and streetwise, or anything associated with them — clothes, music, manners. The word is class contempt in one syllable, and it lands that way." },
+      { "text": "Used between friends of the same background it can be neutral or even warm, the same way ñero-adjacent terms work elsewhere. Used downwards across a class line it is an insult." }
+    ],
+    "examples": [
+      { "text": "No sea ñero, coma con cubiertos.", "translation": "Don't be such a slob, use your cutlery.", "context": "Said within a family this is scolding; said to a stranger it is a class slur." },
+      { "text": "Ese vallenato está muy ñero, cámbielo.", "translation": "That vallenato is proper naff, put something else on." }
+    ],
+    "origin": {
+      "etymology": "Apocope of compañero, the same route that gave parcero its warmth — but here the clipping attached to street and prison speech in Bogotá and the word picked up the stigma of its speakers rather than their solidarity.",
+      "sources": []
+    },
+    "relatedTerms": ["colombian/gomelo", "colombian/lobo", "colombian/gonorrea"],
+    "synonyms": ["gamín", "nea"],
+    "variants": ["ñera", "nea"],
+    "usageWarning": ["offensive", "context-dependent"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "pelado",
+    "term": "pelado",
+    "partOfSpeech": ["noun"],
+    "register": "informal",
+    "categories": ["people"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "peh-LAH-doh" },
+    "literalMeaning": "Peeled, bald.",
+    "definitions": [
+      { "text": "A kid, a young person. Covers roughly ages five to twenty-five depending on how old the speaker is." },
+      { "text": "In the mouth of parents, simply 'my children': mis pelaos." },
+      { "text": "A young man or woman one is involved with — 'el pelado con el que sale' is the guy she's seeing." }
+    ],
+    "examples": [
+      { "text": "Los pelaos están en el parque.", "translation": "The kids are at the park." },
+      { "text": "Ese pelao apenas tiene diecisiete.", "translation": "That lad is only seventeen." },
+      { "text": "¿Y la pelada esa quién es?", "translation": "And who's that girl?", "context": "Slightly dismissive in this frame — the 'esa' does the work, not the noun." }
+    ],
+    "origin": {
+      "etymology": "From pelar, 'to peel'. Newborns are hairless, so pelado meant an infant and then generalised upwards. Note the false friend: in Mexico pelado means a coarse, ill-mannered person, and in Spain it means broke.",
+      "sources": []
+    },
+    "relatedTerms": ["colombian/man", "colombian/cucho", "colombian/tragado"],
+    "synonyms": ["chino", "sardino", "man"],
+    "variants": ["pelao", "pelada", "pelaíto"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "man",
+    "term": "man",
+    "partOfSpeech": ["noun"],
+    "register": "informal",
+    "categories": ["people"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "MAHN" },
+    "definitions": [
+      { "text": "A guy, a bloke — but grammatically Colombian, not English: it takes a Spanish article and is nearly always el man, referring to a specific man already in view." },
+      { "text": "La man, with the feminine article and no change to the noun, is a woman. This is the part that surprises English speakers, and it is completely ordinary here." },
+      { "text": "Unlike English 'man', it is not used to address anyone. You talk about el man; you never call someone man." }
+    ],
+    "examples": [
+      { "text": "El man de la tienda me fió.", "translation": "The bloke at the corner shop let me pay later." },
+      { "text": "La man se fue sin decir nada.", "translation": "The woman just left without a word.", "context": "Feminine article, unchanged noun — standard, if slightly cool in tone." },
+      { "text": "¿Y ese man qué hace acá?", "translation": "And what's that guy doing here?" }
+    ],
+    "origin": {
+      "etymology": "Borrowed from English, probably through the Caribbean coast and through dubbed television, and then fully naturalised: it pluralises as los manes and inflects its article rather than its stem.",
+      "firstAttested": "late 20th century",
+      "sources": []
+    },
+    "relatedTerms": ["colombian/pelado", "colombian/parcero", "colombian/teso", "colombian/gomelo"],
+    "synonyms": ["tipo", "pelado", "chino"],
+    "variants": ["manes"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "sapo",
+    "term": "sapo",
+    "partOfSpeech": ["noun", "adjective"],
+    "register": "colloquial",
+    "categories": ["people", "insults"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "SAH-poh" },
+    "literalMeaning": "Toad.",
+    "definitions": [
+      { "text": "A snitch — someone who reports you to the authorities, the boss or your parents. In some contexts this is the most dangerous accusation in the language, and Colombians are careful with it." },
+      { "text": "More mildly and far more commonly: nosy, a busybody, or a shameless brown-noser. 'No sea sapo' usually just means mind your own business." },
+      { "text": "As a verb, sapear: to grass someone up." }
+    ],
+    "examples": [
+      { "text": "No sea sapo, eso no es problema suyo.", "translation": "Don't be nosy, it's none of your business." },
+      { "text": "Alguien sapeó lo de la fiesta y nos cogieron.", "translation": "Somebody grassed about the party and we got caught." },
+      { "text": "Es un sapo con el jefe, todo el día detrás de él.", "translation": "He's a total suck-up with the boss, trailing him all day.", "context": "The brown-nose sense; no informing involved." }
+    ],
+    "origin": {
+      "etymology": "From sapo, 'toad'. The metaphor runs through the animal's bulging eyes and wide mouth — it sees everything and it opens up. Shared across much of the Andes, but the informer sense carries a weight in Colombia that it does not carry elsewhere, for reasons the country's recent history makes obvious.",
+      "sources": []
+    },
+    "relatedTerms": ["colombian/gonorrea", "colombian/dar-papaya", "colombian/nero"],
+    "synonyms": ["chismoso", "lambón"],
+    "usageWarning": ["context-dependent"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "cucho",
+    "term": "cucho",
+    "partOfSpeech": ["noun"],
+    "register": "informal",
+    "categories": ["people"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "KOO-choh" },
+    "definitions": [
+      { "text": "An old person, or anyone older than the speaker by a generation. Not polite, but not cruel either — it sits about where English 'old boy' does." },
+      { "text": "Mis cuchos: my parents. This is the commonest use by far among young people, and it is affectionate." },
+      { "text": "In schools, a teacher. 'El cucho de mate' is the maths teacher." }
+    ],
+    "examples": [
+      { "text": "Me toca pedirles permiso a mis cuchos.", "translation": "I have to ask my folks for permission." },
+      { "text": "La cucha me hizo ajiaco.", "translation": "My mum made me ajiaco." },
+      { "text": "El cucho de sociales dejó trabajo para el lunes.", "translation": "The social studies teacher set homework for Monday." }
+    ],
+    "origin": {
+      "etymology": "Probably from cucho in the sense of 'hunched, bent over', which is recorded in several American varieties. It reached parents by the usual route: young people naming adults by the most visible sign of age, then softening the word through constant affectionate use.",
+      "sources": []
+    },
+    "relatedTerms": ["colombian/pelado", "colombian/sumerce", "colombian/man"],
+    "synonyms": ["viejo", "cuchito"],
+    "variants": ["cucha", "cuchos"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "lobo",
+    "term": "lobo",
+    "partOfSpeech": ["adjective", "noun"],
+    "register": "colloquial",
+    "categories": ["people", "insults"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "LOH-boh" },
+    "literalMeaning": "Wolf.",
+    "definitions": [
+      { "text": "Tacky, gaudy, in poor taste. Applied to clothes, decoration, cars, weddings and people, and almost always about excess rather than cheapness — too much gold, too tight, too loud." },
+      { "text": "Of a person: someone whose taste marks them out, which in practice means the judgement is about class as much as aesthetics. Worth knowing before you use it." }
+    ],
+    "examples": [
+      { "text": "Esa camisa está muy loba, hermano.", "translation": "That shirt is seriously tacky, mate." },
+      { "text": "El matrimonio fue lobísimo: carroza y todo.", "translation": "The wedding was outrageously naff — horse-drawn carriage, the lot." }
+    ],
+    "origin": {
+      "etymology": "Not from the animal directly. The likeliest route is through colonial casta vocabulary, where lobo named a mixed-race category, leaving behind a word whose sense of 'low-status' outlived the system that coined it. That history is invisible to present-day speakers but it explains why the judgement always tilts the way it does.",
+      "sources": []
+    },
+    "relatedTerms": ["colombian/gomelo", "colombian/nero", "colombian/que-boleta"],
+    "synonyms": ["corroncho", "guache"],
+    "variants": ["loba", "lobísimo"],
+    "usageWarning": ["context-dependent"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "gonorrea",
+    "term": "gonorrea",
+    "partOfSpeech": ["noun", "adjective"],
+    "register": "vulgar",
+    "categories": ["insults", "people"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "region": "Medellín & Antioquia",
+    "pronunciation": { "respelling": "goh-noh-RREH-ah" },
+    "literalMeaning": "Gonorrhoea.",
+    "definitions": [
+      { "text": "A contemptible person. At full force this is close to the strongest insult in Colombian Spanish and has started fights." },
+      { "text": "Among close male friends in Medellín, an affectionate vocative — '¡quiubo, gonorrea!' — exactly parallel to the way English speakers greet friends with words they would never accept from a stranger." },
+      { "text": "As an intensifier for anything unbearable: 'un frío gonorrea', a filthy cold." }
+    ],
+    "examples": [
+      { "text": "Ese man es una gonorrea, no le preste plata.", "translation": "That guy is a piece of work, don't lend him money." },
+      { "text": "¡Quiubo, gonorrea, dónde se había metido!", "translation": "Hey, you old bastard, where have you been!", "context": "Only works between men who are genuinely close, and only really in Medellín. A foreigner attempting it will be misread." },
+      { "text": "Está haciendo un calor gonorrea.", "translation": "It's disgustingly hot." }
+    ],
+    "origin": {
+      "etymology": "The disease name, taken up in Medellín's parlache in the 1980s and 1990s and spread nationally by television and music. Disease-as-insult is an old pattern in Spanish, but the friendly vocative sense is specifically Antioquian and is the part outsiders get wrong.",
+      "firstAttested": "1980s",
+      "sources": []
+    },
+    "relatedTerms": ["colombian/malparido", "colombian/nero", "colombian/parcero", "colombian/chimba"],
+    "synonyms": ["malparido", "hijueputa"],
+    "variants": ["gono", "gonorrea hijueputa"],
+    "usageWarning": ["vulgar", "offensive", "context-dependent"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "malparido",
+    "term": "malparido",
+    "partOfSpeech": ["noun", "adjective"],
+    "register": "taboo",
+    "categories": ["insults"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "mal-pah-REE-doh" },
+    "literalMeaning": "Badly born — from mal + parir, 'to give birth'.",
+    "definitions": [
+      { "text": "Bastard, son of a bitch. A top-tier insult: it attacks the addressee's mother by implication, which is what gives it its force." },
+      { "text": "As an intensifier after a noun, marking extreme irritation: 'este trancón malparido', this bloody awful traffic jam." }
+    ],
+    "examples": [
+      { "text": "Me robaron la bici, malparidos.", "translation": "They stole my bike, the bastards." },
+      { "text": "Ese frío malparido no me deja dormir.", "translation": "This god-awful cold won't let me sleep.", "context": "Intensifier use — aimed at the weather, not a person, but still not said in front of your grandmother." }
+    ],
+    "origin": {
+      "etymology": "Transparently compositional: mal parido, 'badly delivered'. Unlike hijueputa it has not worn down into a filler, and it retains close to its full charge in every region.",
+      "sources": []
+    },
+    "relatedTerms": ["colombian/gonorrea", "colombian/guevon", "colombian/paila"],
+    "synonyms": ["hijueputa", "gonorrea"],
+    "variants": ["malparida", "malpa"],
+    "usageWarning": ["vulgar", "offensive"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "guevon",
+    "term": "güevón",
+    "partOfSpeech": ["noun", "adjective"],
+    "register": "vulgar",
+    "categories": ["insults", "discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "gweh-BOHN" },
+    "definitions": [
+      { "text": "Idiot, fool. 'No sea güevón' — don't be an idiot — is the everyday form, addressed to friends more often than enemies." },
+      { "text": "A neutral 'mate' among young men, where it has worn down almost to filler. The Colombian version is milder than Chilean huevón but not nearly as bleached as Mexican güey." },
+      { "text": "As an adjective, of things: a hassle, a stupid business. 'Qué güevonada' is roughly 'what a load of rubbish'." }
+    ],
+    "examples": [
+      { "text": "No sea güevón, eso se rompe.", "translation": "Don't be an idiot, you'll break it." },
+      { "text": "Ese güevón se durmió en el bus y se pasó.", "translation": "The muppet fell asleep on the bus and missed his stop." },
+      { "text": "Qué güevonada tener que ir hasta allá.", "translation": "What a pain having to go all that way." }
+    ],
+    "origin": {
+      "etymology": "From huevón, augmentative of huevo — 'egg', and by long-standing euphemism 'testicle'. The image is of a man too heavy to move. The written g- reflects the Colombian pronunciation of initial hue-, and the anatomical sense is still live enough that the word is not office-safe.",
+      "sources": []
+    },
+    "relatedTerms": ["colombian/malparido", "colombian/gonorrea", "colombian/mamera"],
+    "synonyms": ["güeva", "bobo"],
+    "variants": ["gueón", "huevón", "güevonada"],
+    "usageWarning": ["vulgar"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "mamera",
+    "term": "mamera",
+    "partOfSpeech": ["noun"],
+    "register": "colloquial",
+    "categories": ["insults", "emotion"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "mah-MEH-rah" },
+    "definitions": [
+      { "text": "A drag, a bore, a thing you cannot face doing. '¡Qué mamera!' is the standard Colombian groan at an unwelcome task." },
+      { "text": "The state of being fed up: 'me da mamera' is 'I can't be bothered'." }
+    ],
+    "examples": [
+      { "text": "¡Qué mamera madrugar un sábado!", "translation": "What a drag, getting up early on a Saturday!" },
+      { "text": "Me da mamera volver a explicarlo.", "translation": "I really can't face explaining it again." }
+    ],
+    "origin": {
+      "etymology": "From mamar, which in Colombian idiom underlies a whole family of exhaustion words — estar mamado, 'to be worn out', and mamar gallo, 'to mess about, to stall'. The literal sense of mamar is 'to suckle'; the crude reading exists but plays no part here, and mamera is said freely in front of parents. Jartera is the Antioquian equivalent.",
+      "sources": []
+    },
+    "relatedTerms": ["colombian/guevon", "colombian/paila", "colombian/camello"],
+    "synonyms": ["jartera", "pereza"],
+    "variants": ["mamerita"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "lucas",
+    "term": "lucas",
+    "partOfSpeech": ["noun"],
+    "register": "informal",
+    "categories": ["money"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "LOO-kahs" },
+    "definitions": [
+      { "text": "Thousands of pesos. Una luca is 1,000; veinte lucas is 20,000. Because Colombian prices run in thousands, this is how everyday amounts are actually spoken." },
+      { "text": "Loosely, money in general: 'no tengo lucas' means I'm skint." }
+    ],
+    "examples": [
+      { "text": "El almuerzo son quince lucas.", "translation": "Lunch is fifteen thousand pesos." },
+      { "text": "Ando sin lucas hasta el viernes.", "translation": "I'm broke until Friday." },
+      { "text": "Préstame dos lucas para el bus.", "translation": "Lend me two thousand for the bus.", "context": "Quoted without 'pesos' — adding the currency name sounds oddly formal." }
+    ],
+    "origin": {
+      "etymology": "Origin unresolved. The same word for 1,000 units is used in Chile and Argentina, so the derivation is probably shared and predates its Colombian use; explanations involving a person named Lucas are unsupported. A million is un palo, and that one is transparent enough.",
+      "sources": []
+    },
+    "relatedTerms": ["colombian/camello", "colombian/vaca", "colombian/rebusque"],
+    "synonyms": ["barras", "palos"],
+    "variants": ["luca", "luquita"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "camello",
+    "term": "camello",
+    "partOfSpeech": ["noun"],
+    "register": "informal",
+    "categories": ["money"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "kah-MEH-yoh" },
+    "literalMeaning": "Camel.",
+    "definitions": [
+      { "text": "A job, or work generally. 'Conseguir camello' is to find work; 'estoy sin camello' is to be unemployed." },
+      { "text": "A hard slog — any task that costs more effort than it should. 'Ese trámite es un camello.'" },
+      { "text": "As a verb, camellar: to graft, to put in long hours." }
+    ],
+    "examples": [
+      { "text": "Por fin conseguí camello en una agencia.", "translation": "I finally landed a job at an agency." },
+      { "text": "Llevo camellando desde las seis.", "translation": "I've been grafting since six." },
+      { "text": "Mudarse es un camello tenaz.", "translation": "Moving house is an absolute slog." }
+    ],
+    "origin": {
+      "etymology": "From the pack animal — the beast that carries loads across distance without complaint. Shared with Ecuador and Peru. It carries no disdain for the work itself; a lawyer and a bricklayer both say camello.",
+      "sources": []
+    },
+    "relatedTerms": ["colombian/lucas", "colombian/rebusque", "colombian/mamera"],
+    "synonyms": ["chamba", "trabajo"],
+    "variants": ["camellar", "camellador"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "vaca",
+    "term": "hacer una vaca",
+    "partOfSpeech": ["idiom", "noun"],
+    "register": "informal",
+    "categories": ["money", "partying"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "ah-SEHR OO-nah VAH-kah" },
+    "literalMeaning": "To make a cow.",
+    "definitions": [
+      { "text": "To have a whip-round; to put in equal shares for a shared purchase, typically drinks, a barbecue or a leaving present." },
+      { "text": "La vaca is the pot itself, and 'poner para la vaca' is to chip in." }
+    ],
+    "examples": [
+      { "text": "Hagamos una vaca para el guaro.", "translation": "Let's all chip in for the aguardiente." },
+      { "text": "¿Ya pusiste para la vaca?", "translation": "Have you put your share in yet?" }
+    ],
+    "origin": {
+      "etymology": "Widespread in South America. The image is of a jointly owned animal: several people buy the cow together and divide what it yields. It is a social institution rather than a phrase — refusing to join one is noticed.",
+      "sources": []
+    },
+    "relatedTerms": ["colombian/lucas", "colombian/guaro", "colombian/parche"],
+    "synonyms": ["recoger", "poner"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "rebusque",
+    "term": "rebusque",
+    "partOfSpeech": ["noun"],
+    "register": "colloquial",
+    "categories": ["money"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "rreh-BOOS-keh" },
+    "definitions": [
+      { "text": "Informal income-hustling: selling sweets on the bus, doing deliveries, reselling, whatever pays today. Not a euphemism for crime, and Colombians are precise about that distinction." },
+      { "text": "As a verb, rebuscarse: to make ends meet by improvising. 'Uno se rebusca' is said with a shrug that is half complaint and half pride." }
+    ],
+    "examples": [
+      { "text": "Los domingos hace un rebusque vendiendo tintos.", "translation": "On Sundays he does a bit on the side selling coffee." },
+      { "text": "Aquí toca rebuscársela.", "translation": "Round here you have to make your own way.", "context": "A national idiom about the informal economy, said with resignation rather than shame." }
+    ],
+    "origin": {
+      "etymology": "From rebuscar, 'to search again, to glean' — originally gathering what was left in a field after harvest. The word predates its current economic sense, which grew with Colombia's large informal sector in the second half of the twentieth century.",
+      "sources": []
+    },
+    "relatedTerms": ["colombian/camello", "colombian/lucas", "colombian/dar-papaya"],
+    "synonyms": ["recursividad", "chanfa"],
+    "variants": ["rebuscarse", "rebuscador"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "guaro",
+    "term": "guaro",
+    "partOfSpeech": ["noun"],
+    "register": "informal",
+    "categories": ["food-drink", "partying"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "GWAH-roh" },
+    "definitions": [
+      { "text": "Aguardiente — the anise-flavoured sugarcane spirit that is the default Colombian party drink, drunk in small shots straight from the bottle on the table." },
+      { "text": "By extension, hard liquor of any kind at a party." }
+    ],
+    "examples": [
+      { "text": "Compremos una media de guaro.", "translation": "Let's get a half-bottle of aguardiente." },
+      { "text": "Ese guayabo es de puro guaro.", "translation": "That hangover is pure aguardiente." }
+    ],
+    "origin": {
+      "etymology": "Clipped from aguardiente. Each department has its own state-owned brand — Antioqueño, Néctar, Blanco del Valle — and which one you drink is a regional loyalty, not a preference.",
+      "sources": []
+    },
+    "relatedTerms": ["colombian/pola", "colombian/guayabo", "colombian/prendido", "colombian/vaca"],
+    "synonyms": ["aguardiente", "trago"],
+    "variants": ["guarito"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "pola",
+    "term": "pola",
+    "partOfSpeech": ["noun"],
+    "register": "informal",
+    "categories": ["food-drink", "partying"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "POH-lah" },
+    "definitions": [
+      { "text": "A beer. 'Unas polas' is the standard invitation to the pub, and it is the most casual of the available words for beer." }
+    ],
+    "examples": [
+      { "text": "¿Nos tomamos unas polas?", "translation": "Shall we go for a few beers?" },
+      { "text": "Traiga otra pola bien fría.", "translation": "Bring another cold one." }
+    ],
+    "origin": {
+      "etymology": "From La Pola, the nickname of Policarpa Salavarrieta, the independence-era heroine executed in 1817. The Bavaria brewery marketed a beer under that name in the early twentieth century; the brand disappeared and the common noun stayed behind.",
+      "firstAttested": "early 20th century",
+      "sources": []
+    },
+    "relatedTerms": ["colombian/guaro", "colombian/prendido", "colombian/parche"],
+    "synonyms": ["cerveza", "birra"],
+    "variants": ["polita"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "tinto",
+    "term": "tinto",
+    "partOfSpeech": ["noun"],
+    "register": "colloquial",
+    "categories": ["food-drink", "everyday"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "TEEN-toh" },
+    "literalMeaning": "Tinted, dyed.",
+    "definitions": [
+      { "text": "A small black coffee, usually weak, usually pre-sweetened, sold from thermoses by street vendors and offered to every visitor to every office in the country." },
+      { "text": "The offer of one is a social ritual rather than a beverage transaction. '¿Le provoca un tintico?' opens meetings, negotiations and condolence visits alike." }
+    ],
+    "examples": [
+      { "text": "¿Le provoca un tintico?", "translation": "Fancy a coffee?", "context": "The diminutive is near-obligatory. Tinto alone sounds brusque." },
+      { "text": "Me tomo tres tintos antes del mediodía.", "translation": "I have three black coffees before midday." }
+    ],
+    "origin": {
+      "etymology": "From vino tinto, 'red wine', by way of the colour: a dark liquid in a small glass. The false friend is total — order un tinto in Spain and you will be brought wine.",
+      "sources": []
+    },
+    "relatedTerms": ["colombian/mecato", "colombian/que-pena", "colombian/rebusque"],
+    "variants": ["tintico"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "mecato",
+    "term": "mecato",
+    "partOfSpeech": ["noun"],
+    "register": "colloquial",
+    "categories": ["food-drink", "everyday"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "meh-KAH-toh" },
+    "definitions": [
+      { "text": "Snacks — crisps, sweets, biscuits, anything eaten between meals. A mass noun: you buy mecato, not a mecato." },
+      { "text": "The corner-shop category itself. 'Una tienda de mecato' is a sweet shop." }
+    ],
+    "examples": [
+      { "text": "Compré mecato para el viaje.", "translation": "I bought snacks for the journey." },
+      { "text": "Deje de comer mecato antes de la comida.", "translation": "Stop eating junk before dinner." }
+    ],
+    "origin": {
+      "etymology": "Colombian and Venezuelan, of uncertain origin; a link to Nahuatl mecatl, 'cord', has been proposed and never demonstrated. Strongest in Antioquia and the interior, where the everyday form is mecatico.",
+      "sources": []
+    },
+    "relatedTerms": ["colombian/tinto", "colombian/vaina", "colombian/pelado"],
+    "synonyms": ["pasabocas", "golosinas"],
+    "variants": ["mecatico", "mecatear"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "rumbear",
+    "term": "rumbear",
+    "partOfSpeech": ["verb"],
+    "register": "informal",
+    "categories": ["partying"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "rroom-beh-AHR" },
+    "definitions": [
+      { "text": "To go out dancing and drinking. La rumba is the night out itself, and it means the whole evening, not one venue." },
+      { "text": "As an adjective, rumbero: someone who goes out constantly, said admiringly." }
+    ],
+    "examples": [
+      { "text": "Anoche rumbeamos hasta las cinco.", "translation": "We were out until five last night." },
+      { "text": "¿Cómo estuvo la rumba?", "translation": "How was the night out?" },
+      { "text": "Mi tía es más rumbera que yo.", "translation": "My aunt goes out more than I do." }
+    ],
+    "origin": {
+      "etymology": "From rumba, the Cuban music and dance complex, which became a general word for 'party' across the northern half of South America. Watch the border: in Venezuela rumbear also means to make out, and in Colombia it does not.",
+      "sources": []
+    },
+    "relatedTerms": ["colombian/parche", "colombian/prendido", "colombian/guaro", "colombian/mera"],
+    "synonyms": ["parrandear", "salir"],
+    "variants": ["rumba", "rumbero"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "parche",
+    "term": "parche",
+    "partOfSpeech": ["noun"],
+    "register": "informal",
+    "categories": ["partying", "people"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "PAR-cheh" },
+    "literalMeaning": "Patch.",
+    "definitions": [
+      { "text": "The crew you habitually hang around with. 'Mi parche del colegio' is my school lot." },
+      { "text": "The plan: '¿cuál es el parche?' means what are we doing tonight." },
+      { "text": "As a verb, parchar: to hang about somewhere with no particular purpose. 'Estamos parchados en el parque.'" }
+    ],
+    "examples": [
+      { "text": "¿Cuál es el parche para el viernes?", "translation": "What's the plan for Friday?" },
+      { "text": "Llegué con todo el parche.", "translation": "I turned up with the whole crew." },
+      { "text": "Estamos parchados donde Juan.", "translation": "We're hanging out at Juan's place.", "context": "Parchados implies settled in and going nowhere — not on the way to anything." }
+    ],
+    "origin": {
+      "etymology": "From parche, 'patch'. The sense of a fixed group attached to a fixed spot came out of Bogotá and Medellín youth speech in the 1980s and 1990s and has since lost all association with street life; corporate teams organise parches now.",
+      "firstAttested": "1980s",
+      "sources": []
+    },
+    "relatedTerms": ["colombian/rumbear", "colombian/parcero", "colombian/de-una", "colombian/vaca"],
+    "synonyms": ["combo", "plan"],
+    "variants": ["parchar", "parcharse", "desparche"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "prendido",
+    "term": "prendido",
+    "partOfSpeech": ["adjective"],
+    "register": "informal",
+    "categories": ["partying"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "prehn-DEE-doh" },
+    "literalMeaning": "Switched on, lit.",
+    "definitions": [
+      { "text": "Tipsy — pleasantly drunk, talkative, still functioning. The specific stage matters: Colombian has a graded ladder and prendido is the good rung on it." },
+      { "text": "Further along the ladder come tomado, jincho and, at the end, the state that produces a guayabo. Saying prendido when you mean jincho is an understatement everyone recognises." }
+    ],
+    "examples": [
+      { "text": "Ya estoy prendido, mejor no manejo.", "translation": "I'm a bit merry already, better not drive." },
+      { "text": "Se puso prendida con dos polas.", "translation": "Two beers and she was tipsy." }
+    ],
+    "origin": {
+      "etymology": "From prender, 'to light, to switch on' — the same metaphor as English 'lit', arrived at independently and much earlier.",
+      "sources": []
+    },
+    "relatedTerms": ["colombian/guayabo", "colombian/guaro", "colombian/pola", "colombian/rumbear"],
+    "synonyms": ["tomado", "jincho", "picho"],
+    "variants": ["prendida"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "guayabo",
+    "term": "guayabo",
+    "partOfSpeech": ["noun"],
+    "register": "colloquial",
+    "categories": ["partying", "food-drink"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "gwah-YAH-boh" },
+    "literalMeaning": "Guava tree.",
+    "definitions": [
+      { "text": "A hangover. The single most useful Colombian word for a visitor, because resaca — the word learners are taught — is not what anyone here says." },
+      { "text": "Extended to emotional aftermath: guayabo moral is the flat, guilty feeling after a bad night, and guayabo amoroso is heartbreak." }
+    ],
+    "examples": [
+      { "text": "Tengo un guayabo tenaz.", "translation": "I've got a stinking hangover." },
+      { "text": "El domingo amanecí enguayabado.", "translation": "I woke up hungover on Sunday." },
+      { "text": "Le quedó un guayabo moral por lo que dijo.", "translation": "He's got a moral hangover over what he said.", "context": "No alcohol required — just regret." }
+    ],
+    "origin": {
+      "etymology": "From guayabo, the guava tree. The older Colombian sense is 'longing, nostalgia' — the melancholy of remembering — and the drink-related meaning grew out of that rather than the other way round. The explanations involving eating unripe guavas are after-the-fact inventions.",
+      "sources": []
+    },
+    "relatedTerms": ["colombian/prendido", "colombian/guaro", "colombian/tusa", "colombian/mamera"],
+    "synonyms": ["ratón", "resaca"],
+    "variants": ["enguayabado", "guayabo moral"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "tusa",
+    "term": "tusa",
+    "partOfSpeech": ["noun"],
+    "register": "informal",
+    "categories": ["romance", "emotion"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "TOO-sah" },
+    "literalMeaning": "Corn cob stripped of its kernels.",
+    "definitions": [
+      { "text": "The specific misery of a recent break-up: heartbreak with a soundtrack, a duration and an expectation that friends will take you out. Not grief in general." },
+      { "text": "Estar entusado is to be in that state; the verb form is as common as the noun." }
+    ],
+    "examples": [
+      { "text": "Está con una tusa tenaz desde que la dejó.", "translation": "He's been in bits since she dumped him." },
+      { "text": "La saqué a rumbear para quitarle la tusa.", "translation": "I took her out dancing to get her over the break-up." }
+    ],
+    "origin": {
+      "etymology": "From tusa, the bare cob left when the kernels are gone — stripped of what made it worth anything. Long-established Colombian usage; Karol G's 2019 hit put it in front of a global audience but did not coin it, and older Colombians have used it all their lives.",
+      "sources": []
+    },
+    "relatedTerms": ["colombian/tragado", "colombian/cuadrar", "colombian/guayabo"],
+    "synonyms": ["despecho", "mal de amores"],
+    "variants": ["entusado", "entusarse"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "tragado",
+    "term": "tragado",
+    "partOfSpeech": ["adjective"],
+    "register": "informal",
+    "categories": ["romance"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "trah-GAH-doh" },
+    "literalMeaning": "Swallowed.",
+    "definitions": [
+      { "text": "Head over heels; besotted. Estar tragado de alguien is to have it bad, and the passive construction is the point — it is something that happens to you." },
+      { "text": "La traga is the crush itself, and can mean either the feeling or the person: 'es mi traga del colegio'." }
+    ],
+    "examples": [
+      { "text": "Ese man está tragado de ella hace años.", "translation": "That guy has been mad about her for years." },
+      { "text": "Se le nota la traga a leguas.", "translation": "You can see the crush from a mile off." }
+    ],
+    "origin": {
+      "etymology": "From tragar, 'to swallow'. Being swallowed by the feeling rather than having it — Spanish generally prefers this framing for love, and the Colombian form is unusual only in how everyday it is.",
+      "sources": []
+    },
+    "relatedTerms": ["colombian/tusa", "colombian/cuadrar", "colombian/pelado"],
+    "synonyms": ["enamorado", "encarretado"],
+    "variants": ["tragada", "traga", "tragarse"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "cuadrar",
+    "term": "cuadrar",
+    "partOfSpeech": ["verb"],
+    "register": "informal",
+    "categories": ["romance"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "kwah-DRAHR" },
+    "literalMeaning": "To square, to make something fit.",
+    "definitions": [
+      { "text": "To get together with someone; to become a couple. 'Se cuadraron en diciembre' means they got together in December." },
+      { "text": "El cuadre is the relationship at the stage before anyone calls it a relationship — the Colombian answer to 'it's complicated', and also the person themselves." },
+      { "text": "In its ordinary sense, to arrange or agree something: 'cuadremos la hora'. Both senses are live, and the ambiguity is used on purpose." }
+    ],
+    "examples": [
+      { "text": "¿Al fin se cuadró con ella?", "translation": "Did he end up getting together with her?" },
+      { "text": "No es novia, es un cuadre.", "translation": "She's not a girlfriend, it's more of a thing.", "context": "Deliberately vague — the whole function of the word." },
+      { "text": "Cuadremos mañana para lo del carro.", "translation": "Let's sort out the car thing tomorrow." }
+    ],
+    "origin": {
+      "etymology": "From cuadrar, 'to square up, to tally'. The romantic sense comes from the accounting one: two things that fit. It keeps the businesslike tone, which is part of why it is preferred over grander words.",
+      "sources": []
+    },
+    "relatedTerms": ["colombian/tragado", "colombian/tusa", "colombian/de-una"],
+    "synonyms": ["encarretarse", "levantar"],
+    "variants": ["cuadre", "cuadrarse"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "que-pena",
+    "term": "qué pena",
+    "partOfSpeech": ["phrase", "interjection"],
+    "register": "colloquial",
+    "categories": ["emotion", "discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "keh PEH-nah" },
+    "literalMeaning": "What shame — but 'pena' here is embarrassment, not sorrow.",
+    "definitions": [
+      { "text": "Sorry; excuse me. The standard Colombian apology for small offences, from bumping into someone to arriving late. 'Qué pena con usted' is the full polite form." },
+      { "text": "How embarrassing. Colombian pena is embarrassment rather than pity, which reverses the phrase's meaning relative to Spain, where qué pena means 'what a shame'." },
+      { "text": "As a modifier of the self: dar pena is to feel too shy to do something. 'Me da pena preguntar' — I'm too embarrassed to ask." }
+    ],
+    "examples": [
+      { "text": "Qué pena con usted, no lo vi.", "translation": "I'm so sorry, I didn't see you." },
+      { "text": "Me da pena bailar delante de tanta gente.", "translation": "I'm too shy to dance in front of all these people." },
+      { "text": "Qué pena, ¿me regala un tinto?", "translation": "Excuse me, could I get a coffee?", "context": "Opens a request to a stranger. Note regalar used for an ordinary purchase — another Colombian habit that startles visitors." }
+    ],
+    "origin": {
+      "etymology": "The divergence is in pena itself: Colombian Spanish kept the older sense of 'embarrassment, shyness' where peninsular Spanish moved to 'pity, sadness'. Nothing was invented; the two varieties simply drifted in different directions from a common word.",
+      "sources": []
+    },
+    "relatedTerms": ["colombian/que-boleta", "colombian/tinto", "colombian/listo"],
+    "synonyms": ["disculpe", "perdón"],
+    "variants": ["qué pena con usted", "penoso"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "ave-maria",
+    "term": "¡ave María pues!",
+    "partOfSpeech": ["interjection"],
+    "register": "regional",
+    "categories": ["emotion"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "region": "Medellín & Antioquia",
+    "pronunciation": { "respelling": "AH-veh mah-REE-ah PWESS" },
+    "literalMeaning": "Hail Mary, then.",
+    "definitions": [
+      { "text": "A paisa exclamation covering surprise, admiration, exasperation and mild scandal, depending entirely on the vowel length. Religious in form and not remotely religious in use." },
+      { "text": "The pues is fixed; a paisa saying the phrase without it sounds like they are actually praying." }
+    ],
+    "examples": [
+      { "text": "¡Ave María pues, qué elegancia!", "translation": "Well I never, look how smart you are!" },
+      { "text": "Ave María, mijo, ¿y esa cara?", "translation": "Goodness, love, what's with the face?" }
+    ],
+    "origin": {
+      "etymology": "From the opening of the Hail Mary, in a region where Catholic formulas supplied a large share of everyday interjections. It is the most instantly recognisable marker of Antioquian speech and is imitated, affectionately and not, by the rest of the country.",
+      "sources": []
+    },
+    "relatedTerms": ["colombian/pues", "colombian/eche", "colombian/no-joda"],
+    "synonyms": ["ay juemadre", "hombe"],
+    "variants": ["ave maría pues", "ay ave María"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "no-joda",
+    "term": "¡no joda!",
+    "partOfSpeech": ["interjection"],
+    "register": "vulgar",
+    "categories": ["emotion"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "region": "Caribbean Coast",
+    "pronunciation": { "respelling": "noh HOH-dah" },
+    "literalMeaning": "Don't mess about.",
+    "definitions": [
+      { "text": "The all-purpose coastal exclamation: astonishment, delight, outrage, or simple emphasis. Barranquilla and Cartagena run on it." },
+      { "text": "Also its literal sense, telling someone to stop being annoying — 'no joda más'." },
+      { "text": "The register is regionally calibrated. On the coast it is unremarkable in ordinary conversation; in Bogotá the same phrase sounds notably coarser." }
+    ],
+    "examples": [
+      { "text": "¡No joda, ganamos!", "translation": "Bloody hell, we won!" },
+      { "text": "No joda, ome, déjame tranquilo.", "translation": "For God's sake, mate, leave me alone." }
+    ],
+    "origin": {
+      "etymology": "From joder, which in Spain is unambiguously crude and on the Colombian coast has worn down considerably through sheer frequency. The negative imperative form froze into an interjection, so no one parses it as a command any more.",
+      "sources": []
+    },
+    "relatedTerms": ["colombian/eche", "colombian/ome", "colombian/ave-maria", "colombian/vaina"],
+    "alsoUsedIn": ["dominican"],
+    "synonyms": ["eche", "ajá"],
+    "usageWarning": ["vulgar", "context-dependent"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "eche",
+    "term": "¡eche!",
+    "partOfSpeech": ["interjection"],
+    "register": "regional",
+    "categories": ["emotion"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "region": "Caribbean Coast",
+    "pronunciation": { "respelling": "EH-cheh" },
+    "definitions": [
+      { "text": "Coastal interjection of surprise, disbelief or complaint — 'wow', 'no way', 'oh come on', depending on delivery. Concentrated in Barranquilla and the Atlántico department." },
+      { "text": "Frequently paired: '¡eche, no joda!' is the full Barranquillero reaction to almost anything." }
+    ],
+    "examples": [
+      { "text": "¡Eche, y tú cuándo llegaste!", "translation": "Whoa, when did you get here!" },
+      { "text": "Eche, se dañó otra vez la nevera.", "translation": "Oh for goodness' sake, the fridge has broken again." }
+    ],
+    "origin": {
+      "etymology": "Origin unclear. A euphemistic clipping of a coarser word is the usual guess, on the pattern that gives Spanish miércoles for mierda, but no derivation is established. It is purely spoken and almost never written outside dialogue.",
+      "sources": []
+    },
+    "relatedTerms": ["colombian/no-joda", "colombian/ome", "colombian/ave-maria"],
+    "synonyms": ["ajá", "ombe"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "que-boleta",
+    "term": "qué boleta",
+    "partOfSpeech": ["phrase", "adjective"],
+    "register": "informal",
+    "categories": ["emotion", "insults"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "region": "Bogotá",
+    "pronunciation": { "respelling": "keh boh-LEH-tah" },
+    "literalMeaning": "What a ticket.",
+    "definitions": [
+      { "text": "How embarrassing; what a disgrace. Said of a public humiliation, yours or someone else's — the emphasis is on being seen." },
+      { "text": "As an adjective of a person: someone who makes a spectacle of themselves. 'Es muy boleta' is a mild but real insult." },
+      { "text": "Dar boleta is the verb: to show yourself up in public." }
+    ],
+    "examples": [
+      { "text": "¡Qué boleta, se cayó delante de todos!", "translation": "How mortifying — he fell over in front of everyone!" },
+      { "text": "No dé boleta, hermano, cálmese.", "translation": "Don't make a scene, mate, calm down." }
+    ],
+    "origin": {
+      "etymology": "From boleta, 'ticket, notice'. The idea is of a public posting — something everyone can read. Strongest in Bogotá and among younger speakers nationwide; paisas are likelier to reach for qué oso for the same feeling.",
+      "sources": []
+    },
+    "relatedTerms": ["colombian/que-pena", "colombian/lobo", "colombian/nero"],
+    "synonyms": ["qué oso", "qué ridículo"],
+    "variants": ["dar boleta", "boletero"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "pues",
+    "term": "pues",
+    "partOfSpeech": ["interjection", "adverb"],
+    "register": "regional",
+    "categories": ["discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "region": "Medellín & Antioquia",
+    "pronunciation": { "respelling": "PWESS" },
+    "definitions": [
+      { "text": "The paisa sentence-particle, attached to the end of clauses with no lexical content whatsoever: 'quiubo pues', 'venga pues', 'sí pues', 'entonces qué pues'. Removing it changes nothing but the accent." },
+      { "text": "Distinct from the standard Spanish pues meaning 'well' or 'since', which Colombians also use in the ordinary way. The paisa particle is positional: it comes last, and it comes constantly." },
+      { "text": "Outsiders over-use it. Two or three pues in a sentence reads as mockery to a paisa, which is often exactly how it is meant when non-paisas do it." }
+    ],
+    "examples": [
+      { "text": "Venga pues, entre.", "translation": "Come on then, come in." },
+      { "text": "¿Entonces qué pues, nos vamos?", "translation": "So what's the story, are we going?" },
+      { "text": "Sí pues, yo le aviso.", "translation": "Yeah, alright, I'll let you know.", "context": "Non-committal. The pues does the softening that the words do not." }
+    ],
+    "origin": {
+      "etymology": "The same pues as everywhere in Spanish, but reanalysed in Antioquia as a clause-final particle rather than a connective. The pattern is old enough to be a defining feature of the dialect and is the first thing imitated in any Colombian comedy sketch about Medellín.",
+      "sources": []
+    },
+    "relatedTerms": ["colombian/parcero", "colombian/ave-maria", "colombian/bien-o-que", "colombian/que-mas"],
+    "variants": ["pue", "pues sí"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "de-una",
+    "term": "de una",
+    "partOfSpeech": ["phrase", "adverb"],
+    "register": "informal",
+    "categories": ["discourse", "approval"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "deh OO-nah" },
+    "literalMeaning": "In one — short for de una vez.",
+    "definitions": [
+      { "text": "Absolutely; I'm in; let's do it. The standard enthusiastic yes to an invitation, and one of the most frequent two-word exchanges in Colombian Spanish." },
+      { "text": "Straight away, without hesitating: 'me dijo que no de una' — he said no immediately." }
+    ],
+    "examples": [
+      { "text": "¿Vamos por unas polas? — ¡De una!", "translation": "Shall we get some beers? — Definitely!" },
+      { "text": "Llegó y de una se puso a cocinar.", "translation": "He arrived and started cooking right away." }
+    ],
+    "origin": {
+      "etymology": "Clipped from de una vez, 'once and for all, in one go'. The clipping is what makes it slang; the full phrase is ordinary Spanish everywhere.",
+      "sources": []
+    },
+    "relatedTerms": ["colombian/listo", "colombian/parche", "colombian/bacano"],
+    "synonyms": ["listo", "de once"],
+    "variants": ["de una vez"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "listo",
+    "term": "listo",
+    "partOfSpeech": ["interjection", "adjective"],
+    "register": "colloquial",
+    "categories": ["discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "LEES-toh" },
+    "definitions": [
+      { "text": "OK; agreed; got it. The Colombian conversational workhorse — it accepts a proposal, acknowledges instructions, closes a phone call and fills a pause, often several times in one exchange." },
+      { "text": "'¿Listo?' checks agreement rather than readiness: 'alright?', not 'are you ready?'." },
+      { "text": "The dictionary senses — clever, and ready — are both live, so the word carries three unrelated jobs and tone decides between them." }
+    ],
+    "examples": [
+      { "text": "Nos vemos a las ocho. — Listo.", "translation": "See you at eight. — Right you are." },
+      { "text": "Listo, listo, ya voy.", "translation": "OK, OK, I'm coming." },
+      { "text": "Le dejo el informe el martes, ¿listo?", "translation": "I'll get you the report on Tuesday, alright?", "context": "Perfectly acceptable at work — this one is not confined to the street." }
+    ],
+    "origin": {
+      "etymology": "Standard Spanish listo, 'ready'. What is Colombian is the frequency and the discourse function: it has become a near-automatic acknowledgement token, comparable to Brazilian Portuguese beleza.",
+      "sources": []
+    },
+    "relatedTerms": ["colombian/de-una", "colombian/como-asi", "colombian/que-pena"],
+    "synonyms": ["dale", "vale", "de una"],
+    "variants": ["listico", "listo pues"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "como-asi",
+    "term": "¿cómo así?",
+    "partOfSpeech": ["phrase"],
+    "register": "colloquial",
+    "categories": ["discourse", "emotion"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "KOH-moh ah-SEE" },
+    "literalMeaning": "How so?",
+    "definitions": [
+      { "text": "What do you mean? — asked when something does not add up. The commonest request for clarification in Colombian Spanish and an unmistakable national marker." },
+      { "text": "With a flatter intonation it is not a question at all but an objection: 'hang on, that's not right'. Hearing it from an official means you have a problem." }
+    ],
+    "examples": [
+      { "text": "¿Cómo así que no hay cupo?", "translation": "What do you mean there's no room?" },
+      { "text": "¿Cómo así, entonces no vienes?", "translation": "Hold on — so you're not coming?", "context": "Objection rather than enquiry. The speaker heard perfectly well." }
+    ],
+    "origin": {
+      "etymology": "Built from ordinary components, but the fixed phrase in this function is distinctively Colombian; other varieties reach for ¿en qué sentido? or ¿cómo que...?. It is the single phrase Colombians abroad are told they say too much.",
+      "sources": []
+    },
+    "relatedTerms": ["colombian/listo", "colombian/que-pena", "colombian/pues"],
+    "synonyms": ["cómo que", "o sea qué"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "dar-papaya",
+    "term": "dar papaya",
+    "partOfSpeech": ["idiom", "verb"],
+    "register": "colloquial",
+    "categories": ["everyday", "people"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "dahr pah-PAH-yah" },
+    "literalMeaning": "To give papaya.",
+    "definitions": [
+      { "text": "To leave yourself open to being robbed, cheated or taken advantage of — flashing a phone on the street, leaving a bag on a chair, telling the wrong person what you earn." },
+      { "text": "The full proverb is 'a papaya puesta, papaya partida': papaya set out is papaya cut up. The responsibility sits with the person who gave the opportunity, not only the one who took it, and that assumption runs through Colombian social life." },
+      { "text": "Beyond crime, it covers any self-inflicted vulnerability: giving an opponent an opening in an argument, a game or an office." }
+    ],
+    "examples": [
+      { "text": "No dé papaya con el celular en la calle.", "translation": "Don't flash your phone about in the street." },
+      { "text": "Dejó el computador en el carro; eso es dar papaya.", "translation": "He left the laptop in the car — he was asking for it." },
+      { "text": "Le di papaya en la reunión y me la partieron.", "translation": "I gave them an opening in the meeting and they took it.", "context": "No theft involved. The metaphor covers any exposed flank." }
+    ],
+    "origin": {
+      "etymology": "From the fruit: a papaya left out is a papaya someone will help themselves to. The phrase is Colombian and the attitude it encodes — that visible opportunity is itself a mistake — is the one visitors most often find bracing, since it places part of the blame on the victim.",
+      "sources": []
+    },
+    "relatedTerms": ["colombian/sapo", "colombian/paila", "colombian/rebusque", "colombian/vaina"],
+    "synonyms": ["papayazo"],
+    "variants": ["papayazo", "dar papayita"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "vaina",
+    "term": "vaina",
+    "partOfSpeech": ["noun"],
+    "register": "colloquial",
+    "categories": ["everyday"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "VY-nah" },
+    "literalMeaning": "Pod, sheath.",
+    "definitions": [
+      { "text": "Thing, thingummy — the universal placeholder for any object whose name you have not got to hand. 'Páseme esa vaina.'" },
+      { "text": "A situation, usually an irritating one: 'qué vaina tan complicada', 'la vaina es que no hay plata'." },
+      { "text": "'¡Qué vaina!' on its own means 'what a shame' or 'what a nuisance', and is the standard sympathetic response to someone's bad news." }
+    ],
+    "examples": [
+      { "text": "Pásame esa vaina de allá.", "translation": "Pass me that thing over there." },
+      { "text": "La vaina es que el banco cierra a las cuatro.", "translation": "The thing is, the bank closes at four." },
+      { "text": "Se le dañó el carro. — ¡Qué vaina!", "translation": "His car broke down. — Oh, that's rotten luck!" }
+    ],
+    "origin": {
+      "etymology": "From vaina, 'pod, scabbard'. Shared across the Caribbean, but the register is not: in the Dominican Republic and Venezuela it is coarser, while in Colombia — especially on the coast, where it is most frequent — it is barely marked and heard from every kind of speaker.",
+      "sources": []
+    },
+    "relatedTerms": ["colombian/paila", "colombian/embolatar", "colombian/no-joda", "colombian/ome"],
+    "alsoUsedIn": ["dominican", "cuban"],
+    "synonyms": ["cosa", "chuchería"],
+    "variants": ["vainita", "vainazo"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "embolatar",
+    "term": "embolatar",
+    "partOfSpeech": ["verb"],
+    "register": "colloquial",
+    "categories": ["everyday"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "em-boh-lah-TAHR" },
+    "definitions": [
+      { "text": "To mislay something, or for something to go missing in a muddle rather than by theft: 'se me embolató el recibo'." },
+      { "text": "Estar embolatado: to be snowed under, tangled up in things, unreachable. This is the commoner form, and it is the standard excuse for not having replied to anyone." },
+      { "text": "To fob someone off with delays — a bureaucracy that embolata your paperwork is losing it on purpose." }
+    ],
+    "examples": [
+      { "text": "Se me embolataron las llaves.", "translation": "My keys have gone walkabout." },
+      { "text": "Perdón, he estado embolatado con la mudanza.", "translation": "Sorry, I've been swamped with the move." },
+      { "text": "Llevan un año embolatándome la respuesta.", "translation": "They've been stringing me along for a year.", "context": "The bureaucratic sense — deliberate, not careless." }
+    ],
+    "origin": {
+      "etymology": "Colombian, of uncertain derivation; bolate, 'a fuss or commotion', is recorded in the same speech area and is the likeliest base. Almost unknown outside Colombia, which makes it a reliable tell.",
+      "sources": []
+    },
+    "relatedTerms": ["colombian/vaina", "colombian/mamera", "colombian/camello"],
+    "synonyms": ["extraviar", "enredar"],
+    "variants": ["embolatado", "bolate"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "paila",
+    "term": "paila",
+    "partOfSpeech": ["adjective", "interjection"],
+    "register": "informal",
+    "categories": ["everyday", "emotion"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "PY-lah" },
+    "literalMeaning": "A shallow cooking pan.",
+    "definitions": [
+      { "text": "Done for; no good; too bad. 'Quedé paila' means I'm in trouble or I've had it, and a bare '¡Paila!' is the verdict that something has failed and nothing can be done." },
+      { "text": "Used as a flat refusal or a shrug at someone else's misfortune, in which case it is distinctly unsympathetic — closer to 'tough luck' than to 'what a shame'." }
+    ],
+    "examples": [
+      { "text": "Se acabaron las boletas. — ¡Paila!", "translation": "The tickets sold out. — Well, that's that then." },
+      { "text": "Si no entregas hoy, quedas paila.", "translation": "If you don't hand it in today, you're done for." }
+    ],
+    "origin": {
+      "etymology": "From paila, a wide shallow pan. The route to 'ruined' is not documented and the connection may be sound rather than sense. It rose sharply among under-thirties from the 2000s onwards and still reads as young; a sixty-year-old using it is being playful.",
+      "firstAttested": "2000s in its current sense",
+      "sources": []
+    },
+    "relatedTerms": ["colombian/dar-papaya", "colombian/mamera", "colombian/vaina", "colombian/malparido"],
+    "synonyms": ["jodido", "chao"],
+    "reviewedBy": "Editorial team"
+  }
+]

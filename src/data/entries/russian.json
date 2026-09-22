@@ -1,0 +1,2438 @@
+[
+  {
+    "slug": "blyad",
+    "term": "блядь",
+    "romanization": "blyad",
+    "partOfSpeech": [
+      "interjection",
+      "noun"
+    ],
+    "register": "taboo",
+    "categories": [
+      "emotion",
+      "insults"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": {
+      "respelling": "BLYAT"
+    },
+    "variants": [
+      "блять",
+      "бля"
+    ],
+    "usageWarning": [
+      "vulgar",
+      "offensive",
+      "slur"
+    ],
+    "definitions": [
+      {
+        "text": "One of the four roots of мат, and by far the most frequent in speech. As a bare interjection it is 'fuck' in the sense of 'damn it' — surprise, pain, exasperation — and in unguarded male speech it degrades into a pure filler dropped between clauses like a comma."
+      },
+      {
+        "text": "As a noun, an extremely coarse word for a woman, on the level of 'whore' but rougher; it is a genuine insult and used as one. The reduced form бля is the interjection only and never carries this sense."
+      },
+      {
+        "text": "Understand it, do not deploy it. A foreigner swearing in Russian sounds either menacing or ridiculous, and there is no middle setting.",
+        "note": "Public use has been an administrative offence since 2014 and broadcast use is prohibited outright; in print the root is normally rendered б***."
+      }
+    ],
+    "examples": [
+      {
+        "text": "Блядь, я ключи в машине оставил.",
+        "translation": "Fuck — I've left the keys in the car.",
+        "context": "The default use: an involuntary reaction to something going wrong, said to nobody in particular."
+      },
+      {
+        "text": "Ну он, бля, приходит, бля, и молчит.",
+        "translation": "So he turns up, right, and just says nothing.",
+        "context": "Pure filler. Nothing is being called anything; the particle is doing the work of 'like' or 'right' in English."
+      }
+    ],
+    "origin": {
+      "etymology": "Old Church Slavonic блѧдь 'deception, empty talk', related to блуд 'fornication' and to заблуждаться 'to be mistaken'. It was ordinary written vocabulary until the eighteenth century and only later became unprintable — the taboo is much younger than the word.",
+      "sources": []
+    },
+    "relatedTerms": [
+      "russian/pizdets",
+      "russian/blin",
+      "russian/khuy"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "pizdets",
+    "term": "пиздец",
+    "romanization": "pizdets",
+    "partOfSpeech": [
+      "noun",
+      "interjection"
+    ],
+    "register": "taboo",
+    "categories": [
+      "emotion"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": {
+      "respelling": "peez-DYETS"
+    },
+    "usageWarning": [
+      "vulgar"
+    ],
+    "definitions": [
+      {
+        "text": "Total catastrophe; the end of everything. The noun names a situation past saving — 'we are completely fucked' compressed into one word."
+      },
+      {
+        "text": "As an interjection, an expression of awe at the sheer scale of something, which can be admiring as easily as appalled: пиздец как круто is 'insanely good'."
+      },
+      {
+        "text": "As an intensifier before an adjective it simply means 'extremely', with no disaster implied at all — the word's most common use in young speech."
+      }
+    ],
+    "examples": [
+      {
+        "text": "Всё, приехали, полный пиздец.",
+        "translation": "That's it, we're done — total disaster."
+      },
+      {
+        "text": "Там пиздец какая очередь.",
+        "translation": "The queue there is insane.",
+        "context": "Purely an intensifier here. Nothing has gone wrong; the queue is merely long."
+      }
+    ],
+    "origin": {
+      "etymology": "From пизда (a taboo word for the vulva) plus the agent-noun suffix -ец, which in Russian readily forms nouns of terminal outcome — compare the euphemistic капец and кранты built on the same pattern.",
+      "sources": []
+    },
+    "relatedTerms": [
+      "russian/kapets",
+      "russian/blyad",
+      "russian/zhest"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "khuy",
+    "term": "хуй",
+    "romanization": "khuy",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "register": "taboo",
+    "categories": [
+      "everyday",
+      "insults"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": {
+      "respelling": "HOOY"
+    },
+    "usageWarning": [
+      "vulgar",
+      "sexual"
+    ],
+    "definitions": [
+      {
+        "text": "The taboo word for the penis, and the single most productive root in the language: dozens of everyday words are built on it, most of which have nothing to do with anatomy."
+      },
+      {
+        "text": "In the phrase иди на хуй it is the standard way of telling someone to get lost, roughly 'fuck off' but a degree harsher. ни хуя means 'not a damn thing', до хуя means 'loads', хуйня means 'rubbish, nonsense'."
+      },
+      {
+        "text": "Listed here because the derivations below cannot be explained without it, not because a learner has any reason to say it.",
+        "note": "The root is normally written х** or replaced by хрен in any context where the speaker is being careful."
+      }
+    ],
+    "examples": [
+      {
+        "text": "Да иди ты на хуй.",
+        "translation": "Oh, fuck off.",
+        "context": "A real insult between men, not banter. Expect it to end the conversation or start a fight."
+      },
+      {
+        "text": "Он ни хуя не сделал.",
+        "translation": "He did absolutely nothing."
+      }
+    ],
+    "origin": {
+      "etymology": "Slavic, most plausibly from the root of хвоя 'conifer needle' via an older sense of a pointed shoot. The widely repeated story that it is an acronym or a Tatar loan is folk etymology with nothing behind it.",
+      "sources": []
+    },
+    "relatedTerms": [
+      "russian/okhuyet",
+      "russian/pokhuy",
+      "russian/khernya"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "okhuyet",
+    "term": "охуеть",
+    "romanization": "okhuyet",
+    "partOfSpeech": [
+      "verb",
+      "interjection"
+    ],
+    "register": "taboo",
+    "categories": [
+      "emotion"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": {
+      "respelling": "a-hoo-YET"
+    },
+    "usageWarning": [
+      "vulgar"
+    ],
+    "definitions": [
+      {
+        "text": "To be completely floored by something. As a bare interjection, охуеть is 'holy shit' — and, like the English, it works for the magnificent and the appalling alike."
+      },
+      {
+        "text": "In the second person it accuses: ты охуел? is 'have you lost your mind?', said to someone who has overstepped badly."
+      },
+      {
+        "text": "The adjective охуенный derived from it is straightforwardly positive — 'fucking brilliant' — which catches out learners who assume anything from this root must be an insult."
+      }
+    ],
+    "examples": [
+      {
+        "text": "Я охуел, когда счёт увидел.",
+        "translation": "I nearly died when I saw the bill."
+      },
+      {
+        "text": "Ты совсем охуел?",
+        "translation": "Have you completely lost it?",
+        "context": "Confrontational. This is the line before a fight, not a joke between friends."
+      }
+    ],
+    "origin": {
+      "etymology": "The prefix о- (denoting a change of state, as in оглохнуть 'to go deaf') on the root хуй. The pattern is regular: the mat roots take ordinary Russian prefixes and suffixes and behave like any other verb.",
+      "sources": []
+    },
+    "relatedTerms": [
+      "russian/khuy",
+      "russian/ofiget",
+      "russian/zhest"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "pokhuy",
+    "term": "похуй",
+    "romanization": "pokhuy",
+    "partOfSpeech": [
+      "phrase",
+      "adverb"
+    ],
+    "register": "taboo",
+    "categories": [
+      "emotion"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": {
+      "respelling": "PO-hooy"
+    },
+    "usageWarning": [
+      "vulgar"
+    ],
+    "definitions": [
+      {
+        "text": "Don't care in the slightest. The construction is impersonal — мне похуй, 'to me it is [that word]' — and expresses a refusal to be bothered rather than mere indifference."
+      },
+      {
+        "text": "Also an attitude rather than a reaction: жить похуй describes someone who has stopped caring what anyone thinks, which in some circles is a compliment."
+      }
+    ],
+    "examples": [
+      {
+        "text": "Мне похуй, что они думают.",
+        "translation": "I couldn't give a fuck what they think."
+      },
+      {
+        "text": "Да ему на всё похуй.",
+        "translation": "He doesn't give a damn about anything.",
+        "context": "The polite version swaps in пофиг or всё равно and is what you say in front of anyone's parents."
+      }
+    ],
+    "origin": {
+      "etymology": "The preposition по plus the mat root, on the model of по барабану and по фигу — a whole family of 'it's all the same to me' expressions built from a preposition and a noun of decreasing rudeness.",
+      "sources": []
+    },
+    "relatedTerms": [
+      "russian/khuy",
+      "russian/blin",
+      "russian/kapets"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "zayebal",
+    "term": "заебал",
+    "romanization": "zayebal",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "register": "taboo",
+    "categories": [
+      "insults",
+      "emotion"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": {
+      "respelling": "za-ye-BAL"
+    },
+    "usageWarning": [
+      "vulgar",
+      "offensive"
+    ],
+    "definitions": [
+      {
+        "text": "You've worn me out; I've had enough of you. Always in the past tense with the offender as subject — ты заебал — and always about accumulated irritation rather than a single offence."
+      },
+      {
+        "text": "The reflexive заебался means 'I'm exhausted', with no aggression in it at all: a builder saying я заебался at the end of a shift is describing his legs, not complaining about anyone."
+      }
+    ],
+    "examples": [
+      {
+        "text": "Ты заебал уже со своими вопросами.",
+        "translation": "I've had it up to here with your questions."
+      },
+      {
+        "text": "Заебался за сегодня, сил нет.",
+        "translation": "Absolutely knackered today, nothing left in the tank.",
+        "context": "Said about oneself, this is tiredness rather than anger — but it is still mat and still unsayable at work."
+      }
+    ],
+    "origin": {
+      "etymology": "The perfective prefix за- on the mat verb ебать. The prefix supplies the sense of an action carried to its limit, exactly as it does in the entirely polite заговорить 'to talk someone's ear off'.",
+      "sources": []
+    },
+    "relatedTerms": [
+      "russian/khuy",
+      "russian/mudak",
+      "russian/pizdets"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "nayebat",
+    "term": "наебать",
+    "romanization": "nayebat",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "register": "taboo",
+    "categories": [
+      "money",
+      "insults"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": {
+      "respelling": "na-ye-BAT"
+    },
+    "usageWarning": [
+      "vulgar"
+    ],
+    "definitions": [
+      {
+        "text": "To swindle; to cheat someone out of money or out of what was agreed. Stronger and angrier than кинуть, and implies the speaker considers the deception deliberate and personal."
+      },
+      {
+        "text": "The softened обмануть is the neutral word, and the near-identical надуть ('to inflate') is the printable substitute that most people reach for in mixed company."
+      }
+    ],
+    "examples": [
+      {
+        "text": "Нас там наебали на двадцать тысяч.",
+        "translation": "They did us out of twenty grand."
+      },
+      {
+        "text": "Меня не наебёшь.",
+        "translation": "You won't put one over on me."
+      }
+    ],
+    "origin": {
+      "etymology": "Prefix на- on ебать. The metaphor of sex as deception is old and cross-linguistic — English 'screwed over' works the same way — but in Russian the derivation is transparent to every speaker.",
+      "sources": []
+    },
+    "relatedTerms": [
+      "russian/khalyava",
+      "russian/lokh",
+      "russian/babki"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "mudak",
+    "term": "мудак",
+    "romanization": "mudak",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "register": "vulgar",
+    "categories": [
+      "insults",
+      "people"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": {
+      "respelling": "moo-DAK"
+    },
+    "usageWarning": [
+      "vulgar",
+      "offensive"
+    ],
+    "definitions": [
+      {
+        "text": "A contemptible idiot — close to 'arsehole' in force and in usage. The charge is not stupidity so much as behaving badly and not noticing."
+      },
+      {
+        "text": "Not technically one of the four mat roots, which is why it slips into newspapers and television where пиздец would not, but it is unambiguously an insult and lands as one."
+      }
+    ],
+    "examples": [
+      {
+        "text": "Начальник у нас редкий мудак.",
+        "translation": "Our boss is a world-class arsehole."
+      },
+      {
+        "text": "Не будь мудаком, извинись.",
+        "translation": "Don't be a dick — apologise."
+      }
+    ],
+    "origin": {
+      "etymology": "From муде, an archaic word for the testicles, still alive in dialect. The often-repeated derivation from a Sanskrit or Mongol root is invention.",
+      "sources": []
+    },
+    "relatedTerms": [
+      "russian/lokh",
+      "russian/khernya",
+      "russian/zayebal"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "khernya",
+    "term": "херня",
+    "romanization": "khernya",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "register": "vulgar",
+    "categories": [
+      "insults",
+      "everyday"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": {
+      "respelling": "hyer-NYA"
+    },
+    "usageWarning": [
+      "vulgar"
+    ],
+    "definitions": [
+      {
+        "text": "Rubbish; nonsense; a thing of no value. Used both for talk that is untrue and for objects the speaker cannot be bothered to name — 'some bit of junk'."
+      },
+      {
+        "text": "The softened stand-in for хуйня, and one grade milder: херня is the word an office worker uses in front of colleagues, хуйня the one used once the door closes."
+      }
+    ],
+    "examples": [
+      {
+        "text": "Не читай это, полная херня.",
+        "translation": "Don't bother reading that — it's total rubbish."
+      },
+      {
+        "text": "Что это за херня у тебя в сумке?",
+        "translation": "What's this thing in your bag?",
+        "context": "Dismissive but not hostile; used constantly for objects whose name escapes the speaker."
+      }
+    ],
+    "origin": {
+      "etymology": "From хер, the old name of the Cyrillic letter Х, which became a polite way of referring to the mat word starting with it. The euphemism has since coarsened into something close to what it was avoiding.",
+      "firstAttested": "19th century",
+      "sources": []
+    },
+    "relatedTerms": [
+      "russian/khuy",
+      "russian/mudak",
+      "russian/kapets"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "blin",
+    "term": "блин",
+    "romanization": "blin",
+    "partOfSpeech": [
+      "interjection"
+    ],
+    "register": "informal",
+    "categories": [
+      "emotion",
+      "discourse"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": {
+      "respelling": "BLEEN"
+    },
+    "literalMeaning": "pancake",
+    "definitions": [
+      {
+        "text": "Damn; oh no. The single most common mild swear in Russian and the one foreigners can safely use — a schoolteacher says it, a grandmother says it, it appears in children's cartoons."
+      },
+      {
+        "text": "Like its taboo original, it also works as a filler dropped mid-sentence, where it means nothing at all beyond marking the speaker as informal."
+      }
+    ],
+    "examples": [
+      {
+        "text": "Блин, опять забыл зарядку.",
+        "translation": "Damn, forgot the charger again."
+      },
+      {
+        "text": "Ну я, блин, не знаю, что тебе сказать.",
+        "translation": "Well, I mean, I don't know what to tell you.",
+        "context": "Filler use. Inserting one блин per sentence is the fastest way to sound conversational rather than textbook."
+      }
+    ],
+    "origin": {
+      "etymology": "The word for a pancake, chosen because it begins with the same two sounds as блядь — the same substitution principle as English 'sugar' for the other s-word. The disguise is transparent to everyone and bothers nobody.",
+      "sources": []
+    },
+    "relatedTerms": [
+      "russian/blyad",
+      "russian/kapets",
+      "russian/ofiget"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "kapets",
+    "term": "капец",
+    "romanization": "kapets",
+    "partOfSpeech": [
+      "noun",
+      "interjection"
+    ],
+    "register": "informal",
+    "categories": [
+      "emotion"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": {
+      "respelling": "ka-PYETS"
+    },
+    "variants": [
+      "кабздец",
+      "капут"
+    ],
+    "definitions": [
+      {
+        "text": "Disaster; that's it, it's over. The printable stand-in for пиздец, built to the same shape so that it can slot into the same sentences without changing the rhythm."
+      },
+      {
+        "text": "Also an intensifier in exactly the same way: капец как холодно means 'unbelievably cold'. Younger speakers use it in preference to пиздец in any mixed company."
+      }
+    ],
+    "examples": [
+      {
+        "text": "Капец, я телефон разбил.",
+        "translation": "Oh no — I've smashed my phone."
+      },
+      {
+        "text": "Там капец как дорого.",
+        "translation": "It's ridiculously expensive there."
+      }
+    ],
+    "origin": {
+      "etymology": "Built on капут (from German kaputt) with the -ец ending copied from пиздец. A euphemism engineered to sound like the word it replaces, which is the usual design principle in this family.",
+      "sources": []
+    },
+    "relatedTerms": [
+      "russian/pizdets",
+      "russian/blin",
+      "russian/zhest"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "ofiget",
+    "term": "офигеть",
+    "romanization": "ofiget",
+    "partOfSpeech": [
+      "verb",
+      "interjection"
+    ],
+    "register": "informal",
+    "categories": [
+      "emotion"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": {
+      "respelling": "a-fee-GYET"
+    },
+    "definitions": [
+      {
+        "text": "To be amazed; as an interjection, 'wow' or 'you're kidding'. The clean parallel of охуеть, formed by swapping the mat root for the harmless фиг."
+      },
+      {
+        "text": "The derived adjective офигенный means 'fantastic' and is the ordinary way to praise something enthusiastically in front of anyone at all."
+      }
+    ],
+    "examples": [
+      {
+        "text": "Офигеть, ты сам это построил?",
+        "translation": "No way — you built that yourself?"
+      },
+      {
+        "text": "Погода офигенная, поехали на озеро.",
+        "translation": "Weather's glorious — let's go to the lake."
+      }
+    ],
+    "origin": {
+      "etymology": "The root фиг, a nonsense syllable adopted specifically to stand in for the mat root, plus the same о- prefix. Russian generates euphemisms by keeping the whole morphological frame and changing only the offending root.",
+      "sources": []
+    },
+    "relatedTerms": [
+      "russian/okhuyet",
+      "russian/kapets",
+      "russian/zhest"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "zhest",
+    "term": "жесть",
+    "romanization": "zhest",
+    "partOfSpeech": [
+      "noun",
+      "interjection"
+    ],
+    "register": "informal",
+    "categories": [
+      "emotion"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": {
+      "respelling": "ZHEST"
+    },
+    "literalMeaning": "tin plate, sheet metal",
+    "definitions": [
+      {
+        "text": "Brutal; heavy going; grim. Said of anything harsh enough to be hard to watch — a news report, a shift at work, a horror film."
+      },
+      {
+        "text": "As a one-word reaction it means 'that's rough', and among younger speakers it has drifted towards admiration for anything extreme, good or bad."
+      }
+    ],
+    "examples": [
+      {
+        "text": "Видео с аварией — полная жесть.",
+        "translation": "That crash footage is genuinely grim."
+      },
+      {
+        "text": "Жесть, конечно, но они справились.",
+        "translation": "Brutal, obviously — but they got through it."
+      }
+    ],
+    "origin": {
+      "etymology": "The noun for sheet tin, reanalysed under the influence of жёсткий 'hard, harsh'. It spread through early-2000s internet forums before reaching everyday speech.",
+      "firstAttested": "2000s",
+      "sources": []
+    },
+    "relatedTerms": [
+      "russian/kapets",
+      "russian/krinzh",
+      "russian/pizdets"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "krinzh",
+    "term": "кринж",
+    "romanization": "krinzh",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "register": "informal",
+    "region": "Youth",
+    "categories": [
+      "emotion",
+      "insults"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": {
+      "respelling": "KREENZH"
+    },
+    "definitions": [
+      {
+        "text": "Cringe — the specific embarrassment of watching someone humiliate themselves without realising it. Borrowed wholesale from English internet usage around 2020."
+      },
+      {
+        "text": "Fully naturalised grammatically: it declines like a Russian noun, gives the adjective кринжовый and the verb кринжевать. Anyone over thirty-five using it is usually quoting their children."
+      }
+    ],
+    "examples": [
+      {
+        "text": "Посмотрел его сторис — такой кринж.",
+        "translation": "I watched his stories — absolute cringe."
+      },
+      {
+        "text": "Не надо, это кринжово.",
+        "translation": "Don't — that's just embarrassing."
+      }
+    ],
+    "origin": {
+      "etymology": "English 'cringe', imported through YouTube and TikTok commentary rather than through written English, which is why it arrived already meaning the internet sense rather than the physical flinch.",
+      "firstAttested": "around 2019",
+      "sources": []
+    },
+    "relatedTerms": [
+      "russian/zashkvar",
+      "russian/zhest",
+      "russian/vayb"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "bespredel",
+    "term": "беспредел",
+    "romanization": "bespredel",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "register": "colloquial",
+    "categories": [
+      "everyday",
+      "insults"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": {
+      "respelling": "byes-pree-DYEL"
+    },
+    "literalMeaning": "without limits",
+    "definitions": [
+      {
+        "text": "Lawlessness; conduct with no restraint of any kind. Used of police, officials, landlords, employers — anyone acting as though rules do not apply to them."
+      },
+      {
+        "text": "One of the clearest cases of camp vocabulary entering the mainstream: in the prison world it named a specific offence, the breaking of the thieves' own code, and it kept that flavour of a broken agreement rather than a broken law."
+      }
+    ],
+    "examples": [
+      {
+        "text": "Это уже полный беспредел, а не проверка.",
+        "translation": "That's not an inspection, it's daylight robbery."
+      },
+      {
+        "text": "В девяностые тут творился беспредел.",
+        "translation": "In the nineties this place was completely lawless.",
+        "context": "The nineties are the word's home decade and it is still most at home describing them."
+      }
+    ],
+    "origin": {
+      "etymology": "Camp argot of the Soviet penal system, from без предела 'without limit'. It crossed into ordinary Russian in the late 1980s and became one of the defining words of the following decade.",
+      "firstAttested": "Soviet camp argot; mainstream from the late 1980s",
+      "sources": []
+    },
+    "relatedTerms": [
+      "russian/po-ponyatiyam",
+      "russian/ment",
+      "russian/gopnik"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "po-ponyatiyam",
+    "term": "по понятиям",
+    "romanization": "po ponyatiyam",
+    "partOfSpeech": [
+      "phrase",
+      "adverb"
+    ],
+    "register": "colloquial",
+    "region": "Criminal argot",
+    "categories": [
+      "everyday"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": {
+      "respelling": "pa pa-NYA-tee-yam"
+    },
+    "literalMeaning": "by the understandings",
+    "definitions": [
+      {
+        "text": "By the unwritten code rather than by the law. Names the parallel system of obligation — who owes whom, what counts as fair — that the criminal world ran on and that ordinary Russians borrowed as a way of describing informal rules anywhere."
+      },
+      {
+        "text": "Now used half-jokingly in offices and among friends for anything settled by custom instead of by contract, but the original weight is still audible."
+      }
+    ],
+    "examples": [
+      {
+        "text": "Они там всё решают не по закону, а по понятиям.",
+        "translation": "Nothing there is settled by law — it's settled by the unwritten rules."
+      },
+      {
+        "text": "Так не по понятиям, мы же договаривались.",
+        "translation": "That's not playing fair — we had an agreement.",
+        "context": "Between friends this is jocular. Said in the wrong company it is an accusation."
+      }
+    ],
+    "origin": {
+      "etymology": "Core фе́ня — the argot of the Soviet camps — where понятия were the thieves' own binding code, explicitly opposed to state law. The phrase entered general speech in the 1990s along with the men who had learned it.",
+      "sources": []
+    },
+    "relatedTerms": [
+      "russian/bespredel",
+      "russian/frayer",
+      "russian/ksiva"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "ksiva",
+    "term": "ксива",
+    "romanization": "ksiva",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "register": "colloquial",
+    "region": "Criminal argot",
+    "categories": [
+      "everyday"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": {
+      "respelling": "KSEE-va"
+    },
+    "definitions": [
+      {
+        "text": "Papers; an ID card, especially an official one that gets you past someone. Said with a slight edge — a ксива is documentation used as leverage rather than mere identification."
+      },
+      {
+        "text": "Common in police, military and security contexts, and instantly recognisable to everyone else from three decades of crime drama."
+      }
+    ],
+    "examples": [
+      {
+        "text": "Он ксиву достал, и нас сразу пропустили.",
+        "translation": "He flashed his ID and they waved us straight through."
+      },
+      {
+        "text": "Без ксивы тебя туда не пустят.",
+        "translation": "They won't let you in there without papers."
+      }
+    ],
+    "origin": {
+      "etymology": "From Hebrew כתיבה ktiva 'writing', by way of Yiddish into the Odessa underworld argot that fed фе́ня. A large share of the oldest Russian criminal slang has this route.",
+      "sources": []
+    },
+    "relatedTerms": [
+      "russian/po-ponyatiyam",
+      "russian/ment",
+      "russian/frayer"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "frayer",
+    "term": "фраер",
+    "romanization": "frayer",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "register": "colloquial",
+    "region": "Criminal argot",
+    "categories": [
+      "people"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": {
+      "respelling": "FRA-yer"
+    },
+    "usageWarning": [
+      "offensive",
+      "context-dependent"
+    ],
+    "definitions": [
+      {
+        "text": "Originally, in camp argot, anyone outside the thieves' world — a civilian, and by extension an easy mark. The sense survives in the proverb жадность фраера сгубила, 'greed was the sucker's undoing'."
+      },
+      {
+        "text": "In general speech it now means a flashy, self-important man who is not as hard as he thinks. Dated, and heard mostly from older speakers or in deliberate period style."
+      }
+    ],
+    "examples": [
+      {
+        "text": "Ходит как фраер, а сам ничего не может.",
+        "translation": "Struts about like a big man and can't do a thing."
+      },
+      {
+        "text": "Жадность фраера сгубила.",
+        "translation": "Greed was the mug's undoing.",
+        "context": "A fixed saying, used well outside any criminal context — it is what you say when someone overreaches and loses everything."
+      }
+    ],
+    "origin": {
+      "etymology": "From Yiddish frayer, ultimately German Freier 'suitor, free man', which in the argot came to mean a free person — that is, not a convict — and so a potential victim.",
+      "sources": []
+    },
+    "relatedTerms": [
+      "russian/lokh",
+      "russian/po-ponyatiyam",
+      "russian/gopnik"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "stukach",
+    "term": "стукач",
+    "romanization": "stukach",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "register": "colloquial",
+    "categories": [
+      "people"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": {
+      "respelling": "stoo-KACH"
+    },
+    "usageWarning": [
+      "offensive"
+    ],
+    "definitions": [
+      {
+        "text": "An informer; a grass. One of the heaviest accusations in the language, carrying the full weight of the Soviet century behind it."
+      },
+      {
+        "text": "Applied well beyond anything official — to the colleague who reports you to management or the classmate who tells the teacher — but never lightly, and never as a joke between people who do not know each other well."
+      }
+    ],
+    "examples": [
+      {
+        "text": "В отделе завёлся стукач.",
+        "translation": "Someone in the department is running to management."
+      },
+      {
+        "text": "Он стучал на своих же.",
+        "translation": "He informed on his own people."
+      }
+    ],
+    "origin": {
+      "etymology": "From стучать 'to knock, to tap' — the informer knocks on the authorities' door. The verb стучать на кого-то is as common as the noun and equally damning.",
+      "sources": []
+    },
+    "relatedTerms": [
+      "russian/ment",
+      "russian/po-ponyatiyam",
+      "russian/lokh"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "kosyak",
+    "term": "косяк",
+    "romanization": "kosyak",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "register": "informal",
+    "categories": [
+      "insults",
+      "everyday"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": {
+      "respelling": "ka-SYAK"
+    },
+    "literalMeaning": "door jamb",
+    "definitions": [
+      {
+        "text": "A screw-up; a mistake that is somebody's fault. The verb накосячить means to make one, and косячить is to keep making them."
+      },
+      {
+        "text": "Separately and much more narrowly, a joint of cannabis — context always disambiguates, but the two senses are unrelated in feel and rarely confused."
+      }
+    ],
+    "examples": [
+      {
+        "text": "Это мой косяк, я не проверил.",
+        "translation": "That one's on me — I didn't check."
+      },
+      {
+        "text": "Он опять накосячил с отчётом.",
+        "translation": "He's messed up the report again."
+      }
+    ],
+    "origin": {
+      "etymology": "Camp argot, where допустить косяк meant committing a breach of the code. The everyday sense has lost all of that and simply means an error you have to own.",
+      "sources": []
+    },
+    "relatedTerms": [
+      "russian/zashkvar",
+      "russian/bespredel",
+      "russian/zabit"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "zashkvar",
+    "term": "зашквар",
+    "romanization": "zashkvar",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "register": "informal",
+    "region": "Youth",
+    "categories": [
+      "insults"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": {
+      "respelling": "zash-KVAR"
+    },
+    "usageWarning": [
+      "offensive"
+    ],
+    "definitions": [
+      {
+        "text": "Something shameful, beneath contempt, that taints anyone who touches it. In teenage use it is roughly 'that's a disgrace' and is applied to clothes, music and opinions."
+      },
+      {
+        "text": "The origin is genuinely ugly and worth knowing: in prison argot зашквариться means to become irreversibly contaminated by contact with the lowest caste of inmate. Most teenagers using the word have no idea of this."
+      }
+    ],
+    "examples": [
+      {
+        "text": "Ходить в этом — полный зашквар.",
+        "translation": "Wearing that is an absolute disgrace."
+      },
+      {
+        "text": "Не зашкварно у них подрабатывать?",
+        "translation": "Isn't working for that lot a bit shameful?"
+      }
+    ],
+    "origin": {
+      "etymology": "From prison argot зашкварить, itself from шкварка 'crackling, scorched fat' — the image is of being burned and so marked permanently. It reached mainstream youth speech through rap and battle-rap around 2015.",
+      "firstAttested": "mainstream from the mid-2010s",
+      "sources": []
+    },
+    "relatedTerms": [
+      "russian/krinzh",
+      "russian/kosyak",
+      "russian/lokh"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "lokh",
+    "term": "лох",
+    "romanization": "lokh",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "register": "colloquial",
+    "categories": [
+      "insults",
+      "people"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": {
+      "respelling": "LOKH"
+    },
+    "usageWarning": [
+      "offensive"
+    ],
+    "definitions": [
+      {
+        "text": "A sucker; a mark; someone who can be taken for a ride and does not see it coming. The insult is about being naive and socially weak rather than unintelligent."
+      },
+      {
+        "text": "A defining word of the 1990s, when the entire country was being defrauded and nobody wanted to be the one who fell for it. Still current, still stinging."
+      }
+    ],
+    "examples": [
+      {
+        "text": "Ты что, за лоха меня держишь?",
+        "translation": "What, do you take me for an idiot?"
+      },
+      {
+        "text": "Развели как лоха.",
+        "translation": "They played me for a complete mug."
+      }
+    ],
+    "origin": {
+      "etymology": "From the argot of itinerant traders, where лох was a peasant who could be cheated; there is also a northern dialect word лох for a spent salmon, easy to catch. Both feed the same image, and the camp argot picked it up from there.",
+      "sources": []
+    },
+    "relatedTerms": [
+      "russian/frayer",
+      "russian/nayebat",
+      "russian/mudak"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "gopnik",
+    "term": "гопник",
+    "romanization": "gopnik",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "register": "colloquial",
+    "categories": [
+      "people"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": {
+      "respelling": "GOP-neek"
+    },
+    "usageWarning": [
+      "offensive"
+    ],
+    "definitions": [
+      {
+        "text": "A young man from a rough housing estate who hangs around in a tracksuit, squats on his heels and asks passers-by for a cigarette in a way that is not really a question."
+      },
+      {
+        "text": "A class insult as much as a description, and the most internationally recognised Russian social type — though the meme abroad has flattened it into a costume, while in Russia it still names someone you would cross the road to avoid."
+      }
+    ],
+    "examples": [
+      {
+        "text": "Во дворе гопники сидят, не ходи там.",
+        "translation": "There's a pack of lads hanging about in the yard — don't go that way."
+      },
+      {
+        "text": "Оделся как гопник на дискотеку.",
+        "translation": "He's dressed like an estate kid off to a club."
+      }
+    ],
+    "origin": {
+      "etymology": "Most convincingly from the post-revolutionary Petrograd ГОП, a hostel for the homeless, whose residents gave the word; the derivation from the verb гопать is secondary. The tracksuit association is 1990s and has nothing to do with the origin.",
+      "firstAttested": "1920s, current sense from the 1980s",
+      "sources": []
+    },
+    "relatedTerms": [
+      "russian/bespredel",
+      "russian/frayer",
+      "russian/ment"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "ment",
+    "term": "мент",
+    "romanization": "ment",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "register": "colloquial",
+    "categories": [
+      "people"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": {
+      "respelling": "MYENT"
+    },
+    "usageWarning": [
+      "offensive",
+      "context-dependent"
+    ],
+    "definitions": [
+      {
+        "text": "A cop. Disrespectful but so widespread that a long-running television series about decent detectives was called Менты — which took much of the sting out without removing it."
+      },
+      {
+        "text": "Say it to a police officer's face and you are asking for trouble; say it among friends and nobody blinks. The neutral words are полицейский and, still, милиционер out of habit."
+      }
+    ],
+    "examples": [
+      {
+        "text": "Менты остановили на выезде из города.",
+        "translation": "The cops pulled us over on the way out of town."
+      },
+      {
+        "text": "Тише, тут менты рядом.",
+        "translation": "Keep it down, there are police right there."
+      }
+    ],
+    "origin": {
+      "etymology": "From the argot of the western Russian Empire, where mente was a Hungarian-style cloak worn by Austro-Hungarian police; it came into фе́ня through Polish. The acronym stories circulated online are inventions.",
+      "sources": []
+    },
+    "relatedTerms": [
+      "russian/ksiva",
+      "russian/stukach",
+      "russian/bespredel"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "fleksit",
+    "term": "флексить",
+    "romanization": "fleksit",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "register": "informal",
+    "region": "Youth",
+    "categories": [
+      "people",
+      "partying"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": {
+      "respelling": "FLEK-seet"
+    },
+    "definitions": [
+      {
+        "text": "To show off — money, clothes, a holiday. Borrowed from American rap slang and given a standard Russian infinitive, so it conjugates like any native verb: флексю, флексишь, флексил."
+      },
+      {
+        "text": "A secondary sense of 'to dance, to move loosely' came in at the same time and survives mainly in lyrics."
+      }
+    ],
+    "examples": [
+      {
+        "text": "Опять флексит новыми кроссами.",
+        "translation": "Showing off his new trainers again."
+      },
+      {
+        "text": "Хватит флексить, все уже поняли.",
+        "translation": "Enough flexing, we've all got the message."
+      }
+    ],
+    "origin": {
+      "etymology": "English 'to flex', arriving through hip-hop around 2017 and immediately fitted with the -ить suffix that Russian uses for almost every imported verb — the same machinery that produced гуглить and лайкнуть.",
+      "firstAttested": "late 2010s",
+      "sources": []
+    },
+    "relatedTerms": [
+      "russian/izi",
+      "russian/vayb",
+      "russian/chilit"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "chuvak",
+    "term": "чувак",
+    "romanization": "chuvak",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "register": "informal",
+    "categories": [
+      "greetings",
+      "people"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": {
+      "respelling": "choo-VAK"
+    },
+    "variants": [
+      "чувиха"
+    ],
+    "definitions": [
+      {
+        "text": "Dude; mate. Used both as a label for a man and as a form of address between friends, with чувиха as the female counterpart — though чувиха sounds cruder and more dated than чувак does."
+      },
+      {
+        "text": "Carries a faint retro charm rather than reading as current youth slang; a Russian twenty-year-old is likelier to say бро or братан."
+      }
+    ],
+    "examples": [
+      {
+        "text": "Чувак, ты вообще где?",
+        "translation": "Mate, where even are you?"
+      },
+      {
+        "text": "Там один чувак сказал, что офис закрыт.",
+        "translation": "Some guy there said the office was shut."
+      }
+    ],
+    "origin": {
+      "etymology": "From the стиляги subculture of the 1950s, probably from a dialect word for a castrated animal. The backronym 'человек, уважающий великую американскую культуру' is a much-repeated joke invented decades later, not an etymology.",
+      "firstAttested": "1950s",
+      "sources": []
+    },
+    "relatedTerms": [
+      "russian/bratan",
+      "russian/tusa",
+      "russian/davay"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "bratan",
+    "term": "братан",
+    "romanization": "bratan",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "register": "informal",
+    "categories": [
+      "greetings",
+      "people"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": {
+      "respelling": "bra-TAN"
+    },
+    "variants": [
+      "брат",
+      "бро",
+      "браток"
+    ],
+    "definitions": [
+      {
+        "text": "Bro. An augmentative of брат 'brother', used to address a male friend or, pointedly, a stranger you are trying to keep on side."
+      },
+      {
+        "text": "The register depends entirely on who says it. Among friends it is warm; from a stranger on the street at night it is a pressure tactic, and the 1990s racketeer association is still live."
+      }
+    ],
+    "examples": [
+      {
+        "text": "Братан, выручи, подбрось до дома.",
+        "translation": "Bro, do me a favour — give me a lift home."
+      },
+      {
+        "text": "Слышь, братан, закурить не будет?",
+        "translation": "Oi mate, got a smoke?",
+        "context": "Classic opening line of a street shakedown. The friendliness is the point of the technique."
+      }
+    ],
+    "origin": {
+      "etymology": "брат plus the augmentative suffix -ан, a productive pattern in informal Russian. Its criminal-world connotation comes from 1990s usage among organised crime, where братва named the collective.",
+      "sources": []
+    },
+    "relatedTerms": [
+      "russian/chuvak",
+      "russian/gopnik",
+      "russian/davay"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "davay",
+    "term": "давай",
+    "romanization": "davay",
+    "partOfSpeech": [
+      "interjection",
+      "phrase"
+    ],
+    "register": "colloquial",
+    "categories": [
+      "greetings",
+      "discourse"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": {
+      "respelling": "da-VAY"
+    },
+    "literalMeaning": "give",
+    "definitions": [
+      {
+        "text": "The standard informal sign-off on the phone: 'right, see you, bye'. Often doubled — давай-давай — and usually the last word before hanging up."
+      },
+      {
+        "text": "Elsewhere it means 'go on, do it' or 'come on', and as давай + infinitive it forms the ordinary let's-construction: давай посмотрим, 'let's have a look'."
+      }
+    ],
+    "examples": [
+      {
+        "text": "Ну всё, давай, до завтра.",
+        "translation": "Right then — see you tomorrow."
+      },
+      {
+        "text": "Давай, ты сможешь.",
+        "translation": "Come on, you've got this."
+      }
+    ],
+    "origin": {
+      "etymology": "The imperative of давать 'to give', bleached of its literal sense. The farewell use is a Russian peculiarity that puzzles learners, who hear an order to hand something over.",
+      "sources": []
+    },
+    "relatedTerms": [
+      "russian/chuvak",
+      "russian/koroche",
+      "russian/norm"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "babki",
+    "term": "бабки",
+    "romanization": "babki",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "register": "colloquial",
+    "categories": [
+      "money"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": {
+      "respelling": "BAB-kee"
+    },
+    "literalMeaning": "old women; knucklebones",
+    "definitions": [
+      {
+        "text": "Cash, dosh. The most established money slang in Russian, plural only, and neutral enough that it turns up in business conversations that are otherwise entirely proper."
+      },
+      {
+        "text": "Slightly heavier and older-sounding than бабло, which younger speakers prefer."
+      }
+    ],
+    "examples": [
+      {
+        "text": "Бабки вперёд, потом работа.",
+        "translation": "Cash up front, then the work."
+      },
+      {
+        "text": "Он на этом неплохие бабки поднял.",
+        "translation": "He made decent money out of it."
+      }
+    ],
+    "origin": {
+      "etymology": "From бабки, the sheep knucklebones used as counters and stakes in a traditional children's game — the same route by which English 'bones' and 'chips' became money. The reading 'grandmothers' is a coincidence of homonymy.",
+      "sources": []
+    },
+    "relatedTerms": [
+      "russian/lave",
+      "russian/khalyava",
+      "russian/nayebat"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "lave",
+    "term": "лавэ",
+    "romanization": "lave",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "register": "informal",
+    "categories": [
+      "money"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": {
+      "respelling": "la-VEH"
+    },
+    "variants": [
+      "лаве"
+    ],
+    "definitions": [
+      {
+        "text": "Money, especially money in hand. Flashier than бабки and strongly associated with rap lyrics, street trade and anyone performing a certain kind of swagger."
+      },
+      {
+        "text": "Indeclinable, which marks it immediately as a loanword and keeps it slightly exotic-sounding even now."
+      }
+    ],
+    "examples": [
+      {
+        "text": "Лавэ есть — пойдём в нормальное место.",
+        "translation": "We've got cash — let's go somewhere decent."
+      },
+      {
+        "text": "Он про лавэ только и думает.",
+        "translation": "Money's the only thing on his mind."
+      }
+    ],
+    "origin": {
+      "etymology": "From Romani love 'money', entering Russian through the same trader-and-underworld channel that supplied лох. Genuinely a Romani loan, unlike most words claimed as such.",
+      "sources": []
+    },
+    "relatedTerms": [
+      "russian/babki",
+      "russian/khalyava",
+      "russian/fleksit"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "khalyava",
+    "term": "халява",
+    "romanization": "khalyava",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "register": "colloquial",
+    "categories": [
+      "money"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": {
+      "respelling": "kha-LYA-va"
+    },
+    "definitions": [
+      {
+        "text": "Something for nothing; a freebie. на халяву means 'free of charge, without having earned it', and the phrase carries a distinct national fondness — Russian jokes about халява are affectionate, not disapproving."
+      },
+      {
+        "text": "The related халявщик is someone who only ever turns up when something is free, and that word is straightforwardly an insult."
+      }
+    ],
+    "examples": [
+      {
+        "text": "На халяву и уксус сладкий.",
+        "translation": "When it's free, even vinegar tastes sweet.",
+        "context": "A proverb everyone knows, and the shortest possible summary of the concept."
+      },
+      {
+        "text": "Он привык всё получать на халяву.",
+        "translation": "He's used to getting everything handed to him."
+      }
+    ],
+    "origin": {
+      "etymology": "Probably from Hebrew חלב chalav 'milk' via the free milk distributed on the Sabbath, though the derivation from халява 'bootleg, the loose top of a boot' — a place to hide things taken without paying — is at least as plausible. Both are disputed.",
+      "sources": []
+    },
+    "relatedTerms": [
+      "russian/babki",
+      "russian/nayebat",
+      "russian/lave"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "bukhat",
+    "term": "бухать",
+    "romanization": "bukhat",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "register": "colloquial",
+    "categories": [
+      "partying",
+      "food-drink"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": {
+      "respelling": "boo-KHAT"
+    },
+    "definitions": [
+      {
+        "text": "To drink — seriously, at length and with intent. Not the word for a glass of wine with dinner; бухать describes an evening whose purpose is the drinking."
+      },
+      {
+        "text": "Blunt but not obscene. Said about oneself it is faintly self-deprecating; said about someone else repeatedly it is an accusation."
+      }
+    ],
+    "examples": [
+      {
+        "text": "Они всю неделю бухали на даче.",
+        "translation": "They spent the whole week drinking at the dacha."
+      },
+      {
+        "text": "Хватит бухать, тебе завтра на работу.",
+        "translation": "That's enough drinking — you've got work tomorrow."
+      }
+    ],
+    "origin": {
+      "etymology": "From бухать 'to thud, to bang', by way of the sound of a bottle being set down or a body hitting the floor. The noun бухло 'booze' and the agent бухарик come from the same root.",
+      "sources": []
+    },
+    "relatedTerms": [
+      "russian/bukhlo",
+      "russian/bodun",
+      "russian/tusa"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "bukhlo",
+    "term": "бухло",
+    "romanization": "bukhlo",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "register": "colloquial",
+    "categories": [
+      "food-drink",
+      "partying"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": {
+      "respelling": "bookh-LO"
+    },
+    "definitions": [
+      {
+        "text": "Booze. A collective noun covering whatever alcohol has been brought, with no interest whatsoever in what it is."
+      },
+      {
+        "text": "The standard word when dividing up who brings what to a gathering: ты за бухло, я за закуску."
+      }
+    ],
+    "examples": [
+      {
+        "text": "Бухло берём по дороге.",
+        "translation": "We'll grab the booze on the way."
+      },
+      {
+        "text": "Закуска есть, бухла нет.",
+        "translation": "We've got the food, we've got nothing to drink."
+      }
+    ],
+    "origin": {
+      "etymology": "From бухать with the collective suffix -ло, the same formation as барахло 'junk'. The suffix carries a built-in note of contempt for the mass of stuff it names.",
+      "sources": []
+    },
+    "relatedTerms": [
+      "russian/bukhat",
+      "russian/bodun",
+      "russian/khavchik"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "bodun",
+    "term": "бодун",
+    "romanization": "bodun",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "register": "colloquial",
+    "categories": [
+      "partying"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": {
+      "respelling": "ba-DOON"
+    },
+    "definitions": [
+      {
+        "text": "A hangover, always in the fixed phrase с бодуна — 'hungover'. The plain noun похмелье is the neutral term; бодун is what you actually say the morning after."
+      },
+      {
+        "text": "Strictly colloquial and slightly comic in tone, which is why it survives: it lets you admit to the state without sounding sorry for yourself."
+      }
+    ],
+    "examples": [
+      {
+        "text": "Я сегодня с бодуна, не трогай меня.",
+        "translation": "I'm hungover today — leave me be."
+      },
+      {
+        "text": "С такого бодуна работать невозможно.",
+        "translation": "There's no working with a hangover like this."
+      }
+    ],
+    "origin": {
+      "etymology": "From бодать 'to butt with the horns', the hangover imagined as something that headbutts you. The form is fixed in the genitive: nobody says a nominative бодун on its own.",
+      "sources": []
+    },
+    "relatedTerms": [
+      "russian/bukhat",
+      "russian/bukhlo",
+      "russian/tusa"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "tusa",
+    "term": "туса",
+    "romanization": "tusa",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "register": "informal",
+    "categories": [
+      "partying"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": {
+      "respelling": "TOO-sa"
+    },
+    "variants": [
+      "тусовка",
+      "тусич"
+    ],
+    "definitions": [
+      {
+        "text": "A party, a gathering, a night out — and also the crowd that shows up to it. тусовка additionally means a scene or milieu: театральная тусовка is the theatre crowd."
+      },
+      {
+        "text": "The verb тусить means to hang out, with no partying necessarily involved: тусим дома is a quiet evening in with friends."
+      }
+    ],
+    "examples": [
+      {
+        "text": "Вечером туса у Лёхи, приходи.",
+        "translation": "There's a thing at Lyokha's tonight — come along."
+      },
+      {
+        "text": "Мы весь день тусили в парке.",
+        "translation": "We hung about in the park all day."
+      }
+    ],
+    "origin": {
+      "etymology": "From тасовать 'to shuffle cards' — a party as a room of people being shuffled together. It emerged in late-Soviet youth and music circles and has stayed current for forty years, which is unusual for party slang.",
+      "firstAttested": "1980s",
+      "sources": []
+    },
+    "relatedTerms": [
+      "russian/chilit",
+      "russian/bukhat",
+      "russian/chuvak"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "chilit",
+    "term": "чилить",
+    "romanization": "chilit",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "register": "informal",
+    "region": "Youth",
+    "categories": [
+      "partying",
+      "everyday"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": {
+      "respelling": "CHEE-leet"
+    },
+    "definitions": [
+      {
+        "text": "To chill; to do nothing in a deliberate, enjoyable way. Conjugates fully — чилю, чилишь, почилим — and has largely displaced отдыхать among under-thirties for the 'relax' sense."
+      },
+      {
+        "text": "Older speakers find it grating precisely because it replaces a perfectly good native verb, which is the standard complaint about this whole layer of borrowings."
+      }
+    ],
+    "examples": [
+      {
+        "text": "Весь выходной чилил дома.",
+        "translation": "Spent the whole weekend chilling at home."
+      },
+      {
+        "text": "Давай почилим где-нибудь.",
+        "translation": "Let's go and chill somewhere."
+      }
+    ],
+    "origin": {
+      "etymology": "English 'to chill', fitted with the Russian infinitive -ить. Russian absorbs foreign verbs by suffix rather than by phrase, so every borrowed verb arrives already fully conjugable — the reason this layer feels native within months.",
+      "firstAttested": "2010s",
+      "sources": []
+    },
+    "relatedTerms": [
+      "russian/tusa",
+      "russian/vayb",
+      "russian/zabit"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "khavchik",
+    "term": "хавчик",
+    "romanization": "khavchik",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "register": "colloquial",
+    "categories": [
+      "food-drink"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": {
+      "respelling": "KHAV-cheek"
+    },
+    "definitions": [
+      {
+        "text": "Grub; something to eat. Purely about fuel — nobody describes a restaurant meal as хавчик."
+      },
+      {
+        "text": "The verb хавать means to eat in the same unceremonious way, and figuratively to swallow something you are told: хавает всё подряд, 'he believes any old rubbish'."
+      }
+    ],
+    "examples": [
+      {
+        "text": "Хавчик есть какой-нибудь?",
+        "translation": "Any food going?"
+      },
+      {
+        "text": "Взяли хавчика и поехали.",
+        "translation": "We grabbed something to eat and set off."
+      }
+    ],
+    "origin": {
+      "etymology": "From camp argot хавать 'to eat', itself probably from Romani. The diminutive -чик softens it into something almost cosy, which is how it survives in student and workplace speech.",
+      "sources": []
+    },
+    "relatedTerms": [
+      "russian/bukhlo",
+      "russian/khalyava",
+      "russian/khata"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "krash",
+    "term": "краш",
+    "romanization": "krash",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "register": "informal",
+    "region": "Youth",
+    "categories": [
+      "romance"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": {
+      "respelling": "KRASH"
+    },
+    "definitions": [
+      {
+        "text": "The person you have a crush on — note the shift: in Russian the word names the object of the feeling, never the feeling itself. мой краш is 'the person I fancy'."
+      },
+      {
+        "text": "Strictly under-twenty-five vocabulary, and heavily associated with fandom and TikTok. Using it above that age is itself a joke."
+      }
+    ],
+    "examples": [
+      {
+        "text": "Он мой краш ещё со школы.",
+        "translation": "I've fancied him since school."
+      },
+      {
+        "text": "Она крашнулась в него за неделю.",
+        "translation": "She fell for him inside a week.",
+        "context": "The derived verb крашнуться exists but is rarer and reads as very online."
+      }
+    ],
+    "origin": {
+      "etymology": "English 'crush', borrowed via K-pop and TikTok fandom around 2019 with the semantic shift from feeling to person already built in by the way English fans use it about celebrities.",
+      "firstAttested": "around 2019",
+      "sources": []
+    },
+    "relatedTerms": [
+      "russian/zamutit",
+      "russian/dinamit",
+      "russian/krinzh"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "zamutit",
+    "term": "замутить",
+    "romanization": "zamutit",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "register": "informal",
+    "categories": [
+      "romance",
+      "everyday"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": {
+      "respelling": "za-moo-TEET"
+    },
+    "definitions": [
+      {
+        "text": "To get something going with someone — to start a relationship, usually a casual one. замутить с кем-то, and the noun мутки for the resulting entanglement."
+      },
+      {
+        "text": "Also entirely non-romantic: замутить бизнес, замутить вечеринку — to set something up, organise it, get it off the ground. The shared idea is starting something informally and slightly opportunistically."
+      }
+    ],
+    "examples": [
+      {
+        "text": "Они на работе замутили, все знают.",
+        "translation": "They got together at work — everyone knows."
+      },
+      {
+        "text": "Давай замутим что-нибудь на выходные.",
+        "translation": "Let's put something together for the weekend."
+      }
+    ],
+    "origin": {
+      "etymology": "From мутить 'to stir up, to make cloudy'. The cloudiness is the point — a замут is something set up informally, outside proper channels, and the romantic sense inherits that deliberate vagueness.",
+      "sources": []
+    },
+    "relatedTerms": [
+      "russian/krash",
+      "russian/dinamit",
+      "russian/tusa"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "dinamit",
+    "term": "динамить",
+    "romanization": "dinamit",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "register": "informal",
+    "categories": [
+      "romance"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": {
+      "respelling": "dee-NA-meet"
+    },
+    "definitions": [
+      {
+        "text": "To lead someone on and never deliver; to keep agreeing to meet and keep not turning up. The noun динамо names the act and динамщица the woman who makes a habit of it."
+      },
+      {
+        "text": "Extends beyond romance to anyone who strings you along — a client, a landlord, a friend who has owed you money for a year."
+      }
+    ],
+    "examples": [
+      {
+        "text": "Она его уже месяц динамит.",
+        "translation": "She's been stringing him along for a month."
+      },
+      {
+        "text": "Не динамь, скажи прямо.",
+        "translation": "Stop dodging and just say it straight."
+      }
+    ],
+    "origin": {
+      "etymology": "From динамо, the electrical generator: the image is of something that spins constantly and produces nothing you can hold. The romantic sense dates from the late Soviet period.",
+      "sources": []
+    },
+    "relatedTerms": [
+      "russian/zamutit",
+      "russian/krash",
+      "russian/lokh"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "izi",
+    "term": "изи",
+    "romanization": "izi",
+    "partOfSpeech": [
+      "adverb",
+      "adjective",
+      "interjection"
+    ],
+    "register": "informal",
+    "region": "Youth",
+    "categories": [
+      "approval"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": {
+      "respelling": "EE-zee"
+    },
+    "definitions": [
+      {
+        "text": "Easy — no problem, done without effort. Used as a one-word answer to a request and as a boast after finishing something quickly."
+      },
+      {
+        "text": "Straight out of gaming and streaming culture, where изи катка means an easy match. Indeclinable, like most of the newest borrowings."
+      }
+    ],
+    "examples": [
+      {
+        "text": "Сделаю сегодня, изи.",
+        "translation": "I'll have it done today, no problem."
+      },
+      {
+        "text": "Экзамен прошёл изи.",
+        "translation": "The exam was a walk in the park."
+      }
+    ],
+    "origin": {
+      "etymology": "English 'easy' as used in online game chat, transliterated. It came in through voice chat rather than text, which is why it is spelled phonetically rather than as an English word.",
+      "firstAttested": "2010s",
+      "sources": []
+    },
+    "relatedTerms": [
+      "russian/norm",
+      "russian/vayb",
+      "russian/chilit"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "vayb",
+    "term": "вайб",
+    "romanization": "vayb",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "register": "informal",
+    "region": "Youth",
+    "categories": [
+      "approval",
+      "emotion"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": {
+      "respelling": "VAIB"
+    },
+    "definitions": [
+      {
+        "text": "Vibe; the feel or atmosphere of a place, a track or a person. Used approvingly on its own — вайб! — and in вайбовый 'with a good atmosphere'."
+      },
+      {
+        "text": "The verb вайбовать means to get into the mood of something, typically music. Firmly under-thirty vocabulary and already sounding slightly worn."
+      }
+    ],
+    "examples": [
+      {
+        "text": "В этом кафе приятный вайб.",
+        "translation": "This café has a lovely feel to it."
+      },
+      {
+        "text": "Сидели, вайбовали под старые треки.",
+        "translation": "We sat there getting into some old tracks."
+      }
+    ],
+    "origin": {
+      "etymology": "English 'vibe', imported around 2018 through music and social media. Russian already had атмосфера for this, and the borrowing survives because it is shorter and marks the speaker as young.",
+      "firstAttested": "late 2010s",
+      "sources": []
+    },
+    "relatedTerms": [
+      "russian/izi",
+      "russian/chilit",
+      "russian/krinzh"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "guglit",
+    "term": "гуглить",
+    "romanization": "guglit",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "register": "informal",
+    "categories": [
+      "everyday"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": {
+      "respelling": "GOOG-leet"
+    },
+    "definitions": [
+      {
+        "text": "To google. Completely naturalised: it takes ordinary prefixes (загуглить for a single look-up, погуглить for a browse) and nobody registers it as foreign any more."
+      },
+      {
+        "text": "The template for a whole class of verbs — лайкнуть, репостить, забанить, скинуть в личку — by which Russian swallows English technology vocabulary whole and conjugates it."
+      }
+    ],
+    "examples": [
+      {
+        "text": "Загугли, там за секунду находится.",
+        "translation": "Just google it, it takes a second."
+      },
+      {
+        "text": "Я весь вечер гуглил, как это чинить.",
+        "translation": "I spent all evening googling how to fix it."
+      }
+    ],
+    "origin": {
+      "etymology": "Google plus the infinitive suffix -ить. The prefix system does the rest: Russian aspect pairs form automatically around any new stem, which is why borrowed verbs integrate faster than borrowed nouns.",
+      "firstAttested": "2000s",
+      "sources": []
+    },
+    "relatedTerms": [
+      "russian/chilit",
+      "russian/fleksit",
+      "russian/norm"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "tachka",
+    "term": "тачка",
+    "romanization": "tachka",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "register": "informal",
+    "categories": [
+      "everyday"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": {
+      "respelling": "TACH-ka"
+    },
+    "literalMeaning": "wheelbarrow",
+    "definitions": [
+      {
+        "text": "A car; motor. The default informal word, with no implication about the quality of the vehicle — a тачка can be a wreck or a new Mercedes."
+      },
+      {
+        "text": "In older usage it also meant a taxi, and поймать тачку 'to flag down a car' is still said by people who remember when any driver would stop for a fare."
+      }
+    ],
+    "examples": [
+      {
+        "text": "Он новую тачку взял в кредит.",
+        "translation": "He's bought a new motor on finance."
+      },
+      {
+        "text": "Тачку поймаем, тут недалеко.",
+        "translation": "We'll flag something down, it's not far."
+      }
+    ],
+    "origin": {
+      "etymology": "The ordinary word for a wheelbarrow or handcart, applied to motor cars with deliberate understatement. The taxi sense comes from the era when private drivers picking up passengers was the normal way to get around.",
+      "sources": []
+    },
+    "relatedTerms": [
+      "russian/khata",
+      "russian/khavchik",
+      "russian/ment"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "khata",
+    "term": "хата",
+    "romanization": "khata",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "register": "informal",
+    "categories": [
+      "everyday"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": {
+      "respelling": "KHA-ta"
+    },
+    "literalMeaning": "peasant hut",
+    "definitions": [
+      {
+        "text": "Somebody's flat, considered as a venue. хата свободна means the parents are away and everyone can come round — the word is inseparable from that situation."
+      },
+      {
+        "text": "Also common in the sense of one's own place generally: своя хата, 'a place of my own'. The proverb моя хата с краю means 'nothing to do with me, leave me out of it'."
+      }
+    ],
+    "examples": [
+      {
+        "text": "В субботу хата свободна, собираемся у меня.",
+        "translation": "The flat's free on Saturday — everyone round mine."
+      },
+      {
+        "text": "Моя хата с краю, ничего не знаю.",
+        "translation": "Not my problem, I know nothing about it.",
+        "context": "A set phrase, and a pointed one: it accuses the speaker of deliberate detachment."
+      }
+    ],
+    "origin": {
+      "etymology": "The old word for a peasant cottage, shared with Ukrainian, ultimately of Iranian origin via the steppe. Applying it to a Moscow flat is affectionate irony that has long since worn into the neutral slang word.",
+      "sources": []
+    },
+    "relatedTerms": [
+      "russian/tusa",
+      "russian/tachka",
+      "russian/khavchik"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "zabit",
+    "term": "забить",
+    "romanization": "zabit",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "register": "informal",
+    "categories": [
+      "everyday",
+      "emotion"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": {
+      "respelling": "za-BEET"
+    },
+    "literalMeaning": "to hammer in",
+    "definitions": [
+      {
+        "text": "To drop something; to stop caring about it and walk away. Always with на: забить на учёбу, 'to give up on studying'."
+      },
+      {
+        "text": "The clean, everyday equivalent of забить хуй, whose shortened form this is — which is why it sounds slightly blunt to older ears even though the offending word is long gone."
+      }
+    ],
+    "examples": [
+      {
+        "text": "Забей, не стоит нервов.",
+        "translation": "Let it go — it isn't worth the stress.",
+        "context": "The imperative забей is one of the commonest pieces of advice in colloquial Russian."
+      },
+      {
+        "text": "Он забил на универ ещё в марте.",
+        "translation": "He gave up on university back in March."
+      }
+    ],
+    "origin": {
+      "etymology": "A truncation of the mat phrase забить хуй на что-то, with the taboo word simply dropped. Half of the euphemistic layer in Russian works this way: not substitution but silent deletion.",
+      "sources": []
+    },
+    "relatedTerms": [
+      "russian/pokhuy",
+      "russian/kosyak",
+      "russian/chilit"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "koroche",
+    "term": "короче",
+    "romanization": "koroche",
+    "partOfSpeech": [
+      "adverb",
+      "interjection"
+    ],
+    "register": "colloquial",
+    "categories": [
+      "discourse"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": {
+      "respelling": "ka-RO-che"
+    },
+    "literalMeaning": "shorter",
+    "definitions": [
+      {
+        "text": "Anyway; long story short. Announces that the speaker is about to get to the point, and is then very often followed by several more minutes of preamble."
+      },
+      {
+        "text": "The single most characteristic filler in spoken Russian. Learners who add one короче per story immediately sound less like a textbook."
+      }
+    ],
+    "examples": [
+      {
+        "text": "Короче, мы туда даже не доехали.",
+        "translation": "Anyway, we never even got there."
+      },
+      {
+        "text": "Ну короче, я согласился.",
+        "translation": "So basically, I said yes."
+      }
+    ],
+    "origin": {
+      "etymology": "The comparative of короткий 'short', from короче говоря 'to put it more briefly'. The full phrase is now the marked, bookish version; the single word has taken over completely.",
+      "sources": []
+    },
+    "relatedTerms": [
+      "russian/tipa",
+      "russian/kak-by",
+      "russian/blin"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "tipa",
+    "term": "типа",
+    "romanization": "tipa",
+    "partOfSpeech": [
+      "adverb",
+      "phrase"
+    ],
+    "register": "colloquial",
+    "categories": [
+      "discourse"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": {
+      "respelling": "TEE-pa"
+    },
+    "literalMeaning": "of the type of",
+    "definitions": [
+      {
+        "text": "Like; sort of. Hedges an approximation — типа того, 'something like that' — and introduces reported speech exactly as English 'like' does: он типа не знал."
+      },
+      {
+        "text": "Also marks scepticism: он типа врач means 'he's supposedly a doctor', with the speaker declining to vouch for it."
+      }
+    ],
+    "examples": [
+      {
+        "text": "Он типа занят был.",
+        "translation": "He was supposedly busy."
+      },
+      {
+        "text": "Да, типа того.",
+        "translation": "Yeah, something like that."
+      }
+    ],
+    "origin": {
+      "etymology": "The genitive of тип 'type', originally a proper preposition meaning 'of the kind of'. Its collapse into a filler happened in the late twentieth century and is still resented by prescriptivists.",
+      "sources": []
+    },
+    "relatedTerms": [
+      "russian/koroche",
+      "russian/kak-by",
+      "russian/norm"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "kak-by",
+    "term": "как бы",
+    "romanization": "kak by",
+    "partOfSpeech": [
+      "phrase",
+      "adverb"
+    ],
+    "register": "colloquial",
+    "categories": [
+      "discourse"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": {
+      "respelling": "KAK by"
+    },
+    "literalMeaning": "as if",
+    "definitions": [
+      {
+        "text": "Sort of; kind of. A hedge that softens whatever follows, and in heavy users a tic attached to every second phrase."
+      },
+      {
+        "text": "Distinct from типа in flavour: как бы is the hedge of the educated and the anxious, типа of the young and the casual. The two are often stacked together, как бы типа."
+      }
+    ],
+    "examples": [
+      {
+        "text": "Я как бы не против, но...",
+        "translation": "I'm sort of fine with it, but..."
+      },
+      {
+        "text": "Мы как бы уже договорились.",
+        "translation": "We had, more or less, already agreed."
+      }
+    ],
+    "origin": {
+      "etymology": "A genuine comparative conjunction ('as if') that lost its meaning through overuse in the perestroika years. Its spread was noticed and complained about at the time, making it one of the better-documented filler careers in Russian.",
+      "firstAttested": "widespread from the late 1980s",
+      "sources": []
+    },
+    "relatedTerms": [
+      "russian/tipa",
+      "russian/koroche",
+      "russian/norm"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "norm",
+    "term": "норм",
+    "romanization": "norm",
+    "partOfSpeech": [
+      "adjective",
+      "adverb",
+      "interjection"
+    ],
+    "register": "informal",
+    "region": "Online",
+    "categories": [
+      "approval",
+      "discourse"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": {
+      "respelling": "NORM"
+    },
+    "definitions": [
+      {
+        "text": "Fine; all right; good enough. The standard low-effort reply to 'how are you' and to 'what did you think', and a genuine positive — норм is not damning with faint praise."
+      },
+      {
+        "text": "Born as a typed abbreviation and now said aloud. Indeclinable, which is unusual for an adjective and marks its written origin."
+      }
+    ],
+    "examples": [
+      {
+        "text": "— Как фильм? — Норм.",
+        "translation": "\"How was the film?\" \"Yeah, decent.\""
+      },
+      {
+        "text": "Всё норм, не переживай.",
+        "translation": "Everything's fine, don't worry."
+      }
+    ],
+    "origin": {
+      "etymology": "A clipping of нормально, shortened for speed in SMS and messenger chat in the 2000s and then carried back into speech — the same round trip that produced спс for спасибо and пж for пожалуйста.",
+      "firstAttested": "2000s",
+      "sources": []
+    },
+    "relatedTerms": [
+      "russian/izi",
+      "russian/tipa",
+      "russian/davay"
+    ],
+    "reviewedBy": "Editorial team"
+  }
+]

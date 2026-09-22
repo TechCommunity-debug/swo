@@ -1,0 +1,2376 @@
+[
+  {
+    "slug": "craic",
+    "term": "craic",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "register": "informal",
+    "categories": [
+      "approval",
+      "partying"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": {
+      "respelling": "KRAK"
+    },
+    "definitions": [
+      {
+        "text": "Enjoyment, atmosphere, good company — the quality of an occasion rather than any single thing in it. The craic was mighty."
+      },
+      {
+        "text": "News or gossip, in the greeting 'what's the craic?', which means 'what's going on?' and expects 'not much' as an answer."
+      }
+    ],
+    "examples": [
+      {
+        "text": "The pub was packed and the craic was ninety.",
+        "translation": "The pub was packed and the atmosphere was brilliant.",
+        "context": "'Craic was ninety' is a set phrase, from an old song title; ninety here just means very high."
+      },
+      {
+        "text": "Sure we only went for the craic.",
+        "translation": "We only went for the fun of it.",
+        "context": "The commonest use of all — 'for the craic' means for no reason other than that it would be enjoyable."
+      }
+    ],
+    "origin": {
+      "etymology": "Not an ancient Irish word, despite the spelling. It comes from English and Scots 'crack' meaning loud talk, news or banter, long current in Ulster; Irish borrowed it as 'craic' in the mid-twentieth century, and the Gaelicised spelling was then re-borrowed into English from the 1970s on, helped by broadcasting and by pub signage. The version in which craic is a Gaelic survival is folk etymology.",
+      "firstAttested": "1970s in the craic spelling",
+      "sources": []
+    },
+    "relatedTerms": [
+      "irish/session",
+      "irish/whats-the-story",
+      "irish/on-the-tear"
+    ],
+    "variants": [
+      "crack"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "grand",
+    "term": "grand",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "register": "colloquial",
+    "categories": [
+      "approval",
+      "everyday"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": {
+      "respelling": "GRAND"
+    },
+    "definitions": [
+      {
+        "text": "Fine, adequate, no problem. Almost the opposite of its standard English sense: grand is the lowest passing grade, not praise."
+      },
+      {
+        "text": "Of a person: unharmed, not upset, not in need of anything. 'Are you alright?' 'I'm grand.'"
+      }
+    ],
+    "examples": [
+      {
+        "text": "Ah you're grand, don't worry about it.",
+        "translation": "It's fine, don't worry about it.",
+        "context": "Said to wave away an apology. Probably the single most-used phrase in the country."
+      },
+      {
+        "text": "The dinner was grand.",
+        "translation": "The dinner was perfectly OK.",
+        "context": "A cook hearing this has not been complimented."
+      }
+    ],
+    "origin": {
+      "etymology": "The standard English adjective, worn down by constant use into a marker of mild sufficiency. The same deflation happened to 'fine' in British English, but grand carries it further: in Ireland it can mean barely acceptable while still sounding polite.",
+      "sources": []
+    },
+    "relatedTerms": [
+      "irish/sure",
+      "irish/sound",
+      "irish/so"
+    ],
+    "synonyms": [
+      "fine",
+      "no bother"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "deadly",
+    "term": "deadly",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "register": "informal",
+    "categories": [
+      "approval"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "region": "Dublin",
+    "pronunciation": {
+      "respelling": "DED-lee"
+    },
+    "definitions": [
+      {
+        "text": "Excellent, brilliant. Strongest and most natural in Dublin, where it can stand alone as a one-word reaction."
+      }
+    ],
+    "examples": [
+      {
+        "text": "That gig was deadly.",
+        "translation": "That gig was brilliant."
+      },
+      {
+        "text": "You got tickets? Deadly.",
+        "translation": "You got tickets? Amazing."
+      }
+    ],
+    "origin": {
+      "etymology": "A negative intensifier flipped to positive, the same move behind 'wicked' and 'savage'. It peaked in Dublin youth speech in the 1980s and 1990s and has since settled into ordinary adult use there rather than dying out.",
+      "sources": []
+    },
+    "relatedTerms": [
+      "irish/gas",
+      "irish/craic",
+      "irish/sound"
+    ],
+    "synonyms": [
+      "savage",
+      "class"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "sound",
+    "term": "sound",
+    "partOfSpeech": [
+      "adjective",
+      "interjection"
+    ],
+    "register": "informal",
+    "categories": [
+      "approval",
+      "people"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": {
+      "respelling": "SOWND"
+    },
+    "definitions": [
+      {
+        "text": "Of a person: decent, reliable, generous with no fuss. The highest ordinary compliment one Irish person pays another."
+      },
+      {
+        "text": "As a one-word reply: thanks, or fine, that's settled."
+      }
+    ],
+    "examples": [
+      {
+        "text": "He's a sound fella, he'd give you the shirt off his back.",
+        "translation": "He's a thoroughly decent man, endlessly generous."
+      },
+      {
+        "text": "I'll drop it over to you later. — Sound.",
+        "translation": "I'll bring it round later. — Thanks, great.",
+        "context": "'Sound out' and 'sound as a pound' are emphatic versions."
+      }
+    ],
+    "origin": {
+      "etymology": "From the older English sense of sound as solid or trustworthy, as in 'of sound mind'. Ireland kept the human application after it faded elsewhere and made it the default word for approving of someone's character.",
+      "sources": []
+    },
+    "relatedTerms": [
+      "irish/grand",
+      "irish/fair-play",
+      "irish/deadly"
+    ],
+    "synonyms": [
+      "decent"
+    ],
+    "alsoUsedIn": [
+      "british"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "gas",
+    "term": "gas",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "register": "informal",
+    "categories": [
+      "approval",
+      "emotion"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": {
+      "respelling": "GASS"
+    },
+    "definitions": [
+      {
+        "text": "Funny, entertaining. Of a person it means they are good company and make you laugh; of a situation it means it was absurd."
+      },
+      {
+        "text": "As a noun with the article: 'it was a gas', an enjoyable bit of nonsense."
+      }
+    ],
+    "examples": [
+      {
+        "text": "Your granny is gas, she had us all in stitches.",
+        "translation": "Your grandmother is hilarious, she had us all laughing."
+      },
+      {
+        "text": "It's gas the way he never answers a question.",
+        "translation": "It's comical how he never answers a question.",
+        "context": "Often mildly critical — gas can mean 'strange enough to be funny'."
+      }
+    ],
+    "origin": {
+      "etymology": "From nitrous oxide, laughing gas, which gave nineteenth-century English 'a gas' for something hilarious. Ireland kept the adjective use long after it dropped out elsewhere, and unlike American 'a gas' it is fully current rather than dated here.",
+      "firstAttested": "19th century",
+      "sources": []
+    },
+    "relatedTerms": [
+      "irish/craic",
+      "irish/cat",
+      "irish/eejit"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "fair-play",
+    "term": "fair play to ya",
+    "partOfSpeech": [
+      "phrase",
+      "interjection"
+    ],
+    "register": "colloquial",
+    "categories": [
+      "approval",
+      "discourse"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": {
+      "respelling": "fair PLAY ta ya"
+    },
+    "definitions": [
+      {
+        "text": "Well done; credit where it's due. Used for an effort that took nerve, decency or persistence rather than for talent."
+      }
+    ],
+    "examples": [
+      {
+        "text": "Fair play to ya, you stuck at it.",
+        "translation": "Well done, you kept going."
+      },
+      {
+        "text": "She ran the whole thing on her own. Fair play.",
+        "translation": "She organised the whole thing by herself. Genuinely impressive.",
+        "context": "Standing alone it is warm and sincere; drawled slowly it can be sarcastic."
+      }
+    ],
+    "origin": {
+      "etymology": "From the sporting sense of fair play, generalised into a compliment. It covers roughly the ground of the Irish 'maith thú' ('good on you'), which many speakers also use, and 'fair dues' is the common variant.",
+      "sources": []
+    },
+    "relatedTerms": [
+      "irish/sound",
+      "irish/grand",
+      "irish/notions"
+    ],
+    "variants": [
+      "fair dues",
+      "fair play to you"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "howya",
+    "term": "howya",
+    "partOfSpeech": [
+      "interjection"
+    ],
+    "register": "informal",
+    "categories": [
+      "greetings"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "region": "Dublin",
+    "pronunciation": {
+      "respelling": "how-YA, one syllable-ish"
+    },
+    "definitions": [
+      {
+        "text": "Hello. A greeting, not a question — it takes 'howya' back, or a nod, and never a report on your health."
+      }
+    ],
+    "examples": [
+      {
+        "text": "Howya, haven't seen you in ages.",
+        "translation": "Hi, I haven't seen you in ages."
+      },
+      {
+        "text": "Howya, two pints please.",
+        "translation": "Hi there, two pints please.",
+        "context": "The standard opening to a bar order or a shop transaction anywhere in Dublin."
+      }
+    ],
+    "origin": {
+      "etymology": "Compressed 'how are you', reduced to a single greeting word. The written form 'howya' is closely associated with Dublin speech, and outside the capital 'how's it going' or 'well' does the same job.",
+      "sources": []
+    },
+    "relatedTerms": [
+      "irish/whats-the-story",
+      "irish/hows-she-cuttin",
+      "irish/boy"
+    ],
+    "variants": [
+      "howaya",
+      "how's it going"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "whats-the-story",
+    "term": "what's the story",
+    "partOfSpeech": [
+      "phrase"
+    ],
+    "register": "informal",
+    "categories": [
+      "greetings",
+      "discourse"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": {
+      "respelling": "wots the STOR-ee"
+    },
+    "definitions": [
+      {
+        "text": "What's happening; how are you. A greeting between people who already know each other, expecting 'not much' rather than actual news."
+      },
+      {
+        "text": "With a following noun, a genuine request for information: 'what's the story with the buses?'"
+      }
+    ],
+    "examples": [
+      {
+        "text": "Story, bud. — Not much, yourself?",
+        "translation": "Hey, mate. — Nothing new, you?",
+        "context": "Clipped to a single word, 'story?', among young men especially."
+      },
+      {
+        "text": "What's the story with the tickets, are they gone?",
+        "translation": "What's the situation with the tickets, are they sold out?"
+      }
+    ],
+    "origin": {
+      "etymology": "A calque-like parallel to 'what's the craic', both asking for news. The clipped 'story?' greeting spread nationally from Dublin in the 1990s and is now general.",
+      "sources": []
+    },
+    "relatedTerms": [
+      "irish/howya",
+      "irish/craic",
+      "irish/yer-man"
+    ],
+    "variants": [
+      "story bud",
+      "what's the story horse"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "hows-she-cuttin",
+    "term": "how's she cuttin'?",
+    "partOfSpeech": [
+      "phrase"
+    ],
+    "register": "dated",
+    "categories": [
+      "greetings"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": {
+      "respelling": "howz shee KUT-in"
+    },
+    "definitions": [
+      {
+        "text": "How are things? A rural greeting, now used mostly by older men or knowingly by younger speakers for comic effect. The 'she' refers to nothing in particular."
+      }
+    ],
+    "examples": [
+      {
+        "text": "How's she cuttin', Mick?",
+        "translation": "How are things, Mick?"
+      },
+      {
+        "text": "How's she cuttin'? — Divil a bit wrong with her.",
+        "translation": "How's it going? — Not a thing wrong.",
+        "context": "The full exchange is now largely performed rather than spoken straight."
+      }
+    ],
+    "origin": {
+      "etymology": "Origin uncertain. The usual explanations — a scythe or a plough cutting well, or a boat cutting through water — are guesses rather than documented, and the impersonal 'she' is the same one in 'she's a fine day'. Treat any confident account of it with suspicion.",
+      "sources": []
+    },
+    "relatedTerms": [
+      "irish/howya",
+      "irish/begorrah",
+      "irish/boy"
+    ],
+    "variants": [
+      "how's she cutting"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "boy",
+    "term": "boy",
+    "partOfSpeech": [
+      "noun",
+      "interjection"
+    ],
+    "register": "regional",
+    "categories": [
+      "greetings",
+      "people"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "region": "Cork",
+    "pronunciation": {
+      "respelling": "BOY, often written 'bai' or 'buoy'"
+    },
+    "definitions": [
+      {
+        "text": "A tag attached to the end of an utterance in Cork and much of Munster, addressed to any male of any age. It marks familiarity and carries no sense of youth."
+      }
+    ],
+    "examples": [
+      {
+        "text": "How's it going, boy?",
+        "translation": "How are you, mate?",
+        "context": "Said to a seventy-year-old as readily as to a teenager."
+      },
+      {
+        "text": "'Tis a fine day, boy.",
+        "translation": "It's a lovely day, mate."
+      }
+    ],
+    "origin": {
+      "etymology": "English 'boy' as a vocative, reinforced by the Irish vocative 'a bhuachaill'. Whether the Irish form caused the Cork habit or merely matched it is unsettled, but the frequency and the stripped-out age meaning are distinctly Munster.",
+      "sources": []
+    },
+    "relatedTerms": [
+      "irish/howya",
+      "irish/langer",
+      "irish/like"
+    ],
+    "variants": [
+      "bai",
+      "buoy"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "yer-man",
+    "term": "yer man",
+    "partOfSpeech": [
+      "noun",
+      "phrase"
+    ],
+    "register": "colloquial",
+    "categories": [
+      "people",
+      "discourse"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": {
+      "respelling": "yer MAN"
+    },
+    "definitions": [
+      {
+        "text": "That man; the man we both know about but are not naming. The female form is 'yer wan'."
+      },
+      {
+        "text": "A stranger being pointed out, with a hint that he is being judged: 'yer man over there'."
+      }
+    ],
+    "examples": [
+      {
+        "text": "Yer man from the bank rang again.",
+        "translation": "That fellow from the bank rang again.",
+        "context": "Used when the speaker assumes the listener knows perfectly well who is meant."
+      },
+      {
+        "text": "Yer wan off the telly, what's her name.",
+        "translation": "That woman off the television, whatever she's called."
+      }
+    ],
+    "origin": {
+      "etymology": "The possessive is not literal — he is not your man. It parallels the Irish 'mo dhuine', literally 'my person', used the same way for an unnamed third party, and is one of the clearest cases of Irish sentence habits surviving the switch to English.",
+      "sources": []
+    },
+    "relatedTerms": [
+      "irish/chancer",
+      "irish/wagon",
+      "irish/whats-the-story"
+    ],
+    "variants": [
+      "yer wan",
+      "your man"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "culchie",
+    "term": "culchie",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "register": "informal",
+    "categories": [
+      "people",
+      "insults"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": {
+      "respelling": "KULL-chee"
+    },
+    "definitions": [
+      {
+        "text": "Someone from rural Ireland, as seen from a city. Between friends it is teasing and often self-applied; from a stranger in Dublin it is a sneer."
+      }
+    ],
+    "examples": [
+      {
+        "text": "Half the pub is culchies up for the match.",
+        "translation": "Half the pub is country people up for the match."
+      },
+      {
+        "text": "I'm a culchie and proud of it.",
+        "translation": "I'm from the country and proud of it.",
+        "context": "Reclaiming the word is completely normal; 'culchie pride' is a real posture."
+      }
+    ],
+    "origin": {
+      "etymology": "Disputed. The leading candidates are the Mayo town of Kiltimagh (Coillte Mách), long a shorthand for the back of beyond, and a clipping of 'agricultural'. Neither is proven, and the Irish 'coillte' ('woods') account is weaker than it looks.",
+      "firstAttested": "mid-20th century",
+      "sources": []
+    },
+    "relatedTerms": [
+      "irish/notions",
+      "irish/boy",
+      "irish/hows-she-cuttin"
+    ],
+    "synonyms": [
+      "bogger",
+      "muck savage"
+    ],
+    "usageWarning": [
+      "context-dependent"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "chancer",
+    "term": "chancer",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "register": "colloquial",
+    "categories": [
+      "people"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": {
+      "respelling": "CHAN-ser"
+    },
+    "definitions": [
+      {
+        "text": "Someone who tries it on — charges too much, promises what he can't deliver, pushes into a queue. Condemnation mixed with a certain grudging amusement."
+      }
+    ],
+    "examples": [
+      {
+        "text": "Forty euro for that? He's a right chancer.",
+        "translation": "Forty euros for that? He's got some nerve."
+      },
+      {
+        "text": "Ah he's only chancing his arm.",
+        "translation": "He's just trying it on to see if he gets away with it."
+      }
+    ],
+    "origin": {
+      "etymology": "From 'chancing your arm', taking a risk in the hope of profit. The noun is common across Britain and Ireland but does more work in Ireland, where it sits next to 'cute hoor' as a whole moral category.",
+      "sources": []
+    },
+    "relatedTerms": [
+      "irish/cute-hoor",
+      "irish/yer-man",
+      "irish/gobshite"
+    ],
+    "alsoUsedIn": [
+      "british"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "cute-hoor",
+    "term": "cute hoor",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "register": "colloquial",
+    "categories": [
+      "people",
+      "money"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": {
+      "respelling": "cute HOOR — 'hoor' rhymes with 'poor'"
+    },
+    "definitions": [
+      {
+        "text": "A sly operator who works the system and stays just inside the rules — classically a local politician, publican or developer. 'Cute' here means cunning, not adorable."
+      }
+    ],
+    "examples": [
+      {
+        "text": "He got the site rezoned before anyone copped on. Cute hoor.",
+        "translation": "He got the land rezoned before anyone noticed. Sly operator.",
+        "context": "The tone is half disapproval, half admiration, which is the whole point of the phrase."
+      },
+      {
+        "text": "There's a cute hoor in every parish.",
+        "translation": "Every parish has its own fixer."
+      }
+    ],
+    "origin": {
+      "etymology": "'Cute' is the older English sense of acute, meaning shrewd, which Hiberno-English preserved. 'Hoor' is the Irish pronunciation of whore, used here as a general term for a man rather than with any sexual sense. The phrase became fixed political vocabulary in the twentieth century — 'cute hoorism' is a recognised charge in Irish public life.",
+      "sources": []
+    },
+    "relatedTerms": [
+      "irish/chancer",
+      "irish/notions",
+      "irish/graft"
+    ],
+    "usageWarning": [
+      "vulgar"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "notions",
+    "term": "notions",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "register": "colloquial",
+    "categories": [
+      "people",
+      "insults"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": {
+      "respelling": "NO-shunz"
+    },
+    "definitions": [
+      {
+        "text": "Pretensions above your station — ordering the wine, mentioning your holiday, using a word nobody asked for. Accusing someone of notions is Ireland's standard weapon against self-promotion."
+      }
+    ],
+    "examples": [
+      {
+        "text": "Scented candles in the downstairs loo. Notions.",
+        "translation": "Scented candles in the downstairs toilet. Who does she think she is."
+      },
+      {
+        "text": "He's got notions since he moved to Dublin.",
+        "translation": "He's got above himself since moving to Dublin."
+      }
+    ],
+    "origin": {
+      "etymology": "Shortened from 'notions above your station', a nineteenth-century class rebuke. The bare noun became a national in-joke in the 2010s through social media, where it now functions as a one-word verdict.",
+      "sources": []
+    },
+    "relatedTerms": [
+      "irish/culchie",
+      "irish/fair-play",
+      "irish/cute-hoor"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "eejit",
+    "term": "eejit",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "register": "informal",
+    "categories": [
+      "insults"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": {
+      "respelling": "EE-jit"
+    },
+    "definitions": [
+      {
+        "text": "A fool. Noticeably gentler than 'idiot' — it is what a parent calls a child, and what you call a friend who has locked his keys in the car."
+      }
+    ],
+    "examples": [
+      {
+        "text": "You big eejit, that's not how it goes.",
+        "translation": "You great fool, that's not how it works.",
+        "context": "Affectionate. 'Big eejit' is almost never hostile."
+      },
+      {
+        "text": "Some eejit parked across the gate.",
+        "translation": "Some idiot parked across the gateway.",
+        "context": "Here it is genuine annoyance, but still mild."
+      }
+    ],
+    "origin": {
+      "etymology": "A spelling of the Irish pronunciation of 'idiot', with the initial vowel lengthened. The respelling did the semantic work: once it looked like a different word it stopped carrying the clinical weight of 'idiot' and became affectionate.",
+      "sources": []
+    },
+    "relatedTerms": [
+      "irish/gobshite",
+      "irish/gas",
+      "irish/bollix"
+    ],
+    "synonyms": [
+      "gobdaw",
+      "clown"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "gobshite",
+    "term": "gobshite",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "register": "vulgar",
+    "categories": [
+      "insults"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": {
+      "respelling": "GOB-shite"
+    },
+    "definitions": [
+      {
+        "text": "A fool, specifically a loud one who talks confident nonsense. Stronger than eejit and genuinely rude, though common in ordinary adult speech and heard on national radio."
+      }
+    ],
+    "examples": [
+      {
+        "text": "Don't mind him, he's a gobshite.",
+        "translation": "Ignore him, he's a blowhard and a fool."
+      },
+      {
+        "text": "I made a right gobshite of myself.",
+        "translation": "I made a complete fool of myself."
+      }
+    ],
+    "origin": {
+      "etymology": "'Gob' (mouth) plus 'shite'. Gob comes from Irish 'gob', a beak or snout, and is the reason the insult targets talk specifically rather than general stupidity.",
+      "firstAttested": "early 20th century",
+      "sources": []
+    },
+    "relatedTerms": [
+      "irish/eejit",
+      "irish/bollix",
+      "irish/langer"
+    ],
+    "usageWarning": [
+      "vulgar"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "langer",
+    "term": "langer",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "register": "vulgar",
+    "categories": [
+      "insults"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "region": "Cork",
+    "pronunciation": {
+      "respelling": "LANG-er"
+    },
+    "definitions": [
+      {
+        "text": "An idiot or an obnoxious person. The definitive Cork insult, used constantly there and barely at all elsewhere."
+      },
+      {
+        "text": "A penis. The same word, and the reason the insult carries more force than its everyday frequency suggests."
+      }
+    ],
+    "examples": [
+      {
+        "text": "He's some langer, boy.",
+        "translation": "He's a complete idiot, mate.",
+        "context": "Cork speech; outside Munster this lands as an affectation."
+      },
+      {
+        "text": "We were langers by nine o'clock.",
+        "translation": "We were blind drunk by nine.",
+        "context": "'Langers' as an adjective means very drunk — a separate sense from the insult."
+      }
+    ],
+    "origin": {
+      "etymology": "Disputed. The most repeated story derives it from Hindi-Urdu 'langur', a monkey, brought home by Cork men of the Royal Munster Fusiliers serving in India. It is plausible and entirely undocumented; treat it as a good story rather than an etymology.",
+      "sources": []
+    },
+    "relatedTerms": [
+      "irish/boy",
+      "irish/gobshite",
+      "irish/locked"
+    ],
+    "variants": [
+      "langers"
+    ],
+    "usageWarning": [
+      "vulgar"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "gowl",
+    "term": "gowl",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "register": "vulgar",
+    "categories": [
+      "insults"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "region": "Munster",
+    "pronunciation": {
+      "respelling": "GOWL, rhymes with owl"
+    },
+    "definitions": [
+      {
+        "text": "A contemptible fool. Strong, and strongest in Limerick and the mid-west, where it is a standard insult between men."
+      },
+      {
+        "text": "The vulva. The underlying sense, which is why the insult is coarser than its casual delivery suggests."
+      }
+    ],
+    "examples": [
+      {
+        "text": "Would you look at that gowl.",
+        "translation": "Would you look at that clown."
+      },
+      {
+        "text": "He made a gowl of himself at the wedding.",
+        "translation": "He made an utter fool of himself at the wedding."
+      }
+    ],
+    "origin": {
+      "etymology": "From the Irish 'gabhal', a fork or crotch, the same word used anatomically. The insult is a direct carry-over of an Irish word rather than an English one reshaped, which is typical of the strongest Munster vocabulary.",
+      "sources": []
+    },
+    "relatedTerms": [
+      "irish/langer",
+      "irish/bollix",
+      "irish/gobshite"
+    ],
+    "usageWarning": [
+      "vulgar",
+      "offensive"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "melter",
+    "term": "melter",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "register": "regional",
+    "categories": [
+      "insults"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "region": "Northern Ireland",
+    "pronunciation": {
+      "respelling": "MEL-ter"
+    },
+    "definitions": [
+      {
+        "text": "Someone who wears you down — a pest, a drone, a person who will not stop talking. Northern, strongly associated with Derry and Belfast."
+      }
+    ],
+    "examples": [
+      {
+        "text": "Don't sit near him, he's a melter.",
+        "translation": "Don't sit near him, he'll talk your ear off."
+      },
+      {
+        "text": "You're melting my head.",
+        "translation": "You're driving me mad.",
+        "context": "The verb phrase is the older form and is used across the north and in Donegal."
+      }
+    ],
+    "origin": {
+      "etymology": "From 'melting my head', the northern equivalent of 'doing my head in'. The agent noun is recent — it spread beyond Ulster in the 2010s, helped by Derry-set television, and southern speakers now use it half-quoting.",
+      "firstAttested": "2010s in the noun form",
+      "sources": []
+    },
+    "relatedTerms": [
+      "irish/wee",
+      "irish/giving-out",
+      "irish/eejit"
+    ],
+    "synonyms": [
+      "head-melter"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "bollix",
+    "term": "bollix",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "register": "vulgar",
+    "categories": [
+      "insults"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": {
+      "respelling": "BOL-iks"
+    },
+    "definitions": [
+      {
+        "text": "A despicable or annoying man. In Ireland it is a person far more often than an exclamation, which is the reverse of British usage."
+      },
+      {
+        "text": "To ruin something: 'I bollixed it up'."
+      }
+    ],
+    "examples": [
+      {
+        "text": "That bollix cut me off at the roundabout.",
+        "translation": "That swine cut me off at the roundabout."
+      },
+      {
+        "text": "He's an awful bollix when he's drink taken.",
+        "translation": "He turns really unpleasant when he's been drinking."
+      }
+    ],
+    "origin": {
+      "etymology": "The Irish spelling of 'bollocks', respelled to match the pronunciation. English uses the plural mainly as an interjection for nonsense; Hiberno-English specialised the singular into a term for a person.",
+      "sources": []
+    },
+    "relatedTerms": [
+      "irish/gobshite",
+      "irish/gowl",
+      "irish/feck"
+    ],
+    "variants": [
+      "bollox",
+      "bollocks"
+    ],
+    "usageWarning": [
+      "vulgar"
+    ],
+    "alsoUsedIn": [
+      "british"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "wagon",
+    "term": "wagon",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "register": "informal",
+    "categories": [
+      "insults",
+      "people"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": {
+      "respelling": "WAG-on"
+    },
+    "definitions": [
+      {
+        "text": "A woman judged to be spiteful or difficult. Aimed at women only, and although it is often said lightly it is an insult about a woman's character with no male equivalent."
+      }
+    ],
+    "examples": [
+      {
+        "text": "She's an oul' wagon, that one.",
+        "translation": "She's a nasty piece of work, that one.",
+        "context": "'Oul' wagon' is the usual form; 'oul'' here means old in tone, not in age."
+      },
+      {
+        "text": "Don't be a wagon about it.",
+        "translation": "Don't be mean about it.",
+        "context": "Between close female friends this can be teasing — from a man it very rarely is."
+      }
+    ],
+    "origin": {
+      "etymology": "From the older slang use of 'wagon' for a woman of low repute, recorded in Britain and Ireland from the nineteenth century. Ireland kept it after it faded elsewhere and softened it somewhat, without removing the gendered edge.",
+      "sources": []
+    },
+    "relatedTerms": [
+      "irish/yer-man",
+      "irish/notions",
+      "irish/culchie"
+    ],
+    "usageWarning": [
+      "offensive",
+      "context-dependent"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "scarlet",
+    "term": "scarlet",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "register": "informal",
+    "categories": [
+      "emotion"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "region": "Dublin",
+    "pronunciation": {
+      "respelling": "SKAR-let"
+    },
+    "definitions": [
+      {
+        "text": "Mortified with embarrassment. Used of yourself, and — this is the Irish part — of someone else on their behalf: 'I'm scarlet for ya'."
+      }
+    ],
+    "examples": [
+      {
+        "text": "I called the teacher Mam. I was scarlet.",
+        "translation": "I called the teacher Mum. I wanted the ground to swallow me."
+      },
+      {
+        "text": "Scarlet for ya, babe.",
+        "translation": "I'm cringing on your behalf.",
+        "context": "Young Dublin speech, often said with relish rather than sympathy."
+      }
+    ],
+    "origin": {
+      "etymology": "From the colour of blushing, made into an adjective for the whole emotional state. The vicarious construction 'scarlet for you' spread nationally from Dublin teenage speech in the 2000s and is now the form most people quote.",
+      "sources": []
+    },
+    "relatedTerms": [
+      "irish/cat",
+      "irish/gas",
+      "irish/shift"
+    ],
+    "synonyms": [
+      "mortified"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "cat",
+    "term": "cat",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "register": "colloquial",
+    "categories": [
+      "emotion",
+      "everyday"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": {
+      "respelling": "KAT"
+    },
+    "definitions": [
+      {
+        "text": "Awful, dreadful. Applies to weather, performances, food and moods, and has nothing to do with cats."
+      }
+    ],
+    "examples": [
+      {
+        "text": "The weather was cat all week.",
+        "translation": "The weather was miserable all week."
+      },
+      {
+        "text": "I'm feeling cat after last night.",
+        "translation": "I feel rotten after last night.",
+        "context": "Common in Leinster and the midlands; a Dubliner may use it, a Corkonian usually won't."
+      }
+    ],
+    "origin": {
+      "etymology": "Generally explained as a clipping of 'cat melodeon', two noises held to be equally unbearable, and sometimes as a reshaping of Irish 'cat mara' ('sea cat', a misfortune). Both are plausible, neither is settled, and speakers today have no idea either way.",
+      "sources": []
+    },
+    "relatedTerms": [
+      "irish/banjaxed",
+      "irish/gas",
+      "irish/hames"
+    ],
+    "variants": [
+      "cat melodeon",
+      "cat altogether"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "feck",
+    "term": "feck",
+    "partOfSpeech": [
+      "verb",
+      "interjection"
+    ],
+    "register": "vulgar",
+    "categories": [
+      "emotion"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": {
+      "respelling": "FEK"
+    },
+    "definitions": [
+      {
+        "text": "A milder stand-in for the stronger f-word, used in the same grammar: feck off, fecking, for feck's sake."
+      },
+      {
+        "text": "To steal, in older Hiberno-English: 'he fecked a few apples'. Unrelated to the swear and now uncommon."
+      }
+    ],
+    "examples": [
+      {
+        "text": "Ah feck it, we'll go anyway.",
+        "translation": "Oh to hell with it, we'll go anyway.",
+        "context": "This is the everyday use — irritated, not aggressive."
+      },
+      {
+        "text": "Feck off, you're not serious.",
+        "translation": "Get away, you can't be serious.",
+        "context": "Said to a friend it means disbelief, not dismissal."
+      }
+    ],
+    "origin": {
+      "etymology": "A minced oath, with a separate and older Hiberno-English verb 'feck' meaning to steal feeding into the spelling. Father Ted put it in front of an international audience in the 1990s, which is why visitors overrate how transgressive it is — Irish broadcasters air it without comment.",
+      "sources": []
+    },
+    "relatedTerms": [
+      "irish/bollix",
+      "irish/gobshite",
+      "irish/giving-out"
+    ],
+    "usageWarning": [
+      "vulgar"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "begorrah",
+    "term": "begorrah",
+    "partOfSpeech": [
+      "interjection"
+    ],
+    "register": "dated",
+    "categories": [
+      "emotion"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": {
+      "respelling": "buh-GOR-ah"
+    },
+    "definitions": [
+      {
+        "text": "By God — a nineteenth-century euphemistic oath that no living Irish person says sincerely. Listed because visitors arrive expecting it, usually attached to 'top o' the mornin'', which is equally unused."
+      }
+    ],
+    "examples": [
+      {
+        "text": "Begorrah, would you look at that.",
+        "translation": "Good heavens, would you look at that.",
+        "context": "Only ever heard in Ireland as mockery of tourists, films or greeting cards."
+      },
+      {
+        "text": "Nobody says begorrah. Nobody has ever said it to me.",
+        "translation": "Nobody says begorrah — and no Irish person has ever said it to me.",
+        "context": "A sentiment you will hear from Irish people fairly often."
+      }
+    ],
+    "origin": {
+      "etymology": "A real euphemism for 'by God', attested in the nineteenth century and genuinely spoken then. Its survival is owed to stage-Irish comic characters in Victorian theatre and later Hollywood, which preserved it as costume long after ordinary speech dropped it. 'Bejaysus' and 'begob' are the forms that actually lasted, though both now sound old.",
+      "firstAttested": "early 19th century",
+      "sources": []
+    },
+    "relatedTerms": [
+      "irish/hows-she-cuttin",
+      "irish/feck",
+      "irish/craic"
+    ],
+    "synonyms": [
+      "bejaysus",
+      "begob"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "locked",
+    "term": "locked",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "register": "informal",
+    "categories": [
+      "partying"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": {
+      "respelling": "LOKT"
+    },
+    "definitions": [
+      {
+        "text": "Very drunk. One of a long list of Irish words for the same state, and among the most widely used."
+      }
+    ],
+    "examples": [
+      {
+        "text": "He was locked before the dinner was served.",
+        "translation": "He was hammered before dinner was served."
+      },
+      {
+        "text": "We got absolutely locked.",
+        "translation": "We got completely plastered."
+      }
+    ],
+    "origin": {
+      "etymology": "The image is of being shut down or seized up, like a mechanism. Ireland's stock of drunkenness words is unusually large — langers, ossified, twisted, flootered, in bits, buckled — and locked sits in the middle of the scale, past tipsy and short of incapable.",
+      "sources": []
+    },
+    "relatedTerms": [
+      "irish/on-the-tear",
+      "irish/gargle",
+      "irish/session"
+    ],
+    "synonyms": [
+      "ossified",
+      "twisted",
+      "flootered",
+      "buckled"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "on-the-tear",
+    "term": "on the tear",
+    "partOfSpeech": [
+      "phrase"
+    ],
+    "register": "informal",
+    "categories": [
+      "partying"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": {
+      "respelling": "on the TAIR — rhymes with 'air'"
+    },
+    "definitions": [
+      {
+        "text": "On an extended drinking spree, usually more than one night. Implies momentum rather than a single evening out."
+      }
+    ],
+    "examples": [
+      {
+        "text": "They've been on the tear since Thursday.",
+        "translation": "They've been out drinking since Thursday."
+      },
+      {
+        "text": "I'm off it, I was on the tear all Christmas.",
+        "translation": "I'm off the drink, I was at it non-stop all Christmas."
+      }
+    ],
+    "origin": {
+      "etymology": "From 'tear' in the sense of a wild rush. 'On the batter', 'on the lash' and 'on the beer' cover the same ground; 'on the dry' is the opposite and is heard just as often, usually in January.",
+      "sources": []
+    },
+    "relatedTerms": [
+      "irish/locked",
+      "irish/session",
+      "irish/gargle"
+    ],
+    "synonyms": [
+      "on the batter",
+      "on the lash"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "session",
+    "term": "session",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "register": "informal",
+    "categories": [
+      "partying"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": {
+      "respelling": "SESH-un, often clipped to SESH"
+    },
+    "definitions": [
+      {
+        "text": "A long stretch of drinking, usually somewhere private and unplanned. 'A bit of a session' means the night got away from everyone."
+      },
+      {
+        "text": "A traditional music session in a pub — musicians playing informally for themselves. The same word, and context is the only thing distinguishing them."
+      }
+    ],
+    "examples": [
+      {
+        "text": "The house party turned into a serious session.",
+        "translation": "The house party turned into a proper all-night drinking session."
+      },
+      {
+        "text": "There's a session in Sheehan's on Thursday nights.",
+        "translation": "There's traditional music in Sheehan's on Thursday nights.",
+        "context": "Here it is the musical sense — in print it is often given the Irish spelling, seisiún."
+      }
+    ],
+    "origin": {
+      "etymology": "English 'session' in the sense of a sitting, borrowed into Irish as 'seisiún' for the musical gathering and back again. The drinking sense and the music sense grew up beside each other because historically they happened in the same room.",
+      "sources": []
+    },
+    "relatedTerms": [
+      "irish/craic",
+      "irish/on-the-tear",
+      "irish/locked"
+    ],
+    "variants": [
+      "sesh",
+      "seisiún"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "gargle",
+    "term": "gargle",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "register": "colloquial",
+    "categories": [
+      "food-drink",
+      "partying"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": {
+      "respelling": "GAR-gul"
+    },
+    "definitions": [
+      {
+        "text": "Alcoholic drink, taken collectively. 'The gargle' is drinking as an activity and, often, as a problem."
+      }
+    ],
+    "examples": [
+      {
+        "text": "He's fond of the gargle.",
+        "translation": "He drinks a fair bit.",
+        "context": "A standard euphemism for a drink problem — understated on purpose."
+      },
+      {
+        "text": "Will we get a few gargles in?",
+        "translation": "Shall we get a few drinks in?"
+      }
+    ],
+    "origin": {
+      "etymology": "From gargling, the throat action. It belongs to the large Irish vocabulary that lets people discuss heavy drinking without naming it directly, alongside 'fond of a drop' and 'he likes his pint'.",
+      "sources": []
+    },
+    "relatedTerms": [
+      "irish/session",
+      "irish/locked",
+      "irish/naggin"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "naggin",
+    "term": "naggin",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "register": "informal",
+    "categories": [
+      "food-drink"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": {
+      "respelling": "NAG-in"
+    },
+    "definitions": [
+      {
+        "text": "A 200ml bottle of spirits — the flat one that fits in a coat pocket or a sock. A unit of measurement in Irish social life, especially for teenagers and students."
+      }
+    ],
+    "examples": [
+      {
+        "text": "Grab a naggin of vodka on the way.",
+        "translation": "Pick up a quarter-bottle of vodka on the way."
+      },
+      {
+        "text": "There were naggins hidden all over the field.",
+        "translation": "There were half-pint spirit bottles stashed all over the field.",
+        "context": "Festival and debs-night vocabulary. A 'shoulder' is the next size up, 350ml."
+      }
+    ],
+    "origin": {
+      "etymology": "From 'noggin', an old measure of liquid of about a quarter pint. Britain lost the word; Ireland kept it because the bottle size stayed on sale, and it is now printed on shelf labels as well as spoken.",
+      "sources": []
+    },
+    "relatedTerms": [
+      "irish/gargle",
+      "irish/session",
+      "irish/locked"
+    ],
+    "synonyms": [
+      "shoulder"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "chipper",
+    "term": "chipper",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "register": "colloquial",
+    "categories": [
+      "food-drink"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": {
+      "respelling": "CHIP-er"
+    },
+    "definitions": [
+      {
+        "text": "A fish-and-chip shop, and by extension any late-night takeaway. 'Going to the chipper' is the default end to a night out."
+      }
+    ],
+    "examples": [
+      {
+        "text": "We'll get a bag of chips in the chipper.",
+        "translation": "We'll get chips from the chip shop."
+      },
+      {
+        "text": "Last stop, the chipper.",
+        "translation": "Last stop of the night, the takeaway."
+      }
+    ],
+    "origin": {
+      "etymology": "Straightforwardly 'chip' plus the -er agent suffix. Many Irish chippers were founded by Italian immigrant families from the 1880s onward — Borza, Macari, Cafolla — which is why the trade has an Italian surname attached to it in most towns.",
+      "sources": []
+    },
+    "relatedTerms": [
+      "irish/spice-bag",
+      "irish/locked",
+      "irish/on-the-tear"
+    ],
+    "alsoUsedIn": [
+      "british"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "spice-bag",
+    "term": "spice bag",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "register": "informal",
+    "categories": [
+      "food-drink"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": {
+      "respelling": "SPICE bag"
+    },
+    "definitions": [
+      {
+        "text": "Chips, shredded chicken, peppers and onions tossed with salt-and-chilli seasoning in a paper bag. An Irish-Chinese takeaway invention and the country's genuine national late-night dish."
+      }
+    ],
+    "examples": [
+      {
+        "text": "Two spice bags and a curry, please.",
+        "translation": "Two spice bags and a curry sauce, please."
+      },
+      {
+        "text": "Nothing fixes a hangover like a spice bag.",
+        "translation": "Nothing cures a hangover like a spice bag."
+      }
+    ],
+    "origin": {
+      "etymology": "Created in Dublin Chinese takeaways in the early 2010s — the Sunflower in Templeogue is the usual claim — and spread nationwide within a few years. Unlike most items on this list it has a traceable and very recent origin, and it exists nowhere else.",
+      "firstAttested": "early 2010s",
+      "sources": []
+    },
+    "relatedTerms": [
+      "irish/chipper",
+      "irish/session",
+      "irish/locked"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "yoke",
+    "term": "yoke",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "register": "colloquial",
+    "categories": [
+      "everyday"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": {
+      "respelling": "YOHK"
+    },
+    "definitions": [
+      {
+        "text": "A thing whose name you have forgotten, or cannot be bothered with. Covers machinery, gadgets, tools and objects of any size."
+      },
+      {
+        "text": "Of a person: a strange or troublesome one — 'she's a fierce yoke'. Less common and never flattering."
+      },
+      {
+        "text": "An ecstasy tablet, in the drug slang of the 1990s rave scene onwards."
+      }
+    ],
+    "examples": [
+      {
+        "text": "Hand me that yoke there, the round one.",
+        "translation": "Pass me that thing there, the round one."
+      },
+      {
+        "text": "The yoke for opening the wine is in the drawer.",
+        "translation": "The corkscrew is in the drawer.",
+        "context": "The everyday sense. Irish speech uses yoke where other Englishes use thingy, doohickey or whatsit."
+      }
+    ],
+    "origin": {
+      "etymology": "From the wooden yoke used on draught animals, generalised to any contraption and then to anything at all. The drug sense came later and is context-bound: nobody hearing 'pass me that yoke' in a kitchen thinks twice.",
+      "sources": []
+    },
+    "relatedTerms": [
+      "irish/press",
+      "irish/banjaxed",
+      "irish/jacks"
+    ],
+    "synonyms": [
+      "thingamajig",
+      "doodah"
+    ],
+    "usageWarning": [
+      "context-dependent"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "press",
+    "term": "press",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "register": "colloquial",
+    "categories": [
+      "everyday"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": {
+      "respelling": "PRESS"
+    },
+    "definitions": [
+      {
+        "text": "A cupboard. The kitchen press is where the cups live; the hot press is the airing cupboard around the immersion heater, and has no equivalent name anywhere else."
+      }
+    ],
+    "examples": [
+      {
+        "text": "The mugs are in the press over the kettle.",
+        "translation": "The mugs are in the cupboard above the kettle."
+      },
+      {
+        "text": "There's towels in the hot press.",
+        "translation": "There are towels in the airing cupboard.",
+        "context": "'Hot press' baffles visitors more reliably than any other household word."
+      }
+    ],
+    "origin": {
+      "etymology": "An old English and Scots word for a large cupboard, still standard in Ireland and Scotland while England narrowed it to printing and journalism. Not slang so much as the ordinary Irish word that outsiders mistake for slang.",
+      "sources": []
+    },
+    "relatedTerms": [
+      "irish/yoke",
+      "irish/jacks",
+      "irish/bold"
+    ],
+    "alsoUsedIn": [
+      "british"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "jacks",
+    "term": "the jacks",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "register": "informal",
+    "categories": [
+      "everyday"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": {
+      "respelling": "the JAKS"
+    },
+    "definitions": [
+      {
+        "text": "The toilet, especially a public one in a pub. Always plural and always with 'the'."
+      }
+    ],
+    "examples": [
+      {
+        "text": "Where's the jacks in here?",
+        "translation": "Where's the toilet in here?"
+      },
+      {
+        "text": "The jacks are locked, you have to ask at the bar.",
+        "translation": "The toilets are locked, you have to ask at the bar."
+      }
+    ],
+    "origin": {
+      "etymology": "From 'jakes', a sixteenth-century English word for a privy, used by Shakespeare. England replaced it; Ireland kept it and pluralised it. The American 'john' comes from the same family of names.",
+      "firstAttested": "16th century as jakes",
+      "sources": []
+    },
+    "relatedTerms": [
+      "irish/press",
+      "irish/yoke",
+      "irish/chipper"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "banjaxed",
+    "term": "banjaxed",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "register": "informal",
+    "categories": [
+      "everyday"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": {
+      "respelling": "BAN-jakst"
+    },
+    "definitions": [
+      {
+        "text": "Broken, ruined, beyond fixing. Used of machines, plans and knees."
+      },
+      {
+        "text": "Of a person: exhausted, or hungover."
+      }
+    ],
+    "examples": [
+      {
+        "text": "The washing machine is banjaxed.",
+        "translation": "The washing machine has packed in."
+      },
+      {
+        "text": "I'm banjaxed after that walk.",
+        "translation": "I'm shattered after that walk."
+      }
+    ],
+    "origin": {
+      "etymology": "Origin unknown — a genuinely opaque Dublin coinage of the early twentieth century with no convincing source in Irish or English. Flann O'Brien used it heavily in his Irish Times column, which is largely why it is known nationally.",
+      "firstAttested": "early 20th century",
+      "sources": []
+    },
+    "relatedTerms": [
+      "irish/hames",
+      "irish/cat",
+      "irish/yoke"
+    ],
+    "synonyms": [
+      "bunched",
+      "wrecked"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "wee",
+    "term": "wee",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "register": "regional",
+    "categories": [
+      "everyday",
+      "discourse"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "region": "Northern Ireland",
+    "pronunciation": {
+      "respelling": "WEE"
+    },
+    "definitions": [
+      {
+        "text": "Small — but in the north of Ireland it is attached to almost any noun regardless of size, as a marker of friendliness. A wee bill, a wee minute, a wee lorry."
+      }
+    ],
+    "examples": [
+      {
+        "text": "I'll just take your wee card there.",
+        "translation": "I'll take your card now.",
+        "context": "Said by a shop assistant in Belfast or Derry. The card is not small; 'wee' is politeness, not measurement."
+      },
+      {
+        "text": "Do you want a wee cup of tea?",
+        "translation": "Would you like a cup of tea?"
+      }
+    ],
+    "origin": {
+      "etymology": "From Scots, carried into Ulster by seventeenth-century plantation settlement, which is why the usage stops fairly sharply around the Ulster border and is heard in Donegal, Cavan and Monaghan as well as the six counties. It is a discourse softener rather than a size word.",
+      "sources": []
+    },
+    "relatedTerms": [
+      "irish/melter",
+      "irish/sure",
+      "irish/press"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "bold",
+    "term": "bold",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "register": "colloquial",
+    "categories": [
+      "everyday",
+      "people"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": {
+      "respelling": "BOHLD"
+    },
+    "definitions": [
+      {
+        "text": "Naughty, badly behaved. Said of children constantly and of adults teasingly; it does not mean brave or daring in Irish usage."
+      }
+    ],
+    "examples": [
+      {
+        "text": "Stop that, you bold thing.",
+        "translation": "Stop that, you little monkey.",
+        "context": "Parent to small child. This is the core use."
+      },
+      {
+        "text": "Two desserts? Very bold.",
+        "translation": "Two desserts? Very naughty of you.",
+        "context": "Adult teasing, mildly flirtatious depending on delivery."
+      }
+    ],
+    "origin": {
+      "etymology": "The standard English adjective, narrowed in Ireland to misbehaviour and effectively losing the 'courageous' sense in everyday speech. Irish 'dána' carries both senses the same way, which is likely why the English word settled here where it did.",
+      "sources": []
+    },
+    "relatedTerms": [
+      "irish/giving-out",
+      "irish/eejit",
+      "irish/press"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "hames",
+    "term": "hames",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "register": "colloquial",
+    "categories": [
+      "money",
+      "everyday"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": {
+      "respelling": "HAYMZ"
+    },
+    "definitions": [
+      {
+        "text": "A botched job. Almost always in 'to make a hames of', meaning to do something so badly it has to be undone."
+      }
+    ],
+    "examples": [
+      {
+        "text": "They made a right hames of the accounts.",
+        "translation": "They made a complete mess of the accounts."
+      },
+      {
+        "text": "Don't make a hames of it this time.",
+        "translation": "Don't botch it this time."
+      }
+    ],
+    "origin": {
+      "etymology": "The hames are the two curved pieces of a horse's collar that the traces attach to. Fitting them the wrong way round made the harness useless, and the phrase outlived working horses by a century.",
+      "sources": []
+    },
+    "relatedTerms": [
+      "irish/banjaxed",
+      "irish/graft",
+      "irish/cat"
+    ],
+    "synonyms": [
+      "balls of it",
+      "dog's dinner"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "graft",
+    "term": "graft",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "register": "colloquial",
+    "categories": [
+      "money"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": {
+      "respelling": "GRAHFT"
+    },
+    "definitions": [
+      {
+        "text": "Hard work, and the willingness to do it. 'He's a great grafter' is high praise on a building site and in an office alike."
+      },
+      {
+        "text": "To work hard, often at something unglamorous: 'I was grafting all weekend'."
+      }
+    ],
+    "examples": [
+      {
+        "text": "It's hard graft but the money's good.",
+        "translation": "It's tough work but it pays well."
+      },
+      {
+        "text": "She grafted for everything she has.",
+        "translation": "She worked hard for everything she owns."
+      }
+    ],
+    "origin": {
+      "etymology": "From nineteenth-century British slang for work, unrelated to the American 'graft' meaning political corruption — the two words share a spelling and nothing else. In Ireland and the north of England it kept its approving tone.",
+      "sources": []
+    },
+    "relatedTerms": [
+      "irish/hames",
+      "irish/cute-hoor",
+      "irish/chancer"
+    ],
+    "alsoUsedIn": [
+      "british",
+      "australian"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "sure",
+    "term": "sure",
+    "partOfSpeech": [
+      "adverb",
+      "interjection"
+    ],
+    "register": "colloquial",
+    "categories": [
+      "discourse"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": {
+      "respelling": "SHUR, unstressed"
+    },
+    "definitions": [
+      {
+        "text": "A sentence opener that softens whatever follows into something obvious and agreed: 'sure it's grand', 'sure you may as well'. It is not agreement and does not mean 'certainly'."
+      },
+      {
+        "text": "Tacked on at the end for the same effect: 'I'll do it tomorrow, sure'."
+      }
+    ],
+    "examples": [
+      {
+        "text": "Sure what harm?",
+        "translation": "Where's the harm in it?",
+        "context": "A complete sentence, and one of the most Irish things a person can say."
+      },
+      {
+        "text": "Sure look, it is what it is.",
+        "translation": "Well, there it is, nothing to be done.",
+        "context": "'Sure look' is the standard way of closing a conversation about something unfixable."
+      }
+    ],
+    "origin": {
+      "etymology": "The discourse use tracks Irish sentence-initial particles such as 'nach' and 'muise', which frame a statement as self-evident. English has the word; Irish supplied the job it does here, which is why it sounds so different from American 'sure'.",
+      "sources": []
+    },
+    "relatedTerms": [
+      "irish/so",
+      "irish/grand",
+      "irish/like"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "so",
+    "term": "so",
+    "partOfSpeech": [
+      "adverb"
+    ],
+    "register": "colloquial",
+    "categories": [
+      "discourse"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": {
+      "respelling": "SOH, unstressed at the end of the sentence"
+    },
+    "definitions": [
+      {
+        "text": "Sentence-final particle meaning 'in that case' or 'then'. 'I'll see you Tuesday so.' It closes an arrangement and signals the conversation is finished."
+      }
+    ],
+    "examples": [
+      {
+        "text": "Grand so.",
+        "translation": "Fine, that's settled then.",
+        "context": "Two words that end a phone call, a negotiation or a pub order."
+      },
+      {
+        "text": "I'll have the soup so.",
+        "translation": "I'll have the soup then."
+      }
+    ],
+    "origin": {
+      "etymology": "A direct structural carry-over: Irish places 'mar sin' and similar closers at the end of the clause, and Hiberno-English put 'so' in the same slot. Standard English has no equivalent position for it, which is why the usage sounds odd to outsiders rather than merely unfamiliar.",
+      "sources": []
+    },
+    "relatedTerms": [
+      "irish/sure",
+      "irish/grand",
+      "irish/like"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "like",
+    "term": "like",
+    "partOfSpeech": [
+      "adverb"
+    ],
+    "register": "colloquial",
+    "categories": [
+      "discourse"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": {
+      "respelling": "LOIKE in Cork and Limerick"
+    },
+    "definitions": [
+      {
+        "text": "Sentence-final tag, heaviest in Cork, Limerick and the north: 'it was freezing, like'. It marks the statement as explanation or mild protest, and is a different word from the American mid-sentence 'like'."
+      }
+    ],
+    "examples": [
+      {
+        "text": "I wasn't even there, like.",
+        "translation": "I wasn't even there, for God's sake.",
+        "context": "Defensive or explanatory. The stress falls before 'like', never on it."
+      },
+      {
+        "text": "'Twas lashing rain, like.",
+        "translation": "It was pouring with rain, you know."
+      }
+    ],
+    "origin": {
+      "etymology": "Clause-final 'like' is old in Ireland and northern Britain, long predating the American quotative 'like she was all…'. Both now exist in Irish speech, in different positions and in different mouths, and young Dubliners use the American one freely.",
+      "sources": []
+    },
+    "relatedTerms": [
+      "irish/sure",
+      "irish/so",
+      "irish/boy"
+    ],
+    "alsoUsedIn": [
+      "british"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "after",
+    "term": "to be after doing something",
+    "partOfSpeech": [
+      "idiom",
+      "phrase"
+    ],
+    "register": "colloquial",
+    "categories": [
+      "discourse"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": {
+      "respelling": "AF-ter"
+    },
+    "definitions": [
+      {
+        "text": "To have just done something. 'I'm after eating' means I have just eaten — present tense in form, recent past in meaning."
+      },
+      {
+        "text": "With emphasis, to report news the listener won't have heard: 'you're after missing him by five minutes'."
+      }
+    ],
+    "examples": [
+      {
+        "text": "I'm after telling him twice.",
+        "translation": "I've just told him twice."
+      },
+      {
+        "text": "She's only after leaving.",
+        "translation": "She left a minute ago.",
+        "context": "'Only after' narrows it further, to the last few moments."
+      }
+    ],
+    "origin": {
+      "etymology": "A word-for-word translation of the Irish 'tar éis' construction — 'tá mé tar éis ithe', 'I am after eating' — which Irish uses for the immediate past. This is the clearest piece of Irish grammar surviving in English, and it is spoken by people with no Irish at all. Outsiders regularly misparse it as wanting something: 'I'm after a pint' in London means you would like one, in Ireland it means you have had it.",
+      "sources": []
+    },
+    "relatedTerms": [
+      "irish/do-be",
+      "irish/sure",
+      "irish/giving-out"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "do-be",
+    "term": "does be",
+    "partOfSpeech": [
+      "verb",
+      "phrase"
+    ],
+    "register": "regional",
+    "categories": [
+      "discourse"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": {
+      "respelling": "duz BEE"
+    },
+    "definitions": [
+      {
+        "text": "Marks something as habitual rather than momentary: 'he does be working late' means he works late as a rule. 'He's working late' would mean tonight only."
+      },
+      {
+        "text": "Also 'do be' with plural subjects: 'they do be at that every Sunday'."
+      }
+    ],
+    "examples": [
+      {
+        "text": "There does be a crowd in here on a Friday.",
+        "translation": "There's usually a crowd in here on Fridays."
+      },
+      {
+        "text": "I do be wrecked after the early shift.",
+        "translation": "I'm always wiped out after the early shift."
+      }
+    ],
+    "origin": {
+      "etymology": "Irish distinguishes the habitual present 'bíonn' from the simple present 'tá', and Hiberno-English rebuilt that distinction out of English parts. It is a real grammatical tense, not an error, though it is stigmatised in school and associated with rural and working-class speech — many speakers who use it in the kitchen avoid it in an interview.",
+      "sources": []
+    },
+    "relatedTerms": [
+      "irish/after",
+      "irish/sure",
+      "irish/wee"
+    ],
+    "variants": [
+      "do be",
+      "bees"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "giving-out",
+    "term": "giving out",
+    "partOfSpeech": [
+      "phrase",
+      "verb"
+    ],
+    "register": "colloquial",
+    "categories": [
+      "discourse",
+      "insults"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": {
+      "respelling": "GIV-in OUT"
+    },
+    "definitions": [
+      {
+        "text": "Complaining, or telling someone off at length. 'Giving out to' someone is scolding them; 'giving out about' something is grumbling."
+      },
+      {
+        "text": "Intensified as 'giving out yards' or 'giving out stink' — a sustained telling-off."
+      }
+    ],
+    "examples": [
+      {
+        "text": "She was giving out to me for an hour.",
+        "translation": "She was telling me off for a solid hour."
+      },
+      {
+        "text": "He does nothing but give out about the weather.",
+        "translation": "He does nothing but moan about the weather."
+      }
+    ],
+    "origin": {
+      "etymology": "A calque of the Irish 'ag tabhairt amach do', literally 'giving out to'. The trap for visitors is the standard English reading — nothing is being distributed, and 'she was giving out' is the opposite of generosity.",
+      "sources": []
+    },
+    "relatedTerms": [
+      "irish/bold",
+      "irish/melter",
+      "irish/after"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "shift",
+    "term": "shift",
+    "partOfSpeech": [
+      "verb",
+      "noun"
+    ],
+    "register": "informal",
+    "categories": [
+      "romance"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": {
+      "respelling": "SHIFT"
+    },
+    "definitions": [
+      {
+        "text": "To kiss someone at length, typically at a disco, a festival or a nightclub. Kissing only — despite the vagueness of the word, it stops there."
+      },
+      {
+        "text": "As a noun: the kiss itself, or the person. 'He got the shift.'"
+      }
+    ],
+    "examples": [
+      {
+        "text": "Did you shift anyone?",
+        "translation": "Did you get off with anyone?",
+        "context": "Standard Monday-morning question among teenagers and students."
+      },
+      {
+        "text": "They shifted at the debs and never spoke again.",
+        "translation": "They got off with each other at the school formal and never spoke again."
+      }
+    ],
+    "origin": {
+      "etymology": "Irish teenage slang from the late twentieth century, probably from 'shifting' as in moving in on someone. The older regional word is 'meeting' — 'were you meeting anyone?' — which survives in parts of the country and confuses everyone else.",
+      "firstAttested": "late 20th century",
+      "sources": []
+    },
+    "relatedTerms": [
+      "irish/ride",
+      "irish/mot",
+      "irish/scarlet"
+    ],
+    "synonyms": [
+      "meet",
+      "get off with"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "ride",
+    "term": "ride",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "register": "vulgar",
+    "categories": [
+      "romance"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": {
+      "respelling": "RYDE"
+    },
+    "definitions": [
+      {
+        "text": "A very attractive person, of either sex: 'he's an absolute ride'. Crude but extremely common, and said cheerfully in mixed company."
+      },
+      {
+        "text": "To have sex with. The verb is the source of the noun and is markedly coarser than the noun in practice."
+      }
+    ],
+    "examples": [
+      {
+        "text": "Your man in the band is a ride.",
+        "translation": "That fellow in the band is gorgeous.",
+        "context": "Said among friends. Not something to say to the person's face, or at work."
+      },
+      {
+        "text": "She's a fine thing, a total ride.",
+        "translation": "She's stunning, genuinely gorgeous."
+      }
+    ],
+    "origin": {
+      "etymology": "The sexual verb is old and general English; the Irish development is the noun for an attractive person, which is not used this way in Britain or America. 'Fine thing' does the same job with less shock value.",
+      "sources": []
+    },
+    "relatedTerms": [
+      "irish/shift",
+      "irish/mot",
+      "irish/bollix"
+    ],
+    "synonyms": [
+      "fine thing"
+    ],
+    "usageWarning": [
+      "vulgar",
+      "sexual"
+    ],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "mot",
+    "term": "mot",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "register": "dated",
+    "categories": [
+      "romance",
+      "people"
+    ],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "region": "Dublin",
+    "pronunciation": {
+      "respelling": "MOT, rhymes with 'not'"
+    },
+    "definitions": [
+      {
+        "text": "A girlfriend, in older Dublin speech: 'the mot', 'me mot'. Now largely the property of men over fifty and of anyone quoting them."
+      }
+    ],
+    "examples": [
+      {
+        "text": "He's bringing the mot to the match.",
+        "translation": "He's bringing his girlfriend to the match."
+      },
+      {
+        "text": "Me mot's not talking to me.",
+        "translation": "My girlfriend isn't speaking to me.",
+        "context": "Inner-city Dublin, and now heard mostly as self-conscious period flavour."
+      }
+    ],
+    "origin": {
+      "etymology": "Disputed. The popular derivation from Irish 'maith' ('good') is attractive and unsupported; an older English cant word 'mot' for a woman, recorded well before the Dublin usage, is the likelier source. The Irish explanation is repeated so often that it is worth knowing it is a guess.",
+      "firstAttested": "19th century in Dublin use",
+      "sources": []
+    },
+    "relatedTerms": [
+      "irish/ride",
+      "irish/shift",
+      "irish/yer-man"
+    ],
+    "synonyms": [
+      "young one",
+      "bird"
+    ],
+    "reviewedBy": "Editorial team"
+  }
+]

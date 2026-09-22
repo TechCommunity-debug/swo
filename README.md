@@ -1,7 +1,7 @@
 # Slang Words Online
 
-A static slang dictionary built with Astro 7 and Tailwind 4. Eight countries, four
-languages, ~430 hand-written entries.
+A static slang dictionary built with Astro 7 and Tailwind 4. Sixteen countries,
+eight languages, ~860 hand-written entries.
 
 ## Commands
 
@@ -60,7 +60,7 @@ hreflang annotation and no sitemap row; each localized page canonicalizes to
 itself, and `alternatesFor()` in `src/lib/site.ts` emits `rel="alternate"` links
 only between pages that both exist, plus `x-default` pointing at English.
 
-Spanish currently covers the Mexican entries. Dropping
+Spanish currently covers every entry. Dropping
 `src/data/i18n/es/entries/<country>.json` into place is all it takes to add
 another country: the pages, the alternates and the internal links appear on the
 next build.
