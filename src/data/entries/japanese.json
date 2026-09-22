@@ -1,0 +1,2199 @@
+[
+  {
+    "slug": "yabai",
+    "term": "やばい",
+    "romanization": "yabai",
+    "partOfSpeech": ["adjective", "interjection"],
+    "register": "informal",
+    "categories": ["emotion", "approval", "insults"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "ya-BA-i", "ipa": "/jabai/" },
+    "variants": ["ヤバい", "ヤバッ", "やべー"],
+    "definitions": [
+      {
+        "text": "Originally: dangerous, dodgy, about to go badly wrong. Still used this way — やばい、遅刻する is 'damn, I'm going to be late'."
+      },
+      {
+        "text": "Among younger speakers, an all-purpose intensifier with no fixed polarity: amazing, terrible, overwhelming, too much. Context and tone carry the entire meaning, and older listeners genuinely cannot always tell which one is meant."
+      }
+    ],
+    "examples": [
+      {
+        "text": "やばい、財布忘れた。",
+        "translation": "Oh no, I've left my wallet behind.",
+        "context": "The original sense: something has gone wrong."
+      },
+      {
+        "text": "このラーメンやばくない？",
+        "translation": "This ramen is unbelievable, right?",
+        "context": "The newer sense. Said of something excellent, with no negative reading at all."
+      }
+    ],
+    "origin": {
+      "etymology": "From Edo-period thieves' cant, where 厄場 (yaba) referred to a guardhouse or lock-up — somewhere you did not want to end up. It stayed criminal slang into the twentieth century, entered general youth speech in the 1980s meaning 'risky', and flipped to include positive uses in the 1990s. The flip is the single most discussed change in modern Japanese slang.",
+      "firstAttested": "18th century in its criminal sense",
+      "sources": []
+    },
+    "relatedTerms": ["japanese/maji-de", "japanese/sugee", "japanese/kami"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "maji-de",
+    "term": "マジで",
+    "romanization": "maji de",
+    "partOfSpeech": ["adverb", "interjection"],
+    "register": "informal",
+    "categories": ["discourse", "emotion"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "MA-ji deh" },
+    "variants": ["マジ", "まじで"],
+    "definitions": [
+      { "text": "Seriously; for real. As an intensifier before an adjective or verb: マジで美味しい, 'seriously good'." },
+      { "text": "On its own, with rising intonation: 'Really?' — the standard response to surprising news." }
+    ],
+    "examples": [
+      {
+        "text": "マジで疲れた。",
+        "translation": "I am seriously wiped out."
+      },
+      {
+        "text": "—来週引っ越すんだ。—マジで？",
+        "translation": "'I'm moving next week.' 'Seriously?'"
+      }
+    ],
+    "origin": {
+      "etymology": "A clipping of 真面目 (majime), 'serious, earnest'. Documented in Edo-period performers' jargon and revived as general youth slang in the 1980s. The particle で is what turns it adverbial; マジ alone works as a bare adjective.",
+      "sources": []
+    },
+    "relatedTerms": ["japanese/gachi", "japanese/yabai", "japanese/ukeru"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "gachi",
+    "term": "ガチ",
+    "romanization": "gachi",
+    "partOfSpeech": ["adjective", "adverb"],
+    "register": "informal",
+    "categories": ["discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "GA-chi" },
+    "definitions": [
+      { "text": "For real; no messing about; done in earnest rather than casually. ガチで走る is to actually run, not jog." },
+      { "text": "As a modifier, marks someone as a committed practitioner rather than a dabbler: ガチ勢, the serious crowd." }
+    ],
+    "examples": [
+      {
+        "text": "あの人ガチで強いよ。",
+        "translation": "That guy is genuinely strong — no exaggeration."
+      },
+      {
+        "text": "冗談じゃなくてガチの話だから。",
+        "translation": "I'm not joking, this is a real thing."
+      }
+    ],
+    "origin": {
+      "etymology": "From sumo, where ガチンコ (gachinko) describes a bout fought honestly, as opposed to a fixed one. The shortened ガチ spread through gaming and sport in the 2000s and now sits alongside マジで with a slightly stronger flavour of commitment rather than surprise.",
+      "firstAttested": "1990s in general use",
+      "sources": []
+    },
+    "relatedTerms": ["japanese/maji-de", "japanese/hanpa-nai"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "meccha",
+    "term": "めっちゃ",
+    "romanization": "meccha",
+    "partOfSpeech": ["adverb"],
+    "register": "colloquial",
+    "region": "Kansai",
+    "categories": ["discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "MET-cha" },
+    "variants": ["めちゃ", "めちゃくちゃ"],
+    "definitions": [
+      { "text": "Very, really, loads — a general intensifier, and in casual speech far more common than the textbook とても." }
+    ],
+    "examples": [
+      {
+        "text": "この店めっちゃ美味しいで。",
+        "translation": "This place is seriously good.",
+        "context": "The sentence-final で marks the speaker as Kansai."
+      },
+      {
+        "text": "めっちゃ久しぶりやん！",
+        "translation": "It's been ages!"
+      }
+    ],
+    "origin": {
+      "etymology": "Kansai in origin, from 目茶苦茶 (mechakucha), 'absurd, chaotic'. It escaped the region through television comedy — Osaka comedians dominate Japanese variety shows — and is now used nationwide, though it still reads as slightly informal-regional in Tokyo rather than neutral.",
+      "sources": []
+    },
+    "relatedTerms": ["japanese/shindoi", "japanese/sugee"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "nanka",
+    "term": "なんか",
+    "romanization": "nanka",
+    "partOfSpeech": ["adverb", "interjection"],
+    "register": "colloquial",
+    "categories": ["discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "NAN-ka" },
+    "definitions": [
+      { "text": "Like; sort of; somehow. A hedge and a pause-filler, dropped in wherever an English speaker would say 'like' or 'I dunno, kind of'." },
+      { "text": "Literally 'something like', and still used that way in careful speech — the filler use is the same word bleached of content." }
+    ],
+    "examples": [
+      {
+        "text": "なんか、よくわかんないけど、いい感じ。",
+        "translation": "It's, like, hard to explain, but it feels right."
+      },
+      {
+        "text": "なんか変じゃない？",
+        "translation": "Doesn't that seem a bit off?"
+      }
+    ],
+    "origin": {
+      "etymology": "A contraction of 何か (nani ka), 'something'. The hedging use is as heavily criticised by Japanese language commentators as 'like' is by English ones, and is equally unstoppable.",
+      "sources": []
+    },
+    "relatedTerms": ["japanese/chotto", "japanese/toriaezu", "japanese/bimyo"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "toriaezu",
+    "term": "とりあえず",
+    "romanization": "toriaezu",
+    "partOfSpeech": ["adverb"],
+    "register": "colloquial",
+    "categories": ["discourse", "food-drink"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "toh-ree-AH-ezu" },
+    "definitions": [
+      { "text": "For now; to start with; anyway. Marks a provisional decision made to stop deliberating rather than because it is the right one." },
+      { "text": "In a bar, とりあえずビール is close to a fixed phrase: 'beers to start', ordered before anyone has looked at the menu." }
+    ],
+    "examples": [
+      {
+        "text": "とりあえずビールで。",
+        "translation": "We'll start with beers.",
+        "context": "Said to the waiter within seconds of sitting down. Ordering anything else first mildly surprises people."
+      },
+      {
+        "text": "とりあえずやってみようか。",
+        "translation": "Let's just give it a go and see."
+      }
+    ],
+    "relatedTerms": ["japanese/ichio", "japanese/nomikai", "japanese/nanka"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "ichio",
+    "term": "一応",
+    "romanization": "ichiō",
+    "partOfSpeech": ["adverb"],
+    "register": "colloquial",
+    "categories": ["discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "ee-CHEE-oh" },
+    "definitions": [
+      { "text": "More or less; just in case; technically speaking. Attaches to a claim to lower its confidence without withdrawing it." },
+      {
+        "text": "Often a modesty device: 一応できます means 'I can do it' said by someone who can do it perfectly well.",
+        "note": "Taking this literally is a standard misreading. Japanese speakers routinely undersell competence with 一応."
+      }
+    ],
+    "examples": [
+      {
+        "text": "一応予約しておいたよ。",
+        "translation": "I went ahead and booked, just in case."
+      },
+      {
+        "text": "一応、日本語話せます。",
+        "translation": "I can speak Japanese, after a fashion.",
+        "context": "Frequently said by someone entirely fluent."
+      }
+    ],
+    "relatedTerms": ["japanese/toriaezu", "japanese/chotto"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "bimyo",
+    "term": "微妙",
+    "romanization": "bimyō",
+    "partOfSpeech": ["adjective"],
+    "register": "colloquial",
+    "categories": ["discourse", "approval"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "bee-MYOH" },
+    "literalMeaning": "Subtle; delicate; difficult to define.",
+    "definitions": [
+      { "text": "Meh; not great; iffy. The polite way to say something is bad without saying it is bad, and understood as such by everyone." },
+      { "text": "Also genuinely 'borderline' — of a result, a schedule or a chance that could go either way." }
+    ],
+    "examples": [
+      {
+        "text": "—映画どうだった？—うーん、微妙。",
+        "translation": "'How was the film?' 'Mmm… not great.'",
+        "context": "As an answer to 'how was it', this is a negative verdict, softened only in form."
+      },
+      {
+        "text": "間に合うかは微妙だね。",
+        "translation": "Whether we'll make it in time is anyone's guess."
+      }
+    ],
+    "origin": {
+      "etymology": "The literary sense is complimentary — 微妙な味わい is a subtle flavour. The slang sense keeps the word's refusal to commit and drops the admiration, which is exactly why it works as a face-saving criticism.",
+      "sources": []
+    },
+    "relatedTerms": ["japanese/dasai", "japanese/nanka"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "sore-na",
+    "term": "それな",
+    "romanization": "sore na",
+    "partOfSpeech": ["phrase", "interjection"],
+    "register": "informal",
+    "region": "Youth",
+    "categories": ["discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "soh-reh-NA" },
+    "definitions": [
+      { "text": "Exactly; this; so true. A whole-hearted agreement with what has just been said, and nothing more — it adds no content of its own." }
+    ],
+    "examples": [
+      {
+        "text": "—月曜って存在する意味ある？—それな。",
+        "translation": "'Does Monday even need to exist?' 'Right?!'"
+      },
+      {
+        "text": "それな、まじで同じこと思ってた。",
+        "translation": "Exactly — I was thinking the same thing."
+      }
+    ],
+    "origin": {
+      "etymology": "Literally 'that, huh' — それ ('that') plus the agreement particle な. Kansai speakers had been saying せやな for decades; それな is the standard-Japanese version, which spread nationally through Twitter in the early 2010s and is now firmly marked as young.",
+      "firstAttested": "early 2010s",
+      "sources": []
+    },
+    "relatedTerms": ["japanese/wakarimi", "japanese/kusa"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "wakarimi",
+    "term": "わかりみ",
+    "romanization": "wakarimi",
+    "partOfSpeech": ["noun"],
+    "register": "informal",
+    "region": "Online",
+    "categories": ["discourse", "emotion"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "wa-ka-REE-mee" },
+    "variants": ["わかりみが深い"],
+    "definitions": [
+      { "text": "Relatability; the quality of being something you deeply get. Usually in わかりみが深い — 'I feel that in my bones'." }
+    ],
+    "examples": [
+      {
+        "text": "この漫画、わかりみが深い。",
+        "translation": "This manga hits far too close to home."
+      },
+      {
+        "text": "わかりみしかない。",
+        "translation": "Nothing but relatable."
+      }
+    ],
+    "origin": {
+      "etymology": "Built by a productive youth-slang pattern: take a verb or adjective stem and add -み to force it into a noun, as 尊い gives 尊み. Grammatically irregular by design — the joke is partly that it should not be a noun.",
+      "firstAttested": "mid-2010s",
+      "sources": []
+    },
+    "relatedTerms": ["japanese/sore-na", "japanese/totoi", "japanese/emoi"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "donmai",
+    "term": "ドンマイ",
+    "romanization": "donmai",
+    "partOfSpeech": ["interjection"],
+    "register": "colloquial",
+    "categories": ["discourse", "emotion"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "don-MAI" },
+    "definitions": [
+      { "text": "Never mind; don't sweat it. Said to someone who has just made a mistake, to wave it away before they apologise." }
+    ],
+    "examples": [
+      {
+        "text": "ドンマイドンマイ、次いこう。",
+        "translation": "Forget it, forget it — on to the next one.",
+        "context": "Standard on a sports pitch after a dropped catch or a missed shot."
+      },
+      {
+        "text": "失敗しても、ドンマイだよ。",
+        "translation": "So you messed up — no harm done."
+      }
+    ],
+    "origin": {
+      "etymology": "From English 'don't mind', reanalysed in Japanese as a consolation rather than a statement about the speaker's own feelings. A clear case of a borrowing whose meaning no English speaker would guess and no Japanese speaker finds odd.",
+      "sources": []
+    },
+    "relatedTerms": ["japanese/sho-ga-nai", "japanese/faito"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "sho-ga-nai",
+    "term": "しょうがない",
+    "romanization": "shō ga nai",
+    "partOfSpeech": ["phrase", "adjective"],
+    "register": "colloquial",
+    "categories": ["discourse", "emotion"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "shoh-ga-NAI" },
+    "variants": ["仕方ない", "しゃーない"],
+    "definitions": [
+      { "text": "It can't be helped; nothing to be done. Closes off complaint about something outside anyone's control." },
+      {
+        "text": "Also used indulgently of a person: しょうがないなあ, 'honestly, what are you like' — exasperated but fond."
+      }
+    ],
+    "examples": [
+      {
+        "text": "雨だからしょうがないね。",
+        "translation": "It's raining, so there's nothing we can do."
+      },
+      {
+        "text": "しょうがないなあ、今回だけだよ。",
+        "translation": "Oh, all right then — but just this once."
+      }
+    ],
+    "origin": {
+      "etymology": "A contraction of 仕様がない, 'there is no method'. Foreign commentators regularly read it as fatalism; Japanese speakers use it more narrowly, to mark the point where continuing to object would be pointless rather than to deny agency in general.",
+      "sources": []
+    },
+    "relatedTerms": ["japanese/donmai", "japanese/tsunda"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "chotto",
+    "term": "ちょっと",
+    "romanization": "chotto",
+    "partOfSpeech": ["adverb", "interjection"],
+    "register": "colloquial",
+    "categories": ["discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "CHOT-toh" },
+    "definitions": [
+      { "text": "A little; a bit. The literal quantity sense, which learners get on day one." },
+      {
+        "text": "Trailed off at the end of a sentence, a refusal: それはちょっと… means no. Nothing that follows is ever said, and nothing needs to be.",
+        "note": "The most consequential entry in this list for a visitor. A trailing ちょっと is a firm no, not an opening for negotiation."
+      },
+      { "text": "As an attention-getter: ちょっと！ — 'oi', 'excuse me', 'hang on a minute'." }
+    ],
+    "examples": [
+      {
+        "text": "ちょっと待って。",
+        "translation": "Hang on a second."
+      },
+      {
+        "text": "明日はちょっと…",
+        "translation": "Tomorrow is… a bit difficult.",
+        "context": "A complete and final refusal of an invitation. Pressing further reads as rude."
+      }
+    ],
+    "relatedTerms": ["japanese/daijobu", "japanese/nanka", "japanese/ichio"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "daijobu",
+    "term": "大丈夫",
+    "romanization": "daijōbu",
+    "partOfSpeech": ["adjective", "interjection"],
+    "register": "colloquial",
+    "categories": ["discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "dai-JOH-bu" },
+    "definitions": [
+      { "text": "All right; fine; safe. Asked of someone who has just tripped, or said of a plan that will hold." },
+      {
+        "text": "Increasingly, a polite refusal — 'I'm good, thanks'. Offered a bag at a till, 大丈夫です means no.",
+        "note": "This newer use is ambiguous even to native speakers, and shop staff now often ask a follow-up to check which you meant."
+      }
+    ],
+    "examples": [
+      {
+        "text": "大丈夫？怪我してない？",
+        "translation": "Are you OK? You're not hurt?"
+      },
+      {
+        "text": "—袋いりますか？—大丈夫です。",
+        "translation": "'Would you like a bag?' 'No, I'm fine, thanks.'"
+      }
+    ],
+    "origin": {
+      "etymology": "Literally 'great husband' in its Chinese source — 丈夫 meant a grown man, then by extension something sturdy and reliable. The refusal sense is a twenty-first-century development and a live source of complaint among older speakers.",
+      "sources": []
+    },
+    "relatedTerms": ["japanese/chotto"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "ukeru",
+    "term": "ウケる",
+    "romanization": "ukeru",
+    "partOfSpeech": ["verb"],
+    "register": "informal",
+    "categories": ["emotion"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "oo-KEH-ru" },
+    "definitions": [
+      { "text": "That's hilarious; I'm dying. Said as a reaction, usually to something the other person has just said or done." },
+      { "text": "Of a thing rather than a moment: to go down well with an audience. あのネタはウケた, 'that bit landed'." }
+    ],
+    "examples": [
+      {
+        "text": "ウケる、なにそれ。",
+        "translation": "That's brilliant — what on earth?"
+      },
+      {
+        "text": "先生のギャグ、全然ウケてなかった。",
+        "translation": "The teacher's joke went down like a lead balloon."
+      }
+    ],
+    "origin": {
+      "etymology": "From 受ける, 'to receive' — originally theatre and comedy jargon for a joke being received well by the audience. The first-person reaction use, where the speaker is the audience, came later.",
+      "sources": []
+    },
+    "relatedTerms": ["japanese/kusa", "japanese/maji-de"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "kusa",
+    "term": "草",
+    "romanization": "kusa",
+    "partOfSpeech": ["noun", "interjection"],
+    "register": "informal",
+    "region": "Online",
+    "categories": ["emotion", "discourse"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "KOO-sa" },
+    "literalMeaning": "Grass.",
+    "definitions": [
+      { "text": "lol. Written at the end of a message, or alone, to mark that something is funny." },
+      { "text": "草生える — literally 'grass grows' — is the verbal version: 'that made me laugh'. 大草原 ('vast grassland') is the emphatic form." }
+    ],
+    "examples": [
+      {
+        "text": "その言い訳は草",
+        "translation": "That excuse is sending me.",
+        "context": "Typed, not spoken. Saying 草 out loud is a joke about internet speech."
+      },
+      {
+        "text": "深夜に牛丼食べてる自分に草生える。",
+        "translation": "Cracking myself up eating a rice bowl at 2am."
+      }
+    ],
+    "origin": {
+      "etymology": "A chain of substitutions. 笑い ('laughter') was abbreviated to 笑, then to the initial w, then repeated for emphasis — wwwww. A row of w characters looks like a line of grass sprouting, so the grass itself, 草, became the word. The etymology is entirely visual, which is why it has no spoken form.",
+      "firstAttested": "around 2010",
+      "sources": []
+    },
+    "relatedTerms": ["japanese/ukeru", "japanese/sore-na"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "emoi",
+    "term": "エモい",
+    "romanization": "emoi",
+    "partOfSpeech": ["adjective"],
+    "register": "informal",
+    "region": "Youth",
+    "categories": ["emotion", "approval"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "EH-moi" },
+    "definitions": [
+      { "text": "Moving in a wistful, nostalgic way. Covers the feeling an old photograph, a summer evening or a song from your teens produces — not sadness and not quite happiness." }
+    ],
+    "examples": [
+      {
+        "text": "この写真、なんかエモいね。",
+        "translation": "There's something quietly moving about this photo."
+      },
+      {
+        "text": "夕方の商店街ってエモくない？",
+        "translation": "Isn't there something about a shopping street at dusk?"
+      }
+    ],
+    "origin": {
+      "etymology": "From English 'emo', given the Japanese adjective ending -い so it can inflect natively. Speakers often connect it to 「もののあはれ」, the classical aesthetic of gentle transience; whether that is etymology or flattery, it is how the word is felt.",
+      "firstAttested": "2010s",
+      "sources": []
+    },
+    "relatedTerms": ["japanese/totoi", "japanese/wakarimi", "japanese/baeru"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "pien",
+    "term": "ぴえん",
+    "romanization": "pien",
+    "partOfSpeech": ["interjection", "noun"],
+    "register": "informal",
+    "region": "Youth",
+    "categories": ["emotion"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "pee-EN" },
+    "definitions": [
+      {
+        "text": "A small, performed sadness — the spoken equivalent of the 🥺 face. Used for disappointments nobody expects you to take seriously: sold-out cake, rain on a day off.",
+        "note": "Peaked around 2020 and now reads as slightly dated, or as deliberately childish. Used earnestly by adults it is faintly embarrassing."
+      }
+    ],
+    "examples": [
+      {
+        "text": "推しのライブ落選した、ぴえん。",
+        "translation": "Missed out in the ballot for my favourite's gig 🥺"
+      },
+      {
+        "text": "財布忘れてぴえん超えてぱおん。",
+        "translation": "Forgot my wallet — beyond 🥺, straight to 😭",
+        "context": "ぱおん, an elephant trumpet, was the escalated form. Firmly of its moment."
+      }
+    ],
+    "origin": {
+      "etymology": "An onomatopoeia for whimpering, popularised by teenage girls on TikTok and Twitter around 2019 and named one of Japan's buzzwords of 2020.",
+      "firstAttested": "2019",
+      "sources": []
+    },
+    "relatedTerms": ["japanese/emoi", "japanese/oshi"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "darui",
+    "term": "だるい",
+    "romanization": "darui",
+    "partOfSpeech": ["adjective"],
+    "register": "informal",
+    "categories": ["emotion", "everyday"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "DA-roo-i" },
+    "variants": ["だりー", "ダルい"],
+    "definitions": [
+      { "text": "Sluggish, heavy-limbed, drained — the physical feeling of a fever coming on or of four hours' sleep." },
+      { "text": "Of a task or a person: a drag, too much effort to deal with." }
+    ],
+    "examples": [
+      {
+        "text": "今日はなんか体がだるい。",
+        "translation": "My body feels like lead today."
+      },
+      {
+        "text": "明日の会議、まじだるい。",
+        "translation": "Tomorrow's meeting is going to be such a slog."
+      }
+    ],
+    "origin": {
+      "etymology": "From classical 怠し (darushi), 'languid'. The physical sense is standard Japanese; the 'this is tedious' extension is what makes the modern usage slang.",
+      "sources": []
+    },
+    "relatedTerms": ["japanese/mendoi", "japanese/shindoi", "japanese/saboru"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "mendoi",
+    "term": "めんどい",
+    "romanization": "mendoi",
+    "partOfSpeech": ["adjective"],
+    "register": "informal",
+    "categories": ["emotion", "everyday"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "men-DOI" },
+    "variants": ["めんどくさい", "めんどくせー"],
+    "definitions": [
+      { "text": "Too much hassle; can't be bothered. Applied to tasks, procedures and, unkindly, to people who require managing." }
+    ],
+    "examples": [
+      {
+        "text": "髪乾かすのめんどい。",
+        "translation": "Drying my hair is such a faff."
+      },
+      {
+        "text": "あの人ちょっとめんどくさい性格なんだよね。",
+        "translation": "He's a bit high-maintenance, personality-wise.",
+        "context": "Of a person this is a real criticism, though a soft-sounding one."
+      }
+    ],
+    "origin": {
+      "etymology": "A clipping of 面倒くさい, itself 面倒 ('trouble') plus the suffix -くさい ('smelling of'). Japanese builds several adjectives this way; the literal reading is 'reeking of bother'.",
+      "sources": []
+    },
+    "relatedTerms": ["japanese/darui", "japanese/saboru", "japanese/dotakyan"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "shindoi",
+    "term": "しんどい",
+    "romanization": "shindoi",
+    "partOfSpeech": ["adjective"],
+    "register": "colloquial",
+    "region": "Kansai",
+    "categories": ["emotion"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "shin-DOI" },
+    "definitions": [
+      { "text": "Exhausting; hard going. Covers physical tiredness and emotional strain alike, and is the usual word for a period of life that is simply difficult." },
+      {
+        "text": "Among younger speakers, also used of something so lovely it is overwhelming — 顔がしんどい, 'his face is too much for me'.",
+        "note": "A recent inversion, parallel to 尊い. Older speakers use only the 'exhausting' sense."
+      }
+    ],
+    "examples": [
+      {
+        "text": "最近ちょっとしんどいわ。",
+        "translation": "Things have been a bit much lately."
+      },
+      {
+        "text": "この坂しんどい。",
+        "translation": "This hill is brutal."
+      }
+    ],
+    "origin": {
+      "etymology": "Generally traced to 心労 (shinrō), 'mental strain', reshaped into an adjective. Kansai in origin and still commonest there, but understood and used across the country.",
+      "sources": []
+    },
+    "relatedTerms": ["japanese/darui", "japanese/meccha", "japanese/totoi"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "donbiki",
+    "term": "ドン引き",
+    "romanization": "donbiki",
+    "partOfSpeech": ["noun", "verb"],
+    "register": "informal",
+    "categories": ["emotion"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "don-BEE-kee" },
+    "definitions": [
+      { "text": "The moment a room goes cold because someone has said or done something off-putting. Both the reaction and the atmosphere it creates." }
+    ],
+    "examples": [
+      {
+        "text": "その発言でみんなドン引きしてたよ。",
+        "translation": "That comment made everyone recoil."
+      },
+      {
+        "text": "元カノの話しだしてドン引きされた。",
+        "translation": "He started talking about his ex and completely killed the mood."
+      }
+    ],
+    "origin": {
+      "etymology": "From television production: ドン is an intensifying prefix and 引き is pulling the camera back for a wide shot. The image is of the scene suddenly viewed from a distance — which is exactly what the reaction feels like from inside it.",
+      "sources": []
+    },
+    "relatedTerms": ["japanese/kuki-yomenai", "japanese/motokano"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "gyakugire",
+    "term": "逆ギレ",
+    "romanization": "gyakugire",
+    "partOfSpeech": ["noun", "verb"],
+    "register": "informal",
+    "categories": ["emotion", "insults"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "gya-koo-GHEE-reh" },
+    "definitions": [
+      { "text": "Getting angry at the person who has just caught you out — turning a justified complaint back on the complainant." }
+    ],
+    "examples": [
+      {
+        "text": "遅刻したのに逆ギレされた。",
+        "translation": "He was the one who turned up late, and somehow I got shouted at."
+      },
+      {
+        "text": "注意したら逆ギレしてきた。",
+        "translation": "I pointed it out and he came back at me instead."
+      }
+    ],
+    "origin": {
+      "etymology": "逆 ('reverse') plus キレる, the slang verb for snapping or losing one's temper — itself from 切れる, 'to be cut', as of a thread giving way.",
+      "sources": []
+    },
+    "relatedTerms": ["japanese/uzai", "japanese/donbiki"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "tsunda",
+    "term": "詰んだ",
+    "romanization": "tsunda",
+    "partOfSpeech": ["verb", "interjection"],
+    "register": "informal",
+    "categories": ["emotion"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "TSOON-da" },
+    "literalMeaning": "Checkmated (in shogi, to have no legal move left).",
+    "definitions": [
+      { "text": "I'm done for; there's no way out of this. Said of a situation with no remaining options, usually with more theatre than despair." }
+    ],
+    "examples": [
+      {
+        "text": "財布も携帯もない、詰んだ。",
+        "translation": "No wallet, no phone. I'm finished."
+      },
+      {
+        "text": "この課題、明日までとか詰んでる。",
+        "translation": "This assignment being due tomorrow is completely unsurvivable."
+      }
+    ],
+    "origin": {
+      "etymology": "From shogi, where 詰み is the mating position. It reached everyday speech via games and online forums in the 2000s, and is a rare case of board-game jargon becoming general slang.",
+      "sources": []
+    },
+    "relatedTerms": ["japanese/sho-ga-nai", "japanese/yabai"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "saiko",
+    "term": "最高",
+    "romanization": "saikō",
+    "partOfSpeech": ["adjective", "noun"],
+    "register": "colloquial",
+    "categories": ["approval", "emotion"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "sai-KOH" },
+    "literalMeaning": "Highest; maximum.",
+    "definitions": [
+      { "text": "The best; perfect; couldn't be better. The default enthusiastic verdict on food, weather, a day out or a person." }
+    ],
+    "examples": [
+      {
+        "text": "今日の天気、最高だね。",
+        "translation": "The weather today is glorious."
+      },
+      {
+        "text": "この店、最高すぎる。",
+        "translation": "This place is unbeatable."
+      }
+    ],
+    "relatedTerms": ["japanese/kami", "japanese/sugee", "japanese/hanpa-nai"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "kami",
+    "term": "神",
+    "romanization": "kami",
+    "partOfSpeech": ["noun", "adjective"],
+    "register": "informal",
+    "categories": ["approval"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "KA-mee" },
+    "literalMeaning": "God; deity.",
+    "definitions": [
+      { "text": "Used as a modifier: superlative, flawless. 神対応 is exemplary conduct, 神回 is a perfect episode, 神アプリ is an app that does exactly what you needed." },
+      { "text": "Of a person, someone who has just saved you: 'you're a lifesaver'." }
+    ],
+    "examples": [
+      {
+        "text": "充電器貸してくれるの？神！",
+        "translation": "You'll lend me your charger? You absolute legend."
+      },
+      {
+        "text": "あの店員さんの神対応、忘れられない。",
+        "translation": "The way that member of staff handled it was faultless."
+      }
+    ],
+    "origin": {
+      "etymology": "Not felt as blasphemous: 神 in Shinto covers a vast range of local and minor deities, so calling a helpful stranger one is a smaller claim than the English translation makes it sound.",
+      "sources": []
+    },
+    "relatedTerms": ["japanese/saiko", "japanese/yabai", "japanese/totoi"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "hanpa-nai",
+    "term": "半端ない",
+    "romanization": "hanpa nai",
+    "partOfSpeech": ["phrase", "adjective"],
+    "register": "informal",
+    "categories": ["approval", "emotion"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "HAN-pa nai" },
+    "variants": ["ハンパない", "半端ねえ"],
+    "definitions": [
+      { "text": "Off the scale; no half measures about it. An intensifier for quantity, quality or intensity, positive or negative." }
+    ],
+    "examples": [
+      {
+        "text": "今日の暑さ半端ないって。",
+        "translation": "The heat today is something else."
+      },
+      {
+        "text": "あの選手の実力は半端ない。",
+        "translation": "That player's ability is on another level."
+      }
+    ],
+    "origin": {
+      "etymology": "Literally 'not half-done'. The phrase 半端ないって became a national catchphrase during the 2018 World Cup, from a schoolboy's tearful praise of the footballer Ōsako Yūya in an old clip that resurfaced.",
+      "sources": []
+    },
+    "relatedTerms": ["japanese/gachi", "japanese/saiko"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "sugee",
+    "term": "すげー",
+    "romanization": "sugē",
+    "partOfSpeech": ["adjective", "interjection"],
+    "register": "informal",
+    "categories": ["approval", "emotion"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "soo-GEH" },
+    "variants": ["すごい", "すげぇ", "すっげー"],
+    "definitions": [
+      {
+        "text": "Wow; amazing. The flattened, drawled form of すごい, and markedly rougher — it reads as male and casual, though young women use it too.",
+        "note": "Not a word to use with a client or a teacher. The full すごい is neutral; すげー is not."
+      }
+    ],
+    "examples": [
+      {
+        "text": "すげー、こんなの初めて見た。",
+        "translation": "Wow — I've never seen anything like it."
+      },
+      {
+        "text": "すげー人だな、ここ。",
+        "translation": "It's absolutely heaving here."
+      }
+    ],
+    "origin": {
+      "etymology": "An example of a general casual-speech rule: the adjective ending -ai or -oi collapses to a long -ē. すごい → すげー, うるさい → うるせー, やばい → やべー. Learning the rule unlocks a whole register at once.",
+      "sources": []
+    },
+    "relatedTerms": ["japanese/yabai", "japanese/saiko", "japanese/meccha"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "totoi",
+    "term": "尊い",
+    "romanization": "tōtoi",
+    "partOfSpeech": ["adjective"],
+    "register": "informal",
+    "region": "Online",
+    "categories": ["approval", "emotion"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "TOH-toy" },
+    "literalMeaning": "Precious; sacred; exalted.",
+    "definitions": [
+      { "text": "So wonderful it hurts. Fandom vocabulary, said of an idol, a character or a pairing whose existence the speaker finds almost unbearably good." }
+    ],
+    "examples": [
+      {
+        "text": "今日のライブ、尊すぎて泣いた。",
+        "translation": "Tonight's show was so perfect I cried."
+      },
+      {
+        "text": "この二人の関係性が尊い。",
+        "translation": "The relationship between these two is everything."
+      }
+    ],
+    "origin": {
+      "etymology": "A classical word for the sacred, borrowed by fandom in the 2010s with its reverence intact and its religion removed. The noun form 尊み follows the same -み pattern as わかりみ.",
+      "firstAttested": "2010s in this sense",
+      "sources": []
+    },
+    "relatedTerms": ["japanese/oshi", "japanese/emoi", "japanese/wakarimi"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "baeru",
+    "term": "映える",
+    "romanization": "baeru",
+    "partOfSpeech": ["verb", "adjective"],
+    "register": "informal",
+    "categories": ["approval", "everyday"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "BA-eh-ru" },
+    "variants": ["ばえる", "インスタ映え"],
+    "definitions": [
+      { "text": "To photograph well; to look good on a feed. Of food, a café, an outfit or a view chosen partly because it will." }
+    ],
+    "examples": [
+      {
+        "text": "このパフェ、めっちゃ映えるね。",
+        "translation": "This parfait is going to photograph beautifully."
+      },
+      {
+        "text": "映え狙いでこのカフェ来た。",
+        "translation": "We came to this café purely for the photos."
+      }
+    ],
+    "origin": {
+      "etymology": "From インスタ映え ('Instagram-worthy'), Japan's buzzword of the year in 2017, later clipped back to the verb alone. Standard Japanese already had 映える (haeru), 'to shine, to show to advantage'; the slang form voices the first consonant and narrows the meaning to photographs.",
+      "firstAttested": "2017",
+      "sources": []
+    },
+    "relatedTerms": ["japanese/emoi", "japanese/bazuru", "japanese/riaju"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "uzai",
+    "term": "うざい",
+    "romanization": "uzai",
+    "partOfSpeech": ["adjective"],
+    "register": "informal",
+    "categories": ["insults", "emotion"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "oo-ZAI" },
+    "variants": ["うぜー", "ウザい"],
+    "usageWarning": ["offensive"],
+    "definitions": [
+      { "text": "Annoying; grating; won't leave you alone. Of a person, a noise, a notification or a rule." }
+    ],
+    "examples": [
+      {
+        "text": "隣の工事の音がうざい。",
+        "translation": "The building work next door is doing my head in."
+      },
+      {
+        "text": "うざいからその話やめて。",
+        "translation": "Drop it, you're getting on my nerves.",
+        "context": "Blunt. Said to someone's face it is a genuine insult, not banter."
+      }
+    ],
+    "origin": {
+      "etymology": "A clipping of うざったい, from a Tokyo regional word for something swarming or fussily persistent. It spread nationally through 1980s youth speech.",
+      "sources": []
+    },
+    "relatedTerms": ["japanese/kimoi", "japanese/gyakugire", "japanese/mendoi"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "kimoi",
+    "term": "きもい",
+    "romanization": "kimoi",
+    "partOfSpeech": ["adjective"],
+    "register": "informal",
+    "categories": ["insults", "emotion"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "kee-MOI" },
+    "variants": ["キモい", "きめー"],
+    "usageWarning": ["offensive"],
+    "definitions": [
+      {
+        "text": "Creepy; gross; skin-crawling. Much harsher than 'gross' in English when aimed at a person — a standard piece of schoolyard cruelty.",
+        "note": "Directed at someone it is a serious insult about their body or manner. Applied to a bug or a texture it is unremarkable."
+      }
+    ],
+    "examples": [
+      {
+        "text": "この虫きもい。",
+        "translation": "That insect is revolting."
+      },
+      {
+        "text": "そういう言い方、ちょっときもいよ。",
+        "translation": "Saying it like that is honestly a bit creepy."
+      }
+    ],
+    "origin": {
+      "etymology": "Clipped from 気持ち悪い (kimochi warui), 'unpleasant feeling'. The full form is neutral enough to describe seasickness; the clipped form is almost always a judgement of a person.",
+      "sources": []
+    },
+    "relatedTerms": ["japanese/uzai", "japanese/busaiku"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "dasai",
+    "term": "ダサい",
+    "romanization": "dasai",
+    "partOfSpeech": ["adjective"],
+    "register": "informal",
+    "categories": ["insults", "approval"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "da-SAI" },
+    "definitions": [
+      { "text": "Naff; uncool; trying and failing. Of clothes, a design, a name, a gesture — anything that misses the mark stylistically." }
+    ],
+    "examples": [
+      {
+        "text": "そのネクタイちょっとダサくない？",
+        "translation": "That tie is a bit of a shocker, isn't it?"
+      },
+      {
+        "text": "言い訳するのはダサいよ。",
+        "translation": "Making excuses is a bad look."
+      }
+    ],
+    "origin": {
+      "etymology": "Widely said to come from 田舎 (inaka), 'the countryside', via a joking reading of 埼玉 as 'da-saitama' — Tokyo's condescension towards its neighbouring prefecture. The derivation is repeated everywhere and has never been solidly evidenced; treat it as a good story rather than a fact.",
+      "firstAttested": "1970s",
+      "sources": []
+    },
+    "relatedTerms": ["japanese/bimyo", "japanese/inkya"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "busaiku",
+    "term": "ブサイク",
+    "romanization": "busaiku",
+    "partOfSpeech": ["noun", "adjective"],
+    "register": "informal",
+    "categories": ["insults", "people"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "boo-SAI-koo" },
+    "variants": ["不細工", "ブス"],
+    "usageWarning": ["offensive"],
+    "definitions": [
+      {
+        "text": "Ugly; badly put together. Used of faces above all, and cruelly frank by the standards of English public speech.",
+        "note": "Listed for comprehension. Japanese variety television uses it freely about its own performers, which badly misleads learners about how it lands in private."
+      }
+    ],
+    "examples": [
+      {
+        "text": "写真、ブサイクに写ってる。",
+        "translation": "I've come out hideous in this photo.",
+        "context": "Self-directed, which is where the word is safest."
+      },
+      {
+        "text": "人の顔をブサイクとか言うなよ。",
+        "translation": "Don't go calling people ugly."
+      }
+    ],
+    "origin": {
+      "etymology": "From 不細工, 'not finely worked' — originally said of shoddy craftsmanship, then transferred to faces. ブス is the shorter and harsher relative.",
+      "sources": []
+    },
+    "relatedTerms": ["japanese/ikemen", "japanese/kimoi"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "otaku",
+    "term": "オタク",
+    "romanization": "otaku",
+    "partOfSpeech": ["noun"],
+    "register": "colloquial",
+    "categories": ["people"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "oh-TA-koo" },
+    "variants": ["おたく", "ヲタ"],
+    "alsoUsedIn": ["american", "british"],
+    "definitions": [
+      { "text": "Someone with an all-consuming hobby — anime and games canonically, but also railways, idols or military history. The English borrowing has narrowed to anime alone; the Japanese word has not." },
+      {
+        "text": "Now frequently a self-description and only mildly pejorative, though it retained a distinctly unpleasant edge into the 1990s.",
+        "note": "The related 〜オタ suffix is fully neutral: 鉄オタ (train enthusiast), 歴史オタ (history buff)."
+      }
+    ],
+    "examples": [
+      {
+        "text": "私、完全に鉄道オタクです。",
+        "translation": "I'm a complete train nerd, I admit it."
+      },
+      {
+        "text": "オタク友達とイベント行ってきた。",
+        "translation": "Went to a convention with my fandom friends."
+      }
+    ],
+    "origin": {
+      "etymology": "From お宅, a formal second-person pronoun literally meaning 'your house'. Fans at 1980s conventions were noted for addressing each other with this oddly distant word, and the pronoun became the label. The murder case of 1989 attached a lasting stigma that took two decades to wear off.",
+      "firstAttested": "1983",
+      "sources": []
+    },
+    "relatedTerms": ["japanese/oshi", "japanese/inkya", "japanese/numa"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "riaju",
+    "term": "リア充",
+    "romanization": "riajū",
+    "partOfSpeech": ["noun"],
+    "register": "informal",
+    "region": "Online",
+    "categories": ["people"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "REE-a-joo" },
+    "definitions": [
+      { "text": "Someone whose offline life is going well — partner, friends, plans at the weekend. Said with envy by people who consider themselves the opposite." }
+    ],
+    "examples": [
+      {
+        "text": "またデートの写真あげてる、リア充め。",
+        "translation": "Posting date photos again — look at Mr Fulfilling Life over there."
+      },
+      {
+        "text": "リア充爆発しろ。",
+        "translation": "May all the happy couples explode.",
+        "context": "A fixed and entirely jocular formula, especially around Christmas, which in Japan is a couples' occasion."
+      }
+    ],
+    "origin": {
+      "etymology": "リアル ('real', meaning offline) plus 充実 ('fulfilment'). Coined on the 2ch message boards around 2005, in explicit contrast to a life lived mainly online.",
+      "firstAttested": "2005",
+      "sources": []
+    },
+    "relatedTerms": ["japanese/inkya", "japanese/botchi", "japanese/baeru"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "botchi",
+    "term": "ぼっち",
+    "romanization": "botchi",
+    "partOfSpeech": ["noun"],
+    "register": "informal",
+    "categories": ["people"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "BOT-chee" },
+    "variants": ["ひとりぼっち", "ぼっち飯"],
+    "definitions": [
+      { "text": "On your own, with the implication that you would rather not be. ぼっち飯 is eating lunch alone at school or work, a small social dread in Japan." },
+      { "text": "Increasingly worn lightly, even proudly — ソロ活 ('solo activities') has made eating and travelling alone respectable." }
+    ],
+    "examples": [
+      {
+        "text": "今日も昼はぼっち飯だった。",
+        "translation": "Ate lunch on my own again today."
+      },
+      {
+        "text": "ぼっちで映画見に行くの、意外といいよ。",
+        "translation": "Going to the cinema alone is surprisingly great."
+      }
+    ],
+    "origin": {
+      "etymology": "Clipped from 独りぼっち, itself from 独り法師 — a monk with no temple, wandering alone.",
+      "sources": []
+    },
+    "relatedTerms": ["japanese/inkya", "japanese/riaju", "japanese/otaku"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "inkya",
+    "term": "陰キャ",
+    "romanization": "inkya",
+    "partOfSpeech": ["noun"],
+    "register": "informal",
+    "region": "Youth",
+    "categories": ["people"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "IN-kya" },
+    "usageWarning": ["context-dependent"],
+    "definitions": [
+      { "text": "A shadow type: quiet, indoorsy, not part of the loud group. Its opposite, 陽キャ (yōkya), is the sunny, sociable kind." },
+      {
+        "text": "Self-applied it is a joke; applied to someone else it is an insult about their social standing, and in schools it is used as one.",
+        "note": "The pair has largely displaced the older ネクラ/ネアカ, which now sounds distinctly 1980s."
+      }
+    ],
+    "examples": [
+      {
+        "text": "私は完全に陰キャなので、飲み会は苦手です。",
+        "translation": "I'm an indoor sort through and through, so drinking parties are not for me."
+      },
+      {
+        "text": "クラスの陽キャたちが騒いでる。",
+        "translation": "The loud crowd in class are at it again."
+      }
+    ],
+    "origin": {
+      "etymology": "陰 ('shade, yin') plus the first syllable of キャラ ('character'), the word Japanese uses for a person's social persona. The yin-yang pairing is doing real work: these are treated as two fixed types rather than a spectrum.",
+      "firstAttested": "2010s",
+      "sources": []
+    },
+    "relatedTerms": ["japanese/botchi", "japanese/riaju", "japanese/otaku"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "yankii",
+    "term": "ヤンキー",
+    "romanization": "yankī",
+    "partOfSpeech": ["noun"],
+    "register": "colloquial",
+    "categories": ["people"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "YAN-kee" },
+    "definitions": [
+      {
+        "text": "A delinquent teenager of a very specific Japanese kind: dyed hair, modified school uniform, squatting outside a convenience store, quite possibly a scooter.",
+        "note": "Nothing to do with Americans, despite the borrowed sound. A Japanese person calling someone ヤンキー is not commenting on their nationality."
+      },
+      { "text": "By extension, a style — ヤンキー座り is the flat-footed squat, and the aesthetic is a recognised nostalgic genre in film and manga." }
+    ],
+    "examples": [
+      {
+        "text": "昔はヤンキーだったらしいよ、あの先生。",
+        "translation": "Apparently that teacher was a proper delinquent back in the day."
+      },
+      {
+        "text": "コンビニの前にヤンキーがたむろしてる。",
+        "translation": "There are kids hanging around outside the convenience store."
+      }
+    ],
+    "origin": {
+      "etymology": "From English 'Yankee', by way of 1970s Osaka, where the loud American-influenced clothing of the Amerikamura district attached the name to the youths wearing it. The meaning drifted entirely to behaviour.",
+      "firstAttested": "1970s",
+      "sources": []
+    },
+    "relatedTerms": ["japanese/ossan", "japanese/dasai"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "ossan",
+    "term": "おっさん",
+    "romanization": "ossan",
+    "partOfSpeech": ["noun"],
+    "register": "informal",
+    "categories": ["people"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "OS-san" },
+    "variants": ["おじさん", "オッサン"],
+    "usageWarning": ["offensive"],
+    "definitions": [
+      {
+        "text": "A middle-aged bloke. Rude to his face — the neutral word is おじさん — but ordinary in the third person and very common self-deprecatingly.",
+        "note": "Age is the sting. Calling a thirty-five-year-old おっさん is a joke about how far gone he is."
+      }
+    ],
+    "examples": [
+      {
+        "text": "電車で隣のおっさんがいびきかいてた。",
+        "translation": "The bloke next to me on the train was snoring away."
+      },
+      {
+        "text": "もう完全におっさんだわ、俺。",
+        "translation": "I've officially become a middle-aged man."
+      }
+    ],
+    "origin": {
+      "etymology": "A contraction of おじさん, 'uncle', which Japanese uses for any man of that generation whether related or not. Shortening a kinship term this way strips the politeness out of it.",
+      "sources": []
+    },
+    "relatedTerms": ["japanese/yankii", "japanese/shachiku"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "tsundere",
+    "term": "ツンデレ",
+    "romanization": "tsundere",
+    "partOfSpeech": ["noun", "adjective"],
+    "register": "informal",
+    "categories": ["people", "romance"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "TSOON-deh-reh" },
+    "alsoUsedIn": ["american"],
+    "definitions": [
+      { "text": "Someone prickly on the surface and soft underneath, who shows affection by insulting you and then quietly doing you a favour." },
+      { "text": "Originally a character archetype in manga and games; now used of real people, pets and even shops with brusque owners." }
+    ],
+    "examples": [
+      {
+        "text": "うちの猫、完全にツンデレ。",
+        "translation": "Our cat is textbook tsundere."
+      },
+      {
+        "text": "彼、ツンデレだから素直に褒めないよ。",
+        "translation": "He's the prickly type — don't expect a straight compliment."
+      }
+    ],
+    "origin": {
+      "etymology": "ツンツン (standoffish, nose-in-the-air) plus デレデレ (lovestruck, gooey). Coined in Japanese game fandom around 2002 and exported wholesale into English fan vocabulary.",
+      "firstAttested": "2002",
+      "sources": []
+    },
+    "relatedTerms": ["japanese/shio-taio", "japanese/otaku"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "ikemen",
+    "term": "イケメン",
+    "romanization": "ikemen",
+    "partOfSpeech": ["noun"],
+    "register": "colloquial",
+    "categories": ["people", "romance"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "EE-keh-men" },
+    "definitions": [
+      { "text": "A good-looking man. Neutral, extremely common, and usable in print — magazines and television use it without irony." }
+    ],
+    "examples": [
+      {
+        "text": "新しい先生、めっちゃイケメンらしいよ。",
+        "translation": "Apparently the new teacher is seriously good-looking."
+      },
+      {
+        "text": "顔だけじゃなくて中身もイケメン。",
+        "translation": "He's not just handsome, he's a good person with it.",
+        "context": "中身がイケメン — 'handsome on the inside' — is a fixed extension."
+      }
+    ],
+    "origin": {
+      "etymology": "イケてる ('looking good') plus メン, which does double duty as English 'men' and as 面 (men), 'face'. The pun is part of why it stuck.",
+      "firstAttested": "around 2000",
+      "sources": []
+    },
+    "relatedTerms": ["japanese/charai", "japanese/busaiku", "japanese/gokon"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "charai",
+    "term": "チャラい",
+    "romanization": "charai",
+    "partOfSpeech": ["adjective"],
+    "register": "informal",
+    "categories": ["people", "romance"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "cha-RAI" },
+    "variants": ["チャラ男"],
+    "definitions": [
+      { "text": "Flashy and insubstantial; a bit of a player. Of a man whose clothes, patter and dating history all suggest he should not be relied upon." }
+    ],
+    "examples": [
+      {
+        "text": "見た目はチャラいけど、実はいい人。",
+        "translation": "He looks like a total player, but he's actually sound."
+      },
+      {
+        "text": "あんなチャラ男やめときなよ。",
+        "translation": "Steer clear of a lad like that."
+      }
+    ],
+    "origin": {
+      "etymology": "From チャラチャラ, an onomatopoeia for jangling trinkets — the sound of someone wearing too much jewellery, applied to the character behind it.",
+      "sources": []
+    },
+    "relatedTerms": ["japanese/ikemen", "japanese/gokon", "japanese/dasai"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "oshi",
+    "term": "推し",
+    "romanization": "oshi",
+    "partOfSpeech": ["noun"],
+    "register": "informal",
+    "categories": ["people", "everyday"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "OH-shee" },
+    "definitions": [
+      { "text": "Your favourite — the member of a group, the character or the performer you personally back and promote." },
+      { "text": "推し活 is the activity built around them: going to shows, buying merchandise, organising your calendar around their releases." }
+    ],
+    "examples": [
+      {
+        "text": "私の推し、今日誕生日なんだ。",
+        "translation": "It's my favourite's birthday today."
+      },
+      {
+        "text": "推し活のために働いてる。",
+        "translation": "I work to fund my fandom, basically."
+      }
+    ],
+    "origin": {
+      "etymology": "From 推す, 'to push, to recommend, to back a candidate'. Idol fandom vocabulary from the 2000s that has gone fully mainstream — the 2021 novel 推し、燃ゆ won the Akutagawa Prize and put the word in every bookshop window.",
+      "sources": []
+    },
+    "relatedTerms": ["japanese/totoi", "japanese/otaku", "japanese/numa", "japanese/pien"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "kuki-yomenai",
+    "term": "空気読めない",
+    "romanization": "kūki yomenai",
+    "partOfSpeech": ["phrase", "adjective"],
+    "register": "colloquial",
+    "categories": ["people", "insults"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "KOO-kee yo-meh-nai" },
+    "variants": ["KY", "空気読め"],
+    "literalMeaning": "Cannot read the air.",
+    "definitions": [
+      { "text": "Unable to sense the mood of a room — the person who keeps arguing after everyone has moved on, or raises a question at the exact wrong moment." },
+      {
+        "text": "Abbreviated KY, from the Latin initials of kūki yomenai. The abbreviation was a 2007 craze and now sounds slightly dated, while the full phrase does not.",
+        "note": "Being told 空気読め ('read the room') is a sharp rebuke, and in a workplace a serious one."
+      }
+    ],
+    "examples": [
+      {
+        "text": "あの発言はちょっと空気読めてないよね。",
+        "translation": "That remark really didn't read the room."
+      },
+      {
+        "text": "空気読んで黙っといた。",
+        "translation": "I read the mood and kept my mouth shut."
+      }
+    ],
+    "relatedTerms": ["japanese/donbiki", "japanese/uzai"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "shachiku",
+    "term": "社畜",
+    "romanization": "shachiku",
+    "partOfSpeech": ["noun"],
+    "register": "informal",
+    "categories": ["money", "people"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "SHA-chee-koo" },
+    "literalMeaning": "Company livestock.",
+    "definitions": [
+      { "text": "A corporate drone: someone whose life has been wholly absorbed by their employer. Almost always self-applied, with dark humour." }
+    ],
+    "examples": [
+      {
+        "text": "今日も終電、完全に社畜だわ。",
+        "translation": "Last train again. I'm company cattle at this point."
+      },
+      {
+        "text": "有給なんて社畜には無縁だよ。",
+        "translation": "Paid leave is not a thing that happens to people like me."
+      }
+    ],
+    "origin": {
+      "etymology": "会社 ('company') fused with 家畜 ('livestock'), coined in the late 1980s at the height of the bubble economy. It remains one of the bluntest words Japanese has for its own working culture.",
+      "firstAttested": "late 1980s",
+      "sources": []
+    },
+    "relatedTerms": ["japanese/burakku-kigyo", "japanese/nomikai", "japanese/ossan"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "burakku-kigyo",
+    "term": "ブラック企業",
+    "romanization": "burakku kigyō",
+    "partOfSpeech": ["noun"],
+    "register": "colloquial",
+    "categories": ["money"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "boo-RAK-koo kee-GYOH" },
+    "definitions": [
+      { "text": "An exploitative employer: unpaid overtime, impossible quotas, bullying, staff who leave within the year. A recognised category in public debate rather than a private joke." }
+    ],
+    "examples": [
+      {
+        "text": "あそこ完全にブラック企業だから辞めた。",
+        "translation": "That place was a sweatshop, so I quit."
+      },
+      {
+        "text": "求人がホワイトかブラックか見極めないと。",
+        "translation": "You have to work out whether a job advert is above board or not.",
+        "context": "ホワイト企業 is the opposite: a decent employer."
+      }
+    ],
+    "origin": {
+      "etymology": "Coined online in the early 2000s by IT workers and pushed into national politics by campaigning over 過労死 (karōshi), death from overwork. The Ministry of Health now publishes a list of offending firms, which is as institutional as slang gets.",
+      "firstAttested": "early 2000s",
+      "sources": []
+    },
+    "relatedTerms": ["japanese/shachiku", "japanese/baito"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "baito",
+    "term": "バイト",
+    "romanization": "baito",
+    "partOfSpeech": ["noun", "verb"],
+    "register": "colloquial",
+    "categories": ["money"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "BAI-toh" },
+    "variants": ["アルバイト"],
+    "definitions": [
+      { "text": "A part-time job, and the shift you work at it. The standard word for student and casual work, used in job adverts as readily as in conversation." }
+    ],
+    "examples": [
+      {
+        "text": "今日バイトあるから行けない。",
+        "translation": "I've got a shift today, so I can't come."
+      },
+      {
+        "text": "コンビニでバイトしてる。",
+        "translation": "I work part-time at a convenience store."
+      }
+    ],
+    "origin": {
+      "etymology": "Clipped from アルバイト, borrowed from German Arbeit ('work') by nineteenth-century students — one of a small set of German loans in Japanese that came through the universities. It means part-time work only; a full-time job is 仕事.",
+      "sources": []
+    },
+    "relatedTerms": ["japanese/burakku-kigyo", "japanese/kosupa"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "kosupa",
+    "term": "コスパ",
+    "romanization": "kosupa",
+    "partOfSpeech": ["noun"],
+    "register": "colloquial",
+    "categories": ["money"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "KOS-pa" },
+    "definitions": [
+      { "text": "Value for money. コスパがいい is good value; コスパが悪い is a rip-off." },
+      { "text": "The pattern has spread: タイパ (タイムパフォーマンス) is the same judgement applied to time, and is now the commoner complaint among younger speakers." }
+    ],
+    "examples": [
+      {
+        "text": "この店、コスパ最高だよ。",
+        "translation": "This place is unbeatable value."
+      },
+      {
+        "text": "映画を倍速で見るのはタイパ重視らしい。",
+        "translation": "Watching films at double speed is apparently about time efficiency."
+      }
+    ],
+    "origin": {
+      "etymology": "A four-syllable clipping of コストパフォーマンス, English 'cost performance'. Japanese compresses long loanwords to four morae as a rule — パソコン, リモコン, スマホ — and コスパ is a textbook case.",
+      "sources": []
+    },
+    "relatedTerms": ["japanese/warikan", "japanese/baito", "japanese/nomihodai"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "warikan",
+    "term": "割り勘",
+    "romanization": "warikan",
+    "partOfSpeech": ["noun"],
+    "register": "colloquial",
+    "categories": ["money", "partying"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "wa-ree-KAN" },
+    "definitions": [
+      {
+        "text": "Splitting the bill evenly — total divided by heads, not by what each person ate. The default among friends and colleagues of similar rank.",
+        "note": "Seniority overrides it: a manager or an older participant often pays more, or all, without discussion."
+      }
+    ],
+    "examples": [
+      {
+        "text": "今日は割り勘でいい？",
+        "translation": "Shall we just split it evenly today?"
+      },
+      {
+        "text": "先輩が多めに払ってくれた。",
+        "translation": "Our senior colleague covered the bigger share."
+      }
+    ],
+    "origin": {
+      "etymology": "割る ('to divide') plus 勘定 ('the bill'). Sometimes attributed to the Edo-period artist Sakai Hōitsu, who is said to have insisted on it; the attribution is traditional rather than documented.",
+      "sources": []
+    },
+    "relatedTerms": ["japanese/nomikai", "japanese/kosupa", "japanese/nijikai"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "saboru",
+    "term": "サボる",
+    "romanization": "saboru",
+    "partOfSpeech": ["verb"],
+    "register": "informal",
+    "categories": ["everyday"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "sa-BO-ru" },
+    "definitions": [
+      { "text": "To skive; to skip a class or a shift, or to coast through work you are supposed to be doing." }
+    ],
+    "examples": [
+      {
+        "text": "昨日、授業サボっちゃった。",
+        "translation": "I bunked off class yesterday."
+      },
+      {
+        "text": "掃除サボってるでしょ。",
+        "translation": "You've been slacking on the cleaning, haven't you?"
+      }
+    ],
+    "origin": {
+      "etymology": "From French sabotage, clipped to サボ and given the Japanese verb ending -る. The same machinery produces ググる (to google) and メモる (to jot down); it is the single most productive slang pattern in the language.",
+      "firstAttested": "1920s",
+      "sources": []
+    },
+    "relatedTerms": ["japanese/guguru", "japanese/mendoi", "japanese/darui"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "guguru",
+    "term": "ググる",
+    "romanization": "guguru",
+    "partOfSpeech": ["verb"],
+    "register": "colloquial",
+    "categories": ["everyday"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "GOO-goo-ru" },
+    "definitions": [
+      { "text": "To google. Fully naturalised: it conjugates like any Japanese verb — ググった, ググれば, ググっとく." }
+    ],
+    "examples": [
+      {
+        "text": "分からなかったらググって。",
+        "translation": "Just google it if you're not sure."
+      },
+      {
+        "text": "ググっても出てこなかった。",
+        "translation": "I searched and found nothing."
+      }
+    ],
+    "origin": {
+      "etymology": "グーグル shortened to グ グ and fitted with the -る verb ending. The same pattern gave タクる (to take a taxi), パニクる (to panic) and ディスる (to disrespect).",
+      "sources": []
+    },
+    "relatedTerms": ["japanese/saboru", "japanese/bazuru", "japanese/pakuru"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "bazuru",
+    "term": "バズる",
+    "romanization": "bazuru",
+    "partOfSpeech": ["verb"],
+    "register": "colloquial",
+    "region": "Online",
+    "categories": ["everyday"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "BA-zoo-ru" },
+    "definitions": [
+      { "text": "To go viral. Of a post, a video or a shop that suddenly has a queue round the block because of one." },
+      { "text": "炎上する (enjō suru), 'to go up in flames', is the negative counterpart — going viral for the wrong reasons." }
+    ],
+    "examples": [
+      {
+        "text": "あの動画、めっちゃバズってる。",
+        "translation": "That video is absolutely everywhere."
+      },
+      {
+        "text": "バズった結果、炎上した。",
+        "translation": "It went viral and then the pile-on started."
+      }
+    ],
+    "origin": {
+      "etymology": "English 'buzz' plus the -る verb ending, the same machinery as ググる and サボる.",
+      "firstAttested": "2010s",
+      "sources": []
+    },
+    "relatedTerms": ["japanese/guguru", "japanese/baeru", "japanese/kusa"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "pakuru",
+    "term": "パクる",
+    "romanization": "pakuru",
+    "partOfSpeech": ["verb"],
+    "register": "informal",
+    "categories": ["everyday", "insults"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "pa-KOO-ru" },
+    "definitions": [
+      { "text": "To nick — to rip off someone's idea, design or joke and pass it off as your own." },
+      { "text": "Also plain stealing, and in older criminal slang, being arrested." }
+    ],
+    "examples": [
+      {
+        "text": "そのアイデア、完全にパクリじゃん。",
+        "translation": "That idea is a straight lift."
+      },
+      {
+        "text": "デザインをパクられた。",
+        "translation": "Someone ripped off my design."
+      }
+    ],
+    "origin": {
+      "etymology": "From the onomatopoeia パクパク, the sound of a mouth opening and shutting — to snap something up. The noun パクリ is what the copy itself is called.",
+      "sources": []
+    },
+    "relatedTerms": ["japanese/guguru", "japanese/dasai"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "dotakyan",
+    "term": "ドタキャン",
+    "romanization": "dotakyan",
+    "partOfSpeech": ["noun", "verb"],
+    "register": "colloquial",
+    "categories": ["everyday"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "doh-ta-KYAN" },
+    "definitions": [
+      { "text": "A last-minute cancellation — pulling out on the day, or an hour before. Used as a noun and as a verb: ドタキャンされた, 'they bailed on me'." }
+    ],
+    "examples": [
+      {
+        "text": "またドタキャンされた。",
+        "translation": "They've cancelled on me again, at the last minute."
+      },
+      {
+        "text": "ごめん、今日ドタキャンでもいい？",
+        "translation": "Sorry — any chance I can pull out of today?"
+      }
+    ],
+    "origin": {
+      "etymology": "土壇場 (dotanba), 'the eleventh hour' — originally the execution ground, the last place you stood — plus キャンセル. Industry jargon from wedding and event venues in the 1990s that went general.",
+      "firstAttested": "1990s",
+      "sources": []
+    },
+    "relatedTerms": ["japanese/mendoi", "japanese/nomikai", "japanese/donmai"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "numa",
+    "term": "沼",
+    "romanization": "numa",
+    "partOfSpeech": ["noun"],
+    "register": "informal",
+    "region": "Online",
+    "categories": ["everyday", "emotion"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "NOO-ma" },
+    "literalMeaning": "A swamp or bog.",
+    "definitions": [
+      { "text": "A hobby, fandom or rabbit hole you have sunk into and cannot climb out of. 沼にハマる is to fall in; 沼落ち is the moment it happens." }
+    ],
+    "examples": [
+      {
+        "text": "完全にK-POPの沼にハマってる。",
+        "translation": "I have fallen headfirst into K-pop and cannot get out."
+      },
+      {
+        "text": "カメラは沼だから気をつけて。",
+        "translation": "Cameras are a money pit — be careful."
+      }
+    ],
+    "origin": {
+      "etymology": "Fandom vocabulary of the 2010s. The image is precise: a swamp is not a cliff you fall off but something you wade into voluntarily and then find you cannot leave.",
+      "sources": []
+    },
+    "relatedTerms": ["japanese/oshi", "japanese/otaku", "japanese/kosupa"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "nomikai",
+    "term": "飲み会",
+    "romanization": "nomikai",
+    "partOfSpeech": ["noun"],
+    "register": "colloquial",
+    "categories": ["partying"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "noh-mee-KAI" },
+    "definitions": [
+      { "text": "A drinking party: a booked table, a set course, a fixed start time and, in a work context, an attendance list." },
+      {
+        "text": "飲みニケーション — 飲み plus 'communication' — names the belief that the real business gets done here rather than in the office.",
+        "note": "Declining but not dead. Younger employees increasingly decline, which older colleagues read as standoffishness."
+      }
+    ],
+    "examples": [
+      {
+        "text": "金曜、部署の飲み会あるんだ。",
+        "translation": "There's a department drinks thing on Friday."
+      },
+      {
+        "text": "飲み会苦手なんだよね。",
+        "translation": "Work drinks really aren't my thing."
+      }
+    ],
+    "relatedTerms": ["japanese/nijikai", "japanese/nomihodai", "japanese/toriaezu", "japanese/warikan"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "nijikai",
+    "term": "二次会",
+    "romanization": "nijikai",
+    "partOfSpeech": ["noun"],
+    "register": "colloquial",
+    "categories": ["partying"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "nee-jee-KAI" },
+    "literalMeaning": "Second gathering.",
+    "definitions": [
+      { "text": "The second venue of the night, moved to as a group when the first party ends. Karaoke, a bar, a smaller restaurant." },
+      { "text": "The sequence continues — 三次会, 四次会 — and the numbering is taken seriously enough that people announce which one they are leaving at." }
+    ],
+    "examples": [
+      {
+        "text": "二次会カラオケ行く人？",
+        "translation": "Who's up for karaoke for round two?"
+      },
+      {
+        "text": "終電あるから二次会はパスで。",
+        "translation": "I've got a last train to catch, so I'll skip the second round."
+      }
+    ],
+    "relatedTerms": ["japanese/nomikai", "japanese/nomihodai", "japanese/warikan"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "nomihodai",
+    "term": "飲み放題",
+    "romanization": "nomihōdai",
+    "partOfSpeech": ["noun"],
+    "register": "colloquial",
+    "categories": ["food-drink", "partying"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "noh-mee-HOH-dai" },
+    "definitions": [
+      { "text": "All you can drink, for a fixed price and — always — a fixed time, usually ninety or a hundred and twenty minutes with a last-order warning." },
+      { "text": "食べ放題 is the eating equivalent, and the two are often sold together as a course." }
+    ],
+    "examples": [
+      {
+        "text": "二時間飲み放題で三千円。",
+        "translation": "Three thousand yen for two hours of unlimited drinks."
+      },
+      {
+        "text": "ラストオーダー前にもう一杯頼もう。",
+        "translation": "Let's get one more in before last orders."
+      }
+    ],
+    "origin": {
+      "etymology": "放題 is a suffix meaning 'without limit', attachable to almost any verb stem: 言いたい放題 (saying whatever you like), 使い放題 (unlimited use).",
+      "sources": []
+    },
+    "relatedTerms": ["japanese/nomikai", "japanese/nijikai", "japanese/kosupa"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "harapeko",
+    "term": "腹ペコ",
+    "romanization": "harapeko",
+    "partOfSpeech": ["adjective", "noun"],
+    "register": "informal",
+    "categories": ["food-drink"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "ha-ra-PEH-koh" },
+    "definitions": [
+      { "text": "Starving; stomach completely empty. Childlike in flavour and used affectionately by adults." }
+    ],
+    "examples": [
+      {
+        "text": "もう腹ペコで死にそう。",
+        "translation": "I'm so hungry I could die."
+      },
+      {
+        "text": "腹ペコだから何でもいい。",
+        "translation": "I'm starving, so anything will do."
+      }
+    ],
+    "origin": {
+      "etymology": "腹 ('belly') plus ペコペコ, the onomatopoeia for something caving in — the sound-symbolic vocabulary Japanese uses far more systematically than English does.",
+      "sources": []
+    },
+    "relatedTerms": ["japanese/gattsuri", "japanese/nomihodai"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "gattsuri",
+    "term": "ガッツリ",
+    "romanization": "gattsuri",
+    "partOfSpeech": ["adverb"],
+    "register": "informal",
+    "categories": ["food-drink", "everyday"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "GAT-tsu-ree" },
+    "definitions": [
+      { "text": "Properly; heartily; a serious amount. Of food above all — ガッツリ系 is the whole genre of large, meaty, unapologetic dishes." },
+      { "text": "Also of effort or involvement: ガッツリ働く, to put in a real shift." }
+    ],
+    "examples": [
+      {
+        "text": "今日はガッツリ肉食べたい。",
+        "translation": "I want a proper meat-heavy meal today."
+      },
+      {
+        "text": "ガッツリ寝たから元気。",
+        "translation": "I got a solid night's sleep, so I'm fine."
+      }
+    ],
+    "origin": {
+      "etymology": "A sound-symbolic coinage on がっちり ('firmly, solidly'), which spread through food writing and ramen culture in the 2000s.",
+      "sources": []
+    },
+    "relatedTerms": ["japanese/harapeko", "japanese/meccha"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "otsukare",
+    "term": "お疲れ",
+    "romanization": "otsukare",
+    "partOfSpeech": ["interjection", "phrase"],
+    "register": "colloquial",
+    "categories": ["greetings"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "oh-tsu-KA-reh" },
+    "variants": ["お疲れ様", "おつ", "乙"],
+    "literalMeaning": "You are tired.",
+    "definitions": [
+      { "text": "The all-purpose workplace greeting: hello, goodbye, well done, thanks for your effort. Said on arrival, on leaving, in corridors and at the end of anything." },
+      {
+        "text": "Casual or downward only in its short form. To a superior the full お疲れ様です is required, and 乙 — written with the kanji for 'second' because it reads otsu — is internet-only.",
+        "note": "ご苦労様 looks like a synonym and is not: it is said downward, and using it to a superior is a notable gaffe."
+      }
+    ],
+    "examples": [
+      {
+        "text": "お疲れ様でした。お先に失礼します。",
+        "translation": "Thanks for your work today. I'll head off first.",
+        "context": "The standard formula for leaving an office before your colleagues."
+      },
+      {
+        "text": "おつかれー、また明日。",
+        "translation": "See you, night — tomorrow then."
+      }
+    ],
+    "relatedTerms": ["japanese/ossu", "japanese/shachiku", "japanese/nomikai"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "ossu",
+    "term": "おっす",
+    "romanization": "ossu",
+    "partOfSpeech": ["interjection"],
+    "register": "informal",
+    "categories": ["greetings"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "OS-su" },
+    "variants": ["押忍", "うっす"],
+    "definitions": [
+      {
+        "text": "Yo. A brusque male greeting, standard in martial-arts clubs and sports teams and used casually between male friends.",
+        "note": "Strongly gendered and strongly informal. A woman using it is making a deliberate joke; a junior using it to a senior outside sport is rude."
+      }
+    ],
+    "examples": [
+      {
+        "text": "おっす、久しぶり。",
+        "translation": "Yo — long time."
+      },
+      {
+        "text": "うっす、今行きます。",
+        "translation": "Yep, on my way."
+      }
+    ],
+    "origin": {
+      "etymology": "Generally explained as a compression of おはようございます. The martial-arts spelling 押忍 ('push and endure') is a later back-formation invented to give the syllables a moral reading.",
+      "sources": []
+    },
+    "relatedTerms": ["japanese/otsukare", "japanese/faito"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "faito",
+    "term": "ファイト",
+    "romanization": "faito",
+    "partOfSpeech": ["interjection"],
+    "register": "colloquial",
+    "categories": ["greetings", "emotion"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "FAI-toh" },
+    "definitions": [
+      {
+        "text": "Go on, you can do it. Shouted at someone about to take an exam, run a race or go into a difficult meeting — encouragement, never an instruction to fight.",
+        "note": "Korean 화이팅 is the same borrowing with the same meaning, and the two words' histories are intertwined."
+      }
+    ],
+    "examples": [
+      {
+        "text": "明日試験でしょ？ファイト！",
+        "translation": "Exam tomorrow, right? You've got this!"
+      },
+      {
+        "text": "ファイト一発！",
+        "translation": "One good push!",
+        "context": "A 1960s energy-drink slogan so famous it is still quoted as a set phrase."
+      }
+    ],
+    "origin": {
+      "etymology": "From English 'fight', narrowed in Japanese to pure encouragement. 頑張って is the native equivalent and is commoner; ファイト is brighter and more sporting.",
+      "sources": []
+    },
+    "relatedTerms": ["japanese/ossu", "japanese/donmai"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "gokon",
+    "term": "合コン",
+    "romanization": "gōkon",
+    "partOfSpeech": ["noun"],
+    "register": "colloquial",
+    "categories": ["romance", "partying"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "GOH-kon" },
+    "definitions": [
+      { "text": "A group blind date: a few friends of one gender meet the same number of another at a restaurant, arranged by one person from each side." },
+      { "text": "A recognised institution among students and young workers, with its own conventions about seating, who pays and how the evening ends." }
+    ],
+    "examples": [
+      {
+        "text": "今週末、合コン行かない？",
+        "translation": "Fancy a group date this weekend?"
+      },
+      {
+        "text": "合コンで彼氏できたらしいよ。",
+        "translation": "Apparently she met her boyfriend at one of those group things."
+      }
+    ],
+    "origin": {
+      "etymology": "合同コンパ, 'joint social' — コンパ itself being an old student clipping of English 'company'.",
+      "sources": []
+    },
+    "relatedTerms": ["japanese/kokuru", "japanese/ikemen", "japanese/charai", "japanese/nomikai"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "kokuru",
+    "term": "告る",
+    "romanization": "kokuru",
+    "partOfSpeech": ["verb"],
+    "register": "informal",
+    "categories": ["romance"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "koh-KOO-ru" },
+    "definitions": [
+      {
+        "text": "To confess your feelings and formally ask someone out. In Japan this is a discrete event with a yes-or-no answer, not a gradual drift into dating.",
+        "note": "The structural point learners miss: without a 告白, two people who go out repeatedly are still not considered to be a couple."
+      }
+    ],
+    "examples": [
+      {
+        "text": "明日、告るつもり。",
+        "translation": "I'm going to tell her how I feel tomorrow."
+      },
+      {
+        "text": "告ったけど振られた。",
+        "translation": "I put myself out there and got turned down."
+      }
+    ],
+    "origin": {
+      "etymology": "告白 ('confession') clipped to 告 and given the -る verb ending, the same pattern as サボる and ググる.",
+      "sources": []
+    },
+    "relatedTerms": ["japanese/gokon", "japanese/motokano", "japanese/shio-taio"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "motokano",
+    "term": "元カノ",
+    "romanization": "motokano",
+    "partOfSpeech": ["noun"],
+    "register": "colloquial",
+    "categories": ["romance", "people"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "moh-toh-KA-noh" },
+    "variants": ["元カレ"],
+    "definitions": [
+      { "text": "An ex-girlfriend. 元カレ is the male equivalent, and the two are used symmetrically." }
+    ],
+    "examples": [
+      {
+        "text": "元カノの話はしない方がいいよ。",
+        "translation": "Best not to bring up your ex."
+      },
+      {
+        "text": "元カレとはもう連絡取ってない。",
+        "translation": "I'm not in touch with my ex any more."
+      }
+    ],
+    "origin": {
+      "etymology": "元 ('former') plus カノ, from 彼女 ('she, girlfriend'). Clipping the pronoun this way is what makes it slang rather than plain description.",
+      "sources": []
+    },
+    "relatedTerms": ["japanese/kokuru", "japanese/donbiki"],
+    "reviewedBy": "Editorial team"
+  },
+  {
+    "slug": "shio-taio",
+    "term": "塩対応",
+    "romanization": "shio taiō",
+    "partOfSpeech": ["noun"],
+    "register": "informal",
+    "categories": ["emotion", "people"],
+    "status": "published",
+    "updatedDate": "2026-09-22",
+    "pronunciation": { "respelling": "SHEE-oh tai-OH" },
+    "literalMeaning": "Salt treatment.",
+    "definitions": [
+      { "text": "A cold reception: technically polite, emotionally flat. Of an idol who signs an autograph without looking up, or a colleague answering in monosyllables." },
+      { "text": "Its opposite is 神対応, the faultlessly warm version." }
+    ],
+    "examples": [
+      {
+        "text": "昨日の店員さん、塩対応だったな。",
+        "translation": "That member of staff yesterday was pretty frosty."
+      },
+      {
+        "text": "塩対応なのがむしろいいって人もいる。",
+        "translation": "Some people actually prefer the cold-fish routine."
+      }
+    ],
+    "origin": {
+      "etymology": "From idol fandom around 2014, contrasting salt — dry and bare — with 神 ('god'), the exemplary opposite. Salt also carries a Japanese association with purification and with warding off, which the image plays on.",
+      "firstAttested": "around 2014",
+      "sources": []
+    },
+    "relatedTerms": ["japanese/kami", "japanese/tsundere", "japanese/oshi"],
+    "reviewedBy": "Editorial team"
+  }
+]

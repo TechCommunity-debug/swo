@@ -9,6 +9,8 @@ import esCanadian from '../data/i18n/es/entries/canadian.json';
 import esFrench from '../data/i18n/es/entries/french.json';
 import esItalian from '../data/i18n/es/entries/italian.json';
 import esSpanish from '../data/i18n/es/entries/spanish.json';
+import esJapanese from '../data/i18n/es/entries/japanese.json';
+import esKorean from '../data/i18n/es/entries/korean.json';
 
 /**
  * Overlays translated content onto an entry or a country.
@@ -86,6 +88,8 @@ const ENTRY_OVERRIDES: Record<Locale, Record<string, Record<string, EntryOverrid
     french: esFrench as Record<string, EntryOverride>,
     italian: esItalian as Record<string, EntryOverride>,
     spanish: esSpanish as Record<string, EntryOverride>,
+    japanese: esJapanese as Record<string, EntryOverride>,
+    korean: esKorean as Record<string, EntryOverride>,
   },
 };
 

@@ -1,0 +1,822 @@
+{
+  "daebak": {
+    "definitions": [
+      { "text": "Guau; no me lo puedo creer; qué pasada. La exclamación comodín para cualquier cosa sorprendente, buena o mala." },
+      { "text": "Como sustantivo, un exitazo: una película, una tienda o un negocio que ha dado el pelotazo. 대박 나세요 es un deseo sincero de fortuna a quien abre un negocio." }
+    ],
+    "examples": {
+      "0": { "translation": "¡No me digas! ¿De verdad has entrado?" },
+      "1": { "translation": "Esta serie es un pelotazo absoluto." }
+    },
+    "origin": {
+      "etymology": "De 大舶, un barco grande: la llegada de un buque mercante era la imagen tradicional de una fortuna que entra. El uso como interjección es mucho más reciente que el sustantivo y pertenece a las últimas décadas."
+    }
+  },
+  "heol": {
+    "definitions": [
+      { "text": "Uf; pero qué… El sonido de quedarse momentáneamente de piedra. Algo más negativo que 대박, y se usa tanto para lo indeseado como para lo impresionante." }
+    ],
+    "examples": {
+      "0": { "translation": "Ay, no: me he dejado la cartera." },
+      "1": { "translation": "Uf, qué pasada, ¿en serio?", "context": "Las tres palabras se encadenan tan a menudo que la secuencia funciona como una sola reacción." }
+    },
+    "origin": {
+      "etymology": "Una onomatopeya de una inspiración brusca, puesta por escrito y extendida por los chats y los mensajes de principios de los 2000. Pasó de teclearse a decirse, y no al revés.",
+      "firstAttested": "principios de los 2000"
+    }
+  },
+  "jjang": {
+    "definitions": [
+      { "text": "El mejor; lo más. Como sufijo nombra al campeón de una categoría: 얼짱 (la mejor cara), 몸짱 (el mejor cuerpo)." },
+      {
+        "text": "Solo, 짱이야 significa «esto es genial». Hoy suena a argot algo antiguo: es una palabra que sitúa al hablante en los noventa o los 2000.",
+        "note": "Se sigue entendiendo perfectamente, pero un adolescente coreano dirá antes 대박 o 개좋아."
+      }
+    ],
+    "examples": {
+      "0": { "translation": "Mi madre es lo más, de verdad, una campeona." },
+      "1": { "translation": "Era el chico más guapo de nuestro instituto." }
+    },
+    "origin": {
+      "etymology": "Se suele remontar a 장 (長), «jefe, cabeza», reforzado con una consonante inicial tensa, una manera muy coreana de añadir énfasis, como 쫌 por 좀."
+    }
+  },
+  "kkuljaem": {
+    "literalMeaning": "Diversión de miel.",
+    "definitions": [
+      { "text": "Divertidísimo de verdad: de una película, una salida, una clase. 꿀 («miel») es un intensificador productivo: 꿀팁 es un consejo buenísimo, 꿀알바 un trabajillo cómodo." }
+    ],
+    "examples": {
+      "0": { "translation": "La peli de ayer estuvo genial." },
+      "1": { "translation": "Esta clase es entretenida de verdad, así que no me duermo." }
+    },
+    "origin": {
+      "etymology": "꿀 («miel») más 잼, acortamiento de 재미 («diversión»). Construido con el hábito de abreviación que domina el argot juvenil coreano.",
+      "firstAttested": "años 2010"
+    }
+  },
+  "nojaem": {
+    "definitions": [
+      { "text": "Sin ninguna gracia; un truño. De una película, de un chiste que se ha caído o de alguien sin ningún sentido del ritmo cómico." },
+      { "text": "노잼 시기 es un estado reconocido: una racha de semanas en las que nada te hace gracia." }
+    ],
+    "examples": {
+      "0": { "translation": "Esa película es una pérdida de tiempo total." },
+      "1": { "translation": "Creo que estoy en una de esas fases en las que nada tiene gracia." }
+    },
+    "origin": {
+      "etymology": "El inglés no más 잼, de 재미 («diversión»): un híbrido de los que el argot coreano construye sin parar. El grado superior, 핵노잼 («de una insulsez nuclear»), es todavía más fuerte."
+    }
+  },
+  "hwaiting": {
+    "definitions": [
+      {
+        "text": "Tú puedes; ánimo. Se grita antes de un examen, un partido, un turno o una conversación difícil. Es aliento, nunca una orden de pelear.",
+        "note": "화이팅 y 파이팅 son la misma palabra; la segunda es la grafía que prefiere el Instituto Nacional de la Lengua Coreana, la primera es la que escribe casi todo el mundo."
+      }
+    ],
+    "examples": {
+      "0": { "translation": "Suerte en el examen, ¡tú puedes!" },
+      "1": { "translation": "A ver si sacamos también el día de hoy.", "context": "Un cierre habitual de mensajes entre compañeros, algo así como «ánimo, que podemos»." }
+    },
+    "origin": {
+      "etymology": "Del inglés fighting, tomado a través del deporte de mediados de siglo. El japonés ファイト es el mismo préstamo estrechado de la misma manera, y ambos se difundieron en paralelo."
+    }
+  },
+  "oppa": {
+    "definitions": [
+      { "text": "Hermano mayor, dicho por una mujer. Se extiende a cualquier hombre mayor que ella con el que tenga confianza: un amigo, un novio, un veterano de la universidad." },
+      {
+        "text": "Un hombre usa 형 (hyeong) para esa misma relación, y 누나 (nuna) para una mujer mayor; una mujer usa 언니 (eonni).",
+        "note": "Lo determina el género de quien habla, no el de la persona a la que se dirige. Un hombre que llame 오빠 a otro está haciendo una broma."
+      },
+      { "text": "En el fandom se extiende a ídolos masculinos a los que la hablante no ha visto en su vida, y por ahí entró la palabra en otras lenguas." }
+    ],
+    "examples": {
+      "0": { "translation": "¿Me puedes llevar esto?", "context": "Dicho a un hermano mayor, a un amigo mayor o a un novio: la palabra cubre los tres casos." },
+      "1": { "translation": "Mi hermano mayor está haciendo el servicio militar." }
+    },
+    "origin": {
+      "etymology": "El coreano usa los términos de parentesco como tratamiento cotidiano mucho más que las lenguas europeas, y elegir uno es inevitable: no hay un «tú» neutro que funcione entre personas de distinta edad. Aprender la rejilla de cuatro términos es una necesidad práctica, no un refinamiento cultural."
+    }
+  },
+  "eonni": {
+    "definitions": [
+      { "text": "Hermana mayor, dicho por una mujer y, por extensión, a cualquier mujer mayor con la que tenga confianza." },
+      { "text": "También se les dice a las empleadas de tiendas, restaurantes y mercados, sea cual sea su edad real, como manera amable de llamar su atención." }
+    ],
+    "examples": {
+      "0": { "translation": "Perdona, ¿tienes esto en otra talla?", "context": "A una dependienta. 저기요 es la alternativa neutra si no lo tienes claro." },
+      "1": { "translation": "Mi hermana mayor cocina de maravilla." }
+    }
+  },
+  "sunbae": {
+    "definitions": [
+      { "text": "Alguien que te precede en una institución —colegio, universidad, empresa— por año de entrada y no por edad. Su pareja es 후배 (hubae), el junior." },
+      {
+        "text": "La relación trae obligaciones reales: el veterano invita a comer y aconseja, el junior es deferente y está disponible.",
+        "note": "Lo decide el año de entrada, no la edad. Alguien de 40 que entró el año pasado es junior de alguien de 25 que entró el anterior."
+      }
+    ],
+    "examples": {
+      "0": { "translation": "Un veterano me invitó a cenar." },
+      "1": { "translation": "Pregúntale a alguien con más antigüedad en la empresa." }
+    }
+  },
+  "ajumma": {
+    "definitions": [
+      {
+        "text": "Una señora de mediana edad. Neutro en tercera persona; dicho a la cara puede escocer, porque declara que ya no es joven.",
+        "note": "아주머니 es la forma cortés y es la opción segura para dirigirse a una desconocida. Equivocarse aquí es un error frecuente y memorable."
+      },
+      { "text": "También un tipo cultural —permanente, visera, pantalones de flores, temible en una cola— parodiado con cariño y admirado de verdad casi a partes iguales." }
+    ],
+    "examples": {
+      "0": { "translation": "Perdone, ¿nos pone un poco de agua?", "context": "La forma cortés, que es la que conviene usar en un restaurante." },
+      "1": { "translation": "No hay nadie más dura que las señoras que llevan los puestos del mercado." }
+    }
+  },
+  "ajeossi": {
+    "definitions": [
+      {
+        "text": "Un señor de mediana edad, y la manera habitual de dirigirse a un taxista o a un repartidor. Dice sin rodeos que quien habla lo considera pasado de juventud.",
+        "note": "A los hombres de treinta y tantos les molesta bastante. Los hablantes jóvenes suelen suavizarlo con 삼촌 («tío») para evitar el pinchazo."
+      }
+    ],
+    "examples": {
+      "0": { "translation": "Pare aquí, por favor.", "context": "A un taxista: completamente estándar." },
+      "1": { "translation": "Todavía no soy un señor mayor, gracias." }
+    }
+  },
+  "nunchi": {
+    "literalMeaning": "Medida del ojo.",
+    "definitions": [
+      { "text": "La capacidad de leer una sala y calibrar lo que la gente quiere en realidad sin que se lo digan. Tenerlo es un elogio; 눈치가 없다, no tenerlo, es una crítica de verdad." },
+      { "text": "눈치를 보다 —«estar pendiente del nunchi»— es vigilar con inquietud el humor de alguien antes de actuar, algo que es tan a menudo una carga como una habilidad." }
+    ],
+    "examples": {
+      "0": { "translation": "Ese tío es incapaz de leer una sala." },
+      "1": { "translation": "No puedo salir de la oficina porque estoy pendiente del humor de mi jefe." }
+    },
+    "origin": {
+      "etymology": "Se le suele llamar intraducible, lo cual exagera: el japonés 空気を読む está cerca, y «leer el ambiente» está más cerca de lo que se admite. Lo distintivo es lo explícitamente que los coreanos lo discuten como una destreza que se puede tener en mayor o menor grado."
+    }
+  },
+  "jeong": {
+    "definitions": [
+      { "text": "El apego que se forma entre personas, o hacia un lugar, por el simple paso del tiempo compartido: no un afecto elegido, sino acumulado." },
+      {
+        "text": "정이 들다 es que se desarrolle; 정 떨어지다, que se rompa, es lo que pasa cuando alguien hace algo que te impide seguir sintiéndolo.",
+        "note": "Explica comportamientos que a los extranjeros les desconciertan: el tendero que añade algo gratis, el compañero que no te deja pagar. Eso es 정 en acción."
+      }
+    ],
+    "examples": {
+      "0": { "translation": "Le he cogido mucho cariño a este barrio." },
+      "1": { "translation": "Después de oírle decir eso, se me cayó del todo." }
+    },
+    "origin": {
+      "etymology": "Del sinocoreano 情, «sentimiento». La ensayística coreana lo trata como una emoción nacional definitoria; la palabra en sí es corriente y su uso, absolutamente cotidiano."
+    }
+  },
+  "kkondae": {
+    "definitions": [
+      { "text": "Un mayor que sermonea a los jóvenes sobre cómo se hacían las cosas en su época y espera deferencia solo por su edad." },
+      { "text": "La edad no es estrictamente necesaria: el 젊은 꼰대, el «kkondae joven», es una figura reconocida — alguien dos años mayor que se comporta exactamente igual." }
+    ],
+    "examples": {
+      "0": { "translation": "Nuestro jefe de departamento es un dinosaurio." },
+      "1": { "translation": "No quiero convertirme en uno de esos." }
+    },
+    "origin": {
+      "etymology": "Argot escolar de los años sesenta para el profesor o el padre, recuperado hacia 2015 como término general en el debate público sobre la jerarquía laboral. Una derivación lo hace venir del francés comte a través del japonés; no está verificada y probablemente sea etimología popular."
+    }
+  },
+  "gapjil": {
+    "definitions": [
+      { "text": "Abuso de una posición de poder sobre quien depende de ti: el cliente que humilla a un proveedor, el directivo que arremete contra la tripulación de cabina, el casero que aprieta a un inquilino." },
+      { "text": "Un término de acusación pública, no de queja privada. La prensa coreana lo usa directamente, y varios escándalos empresariales se han nombrado con él." }
+    ],
+    "examples": {
+      "0": { "translation": "Eso es un abuso de posición como una catedral." },
+      "1": { "translation": "Han publicado un comunicado de disculpa por las acusaciones de abuso." }
+    },
+    "origin": {
+      "etymology": "갑 y 을 son las etiquetas de la primera y la segunda parte de un contrato coreano: la parte A y la parte B. 갑 pasó a significar el lado con el poder, y el sufijo -질 (que marca una actividad denigrante) hace el resto. La palabra es un tecnicismo jurídico convertido en acusación.",
+      "firstAttested": "hacia 2013"
+    }
+  },
+  "geumsujeo": {
+    "literalMeaning": "Cuchara de oro.",
+    "definitions": [
+      { "text": "Alguien nacido rico, cuyo punto de partida en la vida se lo compraron. Forma parte de una jerarquía completa —금 (oro), 은 (plata), 동 (bronce), 흙 (tierra)— que los coreanos usan medio en broma y medio en serio sobre sus propias perspectivas." }
+    ],
+    "examples": {
+      "0": { "translation": "Ese nació en buena cuna, no tiene de qué preocuparse." },
+      "1": { "translation": "Por algo se habla de las clases de la cuchara." }
+    },
+    "origin": {
+      "etymology": "Una reelaboración del inglés «nacer con una cuchara de plata», que el coreano convirtió en una jerarquía graduada tras los debates de 2015 sobre la desigualdad heredada. El modismo inglés describe una condición; la versión coreana describe un sistema de clases.",
+      "firstAttested": "hacia 2015"
+    }
+  },
+  "heuksujeo": {
+    "literalMeaning": "Cuchara de tierra.",
+    "definitions": [
+      { "text": "Alguien nacido sin nada a lo que agarrarse: el fondo de la jerarquía de las cucharas y, muy a menudo, una autodescripción." }
+    ],
+    "examples": {
+      "0": { "translation": "Yo no tenía red de seguridad, así que empecé haciendo trabajillos." },
+      "1": { "translation": "Dicen que ya pasó la época en que solo con esfuerzo se llegaba a algo desde abajo." }
+    }
+  },
+  "heljoseon": {
+    "literalMeaning": "Joseon infernal.",
+    "definitions": [
+      {
+        "text": "Corea del Sur vista como un lugar de competencia sin esperanza: cultura laboral brutal, vivienda inalcanzable, exámenes que deciden una vida a los dieciocho. Amargo más que juguetón.",
+        "note": "Tuvo su pico a mediados de los 2010 y hoy se usa más en retrospectiva, pero cualquiera menor de cincuenta lo reconoce al instante."
+      }
+    ],
+    "examples": {
+      "0": { "translation": "Por esto la gente llama a este sitio un infierno." },
+      "1": { "translation": "El sueño era largarse del país." }
+    },
+    "origin": {
+      "etymology": "El inglés hell más 조선, la dinastía que gobernó Corea hasta 1910: el chiste está en que una sociedad rígida y hereditaria nunca terminó de acabarse. Se acuñó en internet hacia 2015 y la prensa nacional lo recogió de inmediato.",
+      "firstAttested": "hacia 2015"
+    }
+  },
+  "yeoljeong-pei": {
+    "literalMeaning": "Paga de pasión.",
+    "definitions": [
+      { "text": "Cobrar en experiencia: las prácticas, el puesto en una firma de moda o el trabajo de estudio que ofrecen visibilidad y entusiasmo en lugar de sueldo." }
+    ],
+    "examples": {
+      "0": { "translation": "Esa empresa es famosa por pagar en visibilidad." },
+      "1": { "translation": "Trabajar por «pasión» sin cobrar ya es ilegal." }
+    },
+    "origin": {
+      "etymology": "열정 («pasión») más el inglés pay. Se acuñó hacia 2014 en el debate público sobre las prácticas no remuneradas en la moda y las artes, y hoy se usa en las informaciones sobre derecho laboral.",
+      "firstAttested": "hacia 2014"
+    }
+  },
+  "alba": {
+    "definitions": [
+      { "text": "Un trabajo a tiempo parcial, y la persona que lo hace. 알바생 es el trabajador, 알바비 el sueldo, 꿀알바 uno cómodo." }
+    ],
+    "examples": {
+      "0": { "translation": "Estoy trabajando a tiempo parcial en una cafetería." },
+      "1": { "translation": "¿Cuándo entra la paga del trabajo?" }
+    },
+    "origin": {
+      "etymology": "Acortado de 아르바이트, del alemán Arbeit a través del japonés アルバイト durante el periodo colonial. Una de las muchas palabras alemanas que llegaron al coreano por esa vía y no directamente."
+    }
+  },
+  "baeksu": {
+    "literalMeaning": "Manos blancas.",
+    "definitions": [
+      {
+        "text": "Alguien sin trabajo y que tampoco estudia: típicamente un recién licenciado entre una cosa y otra. Suele decirse de uno mismo y con resignación risueña, no como insulto.",
+        "note": "백조 («cisne blanco») es la versión femenina jocosa, un juego con 백수 por la primera sílaba."
+      }
+    ],
+    "examples": {
+      "0": { "translation": "Llevo medio año sin trabajo desde que me licencié." },
+      "1": { "translation": "Estoy en el paro, así que tiempo es lo único que me sobra." }
+    },
+    "origin": {
+      "etymology": "De 白手, «con las manos vacías»: manos sin nada dentro. La imagen es la de no tener trabajo, no la de no hacer trabajo manual."
+    }
+  },
+  "chimaek": {
+    "definitions": [
+      { "text": "Pollo frito y cerveza, tomados como una sola cosa. Una institución nacional: se come en los parques, a la puerta de los konbini, en el fútbol, y se lleva a domicilio a cualquier sitio, incluida la orilla del río." }
+    ],
+    "examples": {
+      "0": { "translation": "¿Pollo y cerveza esta noche?" },
+      "1": { "translation": "No hay nada como el pollo con cerveza a la orilla del Han." }
+    },
+    "origin": {
+      "etymology": "치킨 más 맥주 («cerveza»), solo las primeras sílabas. Su difusión global le debe muchísimo a la serie de 2014 별에서 온 그대, cuya protagonista lo adoraba y desató un boom del pollo por toda Asia."
+    }
+  },
+  "somaek": {
+    "definitions": [
+      { "text": "Soju echado en cerveza: el submarino coreano. Se mezcla en la mesa, a menudo con teatro, y se bebe de un trago." },
+      { "text": "En una cena de empresa llegan por rondas, y rechazarlos es más fácil que antes pero todavía requiere un momento de valor." }
+    ],
+    "examples": {
+      "0": { "translation": "Te preparo un soju con cerveza." },
+      "1": { "translation": "La proporción es lo que lo hace bueno o malo." }
+    },
+    "origin": {
+      "etymology": "소주 más 맥주, otra vez las primeras sílabas. El verbo que lo acompaña es 말다, el mismo que se usa para echar el arroz en la sopa."
+    }
+  },
+  "icha": {
+    "literalMeaning": "Segunda ronda.",
+    "definitions": [
+      { "text": "El segundo local de la noche, al que se va en grupo: primero barbacoa, luego un bar y muy a menudo karaoke para el 삼차." },
+      { "text": "La numeración se usa en serio. Anunciar 저는 이차까지만 («yo me quedo hasta la segunda ronda») es la manera aceptada de poner un límite por adelantado." }
+    ],
+    "examples": {
+      "0": { "translation": "¿Dónde vamos para la segunda ronda?" },
+      "1": { "translation": "Yo me quedo hasta la segunda y me voy." }
+    }
+  },
+  "haejang": {
+    "literalMeaning": "Aflojar las entrañas.",
+    "definitions": [
+      { "text": "Comer o beber para quitarse la resaca. 해장국 es la sopa que se hace para eso, y 해장술 es la versión de curar el mal con el mal, que los coreanos comentan con más entusiasmo del que gustaría a los médicos." }
+    ],
+    "examples": {
+      "0": { "translation": "Vamos a por una sopa a quitarnos esta resaca." },
+      "1": { "translation": "Para la resaca no hay nada como la sopa de brotes de soja." }
+    },
+    "origin": {
+      "etymology": "De 解酲, «deshacer la borrachera». Que una lengua tenga un verbo específico para la comida del día siguiente, y toda una categoría de restaurantes que la sirven a cualquier hora, dice algo de la cultura de la bebida a la que pertenece."
+    }
+  },
+  "sulgorae": {
+    "literalMeaning": "Ballena de alcohol.",
+    "definitions": [
+      { "text": "Alguien capaz de beber cantidades enormes: una esponja, en el modismo español, aunque el coreano lo escala hasta la ballena." }
+    ],
+    "examples": {
+      "0": { "translation": "Ese bebe como una esponja." },
+      "1": { "translation": "Beber con él siempre me destroza el día siguiente." }
+    }
+  },
+  "honbap": {
+    "definitions": [
+      { "text": "Comer solo. Antes resultaba levemente vergonzoso en una cultura construida sobre los platos compartidos; hoy es normal, y los restaurantes anuncian barras individuales para ello." }
+    ],
+    "examples": {
+      "0": { "translation": "Hoy he comido solo." },
+      "1": { "translation": "Hay muchos más restaurantes donde se está cómodo comiendo solo." }
+    },
+    "origin": {
+      "etymology": "혼자 («solo») más 밥 («arroz, comida»). Forma parte de toda una familia —혼술, 혼영, 혼행— que apareció a mediados de los 2010 junto con el auge de los hogares unipersonales.",
+      "firstAttested": "mediados de los 2010"
+    }
+  },
+  "honsul": {
+    "definitions": [
+      { "text": "Beber solo, por elección y normalmente en casa: una cerveza con una película, no un problema." },
+      {
+        "text": "Es genuinamente nuevo como actividad aceptable. La bebida coreana ha sido históricamente colectiva, hasta en la norma de que uno no se sirve a sí mismo.",
+        "note": "Esa norma sigue vigente en compañía: tú llenas los vasos de los demás y dejas que alguien llene el tuyo."
+      }
+    ],
+    "examples": {
+      "0": { "translation": "Hoy me apetece una copa tranquila en casa." },
+      "1": { "translation": "Beber solo tampoco está tan mal, la verdad." }
+    }
+  },
+  "meokbang": {
+    "definitions": [
+      { "text": "Una retransmisión de alguien comiendo una comida enorme mientras habla con la audiencia. De origen coreano y hoy un género global de streaming que conserva su nombre coreano." }
+    ],
+    "examples": {
+      "0": { "translation": "Ver programas de comer antes de dormir solo me da hambre." },
+      "1": { "translation": "Ese youtuber se hizo famoso con las retransmisiones de comida." }
+    },
+    "origin": {
+      "etymology": "먹는 («comer») más 방송 («retransmisión»). Empezó en la plataforma coreana AfreecaTV hacia 2010 y suele vincularse al auge de los hogares unipersonales: compañía para una comida en soledad.",
+      "firstAttested": "hacia 2010"
+    }
+  },
+  "matjip": {
+    "literalMeaning": "Casa del sabor.",
+    "definitions": [
+      { "text": "Un restaurante por el que merece la pena desplazarse. No es alta cocina: un 맛집 es más a menudo un local de dos mesas, un solo plato y una cola en la puerta." }
+    ],
+    "examples": {
+      "0": { "translation": "Dime algún sitio bueno para comer por aquí cerca." },
+      "1": { "translation": "Condujimos una hora para llegar a un sitio que mereciera la pena." }
+    }
+  },
+  "jonmat": {
+    "definitions": [
+      {
+        "text": "Buenísimo, de escándalo. Muy común entre los jóvenes y técnicamente obsceno: 존 es el acortamiento de una palabra malsonante.",
+        "note": "La mayoría de los hablantes ya no percibe el origen, pero no es algo que se le diga a un cliente ni a un familiar mayor. Las iniciales JMT son el rodeo educado."
+      }
+    ],
+    "examples": {
+      "0": { "translation": "El tteokbokki de aquí está increíble." },
+      "1": { "translation": "Esta combinación es la élite, ¿o no?" }
+    },
+    "origin": {
+      "etymology": "De 존나, un intensificador derivado de un término vulgar para la anatomía masculina, más 맛 («sabor»). El mismo 존 aparece en 존예 («espectacular»), y 개 cumple la misma función intensificadora de forma más suave."
+    }
+  },
+  "sseom": {
+    "definitions": [
+      { "text": "La fase previa a la relación: más que amigos, nada declarado. 썸 타다 es estar en ella, y 썸남/썸녀 es la persona con la que estás." },
+      { "text": "Es una fase con nombre, no una ambigüedad vaga. Las relaciones en Corea giran en torno a una declaración —사귀자, «salgamos»— y 썸 es todo lo que viene antes." }
+    ],
+    "examples": {
+      "0": { "translation": "Estamos en esa fase de casi salir." },
+      "1": { "translation": "No pasó nunca de ese casi algo y se apagó." }
+    },
+    "origin": {
+      "etymology": "Del inglés something —como en «ahí hay algo»— recortado a una sílaba. Lo popularizó una canción de 2014 con ese mismo título.",
+      "firstAttested": "hacia 2010"
+    }
+  },
+  "mildang": {
+    "literalMeaning": "Empujar y tirar.",
+    "definitions": [
+      { "text": "Hacerse el interesante, en ambas direcciones: responder tarde, mostrar interés y retirarlo, mantener a la otra persona en la duda." }
+    ],
+    "examples": {
+      "0": { "translation": "Déjate de juegos y dilo ya." },
+      "1": { "translation": "Estoy agotada de tanto tira y afloja." }
+    },
+    "origin": {
+      "etymology": "밀고 당기기, «empujar y tirar», comprimido a dos sílabas: el patrón de abreviación coreano estándar aplicado a una frase entera."
+    }
+  },
+  "eojang-gwalli": {
+    "literalMeaning": "Gestión de la piscifactoría.",
+    "definitions": [
+      { "text": "Mantener a varios interesados en el anzuelo a la vez: atención suficiente para retenerlos, nunca la bastante para comprometerse. Una acusación clara, no una descripción neutra." }
+    ],
+    "examples": {
+      "0": { "translation": "Ese os está dando largas a todas, no piques." },
+      "1": { "translation": "Creo que me tenían de reserva." }
+    },
+    "origin": {
+      "etymology": "La metáfora está desarrollada del todo: los peces son los pretendientes, el estanque es la aplicación de mensajería y quien la gestiona les da justo de comer para que sigan nadando."
+    }
+  },
+  "simkung": {
+    "definitions": [
+      { "text": "El vuelco que da el corazón ante algo adorable o inesperadamente atractivo: un cachorro, una sonrisa, una frase de una serie." }
+    ],
+    "examples": {
+      "0": { "translation": "En esa escena se me cayó el alma, en serio." },
+      "1": { "translation": "He visto una foto del perro y se me ha derretido el corazón." }
+    },
+    "origin": {
+      "etymology": "심장 («corazón») más 쿵, la onomatopeya de un golpe sordo. El coreano construye muchísimo vocabulario a partir de palabras sonoras, y 쿵 es el mismo golpe de una puerta al cerrarse."
+    }
+  },
+  "aegyo": {
+    "definitions": [
+      { "text": "Ternura interpretada: la voz endulzada, un mohín leve, un tono mimoso para convencer a alguien de que te dé la razón." },
+      {
+        "text": "Es una destreza que se pide en público: 애교 해봐 es una petición habitual en los programas de variedades coreanos y, más incómodamente, en las cenas de empresa.",
+        "note": "No es exclusivo de las mujeres, aunque la expectativa cae sobre ellas con mucha más fuerza."
+      }
+    ],
+    "examples": {
+      "0": { "translation": "Venga, haz lo del tono mimoso." },
+      "1": { "translation": "Yo no tengo ni una pizca de encanto de esos." }
+    }
+  },
+  "hunnam": {
+    "definitions": [
+      { "text": "Un hombre cálido y de buen ver: de los que hacen que una sala resulte más fácil, no de los espectaculares. 훈녀 es el equivalente femenino." },
+      { "text": "Explícitamente, no va de rasgos perfectos: el elogio es sobre la impresión que deja." }
+    ],
+    "examples": {
+      "0": { "translation": "El profesor nuevo tiene ese atractivo de buena persona." },
+      "1": { "translation": "Prefiero un tipo cercano a uno guapo." }
+    },
+    "origin": {
+      "etymology": "훈훈하다, «que templa, que reconforta» —la palabra para una habitación con una calidez suave—, más 남, «hombre». La metáfora es de temperatura, no de belleza."
+    }
+  },
+  "eoljjang": {
+    "definitions": [
+      {
+        "text": "Alguien excepcionalmente guapo: literalmente, la mejor cara de un grupo dado. 몸짱 es lo mismo referido al físico.",
+        "note": "Es de principios de los 2000 y hoy suena algo pasado; evoca la época de los rankings de fotos en internet de la que salió."
+      }
+    ],
+    "examples": {
+      "0": { "translation": "Por lo visto era conocida como la más guapa del instituto." },
+      "1": { "translation": "Me he apuntado al gimnasio para ponerme en forma." }
+    },
+    "origin": {
+      "etymology": "얼굴 («cara») más 짱 («el mejor»). Se extendió por los sitios de rankings de fotos de principios de los 2000, varios de los cuales lanzaron carreras: algunos de los actores coreanos más conocidos fueron 얼짱 antes que otra cosa.",
+      "firstAttested": "principios de los 2000"
+    }
+  },
+  "inssa": {
+    "definitions": [
+      { "text": "Alguien de dentro: la persona que conoce a todo el mundo, está en todas las quedadas y nunca anda corta de planes." },
+      { "text": "인싸템 es el objeto que tiene todo el mundo, 인싸력 la capacidad para ello: la raíz es productiva." }
+    ],
+    "examples": {
+      "0": { "translation": "Esa conoce absolutamente a todo el mundo." },
+      "1": { "translation": "Por lo visto es lo que tiene todo el mundo ahora." }
+    },
+    "origin": {
+      "etymology": "El inglés insider, coreanizado y recortado a dos sílabas. Se acuñó hacia 2018 junto con su contrario, 아싸.",
+      "firstAttested": "hacia 2018"
+    }
+  },
+  "assa": {
+    "definitions": [
+      {
+        "text": "Alguien de fuera: no está en el grupo, come solo, no está en el hilo de mensajes. Normalmente dicho de uno mismo, y con cierto desafío.",
+        "note": "No hay que confundirlo con el 아싸! homófono que significa «¡bien!»: un grito de celebración sin relación, que solo distinguen el contexto y la entonación."
+      }
+    ],
+    "examples": {
+      "0": { "translation": "En la universidad yo era un solitario total." },
+      "1": { "translation": "Estar fuera del grupo también tiene sus comodidades." }
+    },
+    "origin": {
+      "etymology": "El inglés outsider, recortado igual que 인싸 y acuñado como su contrario deliberado.",
+      "firstAttested": "hacia 2018"
+    }
+  },
+  "gapbunssa": {
+    "definitions": [
+      { "text": "El momento en que una sala se enfría: un chiste que cae mal, un tema que nadie quería sacar y el silencio que viene después." }
+    ],
+    "examples": {
+      "0": { "translation": "En cuanto lo dijo, la sala entera se quedó muda." },
+      "1": { "translation": "No cargues el ambiente." }
+    },
+    "origin": {
+      "etymology": "갑자기 분위기 싸해짐 —«el ambiente se enfrió de golpe»— reducido a una sílaba por palabra. Una demostración clara de hasta dónde comprime una frase la abreviación coreana.",
+      "firstAttested": "hacia 2018"
+    }
+  },
+  "menbung": {
+    "literalMeaning": "Colapso mental.",
+    "definitions": [
+      { "text": "Venirse abajo: el estado en blanco y tambaleante que sigue a una mala noticia, un examen desastroso o un archivo perdido una hora antes de la entrega. Cotidiano y normalmente no clínico." }
+    ],
+    "examples": {
+      "0": { "translation": "He suspendido el examen y estoy hecho polvo." },
+      "1": { "translation": "Se me borró el archivo y me derrumbé." }
+    },
+    "origin": {
+      "etymology": "El inglés mental más 붕괴 («colapso»). El emparentado 멘탈 갑 es lo contrario: alguien inquebrantable.",
+      "firstAttested": "hacia 2011"
+    }
+  },
+  "ppakchida": {
+    "definitions": [
+      {
+        "text": "Estar muy quemado. Bastante más fuerte que 짜증나 —más cerca de «furioso»— y lo bastante basto como para estar fuera de lugar en el trabajo o con alguien mayor.",
+        "note": "Vale entre amigos; delante de un superior o de un padre es genuinamente inapropiado."
+      }
+    ],
+    "examples": {
+      "0": { "translation": "Estoy tan furioso que no me salen las palabras." },
+      "1": { "translation": "Oírlo me hierve la sangre." }
+    },
+    "origin": {
+      "etymology": "De 빡, una palabra sonora para un chasquido o un golpe seco, con la idea de que algo se rompe dentro de la cabeza."
+    }
+  },
+  "jjajeungna": {
+    "definitions": [
+      { "text": "Qué rabia; esto me está poniendo de los nervios. La palabra cotidiana para el fastidio de bajo voltaje, y muy frecuente." }
+    ],
+    "examples": {
+      "0": { "translation": "Ay, de verdad, qué rabia." },
+      "1": { "translation": "Encima llueve. Genial." }
+    }
+  },
+  "geukyeom": {
+    "literalMeaning": "Aversión extrema.",
+    "definitions": [
+      {
+        "text": "Repugnante del todo; no lo soporto. Lenguaje fuerte, sobre todo escrito, aplicado a comidas, conductas y —en las discusiones de internet— a personas.",
+        "note": "Dirigido a alguien es genuinamente hostil, y 혐오 es la palabra que usa el coreano para el discurso de odio."
+      }
+    ],
+    "examples": {
+      "0": { "translation": "Esa escena revolvía el estómago." },
+      "1": { "translation": "Chocolate con menta: repugnante.", "context": "Una discusión de internet larguísima y absolutamente poco seria en Corea." }
+    },
+    "origin": {
+      "etymology": "극도로 혐오스럽다 («extremadamente repugnante») cortado por las primeras sílabas, según el patrón de abreviación estándar."
+    }
+  },
+  "nodap": {
+    "literalMeaning": "Sin respuesta.",
+    "definitions": [
+      { "text": "Sin remedio; irrecuperable. De una situación sin salida, o de alguien con quien no hay manera de razonar." }
+    ],
+    "examples": {
+      "0": { "translation": "De esta situación no se sale, de verdad." },
+      "1": { "translation": "Ese es un caso perdido.", "context": "답이 없다 es la forma sin abreviar, y es la que se diría en voz alta." }
+    },
+    "origin": {
+      "etymology": "El inglés no más 답 («respuesta»), sobre el modelo de 노잼. La imagen es la de una pregunta de examen sin opción correcta."
+    }
+  },
+  "saida": {
+    "literalMeaning": "Refresco de lima-limón (no la sidra alcohólica).",
+    "definitions": [
+      { "text": "Un momento de satisfacción limpia y burbujeante: el personaje que por fin dice lo que hay que decir, la queja que por fin recibe respuesta, el villano que se lleva lo suyo." },
+      { "text": "사이다 발언 es el comentario que corta de raíz una situación que todos los demás rodeaban de puntillas." }
+    ],
+    "examples": {
+      "0": { "translation": "Esa escena daba una satisfacción tremenda." },
+      "1": { "translation": "Aplaudí: alguien lo dijo por fin." }
+    },
+    "origin": {
+      "etymology": "El refresco, entendido como lo que desatasca un pecho cargado. Existe enteramente como contrario de 고구마, y la pareja es una de las metáforas más redondas del argot coreano."
+    }
+  },
+  "goguma": {
+    "literalMeaning": "Boniato.",
+    "definitions": [
+      { "text": "Algo exasperantemente atascado: una trama en la que nadie dice lo que es obvio que debería decir, un compañero que no va al grano, un trámite que no avanza." }
+    ],
+    "examples": {
+      "0": { "translation": "Esta serie es de una frustración insoportable." },
+      "1": { "translation": "Es como tragarse cien boniatos secos." }
+    },
+    "origin": {
+      "etymology": "Un boniato seco comido sin nada que beber se queda en la garganta: la sensación física de lo que no baja. El 사이다 es lo que se coge para despejarlo, y por eso es justamente su término contrario."
+    }
+  },
+  "kekeke": {
+    "definitions": [
+      { "text": "La risa escrita: el «jaja» coreano. El número de caracteres escala con la carcajada, desde una ㅋ educada hasta una pantalla entera." },
+      {
+        "text": "ㅎㅎ es la versión más suave y cálida, más cerca de una sonrisa que de una risa, y es la opción segura para escribir a alguien de más rango.",
+        "note": "Una ㅋ suelta puede leerse como seca o sarcástica. Dos o tres son lo neutro por defecto."
+      }
+    ],
+    "examples": {
+      "0": { "translation": "Qué bueno, de verdad 😂" },
+      "1": { "translation": "Sí, entendido 🙂", "context": "ㅎㅎ suaviza un mensaje de trabajo sin volverlo poco profesional." }
+    },
+    "origin": {
+      "etymology": "ㅋ es una consonante suelta del hangul, el sonido k, que hace de sonido de la risa. Escribir consonantes solas así es toda una capa de la mensajería coreana: ㅇㅇ para sí, ㄴㄴ para no, ㅊㅊ para felicidades."
+    }
+  },
+  "yuyu": {
+    "definitions": [
+      { "text": "Llanto: la vocal ㅠ del hangul leída como el pictograma de una cara con lágrimas cayendo. Se usa tanto para decepciones reales como para otras diminutas." }
+    ],
+    "examples": {
+      "0": { "translation": "Otra vez trabajando hasta tarde 😭" },
+      "1": { "translation": "Dicen que las entradas están agotadas 😢" }
+    },
+    "origin": {
+      "etymology": "Puramente visual, como el 草 japonés: los dos trazos descendentes de ㅠ parecen lágrimas. ㅜ es la misma idea con un solo reguero."
+    }
+  },
+  "aigo": {
+    "definitions": [
+      { "text": "Ay, madre; vaya por Dios; uf. Cubre el esfuerzo físico, el disgusto leve, la compasión y el hartazgo, y se asocia sobre todo a los hablantes mayores." },
+      { "text": "También es el grito tradicional de duelo, y por eso puede tener peso real en el contexto adecuado." }
+    ],
+    "examples": {
+      "0": { "translation": "Uf, mi espalda." },
+      "1": { "translation": "Ay, madre, ¿qué ha pasado aquí?" }
+    }
+  },
+  "eotteokhae": {
+    "definitions": [
+      { "text": "¿Y ahora qué hago?; ay, no. Un grito de impotencia, dicho en voz alta a nadie en particular tan a menudo como a un interlocutor." },
+      {
+        "text": "Los propios nativos lo escriben mal a menudo, como 어떻해. La forma correcta contrae 어떻게 해.",
+        "note": "어떻게 (cómo) y 어떡해 (qué hago) se pronuncian casi igual, y confundirlos es la falta de ortografía más comentada de Corea."
+      }
+    ],
+    "examples": {
+      "0": { "translation": "Ay, no: he roto la pantalla del móvil." },
+      "1": { "translation": "¿Y ahora qué hago?" }
+    }
+  },
+  "jinjja": {
+    "definitions": [
+      { "text": "De verdad; realmente. El intensificador más común del coreano hablado, colocado delante de casi cualquier cosa." },
+      { "text": "Solo, con entonación ascendente, «¿en serio?». Plano y alargado, es una expresión de hartazgo: 진짜… significa «no me lo puedo creer»." }
+    ],
+    "examples": {
+      "0": { "translation": "Esto está buenísimo de verdad." },
+      "1": { "translation": "¿En serio? ¿Cuándo pasó eso?" }
+    },
+    "origin": {
+      "etymology": "De 眞, «verdadero», más un sufijo nativo. Su equivalente más formal, 정말, significa lo mismo y suena bastante más cuidado."
+    }
+  },
+  "wanjeon": {
+    "definitions": [
+      {
+        "text": "Totalmente; del todo. Gramaticalmente es un sustantivo que significa «totalidad», usado como adverbio en el habla informal de una manera que los normativistas critican y que todos los menores de cuarenta practican igualmente.",
+        "note": "완전히 es el adverbio de manual. El 완전 a secas marca el habla como informal y joven."
+      }
+    ],
+    "examples": {
+      "0": { "translation": "Esto es una absoluta pasada." },
+      "1": { "translation": "Totalmente mi estilo." }
+    }
+  },
+  "geunyang": {
+    "definitions": [
+      { "text": "Simplemente; porque sí. Se niega a explicar, educadamente: si te preguntan por qué has hecho algo, 그냥 es una respuesta completa y aceptada." },
+      { "text": "También «tal como está, sin tocarlo»: 그냥 둬, «déjalo»." }
+    ],
+    "examples": {
+      "0": { "translation": "—¿Por qué has llamado? —Por nada." },
+      "1": { "translation": "Prefiero quedarme en casa sin más." }
+    }
+  },
+  "daechung": {
+    "definitions": [
+      { "text": "Aproximadamente; a ojo; lo justo para que pase. De una estimación, y de un trabajo hecho con el mínimo que colará." },
+      { "text": "Que sea una crítica o no depende enteramente de quién describa el trabajo de quién." }
+    ],
+    "examples": {
+      "0": { "translation": "Con esto más o menos debería bastar." },
+      "1": { "translation": "No lo hagas de cualquier manera, hazlo bien." }
+    }
+  },
+  "chwijon": {
+    "definitions": [
+      { "text": "Respeta los gustos ajenos. Se le dice a quien se burla de lo que te gusta: el equivalente coreano de «deja que la gente disfrute de las cosas»." }
+    ],
+    "examples": {
+      "0": { "translation": "Respeta un poco los gustos de los demás." },
+      "1": { "translation": "Que a alguien le guste el chocolate con menta es un gusto válido, gracias." }
+    },
+    "origin": {
+      "etymology": "취향 존중, «respeto por los gustos», abreviado a una sílaba por palabra. 안물안궁 —«no lo he preguntado, no me interesa»— es el desprecio vecino, construido igual."
+    }
+  },
+  "katok": {
+    "definitions": [
+      { "text": "KakaoTalk y, por extensión, cualquier mensaje enviado por ahí, que en Corea significa básicamente todos los mensajes. 카톡해 es «escríbeme»." },
+      { "text": "El sonido de notificación es en sí mismo un elemento cultural, y 카톡왔숑 es su onomatopeya." }
+    ],
+    "examples": {
+      "0": { "translation": "Luego te escribo." },
+      "1": { "translation": "He puesto el aviso en el grupo.", "context": "단톡방, de 단체 카톡방, es un chat de grupo, y el origen de un tipo muy concreto de angustia laboral." }
+    },
+    "origin": {
+      "etymology": "카카오톡 recortado a dos sílabas. El dominio de KakaoTalk en Corea es casi total, y por eso la marca se convirtió en el verbo genérico."
+    }
+  },
+  "selka": {
+    "definitions": [
+      { "text": "Un selfi. El coreano acuñó su propia palabra años antes de que el inglés fijara la suya, y se la quedó." },
+      { "text": "셀카봉 es el palo de selfi; 셀기꾼 —셀카 más 사기꾼 («estafador»)— es quien sale en sus selfis sin parecerse a sí mismo." }
+    ],
+    "examples": {
+      "0": { "translation": "Venga, solo un selfi." },
+      "1": { "translation": "En los selfis el ángulo lo es todo." }
+    },
+    "origin": {
+      "etymology": "셀프 카메라, «cámara de uno mismo»: un compuesto de aspecto inglés construido en coreano que ningún angloparlante dice. Los móviles con cámara tempranos de Corea hicieron que la palabra estuviera extendidísima ya a mediados de los 2000.",
+      "firstAttested": "principios de los 2000"
+    }
+  },
+  "nunting": {
+    "literalMeaning": "Ojear.",
+    "definitions": [
+      { "text": "Merodear: leer un foro o un chat de grupo con regularidad sin escribir nunca." }
+    ],
+    "examples": {
+      "0": { "translation": "En ese foro solo leo, nunca escribo." },
+      "1": { "translation": "Estoy leyendo el grupo sin participar." }
+    },
+    "origin": {
+      "etymology": "눈 («ojo») más la terminación inglesa -ing, tomada como sufijo productivo del coreano. 채팅 y 미팅 llegaron por la misma vía."
+    }
+  },
+  "yeolgong": {
+    "definitions": [
+      { "text": "Estudiar a tope. Se dice de la época de exámenes y se usa como ánimo: 열공해 es «dale duro»." },
+      { "text": "La cultura de los exámenes en Corea le da a esta palabra más peso del que sugiere la traducción: el 수능, la prueba de acceso a la universidad, es un único día alrededor del cual se organiza el país entero, hasta el punto de retrasar los vuelos durante la parte de comprensión oral." }
+    ],
+    "examples": {
+      "0": { "translation": "Ahora mismo estoy enterrado en los libros." },
+      "1": { "translation": "Quedan pocos días para los exámenes, así que a darle duro." }
+    },
+    "origin": {
+      "etymology": "열심히 공부하다, «estudiar con ahínco», cortado por las primeras sílabas."
+    }
+  },
+  "hilling": {
+    "definitions": [
+      {
+        "text": "Descanso reparador: una cafetería tranquila, un paseo, un programa de televisión sin exigencias. La palabra inglesa tomada y estrechada para significar recuperarse del agotamiento corriente, no de una enfermedad.",
+        "note": "힐링 영화 y 힐링 예능 son géneros reconocidos: obras hechas expresamente para no exigir nada."
+      }
+    ],
+    "examples": {
+      "0": { "translation": "Mirar el mar me repara." },
+      "1": { "translation": "Necesito el fin de semana para recuperarme." }
+    },
+    "origin": {
+      "etymology": "Del inglés healing, que despegó como palabra de moda hacia 2012 como reacción al agotamiento que nombra 헬조선. Las dos palabras pertenecen a la misma conversación desde extremos opuestos.",
+      "firstAttested": "hacia 2012"
+    }
+  }
+}

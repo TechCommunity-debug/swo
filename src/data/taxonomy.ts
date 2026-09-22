@@ -294,6 +294,7 @@ export const REGION_GROUPS = [
   { id: 'anglosphere', name: 'English-Speaking World', es: 'Mundo anglosajón' },
   { id: 'europe', name: 'Europe', es: 'Europa' },
   { id: 'latin-america', name: 'Latin America', es: 'América Latina' },
+  { id: 'east-asia', name: 'East Asia', es: 'Asia Oriental' },
 ] as const;
 
 export type RegionGroupId = (typeof REGION_GROUPS)[number]['id'];

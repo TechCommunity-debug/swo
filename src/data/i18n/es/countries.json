@@ -54,5 +54,19 @@
     "languageName": "francés",
     "intro": "El argot francés tiene una peculiaridad estructural que no comparte ningún otro idioma de este sitio: el verlan, la práctica de invertir las sílabas de una palabra para crear otra. Fête se convierte en teuf, femme en meuf, y unas cuantas palabras en verlan se han invertido una segunda vez.\n\nLa otra gran fuente es el argot de París y Marsella, más un goteo constante de préstamos del árabe llegados por las banlieues. Las entradas indican de qué corriente viene cada palabra, porque eso dice mucho de quién la usa.",
     "metaDescription": "Argot francés explicado en español: palabras y expresiones del francés con significados, pronunciación, origen verlan y ejemplos traducidos."
+  },
+  "japanese": {
+    "name": "Japón",
+    "adjective": "japonés",
+    "languageName": "japonés",
+    "intro": "El argot japonés lo condiciona algo que esta lengua tiene y casi ninguna otra: un sistema de cortesía obligatorio. Cada frase codifica ya cómo se sitúa quien habla respecto a quien escucha, así que el argot japonés rara vez es solo una elección de palabras: es una declaración de que el registro formal se ha apagado, y usarlo con la persona equivocada es un error social antes que léxico.\n\nLa maquinaria productiva merece aprenderse aparte. Los sustantivos se vuelven verbos con la terminación -ru (Google da ググる), los adjetivos se contraen al hablar (すごい da すげー) y los compuestos largos se reducen a cuatro sílabas (コストパフォーマンス da コスパ). Con esos tres patrones, mucho de lo que parece argot nuevo resulta ser una palabra que ya conocías con un abrigo más corto.\n\nCada entrada aparece en escritura japonesa con su romanización Hepburn, porque una palabra que no puedes teclear es una palabra que no puedes buscar.",
+    "metaDescription": "Argot japonés explicado en español: palabras y expresiones en kanji y kana con romanización, significados, ejemplos traducidos y avisos sobre cuándo resultan groseras."
+  },
+  "korean": {
+    "name": "Corea del Sur",
+    "adjective": "coreano",
+    "languageName": "coreano",
+    "intro": "El argot coreano se renueva más deprisa que el de cualquier otra lengua de este sitio, y lo hace por un mecanismo dominante: la abreviación. Se coge la primera sílaba de cada palabra de una expresión, se pegan y ya hay un término nuevo: 치킨 más 맥주 da 치맥, 멘탈 más 붕괴 da 멘붕. Frases enteras se comprimen así en cuatro letras, y por eso los mensajes de un coreano de veinte años pueden resultar ilegibles para sus propios padres.\n\nLo segundo que hay que entender es que los tratamientos coreanos no son un adorno opcional. Oppa, unni, sunbae y compañía se usan constantemente y transmiten información real sobre edad, género y jerarquía; varias de las entradas de abajo son tratamientos y no vocabulario, porque equivocarse con ellos es el primer error que comete un extranjero, y el más repetido.\n\nLas entradas aparecen en hangul con su lectura en romanización revisada, y señalan cuándo un término es solo de internet y no algo que se diga en voz alta.",
+    "metaDescription": "Argot coreano explicado en español: palabras y expresiones en hangul con romanización, significados, ejemplos traducidos y notas sobre edad, jerarquía y cuándo no usarlas."
   }
 }

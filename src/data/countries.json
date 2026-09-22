@@ -126,5 +126,37 @@
     "intro": "French slang has a structural quirk no other language on this site shares: verlan, the practice of reversing a word's syllables to make a new one. Fête becomes teuf, femme becomes meuf, and a few verlan words have been reversed a second time. It is productive, generational, and it means that knowing standard French gets you only part of the way.\n\nThe other major source is argot from Paris and Marseille, plus a steady stream of borrowings from Arabic through the banlieues. The entries below note which stream a word comes from, because it tells you a great deal about who says it.",
     "metaDescription": "French slang explained: 50 French slang words and phrases with meanings, pronunciation, verlan origins, example sentences and English translations.",
     "updatedDate": "2026-09-20"
+  },
+  {
+    "id": "japanese",
+    "urlSlug": "japanese-slang",
+    "name": "Japan",
+    "demonym": "Japanese person",
+    "adjective": "Japanese",
+    "languageCode": "ja-JP",
+    "languageName": "Japanese",
+    "flagEmoji": "🇯🇵",
+    "regionGroup": "east-asia",
+    "order": 9,
+    "regions": ["General", "Tokyo", "Kansai", "Youth", "Online"],
+    "intro": "Japanese slang is shaped by a feature the language has and most others do not: an obligatory politeness system. Every sentence already encodes how the speaker ranks themselves against the listener, so slang in Japanese is rarely just a word choice — it is a declaration that the formal register has been switched off, and using it with the wrong person is a social error before it is a vocabulary one.\n\nThe productive machinery is worth learning on its own. Nouns become verbs with a -ru ending (Google becomes ググる), adjectives contract in speech (すごい becomes すげー), and long compounds shorten to four syllables (コストパフォーマンス becomes コスパ). Learn those three patterns and a great deal of what looks like new slang turns out to be a word you already know, wearing a shorter coat.\n\nEvery entry below is given in Japanese script with a Hepburn romanization, because a word you cannot type is a word you cannot look up.",
+    "metaDescription": "Japanese slang explained: common Japanese slang words and phrases in kanji and kana with romanization, meanings, example sentences and notes on when each one is rude.",
+    "updatedDate": "2026-09-22"
+  },
+  {
+    "id": "korean",
+    "urlSlug": "korean-slang",
+    "name": "South Korea",
+    "demonym": "Korean",
+    "adjective": "Korean",
+    "languageCode": "ko-KR",
+    "languageName": "Korean",
+    "flagEmoji": "🇰🇷",
+    "regionGroup": "east-asia",
+    "order": 10,
+    "regions": ["General", "Seoul", "Youth", "Online"],
+    "intro": "Korean slang turns over faster than that of any other language on this site, and it does so by a single dominant mechanism: abbreviation. Take the first syllable of each word in a phrase, stick them together, and you have a new term — 치킨 plus 맥주 gives 치맥, 멘탈 plus 붕괴 gives 멘붕. Whole sentences compress into four letters this way, which is why a Korean twenty-year-old's messages can be unreadable to their own parents.\n\nThe second thing to understand is that Korean address terms are not optional decoration. Oppa, unni, sunbae and the rest are used constantly and carry real information about age, gender and hierarchy; several of the entries below are address terms rather than vocabulary, because getting them wrong is the mistake foreigners make first and most often.\n\nEntries are given in Hangul with a Revised Romanization reading, and note where a term is internet-only rather than something you would say out loud.",
+    "metaDescription": "Korean slang explained: common Korean slang words and phrases in Hangul with romanization, meanings, example sentences and notes on age, hierarchy and when not to use them.",
+    "updatedDate": "2026-09-22"
   }
 ]
