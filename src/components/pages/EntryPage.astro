@@ -3,6 +3,7 @@ import Layout from '../../layouts/Layout.astro';
 import Breadcrumbs from '../Breadcrumbs.astro';
 import JsonLd from '../JsonLd.astro';
 import TermName from '../TermName.astro';
+import Flag from '../Flag.astro';
 import { entrySeo } from '../../lib/seo';
 import { absolute, breadcrumbs, definedTerm } from '../../lib/schema';
 import { homePath } from '../../lib/urls';
@@ -69,7 +70,7 @@ const schema = [
 ];
 
 const sidebarLink =
-  'focus-ring rounded-sm text-body-md text-ink-soft hover:underline';
+  'focus-ring group flex items-center justify-between gap-2 rounded-md px-3 py-2 text-body-md text-ink-soft hover:bg-surface-card hover:text-ink';
 ---
 
 <Layout
@@ -274,15 +275,25 @@ const sidebarLink =
               <a
                 href={prev.href}
                 rel="prev"
-                class="focus-ring group max-w-[45%] rounded-md p-2 text-left hover:bg-surface-card"
+                class="focus-ring group flex max-w-[45%] items-center gap-3 rounded-md p-2 text-left hover:bg-surface-card"
               >
-                <span class="block text-caption text-mute">{strings.previous}</span>
-                <TermName
-                  term={prev.term}
-                  romanization={prev.romanization}
-                  lang={prev.lang}
-                  class="text-body-md font-semibold text-ink group-hover:underline"
-                />
+                <span
+                  aria-hidden="true"
+                  class="flex h-8 w-8 shrink-0 items-center justify-center rounded-full bg-surface-sunk text-ink"
+                >
+                  <svg viewBox="0 0 20 20" fill="none" class="h-4 w-4" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">
+                    <path d="M16 10H4M4 10L9 5M4 10L9 15" />
+                  </svg>
+                </span>
+                <span>
+                  <span class="block text-caption text-mute">{strings.previous}</span>
+                  <TermName
+                    term={prev.term}
+                    romanization={prev.romanization}
+                    lang={prev.lang}
+                    class="text-body-md font-semibold text-ink group-hover:underline"
+                  />
+                </span>
               </a>
             ) : (
               <span />
@@ -293,15 +304,25 @@ const sidebarLink =
               <a
                 href={next.href}
                 rel="next"
-                class="focus-ring group ml-auto max-w-[45%] rounded-md p-2 text-right hover:bg-surface-card"
+                class="focus-ring group ml-auto flex max-w-[45%] items-center gap-3 rounded-md p-2 text-right hover:bg-surface-card"
               >
-                <span class="block text-caption text-mute">{strings.next}</span>
-                <TermName
-                  term={next.term}
-                  romanization={next.romanization}
-                  lang={next.lang}
-                  class="text-body-md font-semibold text-ink group-hover:underline"
-                />
+                <span>
+                  <span class="block text-caption text-mute">{strings.next}</span>
+                  <TermName
+                    term={next.term}
+                    romanization={next.romanization}
+                    lang={next.lang}
+                    class="text-body-md font-semibold text-ink group-hover:underline"
+                  />
+                </span>
+                <span
+                  aria-hidden="true"
+                  class="flex h-8 w-8 shrink-0 items-center justify-center rounded-full bg-surface-sunk text-ink"
+                >
+                  <svg viewBox="0 0 20 20" fill="none" class="h-4 w-4" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">
+                    <path d="M4 10H16M16 10L11 5M16 10L11 15" />
+                  </svg>
+                </span>
               </a>
             )
           }
@@ -311,13 +332,28 @@ const sidebarLink =
       <aside class="grid content-start gap-8 lg:sticky lg:top-32">
         {
           related.length > 0 && (
-            <section aria-labelledby="related">
+            <section
+              aria-labelledby="related"
+              class="rounded-lg border border-hairline bg-surface-card/60 p-4"
+            >
               <h2 id="related" class="text-heading-md text-ink">{strings.relatedTerms}</h2>
-              <ul class="mt-3 grid gap-2">
+              <ul class="mt-2 grid">
                 {related.map((r) => (
                   <li>
                     <a href={r.href} class={sidebarLink}>
                       <TermName term={r.term} romanization={r.romanization} lang={r.lang} />
+                      <svg
+                        aria-hidden="true"
+                        viewBox="0 0 20 20"
+                        fill="none"
+                        class="h-3.5 w-3.5 shrink-0 text-mute group-hover:text-ink"
+                        stroke="currentColor"
+                        stroke-width="1.75"
+                        stroke-linecap="round"
+                        stroke-linejoin="round"
+                      >
+                        <path d="M7 4L13 10L7 16" />
+                      </svg>
                     </a>
                   </li>
                 ))}
@@ -328,14 +364,31 @@ const sidebarLink =
 
         {
           alsoUsedIn.length > 0 && (
-            <section aria-labelledby="also-used">
+            <section
+              aria-labelledby="also-used"
+              class="rounded-lg border border-hairline bg-surface-card/60 p-4"
+            >
               <h2 id="also-used" class="text-heading-md text-ink">{strings.alsoUsedIn}</h2>
-              <ul class="mt-3 grid gap-2">
+              <ul class="mt-2 grid">
                 {alsoUsedIn.map((a) => (
                   <li>
                     <a href={a.href} class={sidebarLink}>
-                      <span aria-hidden="true">{a.flag}</span>{' '}
-                      {strings.countrySlang(a.adjective)}
+                      <span class="flex min-w-0 items-center">
+                        <Flag code={a.flagCode} class="h-[0.9em] w-auto shrink-0 rounded-[2px]" />
+                        <span class="ml-2 truncate">{strings.countrySlang(a.adjective)}</span>
+                      </span>
+                      <svg
+                        aria-hidden="true"
+                        viewBox="0 0 20 20"
+                        fill="none"
+                        class="h-3.5 w-3.5 shrink-0 text-mute group-hover:text-ink"
+                        stroke="currentColor"
+                        stroke-width="1.75"
+                        stroke-linecap="round"
+                        stroke-linejoin="round"
+                      >
+                        <path d="M7 4L13 10L7 16" />
+                      </svg>
                     </a>
                   </li>
                 ))}
@@ -344,7 +397,10 @@ const sidebarLink =
           )
         }
 
-        <section aria-labelledby="topics">
+        <section
+          aria-labelledby="topics"
+          class="rounded-lg border border-hairline bg-surface-card/60 p-4"
+        >
           <h2 id="topics" class="text-heading-md text-ink">{strings.topics}</h2>
           <ul class="mt-3 flex flex-wrap gap-2">
             {
@@ -352,7 +408,7 @@ const sidebarLink =
                 <li>
                   <a
                     href={c.href}
-                    class="focus-ring inline-flex rounded-full bg-surface-card px-3 py-1.5 text-body-sm font-semibold text-ink hover:bg-surface-sunk"
+                    class="focus-ring inline-flex rounded-full bg-surface-page px-3 py-1.5 text-body-sm font-semibold text-ink ring-1 ring-inset ring-hairline hover:bg-surface-sunk"
                   >
                     {c.category.name}
                   </a>
@@ -364,15 +420,30 @@ const sidebarLink =
 
         {
           moreInCategory.length > 0 && (
-            <section aria-labelledby="more-in-category">
+            <section
+              aria-labelledby="more-in-category"
+              class="rounded-lg border border-hairline bg-surface-card/60 p-4"
+            >
               <h2 id="more-in-category" class="text-heading-md text-ink">
                 {strings.moreTermsLikeThis(country.adjective)}
               </h2>
-              <ul class="mt-3 grid gap-2">
+              <ul class="mt-2 grid">
                 {moreInCategory.map((r) => (
                   <li>
                     <a href={r.href} class={sidebarLink}>
                       <TermName term={r.term} romanization={r.romanization} lang={r.lang} />
+                      <svg
+                        aria-hidden="true"
+                        viewBox="0 0 20 20"
+                        fill="none"
+                        class="h-3.5 w-3.5 shrink-0 text-mute group-hover:text-ink"
+                        stroke="currentColor"
+                        stroke-width="1.75"
+                        stroke-linecap="round"
+                        stroke-linejoin="round"
+                      >
+                        <path d="M7 4L13 10L7 16" />
+                      </svg>
                     </a>
                   </li>
                 ))}
@@ -381,7 +452,7 @@ const sidebarLink =
           )
         }
 
-        <p class="border-t border-hairline pt-4 text-caption text-mute">
+        <p class="text-caption text-mute">
           {d.reviewedBy && <>{strings.reviewedBy(d.reviewedBy)} </>}{strings.updatedOn(updated)}
         </p>
       </aside>

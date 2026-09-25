@@ -1,6 +1,7 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import SearchBox from '../components/SearchBox.astro';
+import Flag from '../components/Flag.astro';
 import { countryPath } from '../lib/urls';
 import { countriesFor, loadSite } from '../lib/site';
 import { localizeCountry } from '../lib/localize';
@@ -48,7 +49,7 @@ const seo = notFoundSeo('en');
                 href={c.href}
                 class="focus-ring inline-flex items-center gap-2 rounded-full bg-surface-card px-4 py-2 text-body-sm font-semibold text-ink hover:bg-surface-sunk"
               >
-                <span aria-hidden="true">{c.flagEmoji}</span>
+                <Flag code={c.flagCode} class="h-[0.9em] w-auto shrink-0 rounded-[2px]" />
                 {c.adjective}
               </a>
             </li>

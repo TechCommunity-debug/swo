@@ -18,7 +18,7 @@ import type { Locale } from '../data/locales';
 export type SearchRow = [
   term: string,
   countryAdjective: string,
-  flag: string,
+  flagCode: string,
   href: string,
   gloss: string,
   romanization?: string,
@@ -34,7 +34,7 @@ export async function buildSearchIndex(locale: Locale): Promise<SearchRow[]> {
       const row: SearchRow = [
         entry.data.term,
         c.adjective,
-        c.flagEmoji,
+        c.flagCode,
         entryUrl(entry, site.byId, locale),
         gloss.length > 110 ? `${gloss.slice(0, 109).trimEnd()}…` : gloss,
       ];

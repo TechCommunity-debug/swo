@@ -91,7 +91,7 @@ const indexUrl = locale === DEFAULT_LOCALE ? '/search-index.json' : `/${locale}/
   type Row = [
     term: string,
     countryAdj: string,
-    flag: string,
+    flagCode: string,
     href: string,
     gloss: string,
     romanization?: string,
@@ -151,12 +151,15 @@ const indexUrl = locale === DEFAULT_LOCALE ? '/search-index.json' : `/${locale}/
     }
     panel.innerHTML = rows
       .map(
-        ([term, adj, flag, href, gloss, roman]) => `
+        ([term, adj, flagCode, href, gloss, roman]) => `
         <a href="${href}" class="focus-ring flex items-baseline gap-3 px-4 py-2.5 hover:bg-surface-card">
           <span class="text-body-md font-semibold text-ink">${escapeHtml(term)}${
             roman ? ` <span class="font-normal text-mute">(${escapeHtml(roman)})</span>` : ''
           }</span>
-          <span class="shrink-0 text-caption text-mute">${flag} ${escapeHtml(adj)}</span>
+          <span class="flex shrink-0 items-center gap-1 text-caption text-mute">
+            <img src="/flags/${flagCode.toLowerCase()}.svg" alt="" aria-hidden="true" width="20" height="15" class="inline-block h-[0.9em] w-auto align-middle rounded-[2px]" loading="lazy" decoding="async" />
+            ${escapeHtml(adj)}
+          </span>
           <span class="ml-auto hidden max-w-[55%] truncate text-body-sm text-mute sm:block">${escapeHtml(gloss)}</span>
         </a>`,
       )

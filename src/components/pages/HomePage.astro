@@ -70,7 +70,6 @@ const topics = localized
           label: strings.slangFor(c.adjective, cat.topic),
           description: cat.description,
           count,
-          flag: c.flagEmoji,
           flagCode: c.flagCode,
         };
       }),
@@ -214,7 +213,7 @@ const schema = [
             <li>
               <a
                 href={topic.href}
-                class="focus-ring flex h-full flex-col rounded-md bg-surface-card p-5 hover:bg-surface-sunk"
+                class="focus-ring relative flex h-full flex-col rounded-md bg-surface-card p-5 hover:bg-surface-sunk"
               >
                 <span class="flex items-center gap-1.5 text-heading-md text-ink">
                   <Flag code={topic.flagCode} class="h-[0.9em] w-auto shrink-0 rounded-[2px]" />
@@ -223,6 +222,14 @@ const schema = [
                 <span class="mt-1 text-caption text-mute">{strings.termsCount(topic.count)}</span>
                 <span class="mt-3 line-clamp-3 text-body-sm text-charcoal">
                   {topic.description}
+                </span>
+                <span
+                  aria-hidden="true"
+                  class="absolute right-3 top-3 flex h-8 w-8 items-center justify-center rounded-full bg-canvas text-ink"
+                >
+                  <svg viewBox="0 0 20 20" fill="none" class="h-4 w-4" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">
+                    <path d="M4 10H16M16 10L11 5M16 10L11 15" />
+                  </svg>
                 </span>
               </a>
             </li>
@@ -247,7 +254,7 @@ const schema = [
                 senseCount={content.definitions.length}
                 locale={locale}
                 countryLabel={c.adjective}
-                flagEmoji={c.flagEmoji}
+                flagCode={c.flagCode}
               />
             );
           })

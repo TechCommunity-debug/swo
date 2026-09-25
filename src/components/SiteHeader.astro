@@ -1,6 +1,7 @@
 ---
 import SearchBox from './SearchBox.astro';
 import LocaleSwitcher from './LocaleSwitcher.astro';
+import Flag from './Flag.astro';
 import { aboutPath, browsePath, countryPath, homePath } from '../lib/urls';
 import { countriesFor, loadSite, type Alternate } from '../lib/site';
 import { localizeCountry } from '../lib/localize';
@@ -103,7 +104,7 @@ const isCurrent = (href: string) => (current.startsWith(href) ? 'page' : undefin
                     href={c.href}
                     class="focus-ring flex items-center gap-2 rounded-md px-2 py-2 text-body-sm font-semibold text-ink"
                   >
-                    <span aria-hidden="true">{c.flagEmoji}</span>
+                    <Flag code={c.flagCode} class="h-[0.9em] w-auto shrink-0 rounded-[2px]" />
                     {c.adjective}
                   </a>
                 </li>

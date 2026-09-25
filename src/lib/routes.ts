@@ -198,7 +198,7 @@ export interface EntryPageProps {
   next: TermLink | null;
   related: TermLink[];
   moreInCategory: TermLink[];
-  alsoUsedIn: { adjective: string; flag: string; href: string }[];
+  alsoUsedIn: { adjective: string; flagCode: string; href: string }[];
   countryHref: string;
   categoryHref: string;
   alternates: Alternate[];
@@ -279,7 +279,7 @@ export async function buildEntryRoutes(locale: Locale) {
             .filter((x) => entriesFor(site, x.id, locale).length > 0)
             .map((x) => {
               const lc = localizeCountry(x, locale);
-              return { adjective: lc.adjective, flag: lc.flagEmoji, href: countryPath(x, locale) };
+              return { adjective: lc.adjective, flagCode: lc.flagCode, href: countryPath(x, locale) };
             }),
           countryHref: countryPath(country, locale),
           categoryHref: categoryPath(c.urlSlug, category.urlSlug, locale),

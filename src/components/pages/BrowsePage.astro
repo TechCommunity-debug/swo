@@ -4,6 +4,7 @@ import Breadcrumbs from '../Breadcrumbs.astro';
 import AlphabetBar from '../AlphabetBar.astro';
 import JsonLd from '../JsonLd.astro';
 import TermName from '../TermName.astro';
+import Flag from '../Flag.astro';
 import { alphaKey, browsePath, byTerm, entryUrl, homePath, type Entry } from '../../lib/urls';
 import { chromeAlternates, countriesFor, entriesFor, loadSite } from '../../lib/site';
 import { localizeCountry } from '../../lib/localize';
@@ -25,7 +26,7 @@ const countries = countriesFor(site, locale);
 interface Row {
   entry: Entry;
   href: string;
-  flag: string;
+  flagCode: string;
   adjective: string;
   lang: string;
 }
@@ -36,7 +37,7 @@ const rows: Row[] = countries
     return entriesFor(site, country.id, locale).map((entry) => ({
       entry,
       href: entryUrl(entry, site.byId, locale),
-      flag: c.flagEmoji,
+      flagCode: c.flagCode,
       adjective: c.adjective,
       lang: c.languageCode,
     }));
@@ -113,9 +114,7 @@ const schema = breadcrumbs([
                       lang={row.lang}
                       class="text-body-md text-ink"
                     />
-                    <span class="text-caption text-mute" aria-hidden="true">
-                      {row.flag}
-                    </span>
+                    <Flag code={row.flagCode} class="h-[0.9em] w-auto shrink-0 rounded-[2px]" />
                     <span class="sr-only">({row.adjective})</span>
                   </a>
                 </li>

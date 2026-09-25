@@ -2,6 +2,7 @@
 import Layout from '../../layouts/Layout.astro';
 import Breadcrumbs from '../Breadcrumbs.astro';
 import EntryCard from '../EntryCard.astro';
+import Flag from '../Flag.astro';
 import AlphabetBar from '../AlphabetBar.astro';
 import JsonLd from '../JsonLd.astro';
 import TermName from '../TermName.astro';
@@ -82,7 +83,7 @@ const schema = [
 
     <header class="mt-8 max-w-3xl">
       <p class="text-body-sm font-semibold tracking-wide text-mute uppercase">
-        <span aria-hidden="true">{country.flagEmoji}</span>{' '}
+        <Flag code={country.flagCode} class="inline-block h-[0.9em] w-auto align-middle rounded-[2px]" />{' '}
         {country.name} · {country.languageName}
       </p>
       <h1 class="mt-2 text-display-lg text-ink">
@@ -107,13 +108,19 @@ const schema = [
             <li>
               <a
                 href={topic.href}
-                class="focus-ring flex h-full flex-col rounded-md bg-canvas p-5 ring-1 ring-hairline-soft hover:bg-surface-card"
+                class="focus-ring relative flex h-full flex-col rounded-md bg-canvas p-5 ring-1 ring-hairline-soft hover:bg-surface-card"
               >
-                <span class="text-heading-md text-ink">
-                  {strings.slangFor(country.adjective, topic.category.topic)}
-                </span>
+                <span class="text-heading-md text-ink">{topic.category.topic}</span>
                 <span class="mt-1 text-caption text-mute">
                   {strings.termsCount(topic.count)}
+                </span>
+                <span
+                  aria-hidden="true"
+                  class="absolute right-3 top-3 flex h-8 w-8 items-center justify-center rounded-full bg-surface-sunk text-ink"
+                >
+                  <svg viewBox="0 0 20 20" fill="none" class="h-4 w-4" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">
+                    <path d="M4 10H16M16 10L11 5M16 10L11 15" />
+                  </svg>
                 </span>
               </a>
             </li>
