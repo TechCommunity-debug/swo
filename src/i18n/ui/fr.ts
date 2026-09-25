@@ -34,7 +34,7 @@ export const fr: Strings = {
   oneWordEach: 'Un mot de chaque pays',
   oneWordEachLead:
     'Un aperçu de ce à quoi ressemble une fiche complète : les sens, des exemples travaillés avec leur traduction, et l’origine quand elle est réellement connue.',
-  editorialH2: 'Chaque fiche est écrite, pas générée',
+  editorialH2: 'Le contexte que vous ne trouverez pas dans une appli de dictionnaire',
   editorialBody:
     'Un dictionnaire d’argot ne vaut quelque chose que s’il vous dit ce qu’une appli de traduction ne peut pas dire : si un mot est affectueux ou hostile, à qui vous pouvez l’adresser, et si l’histoire d’origine que tout le monde répète tient debout. Quand un point est contesté, nous disons qu’il est contesté. Quand un mot est une insulte discriminatoire, nous le disons aussi, et nous le référençons quand même, parce qu’il faut bien le comprendre quand on l’entend.',
   startHere: 'Commencez par ceux-là',
@@ -79,7 +79,6 @@ export const fr: Strings = {
   alsoUsedIn: 'Aussi présent dans',
   topics: 'Sujets',
   moreTermsLikeThis: (adjective: string) => `D’autres termes d’argot ${adjective} du même genre`,
-  reviewedBy: (who: string) => `Relu par ${who}.`,
   updatedOn: (date: string) => `Mis à jour le ${date}.`,
 
   browseH1: 'Tous les termes, de A à Z',
@@ -104,7 +103,7 @@ export const fr: Strings = {
   byCountry: 'Par pays',
   thisSite: 'Ce site',
   footerNote:
-    'Les définitions sont écrites et relues par des personnes. Quand une origine est contestée, nous le disons.',
+    'Les définitions s’appuient sur les sources disponibles. Quand une origine est contestée ou incertaine, nous le disons.',
   copyright: (year: number) => `© ${year} Slang Words Online`,
   countrySlang: (adjective: string) => `argot ${adjective}`,
 

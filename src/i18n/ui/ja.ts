@@ -45,7 +45,7 @@ export const ja: Strings = {
   oneWordEach: '各国から一語ずつ',
   oneWordEachLead:
     '完全な項目がどんなものかの見本です。語義、訳付きの用例、そして本当に分かっている場合の語源が並びます。',
-  editorialH2: 'すべての項目は生成ではなく執筆されています',
+  editorialH2: '辞書アプリでは見つからない文脈',
   editorialBody:
     'スラング辞典に価値があるとすれば、それは翻訳アプリが答えられないことを教えてくれる場合だけです。その言葉が親しみなのか敵意なのか、誰に向かって言っていいのか、そして誰もが繰り返す語源の話が本当なのか。定説が割れているところでは、割れていると書きます。差別語であるところでは、それも書いたうえで、それでも掲載します。耳にしたときに理解できなければ困るからです。',
   // --------------------------------------------------------------- country
@@ -94,7 +94,6 @@ export const ja: Strings = {
   alsoUsedIn: 'ほかに使われている国',
   topics: 'テーマ',
   moreTermsLikeThis: (adjective: string) => `これに近い${adjective}のスラング`,
-  reviewedBy: (who: string) => `監修：${who}`,
   updatedOn: (date: string) => `更新日：${date}`,
 
   // ---------------------------------------------------------------- browse
@@ -123,7 +122,7 @@ export const ja: Strings = {
   byCountry: '国別',
   thisSite: 'このサイト',
   footerNote:
-    '定義は人の手で書き、人の手で確認しています。語源に定説がない場合は、その旨を書いています。',
+    '定義は入手可能な情報源に基づいています。語源に異説や不確かな点がある場合は、その旨を書いています。',
   copyright: (year: number) => `© ${year} Slang Words Online`,
   countrySlang: (adjective: string) => `${adjective}のスラング`,
 

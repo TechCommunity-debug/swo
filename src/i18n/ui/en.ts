@@ -42,7 +42,7 @@ export const en = {
   oneWordEach: 'One word from each country',
   oneWordEachLead:
     'A sample of what a full entry looks like — definitions, worked examples with translations, and the origin where it is actually known.',
-  editorialH2: 'Every entry is written, not generated',
+  editorialH2: "Context you won't find in a dictionary app",
   editorialBody:
     'A slang dictionary is only worth anything if it tells you the things a translation app cannot: whether a word is affectionate or hostile, who you can say it to, and whether the origin story everyone repeats is actually true. Where something is disputed, we say it is disputed. Where a word is a slur, we say that too, and list it anyway — because you still need to understand it when you hear it.',
 
@@ -93,7 +93,6 @@ export const en = {
   alsoUsedIn: 'Also used in',
   topics: 'Topics',
   moreTermsLikeThis: (adjective: string) => `More ${adjective} terms like this`,
-  reviewedBy: (who: string) => `Reviewed by ${who}.`,
   updatedOn: (date: string) => `Updated ${date}.`,
 
   // ---------------------------------------------------------------- browse
@@ -122,7 +121,7 @@ export const en = {
   byCountry: 'By country',
   thisSite: 'This site',
   footerNote:
-    'Definitions are written and reviewed by people. Where an origin is disputed, we say so.',
+    'Definitions are based on available sources. Where an origin is disputed or uncertain, we say so.',
   copyright: (year: number) => `© ${year} Slang Words Online`,
   countrySlang: (adjective: string) => `${adjective} slang`,
 

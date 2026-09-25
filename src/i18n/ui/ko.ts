@@ -48,7 +48,7 @@ export const ko: Strings = {
   oneWordEach: '나라마다 한 단어씩',
   oneWordEachLead:
     '항목 하나가 어떤 모습인지 보여 주는 표본입니다. 뜻풀이와 번역이 붙은 예문, 그리고 정말로 밝혀져 있는 경우에 한해 어원까지 담았습니다.',
-  editorialH2: '모든 항목은 생성한 것이 아니라 쓴 것입니다',
+  editorialH2: '사전 앱에서는 찾을 수 없는 맥락',
   editorialBody:
     '슬랭 사전은 번역 앱이 알려 주지 못하는 것을 알려 줄 때에만 값어치가 있습니다. 그 말이 다정한 말인지 적대적인 말인지, 누구에게 써도 되는지, 다들 되풀이하는 어원 이야기가 사실이기는 한지 말입니다. 논란이 있는 대목은 논란이 있다고 적습니다. 어떤 말이 차별적 멸칭이면 그것도 적고, 그러면서도 항목에서 빼지 않습니다. 들었을 때 알아들어야 하는 말이기 때문입니다.',
   startHere: '여기부터 보세요',
@@ -92,7 +92,6 @@ export const ko: Strings = {
   alsoUsedIn: '이런 곳에서도 씁니다',
   topics: '주제',
   moreTermsLikeThis: (adjective: string) => `이와 비슷한 ${adjective} 슬랭 더 보기`,
-  reviewedBy: (who: string) => `감수: ${who}.`,
   updatedOn: (date: string) => `${date} 업데이트.`,
 
   browseH1: '전체 단어, A부터 Z까지',
@@ -117,7 +116,7 @@ export const ko: Strings = {
   byCountry: '나라별',
   thisSite: '이 사이트',
   footerNote:
-    '뜻풀이는 사람이 쓰고 사람이 검토합니다. 어원에 논란이 있으면 논란이 있다고 적습니다.',
+    '뜻풀이는 이용 가능한 자료를 바탕으로 합니다. 어원에 논란이 있거나 불확실하면 그렇다고 적습니다.',
   copyright: (year: number) => `© ${year} Slang Words Online`,
   countrySlang: (adjective: string) => `${adjective} 슬랭`,
 

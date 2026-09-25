@@ -45,7 +45,7 @@ export const de: Strings = {
   oneWordEach: 'Ein Wort aus jedem Land',
   oneWordEachLead:
     'Eine Kostprobe davon, wie ein vollständiger Eintrag aussieht: Bedeutungen, ausgearbeitete Beispiele mit Übersetzung und die Herkunft, wo sie tatsächlich bekannt ist.',
-  editorialH2: 'Jeder Eintrag ist geschrieben, nicht generiert',
+  editorialH2: 'Kontext, den du in keiner Wörterbuch-App findest',
   editorialBody:
     'Ein Slangwörterbuch taugt nur dann etwas, wenn es die Dinge sagt, die eine Übersetzungs-App nicht sagen kann: ob ein Wort liebevoll oder feindselig gemeint ist, zu wem man es sagen darf und ob die Herkunftsgeschichte, die alle nacherzählen, überhaupt stimmt. Wo etwas umstritten ist, schreiben wir, dass es umstritten ist. Wo ein Wort eine Beleidigung ist, schreiben wir auch das – und führen es trotzdem auf, weil man es immer noch verstehen muss, wenn man es hört.',
   startHere: 'Fang mit diesen an',
@@ -91,7 +91,6 @@ export const de: Strings = {
   alsoUsedIn: 'Wird auch benutzt in',
   topics: 'Themen',
   moreTermsLikeThis: (adjective: string) => `Ähnlicher ${adjective.toLowerCase()} Slang`,
-  reviewedBy: (who: string) => `Geprüft von ${who}.`,
   updatedOn: (date: string) => `Aktualisiert am ${date}.`,
 
   browseH1: 'Alle Begriffe, von A bis Z',
@@ -116,7 +115,7 @@ export const de: Strings = {
   byCountry: 'Nach Land',
   thisSite: 'Diese Seite',
   footerNote:
-    'Die Definitionen werden von Menschen geschrieben und geprüft. Wo eine Herkunft umstritten ist, sagen wir es.',
+    'Die Definitionen basieren auf den verfügbaren Quellen. Wo eine Herkunft umstritten oder unsicher ist, sagen wir es.',
   copyright: (year: number) => `© ${year} Slang Words Online`,
   countrySlang: (adjective: string) => `${adjective} Slang`,
 

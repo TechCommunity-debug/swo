@@ -34,7 +34,7 @@ export const pt: Strings = {
   oneWordEach: 'Uma palavra de cada país',
   oneWordEachLead:
     'Uma amostra de como é uma entrada completa: acepções, exemplos reais com tradução e a origem quando ela é mesmo conhecida.',
-  editorialH2: 'Toda entrada é escrita, não gerada',
+  editorialH2: 'Contexto que você não encontra em um app de dicionário',
   editorialBody:
     'Um dicionário de gíria só vale alguma coisa se contar o que um tradutor automático não consegue contar: se uma palavra é carinhosa ou hostil, para quem dá para dizê-la e se a história de origem que todo mundo repete é verdadeira. Quando algo é contestado, dizemos que é contestado. Quando uma palavra é um xingamento discriminatório, dizemos isso também, e a listamos assim mesmo — porque você continua precisando entendê-la quando ouvir.',
   startHere: 'Comece por estes',
@@ -79,7 +79,6 @@ export const pt: Strings = {
   alsoUsedIn: 'Também se usa em',
   topics: 'Assuntos',
   moreTermsLikeThis: (adjective: string) => `Mais gíria ${adjective} como esta`,
-  reviewedBy: (who: string) => `Revisado por ${who}.`,
   updatedOn: (date: string) => `Atualizado em ${date}.`,
 
   browseH1: 'Todos os termos, de A a Z',
@@ -104,7 +103,7 @@ export const pt: Strings = {
   byCountry: 'Por país',
   thisSite: 'Este site',
   footerNote:
-    'As definições são escritas e revisadas por pessoas. Quando uma origem é contestada, dizemos isso.',
+    'As definições se baseiam nas fontes disponíveis. Quando uma origem é contestada ou incerta, dizemos isso.',
   copyright: (year: number) => `© ${year} Slang Words Online`,
   countrySlang: (adjective: string) => `gíria ${adjective}`,
 

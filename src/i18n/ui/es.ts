@@ -34,7 +34,7 @@ export const es: Strings = {
   oneWordEach: 'Una palabra de cada país',
   oneWordEachLead:
     'Una muestra de cómo es una entrada completa: acepciones, ejemplos reales con traducción y el origen cuando de verdad se conoce.',
-  editorialH2: 'Cada entrada está escrita, no generada',
+  editorialH2: 'Contexto que no encontrarás en una app de diccionario',
   editorialBody:
     'Un diccionario de argot solo vale algo si te cuenta lo que un traductor automático no puede: si una palabra es cariñosa u hostil, a quién se la puedes decir y si la historia sobre su origen que todo el mundo repite es cierta. Cuando algo está en disputa, lo decimos. Cuando una palabra es un insulto discriminatorio, también lo decimos, y la incluimos igualmente, porque necesitas entenderla cuando la oigas.',
   startHere: 'Empieza por estas',
@@ -79,7 +79,6 @@ export const es: Strings = {
   alsoUsedIn: 'También se usa en',
   topics: 'Temas',
   moreTermsLikeThis: (adjective: string) => `Más argot ${adjective.toLowerCase()} como este`,
-  reviewedBy: (who: string) => `Revisado por ${who}.`,
   updatedOn: (date: string) => `Actualizado el ${date}.`,
 
   browseH1: 'Todos los términos, de la A a la Z',
@@ -104,7 +103,7 @@ export const es: Strings = {
   byCountry: 'Por país',
   thisSite: 'Este sitio',
   footerNote:
-    'Las definiciones las escriben y revisan personas. Cuando un origen está en disputa, lo decimos.',
+    'Las definiciones se basan en las fuentes disponibles. Cuando un origen está en disputa o es incierto, lo decimos.',
   copyright: (year: number) => `© ${year} Slang Words Online`,
   countrySlang: (adjective: string) => `argot ${adjective.toLowerCase()}`,
 

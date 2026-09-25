@@ -34,7 +34,7 @@ export const it: Strings = {
   oneWordEach: 'Una parola per ogni paese',
   oneWordEachLead:
     'Un assaggio di com’è fatta una scheda completa: accezioni, frasi di esempio con traduzione e l’origine dove è davvero nota.',
-  editorialH2: 'Ogni scheda è scritta, non generata',
+  editorialH2: 'Il contesto che non troverai in un’app di dizionario',
   editorialBody:
     'Un dizionario di slang vale qualcosa solo se ti dice quello che un traduttore automatico non può dirti: se una parola è affettuosa o ostile, a chi puoi rivolgerla e se la storia sulla sua origine che ripetono tutti sia poi vera. Quando una cosa è controversa, lo scriviamo. Quando una parola è un insulto discriminatorio, scriviamo anche quello, e la includiamo lo stesso, perché devi comunque capirla quando la senti.',
   startHere: 'Parti da questi',
@@ -81,7 +81,6 @@ export const it: Strings = {
   topics: 'Temi',
   moreTermsLikeThis: (adjective: string) =>
     `Altri termini di slang ${adjective.toLowerCase()} come questo`,
-  reviewedBy: (who: string) => `Revisionato da ${who}.`,
   updatedOn: (date: string) => `Aggiornato il ${date}.`,
 
   browseH1: 'Tutti i termini, dalla A alla Z',
@@ -106,7 +105,7 @@ export const it: Strings = {
   byCountry: 'Per paese',
   thisSite: 'Questo sito',
   footerNote:
-    'Le definizioni sono scritte e revisionate da persone. Quando un’origine è controversa, lo diciamo.',
+    'Le definizioni si basano sulle fonti disponibili. Quando un’origine è controversa o incerta, lo diciamo.',
   copyright: (year: number) => `© ${year} Slang Words Online`,
   countrySlang: (adjective: string) => `slang ${adjective.toLowerCase()}`,
 
