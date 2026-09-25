@@ -28,6 +28,8 @@ const countries = defineCollection({
     languageCode: z.string(),
     languageName: z.string(),
     flagEmoji: z.string(),
+    /** Lowercase ISO 3166-1 alpha-2 code; the SVG at `public/flags/<code>.svg`. */
+    flagCode: z.string(),
     regionGroup: z.enum(REGION_GROUPS.map((r) => r.id) as [string, ...string[]]),
     order: z.number().int(),
     /** Valid values for an entry's `region`. Enforced by validate-content.mjs. */

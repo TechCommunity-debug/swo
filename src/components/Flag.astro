@@ -1,0 +1,26 @@
+---
+/**
+ * A country flag icon, served from `public/flags/<code>.svg` (lowercase
+ * ISO 3166-1 alpha-2). Decorative by default — pass `label` for cases where
+ * the flag is the only cue (e.g. a flag-only button), which sets `alt` and
+ * drops `aria-hidden`.
+ */
+interface Props {
+  code: string;
+  label?: string;
+  class?: string;
+}
+
+const { code, label, class: className } = Astro.props;
+---
+
+<img
+  src={`/flags/${code.toLowerCase()}.svg`}
+  alt={label ?? ''}
+  aria-hidden={label ? undefined : 'true'}
+  width="20"
+  height="15"
+  class={className ?? 'inline-block h-[0.9em] w-auto align-middle rounded-[2px]'}
+  loading="lazy"
+  decoding="async"
+/>

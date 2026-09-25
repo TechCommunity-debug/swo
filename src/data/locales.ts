@@ -25,6 +25,16 @@ export const LOCALES = [
     ogLocale: 'en_US',
     /** Tag passed to `toLocaleDateString` for the "Updated" line. */
     dateLocale: 'en-GB',
+    /**
+     * Flags shown in the language switcher, as lowercase ISO 3166-1 alpha-2
+     * codes (SVGs at `public/flags/<code>.svg`). A language spoken across
+     * several of the site's countries gets its two best-known flags plus
+     * `moreCount`, the number of additional country pages in that language
+     * left unrepresented — English also covers `australian`, `canadian` and
+     * `irish` slang, beyond the US and UK shown here.
+     */
+    flagCodes: ['us', 'gb'],
+    moreCount: 3,
   },
   {
     code: 'es',
@@ -34,6 +44,9 @@ export const LOCALES = [
     dir: 'ltr',
     ogLocale: 'es_ES',
     dateLocale: 'es-ES',
+    /** Also covers `colombian`, `cuban` and `dominican` slang. */
+    flagCodes: ['es', 'mx'],
+    moreCount: 3,
   },
   {
     code: 'pt',
@@ -43,6 +56,9 @@ export const LOCALES = [
     dir: 'ltr',
     ogLocale: 'pt_BR',
     dateLocale: 'pt-BR',
+    /** No Portugal-specific content on the site, so Brazil alone represents it. */
+    flagCodes: ['br'],
+    moreCount: 0,
   },
   {
     code: 'fr',
@@ -52,6 +68,8 @@ export const LOCALES = [
     dir: 'ltr',
     ogLocale: 'fr_FR',
     dateLocale: 'fr-FR',
+    flagCodes: ['fr'],
+    moreCount: 0,
   },
   {
     code: 'de',
@@ -61,6 +79,8 @@ export const LOCALES = [
     dir: 'ltr',
     ogLocale: 'de_DE',
     dateLocale: 'de-DE',
+    flagCodes: ['de'],
+    moreCount: 0,
   },
   {
     code: 'it',
@@ -70,6 +90,8 @@ export const LOCALES = [
     dir: 'ltr',
     ogLocale: 'it_IT',
     dateLocale: 'it-IT',
+    flagCodes: ['it'],
+    moreCount: 0,
   },
   {
     code: 'ru',
@@ -79,6 +101,8 @@ export const LOCALES = [
     dir: 'ltr',
     ogLocale: 'ru_RU',
     dateLocale: 'ru-RU',
+    flagCodes: ['ru'],
+    moreCount: 0,
   },
   {
     code: 'ja',
@@ -88,6 +112,8 @@ export const LOCALES = [
     dir: 'ltr',
     ogLocale: 'ja_JP',
     dateLocale: 'ja-JP',
+    flagCodes: ['jp'],
+    moreCount: 0,
   },
   {
     code: 'ko',
@@ -97,6 +123,8 @@ export const LOCALES = [
     dir: 'ltr',
     ogLocale: 'ko_KR',
     dateLocale: 'ko-KR',
+    flagCodes: ['kr'],
+    moreCount: 0,
   },
 ] as const;
 

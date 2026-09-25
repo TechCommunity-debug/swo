@@ -3,6 +3,7 @@ import { LOCALES, localeConfig, type Locale } from '../data/locales';
 import { homePath } from '../lib/urls';
 import { t } from '../i18n/ui';
 import type { Alternate } from '../lib/site';
+import FlagGroup from './FlagGroup.astro';
 
 interface Props {
   locale: Locale;
@@ -56,9 +57,10 @@ const linkClass =
             {o.code === locale ? (
               <span
                 aria-current="true"
-                class="block rounded-md px-2.5 py-2 text-body-sm font-bold text-ink"
+                class="flex items-center gap-2 rounded-md px-2.5 py-2 text-body-sm font-bold text-ink"
                 lang={o.hreflang}
               >
+                <FlagGroup {...o} />
                 {o.endonym}
               </span>
             ) : (
@@ -67,8 +69,9 @@ const linkClass =
                 hreflang={o.hreflang}
                 lang={o.hreflang}
                 rel="alternate"
-                class={linkClass}
+                class={`flex items-center gap-2 ${linkClass}`}
               >
+                <FlagGroup {...o} />
                 {o.endonym}
               </a>
             )}
@@ -82,6 +85,7 @@ const linkClass =
         class="focus-ring flex cursor-pointer list-none items-center gap-1.5 rounded-md px-2.5 py-2 text-body-sm font-semibold text-ink [&::-webkit-details-marker]:hidden"
         aria-label={strings.language}
       >
+        <FlagGroup {...current} />
         <span lang={current.hreflang}>{current.endonym}</span>
         <svg
           viewBox="0 0 24 24"
@@ -106,9 +110,10 @@ const linkClass =
               {o.code === locale ? (
                 <span
                   aria-current="true"
-                  class="block rounded-md px-2.5 py-2 text-body-sm font-bold text-ink"
+                  class="flex items-center gap-2 rounded-md px-2.5 py-2 text-body-sm font-bold text-ink"
                   lang={o.hreflang}
                 >
+                  <FlagGroup {...o} />
                   {o.endonym}
                 </span>
               ) : (
@@ -117,8 +122,9 @@ const linkClass =
                   hreflang={o.hreflang}
                   lang={o.hreflang}
                   rel="alternate"
-                  class={linkClass}
+                  class={`flex items-center gap-2 ${linkClass}`}
                 >
+                  <FlagGroup {...o} />
                   {o.endonym}
                 </a>
               )}

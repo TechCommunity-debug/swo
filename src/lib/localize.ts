@@ -56,6 +56,7 @@ export function localizeCountry(country: Country, locale: Locale) {
     id: country.id,
     urlSlug: d.urlSlug,
     flagEmoji: d.flagEmoji,
+    flagCode: d.flagCode,
     languageCode: d.languageCode,
     regionGroup: d.regionGroup,
     order: d.order,

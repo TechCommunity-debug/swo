@@ -1,0 +1,34 @@
+---
+import Flag from './Flag.astro';
+
+/**
+ * A language spoken across several of the site's countries (English, Spanish)
+ * shows its two best-known flags overlapped, plus a "+N" badge for the
+ * country pages left unrepresented — see `flagCodes`/`moreCount` in
+ * `data/locales.ts`.
+ */
+interface Props {
+  flagCodes: readonly string[];
+  moreCount: number;
+}
+
+const { flagCodes, moreCount } = Astro.props;
+---
+
+<span class="flex shrink-0 items-center">
+  {
+    flagCodes.map((code, i) => (
+      <Flag
+        code={code}
+        class={`h-3.5 w-auto rounded-[2px] ring-1 ring-canvas ${i > 0 ? '-ml-1.5' : ''}`}
+      />
+    ))
+  }
+  {
+    moreCount > 0 && (
+      <span class="ml-1 text-caption text-mute" aria-hidden="true">
+        +{moreCount}
+      </span>
+    )
+  }
+</span>
