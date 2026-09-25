@@ -1,22 +1,5 @@
 import type { Entry, Country } from './urls';
 import { DEFAULT_LOCALE, type Locale } from '../data/locales';
-import esCountries from '../data/i18n/es/countries.json';
-import esMexican from '../data/i18n/es/entries/mexican.json';
-import esAmerican from '../data/i18n/es/entries/american.json';
-import esBritish from '../data/i18n/es/entries/british.json';
-import esAustralian from '../data/i18n/es/entries/australian.json';
-import esCanadian from '../data/i18n/es/entries/canadian.json';
-import esFrench from '../data/i18n/es/entries/french.json';
-import esItalian from '../data/i18n/es/entries/italian.json';
-import esSpanish from '../data/i18n/es/entries/spanish.json';
-import esJapanese from '../data/i18n/es/entries/japanese.json';
-import esKorean from '../data/i18n/es/entries/korean.json';
-import esColombian from '../data/i18n/es/entries/colombian.json';
-import esCuban from '../data/i18n/es/entries/cuban.json';
-import esDominican from '../data/i18n/es/entries/dominican.json';
-import esIrish from '../data/i18n/es/entries/irish.json';
-import esGerman from '../data/i18n/es/entries/german.json';
-import esRussian from '../data/i18n/es/entries/russian.json';
 
 /**
  * Overlays translated content onto an entry or a country.
@@ -30,8 +13,14 @@ import esRussian from '../data/i18n/es/entries/russian.json';
  * So `translatedEntry()` returns `null` when an entry has no translation, and
  * the route builders drop that entry from the locale entirely — no page, no
  * hreflang annotation, no sitemap row. Adding a locale is then purely additive:
- * drop a JSON file in `src/data/i18n/<locale>/entries/`, and the pages,
- * the alternates and the internal links appear on the next build.
+ * drop a JSON file in `src/data/i18n/<locale>/entries/`, and the pages, the
+ * alternates and the internal links appear on the next build.
+ *
+ * The files are discovered with `import.meta.glob`, eagerly, rather than listed
+ * as ~150 import statements. That is what makes "purely additive" literally
+ * true: nine locales × sixteen countries is past the point where a hand-kept
+ * import list stays correct, and a forgotten line there fails silently as a
+ * locale quietly missing a country rather than as a build error.
  */
 
 // ---------------------------------------------------------------- countries
@@ -44,10 +33,20 @@ interface CountryOverride {
   metaDescription: string;
 }
 
-const COUNTRY_OVERRIDES: Record<Locale, Record<string, CountryOverride>> = {
-  en: {},
-  es: esCountries,
-};
+/** `src/data/i18n/<locale>/countries.json` → `{ [countryId]: override }`. */
+const COUNTRY_FILES = import.meta.glob<Record<string, CountryOverride>>(
+  '../data/i18n/*/countries.json',
+  { eager: true, import: 'default' },
+);
+
+const COUNTRY_OVERRIDES = Object.fromEntries(
+  Object.entries(COUNTRY_FILES).map(([path, mod]) => [localeOf(path), mod]),
+) as Record<Locale, Record<string, CountryOverride> | undefined>;
+
+/** `../data/i18n/pt/entries/mexican.json` → `pt`. */
+function localeOf(path: string): Locale {
+  return path.split('/data/i18n/')[1].split('/')[0] as Locale;
+}
 
 /** A country's display strings in `locale`, falling back to the English data. */
 export function localizeCountry(country: Country, locale: Locale) {
@@ -83,27 +82,18 @@ interface EntryOverride {
   origin?: { etymology?: string; firstAttested?: string };
 }
 
-const ENTRY_OVERRIDES: Record<Locale, Record<string, Record<string, EntryOverride>>> = {
-  en: {},
-  es: {
-    mexican: esMexican as Record<string, EntryOverride>,
-    american: esAmerican as Record<string, EntryOverride>,
-    british: esBritish as Record<string, EntryOverride>,
-    australian: esAustralian as Record<string, EntryOverride>,
-    canadian: esCanadian as Record<string, EntryOverride>,
-    french: esFrench as Record<string, EntryOverride>,
-    italian: esItalian as Record<string, EntryOverride>,
-    spanish: esSpanish as Record<string, EntryOverride>,
-    japanese: esJapanese as Record<string, EntryOverride>,
-    korean: esKorean as Record<string, EntryOverride>,
-    colombian: esColombian as Record<string, EntryOverride>,
-    cuban: esCuban as Record<string, EntryOverride>,
-    dominican: esDominican as Record<string, EntryOverride>,
-    irish: esIrish as Record<string, EntryOverride>,
-    german: esGerman as Record<string, EntryOverride>,
-    russian: esRussian as Record<string, EntryOverride>,
-  },
-};
+/** `src/data/i18n/<locale>/entries/<countryId>.json` → `{ [slug]: override }`. */
+const ENTRY_FILES = import.meta.glob<Record<string, EntryOverride>>(
+  '../data/i18n/*/entries/*.json',
+  { eager: true, import: 'default' },
+);
+
+const ENTRY_OVERRIDES: Record<string, Record<string, Record<string, EntryOverride>>> = {};
+for (const [path, mod] of Object.entries(ENTRY_FILES)) {
+  const locale = localeOf(path);
+  const countryId = path.slice(path.lastIndexOf('/') + 1, -'.json'.length);
+  (ENTRY_OVERRIDES[locale] ??= {})[countryId] = mod;
+}
 
 /** Whether a locale has a full translation of this entry, and therefore a page. */
 export function hasTranslation(entry: Entry, locale: Locale): boolean {

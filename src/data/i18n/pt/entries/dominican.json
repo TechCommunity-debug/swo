@@ -1,0 +1,696 @@
+{
+  "que-lo-que": {
+    "definitions": [
+      { "text": "E aí? A saudação dominicana padrão, usada entre amigos, entre desconhecidos de idade parecida e gritada de uma calçada para a outra. Espera de volta a mesma frase ou um 'tranquilo'." },
+      { "text": "O que tá pegando aqui? As mesmas palavras ditas com curiosidade real sobre uma situação, em vez de como cumprimento.", "note": "Só a entonação separa os dois usos; o cumprimento é seco e rápido, a pergunta sobe no final." }
+    ],
+    "examples": {
+      "0": { "translation": "E aí, mano? Tá tudo bem?" },
+      "1": { "translation": "Fala, me conta aí.", "context": "Forma escrita. KLK está tão consolidado nas mensagens que aparece em placas de loja e em publicidade." },
+      "2": { "translation": "E o que é essa gritaria toda?", "context": "A pergunta literal, em vez do cumprimento." }
+    },
+    "origin": {
+      "etymology": "Uma redução de '¿qué es lo que hay?' — 'o que que tem aí?'. A cópula cai, o /s/ final de 'es' se aspira até sumir, e sobram quatro sílabas. A abreviação escrita KLK se espalhou por SMS e BlackBerry Messenger no fim dos anos 2000 e hoje é a forma escrita mais comum.",
+      "firstAttested": "fim do século XX"
+    }
+  },
+  "dimelo": {
+    "definitions": [
+      { "text": "Fala comigo — um cumprimento, não um pedido de informação. Atender o telefone assim é normal, e dizer isso para alguém que passa também." },
+      { "text": "Pode falar, tô ouvindo. O sentido literal sobrevive e só o contexto o distingue." }
+    ],
+    "examples": {
+      "0": { "translation": "E aí, mano! Como é que tá?" },
+      "1": { "translation": "Me conta o que rola hoje.", "context": "'Dime a ver' é a forma estendida e soa um pouco mais calorosa." }
+    },
+    "origin": {
+      "etymology": "O imperativo comum de decir com dois clíticos grudados. Seu uso como cumprimento puro é caribenho, e as versões elaboradas — dímelo cantando, dímelo papá — são floreios dominicanos sobre ele."
+    }
+  },
+  "manin": {
+    "definitions": [
+      { "text": "Mano, parceiro. Um termo de tratamento entre homens que são amigos ou querem soar amistosos. Mais caloroso que loco e sem a aresta dele." },
+      { "text": "Usado sobre terceiros: 'ese manín' — aquele cara — geralmente com leve carinho." }
+    ],
+    "examples": {
+      "0": { "translation": "Mano, me empresta o carregador um segundo." },
+      "1": { "translation": "Aquele cara é quem conserta as motos." }
+    },
+    "origin": {
+      "etymology": "Um diminutivo de mano, ele mesmo encurtado de hermano — irmão. A cadeia hermano → mano → manín é a mesma que produz manito em outros lugares do Caribe. Associado, no ouvido dominicano, a Santiago e ao Cibao, embora se ouça no país inteiro."
+    }
+  },
+  "loco": {
+    "definitions": [
+      { "text": "Cara, mano — um vocativo colado em quase qualquer frase entre amigos homens. Não sugere de forma alguma que a pessoa esteja louca de verdade." },
+      { "text": "Um cara, geralmente um que age de forma imprevisível: 'ese loco tá desacatao'." }
+    ],
+    "examples": {
+      "0": { "translation": "Mano, não é assim não." },
+      "1": { "translation": "E aí, mano?" },
+      "2": { "translation": "O cara foi embora sem pagar.", "context": "Uso na terceira pessoa, com uma pitada de reprovação." }
+    },
+    "origin": {
+      "etymology": "O loco do espanhol padrão transformado em termo de tratamento, um desenvolvimento compartilhado com a Argentina e o Chile mas ao qual se chegou de forma independente. Na fala dominicana é muito mais frequente que na maioria das outras variedades, e é praticamente só de homem para homem."
+    }
+  },
+  "tiguere": {
+    "definitions": [
+      { "text": "O personagem central da vida de rua dominicana: rápido de raciocínio, indiferente às regras, bom em se virar na base do descaramento e da improvisação. Admirado ou condenado, dependendo inteiramente de quem fala." },
+      { "text": "No feminino, tíguera, e para uma criança, tíguerito — um pirralho esperto demais para o próprio bem." },
+      { "text": "Como elogio frouxo para qualquer um competente e sem-vergonha o bastante para resolver um problema: 'ese doctor e' un tíguere'." }
+    ],
+    "examples": {
+      "0": { "translation": "Aquele espertinho conseguiu os ingressos em meia hora." },
+      "1": { "translation": "Não confia nele não, esse é um golpista.", "context": "A mesma palavra, veredito oposto — a leitura depende do tom de quem fala e de se o ouvinte se beneficia ou não." },
+      "2": { "translation": "Desce daí, seu terror." }
+    },
+    "origin": {
+      "etymology": "De tigre, com a vogal epentética que o espanhol dominicano insere em encontros consonantais. O tipo social que a palavra nomeia se cristalizou na Santo Domingo de meados do século XX e foi documentado longamente por Lipe Collado em 'El tíguere dominicano' (1992); a palavra em si é anterior a essa literatura.",
+      "firstAttested": "meados do século XX"
+    },
+    "literalMeaning": "tigre"
+  },
+  "pariguayo": {
+    "definitions": [
+      { "text": "Um otário; o cara que fica na beira da festa segurando as bebidas enquanto os outros dançam com a garota com quem ele veio. O oposto exato de um tíguere, e definido em contraste com ele." },
+      { "text": "Por extensão, qualquer um ingênuo o bastante para ser explorado, ou quadrado o bastante para seguir uma regra que ninguém mais segue." }
+    ],
+    "examples": {
+      "0": { "translation": "Não seja bobo, chama ela pra dançar." },
+      "1": { "translation": "Me deixaram feito um bobo esperando ali fora." }
+    },
+    "origin": {
+      "etymology": "Popularmente derivada do inglês 'party watcher', supostamente dito dos fuzileiros navais americanos que frequentavam os bailes dominicanos durante a ocupação de 1916–24 sem dançar. A história é repetida por toda parte e nunca foi documentada; trate-a como etimologia popular, não como história estabelecida. Nenhuma alternativa melhor foi comprovada.",
+      "firstAttested": "início do século XX"
+    }
+  },
+  "cocolo": {
+    "definitions": [
+      { "text": "Originalmente, um migrante negro anglófono das Antilhas Menores — os trabalhadores dos engenhos de açúcar que se estabeleceram em torno de San Pedro de Macorís desde o fim do século XIX, e seus descendentes, cujos grupos de dança guloya hoje são patrimônio reconhecido pela Unesco." },
+      { "text": "Um fã dedicado de um gênero musical, sobretudo da salsa: 'cocolo de la salsa'. Nesse sentido é usado com orgulho e não tem carga étnica nenhuma." }
+    ],
+    "examples": {
+      "0": { "translation": "Meu avô era cocolo, dos que vieram trabalhar nos engenhos." },
+      "1": { "translation": "Esse cara é fã raiz de salsa, sabe todas as músicas do Héctor Lavoe." }
+    },
+    "origin": {
+      "etymology": "De origem incerta; a proposta mais citada é uma deformação de Tortola, a ilha pela qual muitos desses migrantes passaram. Usada de forma pejorativa por boa parte do século XX, foi bastante reapropriada, mas como rótulo étnico na boca de um estranho ainda pode soar mal. O sentido musical é inequivocamente neutro.",
+      "firstAttested": "fim do século XIX"
+    }
+  },
+  "sanky-panky": {
+    "definitions": [
+      { "text": "Um jovem dominicano que trabalha nas cidades turísticas cortejando estrangeiras, tendo como meta final um visto, remessas ou uma mesada. Bávaro, Sosúa e Boca Chica são o território clássico." },
+      { "text": "Frouxamente, qualquer homem local visivelmente cortejando uma turista — jogado como provocação, nem sempre com precisão." }
+    ],
+    "examples": {
+      "0": { "translation": "Esse aí vive de turista, tem três estrangeiras mandando dinheiro pra ele." },
+      "1": { "translation": "Cuidado com os aproveitadores da praia." }
+    },
+    "origin": {
+      "etymology": "Uma criação dominicana do boom turístico, geralmente ligada ao inglês 'hanky-panky'. Virou referência nacional depois da comédia de 2007 'Sanky Panky', razão pela qual a forma curta sanky hoje é mais comum que a frase inteira.",
+      "firstAttested": "década de 1980"
+    }
+  },
+  "guillao": {
+    "definitions": [
+      { "text": "Convencido; se achando. Alguém guillao acredita que se elevou acima das pessoas com quem cresceu, e todo mundo percebe." },
+      { "text": "Fingir ser algo: 'guillao de rico', 'guillao de gánster'. Nessa construção está mais perto de 'se fazendo de' do que de 'arrogante'." },
+      { "text": "O substantivo é guille — a pose em si. 'Tiene un guille tremendo' significa que a encenação é insuportável." }
+    ],
+    "examples": {
+      "0": { "translation": "Desde que se mudou pra Naco anda se achando." },
+      "1": { "translation": "Tá se fazendo de artista e não lançou nem uma música." }
+    },
+    "origin": {
+      "etymology": "Particípio de guillarse, verbo compartilhado com o espanhol cubano e porto-riquenho, onde significa se fazer de bobo ou fingir algo. O uso dominicano deslocou o fingimento especificamente para status social. A terminação -ado perde o /d/, como acontece na maioria dos particípios dominicanos."
+    }
+  },
+  "viejevo": {
+    "definitions": [
+      { "text": "Um homem de meia-idade que se veste, fala e namora como se tivesse vinte anos — e especificamente um que persegue mulheres bem mais jovens. Zombeteiro, nunca um elogio." },
+      { "text": "O feminino viejeva é usado da mesma forma para mulheres, embora com bem menos frequência, o que já diz algo sobre quem faz a zombaria." }
+    ],
+    "examples": {
+      "0": { "translation": "Esse velho tarado tem cinquenta anos e vive atrás das meninas do colégio." },
+      "1": { "translation": "Colocou uma corrente de ouro e agora se acha o maioral." }
+    },
+    "origin": {
+      "etymology": "Uma mistura de viejo e jevo — literalmente 'namorado velho' no sentido de um homem mais velho brincando de ser o jevo de alguém. Uma criação dos anos 2010 tirada do bairro pelas letras de dembow, e hoje entendida em qualquer lugar onde toque música dominicana.",
+      "firstAttested": "década de 2010"
+    }
+  },
+  "dominicanyork": {
+    "definitions": [
+      { "text": "Um dominicano que mora em Nova York, ou que voltou de lá — e, com frequência, o jeito que vem junto: o sotaque cheio de inglês, as roupas, os gastos durante uma visita de duas semanas." },
+      { "text": "Usado na ilha, é frequentemente uma alfinetada em quem está se exibindo. Usado em Washington Heights pelas próprias pessoas descritas, é uma afirmação direta de identidade." }
+    ],
+    "examples": {
+      "0": { "translation": "Chegaram os dominicanos de Nova York e subiram os preços na mercearia." },
+      "1": { "translation": "Eu sou dominicana-nova-iorquina, nascida em Quisqueya Heights.", "context": "Quisqueya Heights é o nome local de Washington Heights, de Quisqueya, o nome taíno da ilha." }
+    },
+    "origin": {
+      "etymology": "Criada na ilha durante a migração em massa dos anos 1970 e 80, originalmente com uma ponta afiada — presumia-se que quem voltava trazia dinheiro de origem duvidosa. O insulto foi se desgastando à medida que a diáspora se tornou grande demais e presente demais para ser desdenhada, mas não desapareceu.",
+      "firstAttested": "década de 1970"
+    }
+  },
+  "chopo": {
+    "definitions": [
+      { "text": "Cafona, barato, de baixa qualidade — de roupas, celulares, festas ou pessoas. O insulto é puramente sobre classe social, e os dominicanos o usam uns com os outros com uma franqueza que surpreende estrangeiros." },
+      { "text": "Como substantivo, alguém visto como pobre e sem refinamento. Chopa, o feminino, é ainda mais duro: seu sentido antigo é 'empregada doméstica', que é exatamente a comparação que está sendo feita." }
+    ],
+    "examples": {
+      "0": { "translation": "Esses tênis parecem baratos, não usa não." },
+      "1": { "translation": "Ela me chamou de pobretona na frente de todo mundo.", "context": "Dito sobre uma pessoa em vez de um objeto, é um insulto de verdade e é recebido como tal." }
+    },
+    "origin": {
+      "etymology": "De chopa, palavra antiquada para empregada doméstica, de origem controversa. O adjetivo se generalizou da pessoa para tudo que é associado a ela. Como a comparação de fundo é com o status de empregada, dói mais do que 'brega' dói em português."
+    }
+  },
+  "mamaguevo": {
+    "definitions": [
+      { "text": "O insulto dominicano mais pesado do dia a dia, mais ou menos do peso de 'filho da puta' pesado em português. Dirigido a um estranho, é um convite pra briga." },
+      { "text": "Entre amigos homens muito próximos, ele se inverte completamente e vira uma saudação ou uma piada, que é a coisa mais confusa disso para quem está aprendendo." }
+    ],
+    "examples": {
+      "0": { "translation": "Esse desgraçado bateu no meu carro e saiu correndo!" },
+      "1": { "translation": "Ei, seu babaca, por onde você andou se escondendo?", "context": "Afetuoso. Só entre homens que já têm esse tipo de intimidade — um estrangeiro que tentar vai ser mal interpretado." }
+    },
+    "origin": {
+      "etymology": "Um composto de mamar e güevo, a pronúncia dominicana de huevo no sentido de testículo. Compartilhado com o espanhol venezuelano e cubano. A forma escrita varia porque o /h/ aqui é um [gw] plenamente pronunciado, não uma letra muda.",
+      "sources": []
+    },
+    "literalMeaning": "chupador de pau"
+  },
+  "cuero": {
+    "definitions": [
+      { "text": "Uma prostituta; também, e muito mais comumente, qualquer mulher que o falante julgue promíscua. Um insulto sério, sem equivalente masculino em uso." },
+      { "text": "Às vezes suavizado para significar uma mulher que sai muito, mas a leitura mais dura está sempre disponível e é a ouvinte quem decide qual delas ouviu." }
+    ],
+    "examples": {
+      "0": { "translation": "Não fala isso com a menina, é uma falta de respeito tremenda.", "context": "A frase com essa palavra que um visitante tem mais chance de realmente ouvir é a de alguém reclamando dela." },
+      "1": { "translation": "A confusão toda começou porque ele a chamou de piranha." }
+    },
+    "origin": {
+      "etymology": "O sentido literal é pele de animal, couro. A metáfora — uma mulher reduzida a um pedaço de pele à venda — é antiga e compartilhada com o espanhol cubano. Nada em sua história a torna mais suave do que soa."
+    },
+    "literalMeaning": "couro, pele de animal"
+  },
+  "aguaje": {
+    "definitions": [
+      { "text": "Bravata; uma ameaça ou fanfarronice sem nada por trás. 'Eso e' puro aguaje' é o veredito padrão sobre alguém que promete alto e bom som o que não vai fazer." },
+      { "text": "O verbo aguajear é fazer esse tipo de barulho, e um aguajero é quem faz isso habitualmente." }
+    ],
+    "examples": {
+      "0": { "translation": "Disse que ia chamar a polícia, mas isso é papo furado." },
+      "1": { "translation": "Para de encher linguiça e paga o que você deve." }
+    },
+    "origin": {
+      "etymology": "O aguaje do espanhol padrão é uma ressaca de maré ou uma correnteza — muito movimento, que passa num instante. O sentido dominicano mantém a imagem e a aplica à fala. A palavra existe em outras partes do Caribe, mas é usada muito mais na fala dominicana."
+    }
+  },
+  "vagabundo": {
+    "definitions": [
+      { "text": "Um canalha — alguém desonesto, infiel ou sem escrúpulos. Não diz absolutamente nada sobre morar na rua, que é o sentido que um leitor espanhol ou mexicano buscaria primeiro." },
+      { "text": "Referido a um parceiro especificamente, um infiel: 'ese hombre e' un vagabundo' é uma acusação de traição, não de preguiça." }
+    ],
+    "examples": {
+      "0": { "translation": "Aquele canalha pegou meu dinheiro e sumiu." },
+      "1": { "translation": "Não seja cruel com essa menina." }
+    },
+    "origin": {
+      "etymology": "Uma palavra padrão do espanhol cujo sentido dominicano migrou de 'andarilho' para 'pessoa sem fixação moral nenhuma'. A mudança é completa: o sentido literal está praticamente indisponível na fala, e um dominicano descrevendo uma pessoa realmente sem-teto vai usar outra palavra."
+    },
+    "literalMeaning": "vagabundo, sem-teto"
+  },
+  "jevi": {
+    "definitions": [
+      { "text": "Legal, ótimo, impressionante. Um elogio genérico para objetos, planos e eventos." },
+      { "text": "Referido a uma pessoa, tranquilo e boa companhia, mais do que estiloso." }
+    ],
+    "examples": {
+      "0": { "translation": "Essa jaqueta é irada." },
+      "1": { "translation": "O professor é gente boa, não passa dever nas sextas." }
+    },
+    "origin": {
+      "etymology": "Do inglês 'heavy', que chegou ao espanhol dominicano pelo rock e pelo heavy metal nos anos 1980 e foi reescrito para se ajustar à ortografia do espanhol — o j representa um h inglês. Hoje é usado por gente sem nenhuma ligação com essa música e soa um pouco mais antigo que duro.",
+      "firstAttested": "década de 1980"
+    }
+  },
+  "duro": {
+    "definitions": [
+      { "text": "Excelente, contundente — dito de uma música, um gol, uma roupa ou um trabalho bem feito. 'Eso tá duro' é o veredito padrão de aprovação." },
+      { "text": "Referido a uma pessoa, formidavelmente bom em algo: 'tú tá duro' significa que você tá mandando bem. O elogio é mais competitivo do que caloroso." }
+    ],
+    "examples": {
+      "0": { "translation": "Essa música é sensacional, aumenta o som." },
+      "1": { "translation": "Seu inglês tá impressionante, mano." }
+    },
+    "origin": {
+      "etymology": "O duro padrão, com o mesmo salto figurado que o inglês faz em 'that goes hard'. Os dois desenvolvimentos são independentes; o uso dominicano é décadas anterior ao inglês e foi reforçado pelo reggaeton e pelo dembow, em vez de emprestado deles."
+    }
+  },
+  "matatan": {
+    "definitions": [
+      { "text": "O cara mais importante; aquele a quem ninguém na sala supera no que está sendo feito. Aplicado a um músico, um mecânico ou o chefão do bairro com igual facilidade." },
+      { "text": "Como forma de tratamento é bajulação, e geralmente bajulação com um pedido anexado: 'dime, matatán'." }
+    ],
+    "examples": {
+      "0": { "translation": "O cara mais respeitado do bairro é ele, todo mundo o respeita." },
+      "1": { "translation": "Ei, chefe, você pode me fazer um favor?", "context": "O vocativo bajulador, quase sempre um preâmbulo antes de pedir algo." }
+    },
+    "origin": {
+      "etymology": "Origem incerta. Frequentemente ligada a matar, 'matar', mas a terminação -atán fica sem explicação e nenhuma derivação foi estabelecida. Corrente na fala de rua dominicana bem antes de ser adotada como nome artístico por artistas de dembow e reggaeton, o que a levou para fora da ilha."
+    }
+  },
+  "desacatao": {
+    "definitions": [
+      { "text": "Fora de controle no sentido admirado — uma festa, uma música ou uma apresentação indo muito além do esperado. O elogio central do dembow da última década." },
+      { "text": "Referido a uma pessoa, se comportando sem nenhuma restrição. Se isso é elogio ou aviso depende de quem fala e de quanto teve que limpar depois." }
+    ],
+    "examples": {
+      "0": { "translation": "A festa tá absolutamente insana." },
+      "1": { "translation": "Esse garoto anda descontrolado desde que recebeu o pagamento." }
+    },
+    "origin": {
+      "etymology": "De desacatado, 'desafiador', de desacato — desrespeito à autoridade. O /d/ final cai como em todo particípio dominicano em -ado, razão pela qual a forma escrita mantém o -ao. Sua reinvenção como elogio pertence às letras de dembow dos anos 2010.",
+      "firstAttested": "década de 2010"
+    },
+    "literalMeaning": "desacatado, desafiador"
+  },
+  "teteo": {
+    "definitions": [
+      { "text": "Uma festa, e especificamente o tipo barulhento de rua e colmado que rola até desligarem as caixas de som. A palavra do momento: substituiu bonche quase por completo entre os menores de trinta." },
+      { "text": "Por extensão, qualquer cena caótica. Um escritório lotado ou uma sala de aula barulhenta podem ser 'un teteo'." },
+      { "text": "O verbo é tetear — sair, da mesma forma.", "note": "La teteadera é o hábito disso, geralmente dito por alguém que desaprova." }
+    ],
+    "examples": {
+      "0": { "translation": "Tem festa na 27 hoje à noite." },
+      "1": { "translation": "Ela só quer sair todo fim de semana." },
+      "2": { "translation": "Aquilo ali é uma loucura, ninguém se entende.", "context": "O sentido estendido de 'caos' — não precisa de música nenhuma." }
+    },
+    "origin": {
+      "etymology": "Origem incerta; a forma reduplicada é típica das criações dominicanas e nenhuma palavra de origem convincente foi identificada. Surgiu na fala de bairro de Santo Domingo em meados dos anos 2010 e foi levada ao país inteiro e depois ao exterior pelo dembow, razão pela qual hoje aparece na mídia em espanhol bem fora do país.",
+      "firstAttested": "década de 2010"
+    }
+  },
+  "coro": {
+    "definitions": [
+      { "text": "Uma reunião de amigos: o grupo de pessoas e a ocasião ao mesmo tempo. '¿Y el coro?' pergunta ao mesmo tempo onde todo mundo está e o que vai rolar à noite." },
+      { "text": "Uma turma de amigos considerada como uma unidade — 'mi coro' é minha galera, mais próximo de 'minha gente' do que de 'meus amigos'." }
+    ],
+    "examples": {
+      "0": { "translation": "E o plano pra hoje?" },
+      "1": { "translation": "Cheguei com toda a minha galera." },
+      "2": { "translation": "É só uma reuniãozinha tranquila.", "context": "Corito sano — o diminutivo mais 'saudável' — anuncia uma reunião pequena e sem confusão." }
+    },
+    "origin": {
+      "etymology": "De coro, um coral: um grupo de pessoas fazendo barulho junto. A extensão para reuniões sociais é dominicana e porto-riquenha; o uso dominicano para o próprio evento, e não só o grupo, é o desenvolvimento mais recente."
+    },
+    "literalMeaning": "coro"
+  },
+  "bonche": {
+    "definitions": [
+      { "text": "Uma festa ou uma balada. Perfeitamente compreensível para todo mundo, mas hoje claramente a palavra da geração mais velha — um dominicano com menos de vinte e cinco anos diz teteo ou coro e ouve bonche como algo que os pais dele dizem." },
+      { "text": "O verbo bonchar sobrevive um pouco melhor que o substantivo, sobretudo na expressão 'salir a bonchar'." }
+    ],
+    "examples": {
+      "0": { "translation": "Aqueles ali têm festa todo sábado." },
+      "1": { "translation": "A gente foi curtir até as cinco." }
+    },
+    "origin": {
+      "etymology": "Do inglês 'bunch', no sentido de um monte de gente. Entrou no espanhol caribenho em meados do século XX e ainda é totalmente atual na Venezuela, o que vale a pena saber antes de presumir que está datada em toda parte.",
+      "firstAttested": "meados do século XX"
+    }
+  },
+  "jangueo": {
+    "definitions": [
+      { "text": "Sair sem plano fixo. O verbo é janguear, e cobre desde uma esquina até uma balada." },
+      { "text": "Usado sobre os hábitos gerais de alguém: 'él e' de mucho jangueo' significa que ele está sempre saindo." }
+    ],
+    "examples": {
+      "0": { "translation": "Vamos sair um pouco." },
+      "1": { "translation": "Esse tanto de sair vai custar seu emprego." }
+    },
+    "origin": {
+      "etymology": "Do inglês 'hang out', com morfologia verbal do espanhol e o h reescrito como j. Chegou ao espanhol dominicano por Nova York, em vez de diretamente, razão pela qual é mais forte na diáspora e em Santo Domingo, e mais fraco na fala rural.",
+      "firstAttested": "década de 1980"
+    }
+  },
+  "jumo": {
+    "definitions": [
+      { "text": "Um porre; o estado de estar bêbado. Sempre com coger: 'cogió un jumo' — ele ficou de porre." },
+      { "text": "O adjetivo é jumo ou jumao — bêbado. 'Tá jumo' é a forma mais comum de dizer isso." }
+    ],
+    "examples": {
+      "0": { "translation": "Ficou tão bêbado que nem sabia onde morava." },
+      "1": { "translation": "Não dirige, você tá bêbado." }
+    },
+    "origin": {
+      "etymology": "Geralmente tida como humo, 'fumaça', com a pronúncia aspirada que o espanhol dominicano dá ao h inicial em um punhado de palavras antigas — o bêbado como alguém cheio de vapores. A grafia com j apenas registra como se fala."
+    }
+  },
+  "prendio": {
+    "definitions": [
+      { "text": "De uma festa ou um lugar: bombando, cheio de gente, no auge. 'Esto tá prendío' é o anúncio de que a noite chegou." },
+      { "text": "De uma pessoa: bêbada ou chapada, ou simplesmente num clima louco. Mais leve que jumo e mais vago sobre a causa." }
+    ],
+    "examples": {
+      "0": { "translation": "Chega logo que isso aqui tá bombando." },
+      "1": { "translation": "Ela chegou doidona e subiu na mesa." }
+    },
+    "origin": {
+      "etymology": "Particípio de prender, acender ou ligar, com a habitual perda dominicana do /d/ intervocálico. A mesma metáfora que o inglês alcançou com 'lit', mas de forma independente e bem antes."
+    },
+    "literalMeaning": "aceso, ligado"
+  },
+  "fria": {
+    "definitions": [
+      { "text": "Uma cerveja gelada — quase sempre uma Presidente, e quase sempre a garrafa grande, la grande. 'Una fría' num colmado já basta, sem mais discussão." },
+      { "text": "A temperatura é o que importa, não a bebida: a cerveja dominicana é servida quase congelando, e perguntar se está gelada o bastante é algo normal de se fazer." }
+    ],
+    "examples": {
+      "0": { "translation": "Me dá duas cervejas bem geladas." },
+      "1": { "translation": "Vamos tomar uma cerveja ali na esquina." }
+    },
+    "origin": {
+      "etymology": "Uma elipse de 'una cerveza fría'. O substantivo desapareceu por completo, o que explica como o adjetivo veio a valer sozinho. Comum em todo o Caribe, mas a insistência dominicana no gelado — a cerveja é vendida embrulhada num guardanapo de papel para manter a temperatura — é o que dá à palavra seu peso local."
+    },
+    "literalMeaning": "gelada"
+  },
+  "palo": {
+    "definitions": [
+      { "text": "Uma dose de destilado, quase sempre de rum. 'Un palito' é a oferta educada e 'un palo' a sincera." },
+      { "text": "No sentido de ressaca, a bebida tomada para se recompor: 'un palo pa' la resaca'." }
+    ],
+    "examples": {
+      "0": { "translation": "Me serve uma doses de rum." },
+      "1": { "translation": "Com duas doses ele já tá falando demais." }
+    },
+    "origin": {
+      "etymology": "A metáfora de uma bebida como um golpe ou um pau é antiga e difundida no espanhol; a particularidade dominicana é o quão rotineira ela é e o quanto está firmemente ligada ao rum, em vez de destilados em geral. Vale notar que palo tem um sentido vulgar não relacionado em várias outras variedades — na República Dominicana a leitura padrão é a da bebida."
+    },
+    "literalMeaning": "pau"
+  },
+  "servicio": {
+    "definitions": [
+      { "text": "Uma garrafa de rum pedida com tudo que acompanha — balde de gelo, copos e uma garrafa de cola ou água com gás. A unidade padrão de uma noite num colmadón ou num car wash." },
+      { "text": "Pedir um compromete você a compartilhar: um servicio é comprado para a mesa, nunca para uma pessoa só." }
+    ],
+    "examples": {
+      "0": { "translation": "Pede um servicio de Brugal com tudo pra mesa." },
+      "1": { "translation": "Esse servicio saiu por dois mil pesos." }
+    },
+    "origin": {
+      "etymology": "O servicio padrão, restrito a essa transação específica de bar. A instituição à qual pertence — o colmado que bota caixas de som e cadeiras de plástico na calçada depois do anoitecer, ou o car wash que vira balada no fim de semana — é particular o bastante ao país que a palavra não viaja bem."
+    }
+  },
+  "cuartos": {
+    "definitions": [
+      { "text": "Dinheiro, em geral. A palavra dominicana do dia a dia — dinero soa a formulário oficial, e plata pertence a outros países." },
+      { "text": "Riqueza como propriedade de uma pessoa: 'ese tiene cuarto'' significa que ele é bem de vida." }
+    ],
+    "examples": {
+      "0": { "translation": "Não tenho dinheiro até o dia quinze." },
+      "1": { "translation": "Aquela gente tem dinheiro de verdade." }
+    },
+    "origin": {
+      "etymology": "Do cuarto, uma pequena moeda de cobre do antigo sistema espanhol. A palavra sobreviveu no Caribe e em partes da Espanha como um plural genérico para dinheiro muito depois de a própria moeda desaparecer. O /s/ final é aspirado ou perdido na fala, razão pela qual é frequentemente escrito cuarto'."
+    }
+  },
+  "chele": {
+    "definitions": [
+      { "text": "Um centavo e, na prática, a menor quantia de dinheiro imaginável. Sobrevive quase só no negativo: 'no tengo un chele', não tenho nem um tostão." },
+      { "text": "No plural, chelito', uma quantia pequena de dinheiro, em vez de centavos literais." }
+    ],
+    "examples": {
+      "0": { "translation": "Ando sem um tostão até me pagarem." },
+      "1": { "translation": "Isso não vale nem um centavo." }
+    },
+    "origin": {
+      "etymology": "O nome de uma moeda dominicana de baixa denominação, valendo um centésimo de peso, retirada de circulação há muito tempo. A palavra sobreviveu décadas à moeda. O chele centro-americano, que significa uma pessoa de pele clara, não tem relação e tem outra história."
+    }
+  },
+  "tumbe": {
+    "definitions": [
+      { "text": "Um golpe, uma roubada; também um roubo no sentido específico de tirar algo de alguém que já estava, por si só, tramando algo errado." },
+      { "text": "O verbo tumbar é roubar ou trapacear: 'me tumbaron el celular'. Também usado para traição." }
+    ],
+    "examples": {
+      "0": { "translation": "Aquilo foi um assalto à luz do dia, me cobraram o dobro." },
+      "1": { "translation": "Roubaram a moto dele ali na esquina." }
+    },
+    "origin": {
+      "etymology": "De tumbar, derrubar. O substantivo é bem estabelecido tanto no noticiário policial dominicano quanto nas letras de dembow, o que lhe deu uma circulação além da fala de rua de onde veio."
+    }
+  },
+  "vaina": {
+    "definitions": [
+      { "text": "Coisa — qualquer objeto, situação, evento ou problema cujo nome esteja indisponível ou não valha a pena dizer. O substantivo mais frequente da fala dominicana casual." },
+      { "text": "Um incômodo ou uma confusão: 'se formó una vaina' significa que algo deu muito errado." },
+      { "text": "Como exclamação, '¡qué vaina!' cobre de aborrecimento leve a notícia realmente ruim.", "note": "Levemente grosseira em vez de vulgar. Aceitável entre colegas, ainda evitada numa reunião formal ou na frente da avó." }
+    ],
+    "examples": {
+      "0": { "translation": "Me passa aquela coisa aí." },
+      "1": { "translation": "Que saco, a luz caiu de novo!" },
+      "2": { "translation": "Eu não me meto nessa confusão.", "context": "Dito sobre uma briga, não um objeto." }
+    },
+    "origin": {
+      "etymology": "O vaina padrão do espanhol é uma bainha ou uma vagem. O sentido genérico de 'coisa' se desenvolveu por todo o Caribe e o norte da América do Sul; é mais forte na fala dominicana, venezuelana e colombiana. O uso dominicano é notavelmente mais suave que o colombiano, onde a palavra mantém mais aresta."
+    },
+    "literalMeaning": "bainha, vagem"
+  },
+  "chin": {
+    "definitions": [
+      { "text": "Um pouquinho. 'Un chin' é a palavra de quantidade dominicana por excelência, usada para açúcar, tempo, dinheiro, paciência e espaço igualmente." },
+      { "text": "Reduplicada como 'un chin chin' para uma quantidade bem pequena, e diminuída como 'un chinito' para uma ainda menor." }
+    ],
+    "examples": {
+      "0": { "translation": "Me põe um pouquinho de café." },
+      "1": { "translation": "Espera um segundo que já vou." },
+      "2": { "translation": "Se mexe um pouquinho pra lá." }
+    },
+    "origin": {
+      "etymology": "Controversa. A fonte mais frequentemente proposta é uma palavra de substrato africano trazida por pessoas escravizadas, o que encaixaria com a distribuição caribenha, mas nenhum étimo específico foi estabelecido. A explicação popular que a liga à imigração chinesa é etimologia popular: a palavra está atestada antes de essa imigração ser significativa."
+    }
+  },
+  "concho": {
+    "definitions": [
+      { "text": "Um táxi coletivo: um carro antigo que faz uma rota fixa e leva seis ou sete passageiros, quatro deles no banco de trás. A espinha dorsal do transporte urbano em Santo Domingo e Santiago." },
+      { "text": "O motorista de um, também chamado conchero. 'Coger un concho' é pegar um; você faz sinal e diz o destino pela janela." }
+    ],
+    "examples": {
+      "0": { "translation": "Pega um táxi coletivo pela avenida Duarte." },
+      "1": { "translation": "O taxista não tinha troco." }
+    },
+    "origin": {
+      "etymology": "Origem incerta. A explicação mais repetida a atribui a um apelido ou nome comercial dos carros usados nas primeiras rotas coletivas dos anos 1920, mas o rastro documental é escasso e a palavra deve ser tratada como não explicada. A coisa em si é específica o bastante ao país que os visitantes geralmente conhecem a palavra antes de uma etimologia satisfatória.",
+      "firstAttested": "início do século XX"
+    }
+  },
+  "zafacon": {
+    "definitions": [
+      { "text": "Uma lixeira. A palavra comum — basurero e papelera soam ambas importadas." },
+      { "text": "Figurativamente, onde um plano vai parar: 'eso se fue al zafacón'." }
+    ],
+    "examples": {
+      "0": { "translation": "Joga isso na lixeira." },
+      "1": { "translation": "O projeto inteiro foi pro lixo." }
+    },
+    "origin": {
+      "etymology": "A história popular a deriva do inglês 'safety can', supostamente dos anos da ocupação americana. É repetida constantemente e nunca foi demonstrada; uma proposta alternativa a rastreia ao árabe safaqa via o espanhol azafate, uma bandeja ou cesta. Nenhuma das duas é definitiva, e a versão do 'safety can' deve ser tratada como etimologia popular. Compartilhada com o espanhol porto-riquenho."
+    }
+  },
+  "bregar": {
+    "definitions": [
+      { "text": "Lidar com algo, se virar com isso — com a implicação de esforço e improvisação. 'Bregar con' leva uma pessoa ou um problema: bregar con el tránsito, bregar con mi jefe." },
+      { "text": "Trabalhar, ou se virar: 'toy bregando' significa que estou ganhando a vida, seja lá como for possível essa semana." },
+      { "text": "No negativo, se comportar mal: 'tú bregaste mal conmigo' é uma reclamação sobre como você me tratou." }
+    ],
+    "examples": {
+      "0": { "translation": "Eu resolvo isso amanhã." },
+      "1": { "translation": "Tá trabalhando numa barbearia agora." },
+      "2": { "translation": "Você me tratou muito mal, cara.", "context": "Uma reclamação sobre conduta — não tem nada a ver com trabalho." }
+    },
+    "origin": {
+      "etymology": "O bregar padrão do espanhol significa lutar ou amassar massa. O espanhol caribenho o ampliou para um verbo geral de se virar, e a fala dominicana e porto-riquenha se apoiam muito nele. O sentido de 'me tratou mal' é o menos previsível a partir da entrada de dicionário."
+    }
+  },
+  "jevo": {
+    "definitions": [
+      { "text": "Um namorado ou namorada — jevo para ele, jeva para ela. Mais leve que novio: um jevo é com quem você está saindo, um novio é com quem você tem compromisso, e chamar a pessoa errada de um ou outro começa brigas." },
+      { "text": "Referido a uma mulher sem implicar relacionamento nenhum, jeva simplesmente significa uma mulher jovem, mais ou menos 'garota'. O masculino não é usado assim." }
+    ],
+    "examples": {
+      "0": { "translation": "Ela veio com o namorado." },
+      "1": { "translation": "Tinha um monte de garotas na festa." },
+      "2": { "translation": "Ele não é exatamente meu namorado, a gente tá se pegando.", "context": "A distinção é real e os falantes a fazem de propósito." }
+    },
+    "origin": {
+      "etymology": "Origem incerta, e compartilhada com o espanhol porto-riquenho e venezuelano. Às vezes se propõe uma derivação do inglês 'heavy', mas isso não explica o sentido separado de 'garota' do feminino, e não há evidência além da semelhança com jevi."
+    }
+  },
+  "tirar": {
+    "definitions": [
+      { "text": "Paquerar alguém, dar em cima — sempre com objeto indireto: 'le estoy tirando'. O estágio antes de qualquer coisa ter sido combinada." },
+      { "text": "Atacar alguém verbalmente, especialmente na música: uma tiradera é uma música de provocação, e os rappers 'se tiran' uns aos outros." }
+    ],
+    "examples": {
+      "0": { "translation": "Esse cara tá dando em cima da sua prima." },
+      "1": { "translation": "Passaram a semana inteira se atacando no Instagram.", "context": "O sentido de tiradera. Comum na cobertura de brigas de dembow e rap." }
+    },
+    "origin": {
+      "etymology": "O tirar padrão, jogar, restrito pelo objeto indireto: jogar algo na direção de alguém. Vale avisar visitantes, porque na Argentina, na Espanha e em outros lugares o tirar intransitivo é um termo cru para fazer sexo — a construção dominicana com le não é isso, e as duas se confundem."
+    },
+    "literalMeaning": "jogar"
+  },
+  "pichar": {
+    "definitions": [
+      { "text": "Ignorar alguém deliberadamente — deixar uma mensagem sem resposta, olhar para o outro lado na rua. O que o inglês recentemente passou a chamar de ghosting, com uma história bem mais longa." },
+      { "text": "Também de coisas: pular ou matar. 'Piché la clase' — matei a aula." }
+    ],
+    "examples": {
+      "0": { "translation": "Mandei mensagem e ela me deixou no vácuo." },
+      "1": { "translation": "Não me ignora não, me responde." }
+    },
+    "origin": {
+      "etymology": "Do beisebol: pichar é arremessar, e a imagem por trás é do rebatedor que deixa a bola passar. O beisebol forneceu toda uma camada do vocabulário dominicano dessa forma, o que não surpreende no país que mais envia jogadores para as ligas principais depois dos Estados Unidos."
+    }
+  },
+  "bellaco": {
+    "definitions": [
+      { "text": "Tesudo. De uma pessoa num momento específico, não um traço permanente — embora 'un bellaco' como substantivo signifique alguém permanentemente nessa condição." },
+      { "text": "O substantivo bellaquera é tanto o estado quanto, na música, todo um registro: uma bellaquera também é uma música ou uma festa construída em torno disso." }
+    ],
+    "examples": {
+      "0": { "translation": "Ele tá só tesudo, não liga não." },
+      "1": { "translation": "Essa música é putaria do início ao fim." }
+    },
+    "origin": {
+      "etymology": "O bellaco padrão do espanhol significa um patife ou um velhaco. O estreitamento sexual é caribenho e compartilhado com Porto Rico, de onde o reggaeton fez mais que ninguém para difundi-lo. Vulgar mas não tabu: aparece em títulos de música e no rádio, o que mamagüevo não faz."
+    }
+  },
+  "diablo": {
+    "definitions": [
+      { "text": "Caramba; uau. A reação dominicana coringa para um preço, uma notícia, um gol ou uma pessoa bonita passando. Muito mais suave que seu sentido literal e usável na frente da maioria das pessoas." },
+      { "text": "Esticado — 'diaaablo' — vira admiração em vez de choque, e é assim que se ouve mais no dembow." }
+    ],
+    "examples": {
+      "0": { "translation": "Caramba, que caro!" },
+      "1": { "translation": "Nossa, mano, o que é isso?" }
+    },
+    "origin": {
+      "etymology": "O diabo como interjeição atenuada é antigo e pan-hispânico; o que é dominicano é a frequência e a entonação. Falantes que evitam coño por princípio usam diablo em vez disso, o que manteve a palavra socialmente neutra."
+    },
+    "literalMeaning": "diabo"
+  },
+  "cono": {
+    "definitions": [
+      { "text": "Droga; caramba. Uma interjeição de frustração, surpresa ou ênfase, jogada várias vezes numa mesma frase por falantes irritados." },
+      { "text": "Como intensificador colado a uma pergunta — '¿pero qué coño e' esto?' — carrega mais exasperação do que obscenidade." },
+      { "text": "Seu sentido anatômico literal está essencialmente adormecido na fala dominicana, razão pela qual os falantes o usam com mais liberdade do que a tradução sugere. Ainda é vulgar: não na frente de um cliente, não na frente da sogra." }
+    ],
+    "examples": {
+      "0": { "translation": "Droga, esqueci a chave!" },
+      "1": { "translation": "Mas o que diabos você tá fazendo?" }
+    },
+    "origin": {
+      "etymology": "Literalmente a vulva, do latim cunnus. Sua vida como interjeição coringa é compartilhada com a Espanha, Cuba e Venezuela; em todas elas a leitura literal desbotou, e em nenhuma a palavra virou educada."
+    }
+  },
+  "fucu": {
+    "definitions": [
+      { "text": "Azar grudado numa coisa, numa pessoa ou num nome — uma praga. Não é uma metáfora para muitos falantes: dizer certas palavras em voz alta é tido como algo que traz azar junto." },
+      { "text": "Dito sozinho como aviso de que alguém acabou de convidar o azar. O contrafeitiço é responder '¡zafa!', que o anula, às vezes com um gesto de mão." }
+    ],
+    "examples": {
+      "0": { "translation": "Não fala isso não, que dá azar." },
+      "1": { "translation": "Praga! Desfaz, desfaz!", "context": "Zafa é a resposta fixa. Dizer fucú sem que alguém ofereça zafa deixa a coisa pendurada, que é justamente o sentido da troca." }
+    },
+    "origin": {
+      "etymology": "De uma palavra kikongo ou bantu relacionada, para um espírito malévolo, trazida à ilha pelo tráfico de escravizados; o crioulo haitiano tem formas cognatas. É uma das sobrevivências africanas mais claras do espanhol dominicano e pertence a um sistema de crenças mais amplo, em vez de à gíria propriamente dita."
+    }
+  },
+  "deguabinao": {
+    "definitions": [
+      { "text": "Mole, murcho, sem energia nenhuma — de uma pessoa sem energia, de uma alface, de um plano que perdeu o embalo." },
+      { "text": "De alguém doente ou de coração partido: abatido, visivelmente não bem. A imagem é física antes de ser emocional." }
+    ],
+    "examples": {
+      "0": { "translation": "Ele tá murcho desde que chegou do trabalho." },
+      "1": { "translation": "Essa alface tá murcha." }
+    },
+    "origin": {
+      "etymology": "De guabina, um peixe de água doce de corpo mole que fica flácido assim que é tirado da água. A forma com prefixo e sufixo é dominicana; o mesmo peixe dá a Cuba e à Venezuela expressões relacionadas com a mesma imagem de fundo."
+    }
+  },
+  "dique": {
+    "definitions": [
+      { "text": "Supostamente; aparentemente — e quase sempre com a descrença do falante embutida. 'Dique tá enfermo' significa que ele diz estar doente e eu não acredito." },
+      { "text": "Usado para citar alguém com sarcasmo, substituindo uma frase inteira de olhos revirados: 'me llamó dique pa' disculparse'." }
+    ],
+    "examples": {
+      "0": { "translation": "Supostamente ele vem amanhã." },
+      "1": { "translation": "Ele me veio com a história de que não tinha dinheiro." }
+    },
+    "origin": {
+      "etymology": "Uma contração de dizque, por sua vez de 'dice que' — 'dizem que'. O z cai na grafia dominicana porque esse som não existe na fala. Comum em toda a América Latina, mas a versão dominicana é mais sarcástica que a maioria e aparece nas frases com uma frequência muito maior."
+    }
+  },
+  "tato": {
+    "definitions": [
+      { "text": "Tudo certo; resolvido; combinado. A despedida padrão de um acordo e a resposta padrão a '¿qué lo que?'." },
+      { "text": "Dito de volta para um pedido de desculpas ou uma explicação, encerra o assunto: sem rancor, deixa pra lá." }
+    ],
+    "examples": {
+      "0": { "translation": "A gente se vê às oito então. — Combinado." },
+      "1": { "translation": "Tudo certo, sem problema." }
+    },
+    "origin": {
+      "etymology": "Uma compressão de 'está todo bien'. As duas consoantes finais são aspiradas — o /s/ de está e o /d/ de todo —, razão pela qual é escrito com apóstrofos ou, cada vez mais, como uma única palavra: tato. Essa grafia hoje é a dominante nas mensagens."
+    },
+    "literalMeaning": "tá tudo"
+  },
+  "chercha": {
+    "definitions": [
+      { "text": "Zoeira; conversa alta, brincalhona e provocadora entre um grupo. Uma chercha é uma conversa cujo propósito é o barulho que faz, não a informação que carrega." },
+      { "text": "O verbo cherchar é participar dela, e 'estar en chercha' é estar no meio de uma — o que também é uma desculpa educada para não ter feito nenhum trabalho." }
+    ],
+    "examples": {
+      "0": { "translation": "Passaram a tarde toda na zoeira." },
+      "1": { "translation": "Falei isso de brincadeira, não leva a mal." }
+    },
+    "origin": {
+      "etymology": "Origem incerta. Uma derivação do inglês 'church', pelo barulho de uma congregação, às vezes é oferecida e não é bem sustentada. A palavra é compartilhada com o espanhol porto-riquenho e venezuelano."
+    }
+  },
+  "ombe": {
+    "definitions": [
+      { "text": "Ah, qual é. Uma partícula discursiva de reclamação, jogada no começo de uma frase para sinalizar que o falante já teve o suficiente." },
+      { "text": "Também usada para suavizar uma ordem em um pedido: 'ombe, ayúdame con esto'." },
+      { "text": "Dita a ninguém em particular, é mais próxima de um suspiro do que de uma palavra, e é um dos marcadores confiáveis de um falante mais velho ou rural." }
+    ],
+    "examples": {
+      "0": { "translation": "Ei, me deixa em paz!" },
+      "1": { "translation": "Ah, qual é, não é assim que se faz." }
+    },
+    "origin": {
+      "etymology": "De hombre — o h nunca foi pronunciado e o r caiu, deixando uma partícula de duas sílabas sem nenhuma conexão remanescente com 'homem'. Mulheres a dizem para mulheres tão prontamente quanto homens a dizem para homens."
+    }
+  },
+  "poique": {
+    "definitions": [
+      { "text": "Porque — como é pronunciado no vale do Cibao, onde o /l/ e o /r/ no fim da sílaba viram um i. A mesma regra dá veidá por verdad, capitai por capital e cuaito por cuarto." },
+      { "text": "Listada aqui como o exemplo mais claro do i cibaeño, em vez de uma palavra por direito próprio. É escrita assim deliberadamente — em letras de música, em anúncios e em mensagens — para marcar o falante como de Santiago ou do vale ao redor dela." },
+      { "text": "O traço carrega um forte significado social: afetuosamente rústico para os cibaeños, e uma piada padrão para gente da capital, razão pela qual falantes que se mudam para Santo Domingo costumam perder o traço em menos de um ano." }
+    ],
+    "examples": {
+      "0": { "translation": "Não fui porque não tava a fim." },
+      "1": { "translation": "Isso é verdade, eu que tô te dizendo.", "context": "A mesma regra aplicada a verdad. Assim que você ouve o i numa palavra, começa a ouvi-lo em toda parte." }
+    },
+    "origin": {
+      "etymology": "Uma mudança sonora regional, não uma criação: as líquidas no fim da sílaba se vocalizam em [i] por todo o Cibao. Geralmente é ligada ao povoamento canário do vale, embora as variedades canárias em si não mostrem o traço nessa forma. Santo Domingo e o sul, em vez disso, eliminam a consoante ou, em parte do sudeste, a transformam em l."
+    }
+  }
+}

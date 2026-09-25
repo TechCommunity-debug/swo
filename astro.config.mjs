@@ -9,14 +9,17 @@ export default defineConfig({
   trailingSlash: 'always',
 
   /**
-   * English is the root locale: its pages live at `/`, not `/en/`. Spanish is
-   * prefixed at `/es/`. Country and topic slugs are *not* translated, so the
-   * same entry is `/mexican-slang/people/guey/` and
-   * `/es/mexican-slang/people/guey/` — which is what lets the two be paired
-   * with hreflang without a slug translation table.
+   * English is the root locale: its pages live at `/`, not `/en/`. Every other
+   * edition is prefixed (`/es/`, `/pt/`, `/ja/`…). Country and topic slugs are
+   * *not* translated, so the same entry is `/mexican-slang/people/guey/` and
+   * `/es/mexican-slang/people/guey/` — which is what lets the editions be
+   * paired with hreflang without a slug translation table.
+   *
+   * Keep this list in step with `src/data/locales.ts`, which is the source of
+   * truth for everything else (prefixes, endonyms, og:locale, date formats).
    */
   i18n: {
-    locales: ['en', 'es'],
+    locales: ['en', 'es', 'pt', 'fr', 'de', 'it', 'ru', 'ja', 'ko'],
     defaultLocale: 'en',
     routing: { prefixDefaultLocale: false },
   },
@@ -27,11 +30,11 @@ export default defineConfig({
       //
       // Note the sitemap's own `i18n` option is deliberately *not* used: it
       // assumes every page exists in every locale and would emit alternates
-      // pointing at URLs that 404, since a page only exists in Spanish once its
-      // content has actually been translated. The per-page `<link
+      // pointing at URLs that 404, since a page only exists in a language once
+      // its content has actually been translated. The per-page `<link
       // rel="alternate">` tags in Layout.astro carry the annotations instead,
       // which Google treats as equivalent.
-      filter: (page) => !/\/(es\/)?search\/$/.test(page),
+      filter: (page) => !/\/([a-z]{2}\/)?search\/$/.test(page),
     }),
   ],
 

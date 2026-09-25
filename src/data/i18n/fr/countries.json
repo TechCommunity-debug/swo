@@ -1,0 +1,114 @@
+{
+  "mexican": {
+    "name": "Mexique",
+    "adjective": "mexicain",
+    "languageName": "espagnol mexicain",
+    "intro": "L’espagnol du Mexique porte sans doute le vocabulaire familier le plus dense de tout le monde hispanophone, et la première chose à comprendre, c’est le registre. Le même mot peut être une insulte, un petit nom affectueux ou une simple particule de remplissage, selon le ton et selon qui se trouve dans la pièce. Se tromper là-dessus est l’erreur classique de qui apprend : le vocabulaire s’attrape vite et se rate tout aussi vite.\n\nLa deuxième caractéristique, c’est le double fond. Beaucoup de termes ont un sens anodin en surface et un autre, nettement plus cru, en dessous : c’est la base de l’albur, la tradition mexicaine du jeu de mots à double sens. Quand une fiche a cette seconde couche, nous le signalons.",
+    "metaDescription": "L’argot mexicain expliqué : les mots et expressions de l’espagnol du Mexique, avec sens, prononciation, exemples et avertissements de registre."
+  },
+  "spanish": {
+    "name": "Espagne",
+    "adjective": "espagnol",
+    "languageName": "espagnol péninsulaire",
+    "intro": "L’espagnol d’Espagne est nettement plus direct que la plupart des variétés d’Amérique latine. Des mots qui feraient scandale à Bogotá ou à Lima sont du mobilier de conversation ordinaire à Madrid, et les locuteurs jurent souvent, sans la moindre intention de blesser. Qui arrive d’une salle de classe latino-américaine trouve en général que c’est là le plus dur à ajuster.\n\nLes fiches indiquent clairement quand un terme est réservé à la péninsule, parce qu’une bonne part de l’argot d’Espagne n’est vraiment pas transportable : l’employer au Mexique ou en Argentine vous vaudra un regard vide, au mieux.",
+    "metaDescription": "L’argot espagnol d’Espagne expliqué : les mots et expressions de l’espagnol péninsulaire, avec sens, prononciation et exemples d’usage réels."
+  },
+  "american": {
+    "name": "États-Unis",
+    "adjective": "américain",
+    "languageName": "anglais américain",
+    "intro": "L’argot américain est le vocabulaire familier le plus exporté de la planète, et c’est précisément ce qui le rend difficile à fixer. Un terme peut être en vogue à Atlanta, éventé à Los Angeles et tout juste arrivé à Londres, le tout dans le même mois.\n\nUne bonne part de ce que le reste du monde entend comme de l’argot « américain » générique est née dans l’anglais vernaculaire afro-américain et a gagné la langue courante par la musique, le sport et, plus récemment, les réseaux sociaux. Le trajet vaut d’être connu : il explique pourquoi tant de termes traînent une histoire que ceux qui les emploient ignorent.\n\nLes fiches ci-dessous préfèrent le vocabulaire qui tient dans la durée à ce qui culmine cette semaine. Quand un terme a un ancrage régional précis, ou une origine précise qui change la façon dont il tombe, nous le disons.",
+    "metaDescription": "L’argot américain expliqué : 50 mots et expressions de l’anglais des États-Unis, avec sens, prononciation, exemples traduits et notes d’usage."
+  },
+  "british": {
+    "name": "Royaume-Uni",
+    "adjective": "britannique",
+    "languageName": "anglais britannique",
+    "intro": "L’argot britannique est stratifié comme peu d’autres. La classe sociale, la région et l’âge y laissent leurs empreintes, et un mot qui sonne chaleureux à Newcastle peut sonner sarcastique dans le Surrey. Le pays est assez petit pour que les locuteurs connaissent largement le vocabulaire des autres, et assez grand pour qu’ils ne l’emploient presque jamais : la plupart des Britanniques reconnaissent bien plus d’argot qu’ils n’en diraient à voix haute.\n\nUn piège récurrent pour le visiteur, c’est la litote. Une bonne part de la parole familière britannique veut dire considérablement plus, ou considérablement moins, que ce qu’elle dit littéralement, et plusieurs fiches ci-dessous existent surtout pour pointer cet écart.",
+    "metaDescription": "L’argot britannique expliqué : 50 mots et expressions de l’anglais du Royaume-Uni, avec sens, prononciation, exemples traduits et notes de région et de ton."
+  },
+  "australian": {
+    "name": "Australie",
+    "adjective": "australien",
+    "languageName": "anglais australien",
+    "intro": "L’argot australien tourne sur deux moteurs : le raccourcissement et l’ironie. Presque n’importe quel mot peut être tronqué puis terminé en -o ou en -ie, et le résultat est productif plutôt que figé : les locuteurs en inventent sur-le-champ et s’attendent à être compris.\n\nLe second moteur est l’habitude de nommer les choses par leur contraire, ce qui explique qu’on puisse appeler Shorty la personne la plus grande de la pièce. Les Australiens emploient aussi une poignée de termes bien plus souvent que les étrangers ne l’imaginent, et un ensemble plus large bien moins souvent que ne le suggèrent les films. Quand un mot appartient franchement au second groupe, la fiche le dit au lieu de faire semblant.",
+    "metaDescription": "L’argot australien expliqué : 50 mots et expressions de l’anglais d’Australie, avec sens, prononciation, exemples traduits et notes d’usage."
+  },
+  "canadian": {
+    "name": "Canada",
+    "adjective": "canadien",
+    "languageName": "anglais canadien",
+    "intro": "On décrit souvent l’argot canadien comme une variante douce de l’argot américain, ce qui le sous-estime. Le Canada a son propre vocabulaire institutionnel — les termes de sa monnaie, de son système scolaire, de ses hivers et de ses chaînes de café — plus deux variétés régionales fortes qui ne se ressemblent en rien : l’argot multiculturel des jeunes de Toronto, très marqué par les parlers caribéens et somaliens, et le lexique plus ancien des provinces de l’Atlantique.\n\nLe bilinguisme laisse des traces lui aussi : plusieurs mots courants de l’anglais canadien sont des emprunts directs au français du Québec, employés par des locuteurs qui ignorent tout de leur origine.",
+    "metaDescription": "L’argot canadien expliqué : 50 mots et expressions de l’anglais du Canada, avec sens, prononciation, exemples traduits et notes sur Toronto et l’Atlantique."
+  },
+  "italian": {
+    "name": "Italie",
+    "adjective": "italien",
+    "languageName": "italien",
+    "intro": "L’Italie a unifié sa langue assez récemment, et son argot en montre encore les coutures. Une grande part de ce qui passe pour de l’argot italien est un dialecte régional qui s’est échappé de sa ville d’origine : les mots romains et napolitains, en particulier, se sont répandus dans tout le pays par le cinéma et la télévision, sans rien perdre de leur saveur locale.\n\nL’italien s’appuie aussi beaucoup sur le geste et l’intonation, et plusieurs fiches ci-dessous portent sur des mots dont le sens tient presque entièrement à la manière de les dire. Dans ce cas, les notes d’usage comptent plus que la définition.",
+    "metaDescription": "L’argot italien expliqué : 50 mots et expressions de l’italien, avec sens, prononciation, exemples traduits et notes régionales."
+  },
+  "french": {
+    "name": "France",
+    "adjective": "français",
+    "languageName": "français",
+    "intro": "L’argot français a une particularité structurelle qu’aucune autre langue de ce site ne partage : le verlan, l’inversion des syllabes d’un mot pour en fabriquer un autre. Fête devient teuf, femme devient meuf, et quelques mots en verlan ont été inversés une seconde fois. Le procédé est productif, générationnel, et il fait que connaître le français standard ne vous mène qu’à mi-chemin.\n\nL’autre grande source est l’argot de Paris et de Marseille, plus un filet continu d’emprunts à l’arabe arrivés par les banlieues. Les fiches indiquent de quel courant vient chaque mot, parce que cela en dit long sur qui l’emploie.",
+    "metaDescription": "L’argot français expliqué : 50 mots et expressions du français, avec sens, prononciation, origines en verlan et exemples en situation."
+  },
+  "japanese": {
+    "name": "Japon",
+    "adjective": "japonais",
+    "languageName": "japonais",
+    "intro": "L’argot japonais est façonné par un trait que cette langue possède et que presque aucune autre n’a : un système de politesse obligatoire. Chaque phrase encode déjà la place que le locuteur se donne face à celui qui l’écoute, si bien que l’argot japonais est rarement un simple choix de mots : c’est une déclaration que le registre formel est éteint, et l’employer avec la mauvaise personne est une faute sociale avant d’être une faute de vocabulaire.\n\nLa machinerie productive mérite d’être apprise pour elle-même. Les noms deviennent des verbes avec une terminaison en -ru (Google donne ググる), les adjectifs se contractent à l’oral (すごい donne すげー) et les longs composés se réduisent à quatre syllabes (コストパフォーマンス donne コスパ). Apprenez ces trois schémas et une grande part de ce qui ressemble à de l’argot neuf se révèle être un mot que vous connaissiez déjà, en manteau plus court.\n\nChaque fiche est donnée en écriture japonaise avec sa romanisation Hepburn, parce qu’un mot que vous ne pouvez pas taper est un mot que vous ne pouvez pas chercher.",
+    "metaDescription": "L’argot japonais expliqué : mots et expressions en kanji et kana avec romanisation, sens, exemples traduits et notes sur ce qui est grossier."
+  },
+  "korean": {
+    "name": "Corée du Sud",
+    "adjective": "coréen",
+    "languageName": "coréen",
+    "intro": "L’argot coréen se renouvelle plus vite que celui de toutes les autres langues de ce site, et il le fait par un mécanisme dominant : l’abréviation. On prend la première syllabe de chaque mot d’une expression, on les colle, et l’on a un terme neuf : 치킨 plus 맥주 donne 치맥, 멘탈 plus 붕괴 donne 멘붕. Des phrases entières se compriment ainsi en quatre lettres, et c’est pourquoi les messages d’un Coréen de vingt ans peuvent être illisibles pour ses propres parents.\n\nLa deuxième chose à comprendre, c’est que les termes d’adresse coréens ne sont pas un ornement facultatif. Oppa, unni, sunbae et les autres s’emploient constamment et transportent une information réelle sur l’âge, le genre et la hiérarchie ; plusieurs des fiches ci-dessous sont des termes d’adresse et non du vocabulaire, parce que les rater est la première erreur que commet un étranger, et la plus répétée.\n\nLes fiches sont données en hangeul avec leur lecture en romanisation révisée, et signalent quand un terme n’existe que sur internet et ne se dit pas à voix haute.",
+    "metaDescription": "L’argot coréen expliqué : mots et expressions en hangeul avec romanisation, sens, exemples traduits et notes sur l’âge, la hiérarchie et les pièges."
+  },
+  "colombian": {
+    "name": "Colombie",
+    "adjective": "colombien",
+    "languageName": "espagnol colombien",
+    "intro": "La Colombie n’a pas un argot unique. La montagne a coupé le pays en communautés de parole qui se sont développées en grande partie hors de portée d’oreille les unes des autres, et la différence s’entend dès la première phrase : un paisa de Medellín accroche un pues à la fin de chaque proposition, un bogotano dit usted à ses propres enfants, et un costeño de Barranquilla avale les consonnes à un rythme que l’intérieur du pays a du mal à suivre. Près d’un tiers des fiches qui suivent portent une marque régionale, parce que les employer hors de leur zone serait un déguisement plutôt qu’une phrase.\n\nLa couche qui a voyagé le plus loin est le parlache, le vocabulaire né dans les quartiers à flanc de colline de Medellín pendant les pires années du conflit, puis répandu dans tout le pays par la musique et la télévision. Parce, parche et gonorrea viennent de là, et ils ne sont pas arrivés neutres : les deux premiers ont perdu toutes leurs associations, le troisième non. C’est le piège général ici : l’argot colombien est chaleureux et paraît facile, et une bonne part de ce qu’il porte est une charge de classe ou de région que les natifs entendent aussitôt et que les visiteurs n’entendent pas. Quand une fiche en a une, nous le disons.",
+    "metaDescription": "L’argot colombien expliqué : 50 mots et expressions de l’espagnol de Colombie, avec sens, prononciation, notes régionales et exemples traduits."
+  },
+  "cuban": {
+    "name": "Cuba",
+    "adjective": "cubain",
+    "languageName": "espagnol cubain",
+    "intro": "L’espagnol de Cuba a été façonné par trois forces qu’aucune autre variété ne réunit. La première est le substrat afro-cubain : des mots arrivés par les langues rituelles de la santería et des sociétés abakuá — asere, aché, bembé, ambia — qui sont passés de l’usage religieux et de la rue à la parole ordinaire, certains seulement depuis quarante ans. La deuxième est la Révolution et l’effondrement économique qui l’a suivie, qui ont produit tout un vocabulaire de travail pour la pénurie : resolver, luchar, por la izquierda, sociolismo, el paquete. Ce ne sont pas des expressions pittoresques ajoutées à la langue : ce sont les verbes avec lesquels un Cubain raconte ce qu’il a fait ce matin. La troisième est la diaspora, qui a emporté à Miami un instantané des années soixante de la parole insulaire et a continué à la développer de son côté, si bien que certains mots de cette liste sont vivants des deux côtés et que quelques-uns — gusano avant tout — signifient des choses opposées selon la rive du détroit de Floride où l’on se tient.\n\nCe qui déroute les gens de l’extérieur tient plus au registre et à la politique qu’au vocabulaire. La parole cubaine est phonétiquement rapide et très rognée — les consonnes finales et des syllabes entières disparaissent — et elle est bien plus crue en compagnie ordinaire que la mexicaine ou la colombienne, si bien qu’un visiteur calibré sur ces variétés se trompera systématiquement sur la force d’un mot. Plusieurs des fiches ci-dessous sont en outre politiquement chargées : chivatón, gusano et pincho ne sont pas des descriptions neutres, et les employer à la légère dira d’un Cubain quelque chose sur vous que vous n’aviez peut-être pas l’intention de dire. Quand un terme est propre à l’île, propre à la diaspora, ou dangereux à répéter, nous le disons.",
+    "metaDescription": "L’argot cubain expliqué : 50 mots de la parole de La Havane, de la Période spéciale et de la diaspora de Miami, avec sens, exemples et notes de registre."
+  },
+  "dominican": {
+    "name": "République dominicaine",
+    "adjective": "dominicain",
+    "languageName": "espagnol dominicain",
+    "intro": "L’espagnol dominicain se parle vite et rogné, et ce qui le rend difficile à suivre relève surtout de la phonologie, pas du vocabulaire. Le /s/ en fin de syllabe est aspiré ou disparaît tout à fait — do’ cerveza’ fría’, lo’ muchacho’ —, de sorte que le pluriel ne survit que dans l’article, et le /d/ de tous les participes en -ado tombe : guillao, desacatao, prendío. Dans la vallée du Cibao, autour de Santiago, le /l/ et le /r/ en fin de syllabe deviennent un i : porque devient poique et verdad devient veidá. Dès que l’on entend ces trois règles, une bonne part de ce qui semblait de l’argot inconnu se révèle être de l’espagnol ordinaire poli par l’usage.\n\nLe lexique proprement dit a trois couches qu’il vaut la peine de séparer. Il y a le vieux vocabulaire de rue de la capitale, organisé autour du tíguere et de son envers, le pariguayo. Il y a la couche new-yorkaise, transportée dans les deux sens par une diaspora assez grande pour que janguear et dominicanyork soient aussi chez eux à Washington Heights qu’à Saint-Domingue. Et il y a la couche dembow de la dernière décennie — teteo, desacatao, viejevo —, que la musique en espagnol a portée bien au-delà de l’île et qui a déjà poussé des mots comme bonche jusque dans la génération des parents. Les fiches qui suivent indiquent à quelle couche appartient chaque terme et signalent ceux qui sont vieillis, régionaux ou plus grossiers qu’ils n’en ont l’air.",
+    "metaDescription": "L’argot dominicain expliqué : 50 mots et expressions de l’espagnol dominicain, avec sens, prononciation, exemples et notes sur le Cibao et le dembow."
+  },
+  "irish": {
+    "name": "Irlande",
+    "adjective": "irlandais",
+    "languageName": "anglais d’Irlande",
+    "intro": "L’anglais d’Irlande n’est pas de l’anglais standard avec quelques mots locaux posés dessus. La grammaire de l’irlandais a traversé avec les locuteurs qui ont changé de langue, et une bonne part en fonctionne encore : « I’m after eating » est le passé immédiat irlandais monté avec des pièces anglaises, « he does be working late » est un temps habituel que l’anglais n’a pas par ailleurs, et « giving out » est la traduction mot à mot d’une expression irlandaise qui n’a rien à voir avec le fait de donner. Ceux qui l’emploient ne le ressentent pas comme de l’argot, et c’est exactement pour cela que le visiteur se fait avoir : le vocabulaire se cherche dans un dictionnaire, la grammaire non.\n\nLes différences régionales sont réelles, pas décoratives. Cork a langer et le boy en fin de phrase, le nord a wee et melter par l’écossais d’Ulster, et Dublin fournit presque tout ce que le reste du pays entend à la télévision. Deux autres choses méritent d’être dites sans détour : les mots que le touriste arrive en s’attendant à entendre — begorrah, top o’ the morning — ne sont dits ici par absolument personne, et plusieurs mots qui paraissent simplement pittoresques sur le papier sont vraiment grossiers dans la bouche. Les fiches ci-dessous disent lesquels sont lesquels.",
+    "metaDescription": "L’argot irlandais expliqué : 50 mots et expressions de l’anglais d’Irlande, avec sens, prononciation, exemples réels et notes de région et de registre."
+  },
+  "german": {
+    "name": "Allemagne",
+    "adjective": "allemand",
+    "languageName": "allemand",
+    "intro": "L’argot allemand est stratifié géographiquement à un degré qui surprend ceux qui ont appris la langue dans un manuel. Un petit pain est une Schrippe à Berlin, une Semmel à Munich, un Weck à Stuttgart et un Rundstück à Hambourg ; la particule de fin de phrase est ne au nord, gell au sud et wa à Berlin. À cela s’ajoute un second axe : les petites particules — halt, eben, na, doch — qui n’apportent aucune information et font presque tout le travail pour sonner natif. Personne ne les enseigne, et qui les omet est parfaitement compris tout en sonnant faux.\n\nDeux autres couches font trébucher les gens de l’extérieur. La première est le Kiezdeutsch, le parler urbain des jeunes bâti sur des emprunts au turc et à l’arabe — wallah, yalla, Digga —, aujourd’hui général chez les adolescents allemands de toutes origines mais ridicule dans la bouche d’un adulte. La seconde est l’anglais qui n’est pas de l’anglais : un Handy est un téléphone, un Beamer est un vidéoprojecteur, Homeoffice est le télétravail, et Shitstorm est un mot assez propre pour un journal télévisé. Les fiches qui suivent indiquent à quelle couche appartient chaque mot et, pour le vocabulaire des jeunes, si les gens le disent vraiment ou s’il a seulement gagné un prix.",
+    "metaDescription": "L’argot allemand expliqué : 50 mots et expressions de l’allemand familier, avec sens, prononciation, notes régionales et exemples traduits."
+  },
+  "russian": {
+    "name": "Russie",
+    "adjective": "russe",
+    "languageName": "russe",
+    "intro": "L’argot russe est organisé avant tout autour d’une seule chose : le мат, l’ensemble fermé de quatre racines taboues — хуй, пизда, ебать et блядь — à partir desquelles la langue bâtit un vocabulaire immense et pleinement grammatical. Il ne s’agit pas de jurer au sens français, avec une demi-douzaine de mots de choc. Les racines prennent les préfixes et les suffixes russes ordinaires et engendrent des verbes, des adjectifs, des adverbes et des noms abstraits dont les sens n’ont rien de grossier : охуеть, c’est être sidéré, заебался, c’est être épuisé, наебать, c’est arnaquer, похуй, c’est n’en avoir rien à faire. Un locuteur peut tenir tout un récit sur le mat et rester précis d’un bout à l’autre. En face se tient une couche euphémique tout aussi élaborée, construite en gardant la forme entière du mot et en n’échangeant que la racine qui offense : блин pour блядь, капец pour пиздец, офигеть pour охуеть, забить avec le nom tabou silencieusement supprimé. Savoir quel degré d’un mot on entend, c’est presque tout ce que le registre veut dire en russe.\n\nLes deux autres forces sont l’une historique, l’autre récente. Des décennies de système pénitentiaire soviétique ont poussé l’argot des camps — la фе́ня — dans la parole ordinaire, si bien que des mots comme беспредел, косяк, ксива ou по понятиям sont aujourd’hui dits par des gens qui n’ont jamais approché une prison, le plus souvent sans savoir d’où ils viennent ; зашквар, mot d’adolescent pour tout ce qui fait honte, a une origine carcérale qui stupéfierait la plupart de ceux qui l’emploient. Pendant ce temps, le молодёжный сленг absorbe l’anglais en bloc et le russifie au contact : un verbe emprunté arrive avec la terminaison -ить déjà en place, si bien que чилить, флексить et гуглить se conjuguent et prennent les préfixes d’aspect comme n’importe quel verbe natif — d’où une couche qui sonne domestique en quelques mois plutôt qu’en quelques décennies. Le piège, pour l’étranger, n’est pas de comprendre mais de calibrer. Le mat est une infraction administrative en public et ne passe ni à la radio ni à la télévision, et un étranger qui le sort — surtout s’il l’a appris dans des paroles de chansons — sonne soit menaçant, soit absurde. Comprenez le système entier ; parlez avec les euphémismes.",
+    "metaDescription": "L’argot russe expliqué : le mat et ses euphémismes, les mots des camps passés dans l’usage courant et l’anglais russifié, en cyrillique avec romanisation."
+  }
+}

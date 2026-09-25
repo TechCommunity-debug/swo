@@ -1,0 +1,519 @@
+{
+  "que-lo-que": {
+    "definitions": [
+      { "text": "Was geht ab? Der dominikanische Standardgruß, benutzt unter Freunden, unter Fremden ähnlichen Alters und quer über die Straße gerufen. Erwartet entweder dieselbe Phrase zurück oder „tranquilo“." },
+      { "text": "Was ist hier los? – dieselben Worte, aber mit echtem Interesse an einer Situation gefragt statt als Begrüßung.", "note": "Nur der Tonfall unterscheidet die beiden: Der Gruß ist flach und schnell, die Frage steigt am Ende an." }
+    ],
+    "examples": {
+      "0": { "translation": "Was geht, Alter? Bist du okay?" },
+      "1": { "translation": "Was geht, erzähl mal.", "context": "Schriftform. KLK ist inzwischen so standardmäßig in Nachrichten, dass es auf Ladenschildern und in der Werbung auftaucht." },
+      "2": { "translation": "Und was soll der Lärm da?", "context": "Die wörtliche Frage statt der Begrüßung." }
+    }
+  },
+  "dimelo": {
+    "definitions": [
+      { "text": "Red mit mir – ein Gruß, keine Aufforderung, Informationen zu liefern. Damit ans Telefon zu gehen ist normal, genauso wie es jemandem zuzurufen, der vorbeiläuft." },
+      { "text": "Leg los, ich hör zu. Die wörtliche Bedeutung existiert noch und wird nur durch den Kontext unterschieden." }
+    ],
+    "examples": {
+      "0": { "translation": "Hey Mann! Wie läuft's?" },
+      "1": { "translation": "Sag mal, was heute so ansteht.", "context": "„Dime a ver“ ist die ausführlichere Form und klingt etwas wärmer." }
+    }
+  },
+  "manin": {
+    "definitions": [
+      { "text": "Bruder, Kumpel. Anrede unter Männern, die befreundet sind oder freundlich wirken wollen. Wärmer als loco und ohne dessen Schärfe." },
+      { "text": "Für eine dritte Person: „ese manín“ – der Typ da – meist mit milder Zuneigung." }
+    ],
+    "examples": {
+      "0": { "translation": "Bruder, leih mir kurz dein Ladekabel." },
+      "1": { "translation": "Das ist der Typ, der Motorräder repariert." }
+    }
+  },
+  "loco": {
+    "definitions": [
+      { "text": "Alter, Digger – eine Anrede, die man fast jedem Satz zwischen männlichen Freunden anhängt. Es schwingt keinerlei Andeutung mit, die angesprochene Person sei verrückt." },
+      { "text": "Ein Typ, meist einer, der sich unberechenbar verhält: „ese loco tá desacatao“." }
+    ],
+    "examples": {
+      "0": { "translation": "Alter, so ist das nicht." },
+      "1": { "translation": "Was geht, Alter?" },
+      "2": { "translation": "Der Typ ist gegangen, ohne zu zahlen.", "context": "Verwendung in der dritten Person, mit einem Hauch Missbilligung." }
+    }
+  },
+  "tiguere": {
+    "definitions": [
+      { "text": "Der zentrale Charaktertyp des dominikanischen Straßenlebens: schlagfertig, unbeeindruckt von Regeln, gut darin, sich mit Nerven und Improvisation durchzuschlagen. Bewundernd oder verdammend gemeint, ganz je nachdem, wer es sagt." },
+      { "text": "Von einer Frau: tíguera, und von einem Kind: tíguerito – ein Kind, das zu clever ist für sein eigenes Wohl." },
+      { "text": "Als lockeres Kompliment für jeden, der kompetent und schamlos genug ist, ein Problem zu lösen: „ese doctor e' un tíguere“." }
+    ],
+    "examples": {
+      "0": { "translation": "Der Typ hat die Tickets in einer halben Stunde aufgetrieben." },
+      "1": { "translation": "Trau ihm nicht, das ist ein Gauner.", "context": "Dasselbe Wort, entgegengesetztes Urteil – die Lesart hängt vom Tonfall des Sprechers ab und davon, ob der Zuhörer profitiert." },
+      "2": { "translation": "Kleiner Frechdachs, komm da runter." }
+    }
+  },
+  "pariguayo": {
+    "definitions": [
+      { "text": "Ein Trottel; der Mann, der am Rand der Party steht und die Getränke hält, während andere mit der Frau tanzen, mit der er gekommen ist. Das genaue Gegenteil eines tíguere, und über die Abgrenzung dazu definiert." },
+      { "text": "Im weiteren Sinne jeder, der naiv genug ist, ausgenutzt zu werden, oder so spießig, einer Regel zu folgen, an die sich sonst niemand hält." }
+    ],
+    "examples": {
+      "0": { "translation": "Sei kein Spielverderber, frag sie zum Tanzen." },
+      "1": { "translation": "Sie haben mich wie einen Idioten draußen warten lassen." }
+    }
+  },
+  "cocolo": {
+    "definitions": [
+      { "text": "Ursprünglich ein schwarzer, englischsprachiger Migrant von den Kleinen Antillen – die Zuckermühlenarbeiter, die sich seit dem späten 19. Jahrhundert um San Pedro de Macorís ansiedelten, und ihre Nachfahren, deren guloya-Tanztruppen heute zum UNESCO-Kulturerbe zählen." },
+      { "text": "Ein glühender Fan eines Musikgenres, vor allem der Salsa: „cocolo de la salsa“. In diesem Sinn wird es mit Stolz getragen und hat überhaupt keinen ethnischen Beiklang." }
+    ],
+    "examples": {
+      "0": { "translation": "Mein Großvater war ein cocolo, einer von denen, die kamen, um in den Zuckermühlen zu arbeiten." },
+      "1": { "translation": "Der ist Salsa-Fan durch und durch, er kennt jeden Track von Héctor Lavoe." }
+    }
+  },
+  "sanky-panky": {
+    "definitions": [
+      { "text": "Ein junger dominikanischer Mann, der in den Ferienorten ausländische Frauen umgarnt, mit Visum, Überweisungen oder einer festen Zuwendung als eigentlichem Ziel. Bávaro, Sosúa und Boca Chica sind das klassische Revier." },
+      { "text": "Im weiteren Sinne jeder einheimische Mann, der sichtbar um eine Touristin wirbt – wird auch necktend gebraucht, nicht immer zutreffend." }
+    ],
+    "examples": {
+      "0": { "translation": "Der macht auf Tourismus – er hat drei Ausländerinnen, die ihm Geld schicken." },
+      "1": { "translation": "Vorsicht vor den Strandaufreißern." }
+    }
+  },
+  "guillao": {
+    "definitions": [
+      { "text": "Eingebildet; sich aufspielend. Jemand, der guillao ist, glaubt, über den Leuten zu stehen, mit denen er aufgewachsen ist – und alle sehen es ihm an." },
+      { "text": "So tun, als wäre man etwas: „guillao de rico“, „guillao de gánster“. In dieser Konstruktion kommt es näher an „so tun als ob“ heran als an „arrogant“." },
+      { "text": "Das Substantiv ist guille – die Pose selbst. „Tiene un guille tremendo“ heißt, die Angeberei ist kaum auszuhalten." }
+    ],
+    "examples": {
+      "0": { "translation": "Seit er nach Naco gezogen ist, spielt er sich über alle auf." },
+      "1": { "translation": "Er spielt den großen Künstler und hat noch keinen einzigen Song rausgebracht." }
+    }
+  },
+  "viejevo": {
+    "definitions": [
+      { "text": "Ein Mann mittleren Alters, der sich kleidet, redet und daten geht, als wäre er zwanzig – speziell einer, der viel jüngeren Frauen nachstellt. Spöttisch gemeint, nie ein Kompliment." },
+      { "text": "Die weibliche Form viejeva wird genauso über Frauen benutzt, wenn auch deutlich seltener, was einiges darüber verrät, wer hier eigentlich spottet." }
+    ],
+    "examples": {
+      "0": { "translation": "Der alte Lustmolch ist fünfzig und läuft den Schülerinnen hinterher." },
+      "1": { "translation": "Er hat sich eine Goldkette umgehängt und denkt jetzt, er sei wieder zwanzig." }
+    }
+  },
+  "dominicanyork": {
+    "definitions": [
+      { "text": "Ein Dominikaner, der in New York lebt oder von dort zurückgekehrt ist – und, ebenso oft, die Attitüde, die dazugehört: der Akzent voller Englisch, die Klamotten, das Geldausgeben während eines zweiwöchigen Besuchs." },
+      { "text": "Auf der Insel gebraucht, ist es häufig ein Seitenhieb gegen jemanden, der angibt. In Washington Heights, von den Leuten selbst benutzt, die es beschreibt, ist es eine schlichte Identitätsaussage." }
+    ],
+    "examples": {
+      "0": { "translation": "Die New-York-Leute sind angekommen, und der Tante-Emma-Laden hat die Preise hochgesetzt." },
+      "1": { "translation": "Ich bin dominicanyork, geboren in Quisqueya Heights.", "context": "Quisqueya Heights ist der lokale Name für Washington Heights, nach Quisqueya, dem Taíno-Namen der Insel." }
+    }
+  },
+  "chopo": {
+    "definitions": [
+      { "text": "Billig, minderwertig, geschmacklos – von Kleidung, Handys, Partys oder Leuten. Die Beleidigung dreht sich klar um Klasse, und Dominikaner benutzen sie übereinander mit einer Offenheit, die Außenstehende überrascht." },
+      { "text": "Als Substantiv jemand, der als arm und ungehobelt gilt. Chopa, die weibliche Form, ist noch härter: ihre ältere Bedeutung ist „Hausmädchen“, genau der Vergleich, der hier gezogen wird." }
+    ],
+    "examples": {
+      "0": { "translation": "Diese Turnschuhe sehen billig aus, zieh die nicht an." },
+      "1": { "translation": "Sie hat mich vor allen Leuten als proletig bezeichnet.", "context": "Über eine Person statt einen Gegenstand gesagt, ist es eine echte Beleidigung und trifft auch so." }
+    }
+  },
+  "mamaguevo": {
+    "definitions": [
+      { "text": "Die stärkste alltägliche dominikanische Beleidigung, ungefähr im Gewicht von „Arschloch“ auf Deutsch, teilweise auch derber. Einem Fremden entgegengeschleudert, ist es eine Aufforderung zur Schlägerei." },
+      { "text": "Unter engen männlichen Freunden kippt die Bedeutung komplett und wird zur Begrüßung oder zur Pointe – für Lernende das mit Abstand Verwirrendste daran." }
+    ],
+    "examples": {
+      "0": { "translation": "Dieser Wichser hat mein Auto gerammt und ist abgehauen!" },
+      "1": { "translation": "Hey, Arschloch, wo hast du dich die ganze Zeit rumgetrieben?", "context": "Liebevoll gemeint. Nur unter Männern, die sich diese Art Freiheit gegenseitig schon zugestehen – ein Ausländer, der das versucht, wird missverstanden." }
+    }
+  },
+  "cuero": {
+    "definitions": [
+      { "text": "Eine Prostituierte; noch häufiger jede Frau, der der Sprecher unterstellt, sich herumzutreiben. Eine schwere Beleidigung ohne gebräuchliches männliches Gegenstück." },
+      { "text": "Gelegentlich abgeschwächt im Sinn von einer Frau, die sehr viel ausgeht, aber die härtere Lesart schwingt immer mit, und die Zuhörerin entscheidet, welche sie gehört hat." }
+    ],
+    "examples": {
+      "0": { "translation": "Sag das nicht zu dem Mädchen, das ist eine grobe Respektlosigkeit.", "context": "Der wahrscheinlichste Satz mit diesem Wort, den ein Besucher tatsächlich hört, ist jemand, der sich dagegen verwahrt." },
+      "1": { "translation": "Der ganze Streit fing an, weil er sie eine Schlampe nannte." }
+    }
+  },
+  "aguaje": {
+    "definitions": [
+      { "text": "Großmäuligkeit; eine Drohung oder Angeberei ohne jede Substanz dahinter. „Eso e' puro aguaje“ ist das Standardurteil über jemanden, der laut ankündigt, was er nie tun wird." },
+      { "text": "Das Verb aguajear heißt, genau diesen Krach zu machen, und ein aguajero ist jemand, der das gewohnheitsmäßig tut." }
+    ],
+    "examples": {
+      "0": { "translation": "Er sagte, er würde die Polizei rufen, aber das ist nur heiße Luft." },
+      "1": { "translation": "Lass das Gerede und zahl, was du schuldest." }
+    }
+  },
+  "vagabundo": {
+    "definitions": [
+      { "text": "Ein Schuft – jemand Unehrliches, Untreues oder ohne jeden Skrupel. Es hat nichts, aber auch gar nichts mit Obdachlosigkeit zu tun, woran ein spanischer oder mexikanischer Leser als Erstes denken würde." },
+      { "text": "Speziell über einen Partner: ein Fremdgeher: „ese hombre e' un vagabundo“ ist ein Vorwurf der Untreue, nicht der Faulheit." }
+    ],
+    "examples": {
+      "0": { "translation": "Dieser Gauner hat mir das Geld abgenommen und ist verschwunden." },
+      "1": { "translation": "Behandel das Mädchen nicht so mies." }
+    }
+  },
+  "jevi": {
+    "definitions": [
+      { "text": "Cool, super, beeindruckend. Ein Allzweck-Kompliment für Gegenstände, Pläne und Ereignisse." },
+      { "text": "Von einer Person: locker drauf und gute Gesellschaft, eher als modisch." }
+    ],
+    "examples": {
+      "0": { "translation": "Diese Jacke sieht scharf aus." },
+      "1": { "translation": "Der Lehrer ist cool, er gibt freitags keine Hausaufgaben auf." }
+    }
+  },
+  "duro": {
+    "definitions": [
+      { "text": "Ausgezeichnet, richtig stark – gesagt über einen Song, ein Tor, ein Outfit oder eine Arbeit. „Eso tá duro“ ist das Standardurteil der Zustimmung." },
+      { "text": "Von einer Person: in etwas verdammt gut: „tú tá duro“ heißt, du reißt es gerade richtig. Das Lob ist eher kompetitiv als warmherzig." }
+    ],
+    "examples": {
+      "0": { "translation": "Der Track ist der Hammer, dreh lauter." },
+      "1": { "translation": "Dein Englisch ist echt stark, Alter." }
+    }
+  },
+  "matatan": {
+    "definitions": [
+      { "text": "Der Boss; derjenige, dem im Raum niemand in dem, was gerade läuft, etwas vormacht. Wird gleichermaßen auf einen Musiker, einen Mechaniker oder einen Kiezboss angewendet." },
+      { "text": "Als Anrede ist es Schmeichelei, und meist Schmeichelei mit einer Bitte im Schlepptau: „dime, matatán“." }
+    ],
+    "examples": {
+      "0": { "translation": "Der Boss im Viertel ist er, alle respektieren ihn." },
+      "1": { "translation": "Sag mal, Chef, kannst du mir einen Gefallen tun?", "context": "Die schmeichelnde Anrede, fast immer ein Vorspiel zu einer Bitte." }
+    }
+  },
+  "desacatao": {
+    "definitions": [
+      { "text": "Außer Kontrolle im bewundernden Sinn – eine Party, ein Track oder eine Performance, die weit über das hinausgehen, was erwartet wurde. Das zentrale Dembow-Kompliment des letzten Jahrzehnts." },
+      { "text": "Von einer Person: sich völlig ohne Zügel benehmen. Ob das Lob oder Warnung ist, hängt davon ab, wer spricht und wie viel er hinterher aufräumen musste." }
+    ],
+    "examples": {
+      "0": { "translation": "Diese Party geht komplett ab." },
+      "1": { "translation": "Der Junge ist seit dem Zahltag völlig durchgeknallt." }
+    }
+  },
+  "teteo": {
+    "definitions": [
+      { "text": "Eine Party, und zwar speziell die laute Straßen- und Kiosk-Variante, die läuft, bis die Boxen abgestellt werden. Das Wort der Stunde: es hat bonche bei den unter Dreißigjährigen fast vollständig verdrängt." },
+      { "text": "Im weiteren Sinne jede chaotische Szene. Ein überfülltes Büro oder ein lautes Klassenzimmer kann „un teteo“ sein." },
+      { "text": "Das Verb ist tetear – in diesem Sinne ausgehen.", "note": "La teteadera ist die Angewohnheit dazu, meist von jemandem gesagt, der das missbilligt." }
+    ],
+    "examples": {
+      "0": { "translation": "Heute Abend ist Party in der 27." },
+      "1": { "translation": "Sie will einfach jedes Wochenende ausgehen." },
+      "2": { "translation": "Das ist drüben ein einziges Chaos, keiner versteht den anderen.", "context": "Der erweiterte „Chaos“-Sinn – ohne Musik." }
+    }
+  },
+  "coro": {
+    "definitions": [
+      { "text": "Ein Treffpunkt: die Gruppe von Leuten und der Anlass zugleich. „¿Y el coro?“ fragt zugleich, wo alle sind, und was heute Abend läuft." },
+      { "text": "Eine Clique von Freunden als Einheit betrachtet – „mi coro“ ist meine Crew, näher an „meine Leute“ als an „meine Kumpels“." }
+    ],
+    "examples": {
+      "0": { "translation": "Was steht heute Abend an?" },
+      "1": { "translation": "Ich bin mit meiner ganzen Crew aufgetaucht." },
+      "2": { "translation": "Das ist nur ein ruhiges kleines Treffen.", "context": "Corito sano – die Verkleinerungsform plus „gesund“ – signalisiert eine kleine Runde ohne Ärger." }
+    }
+  },
+  "bonche": {
+    "definitions": [
+      { "text": "Eine Party oder ein Abend unterwegs. Für alle vollkommen verständlich, aber inzwischen klar das Wort der älteren Generation – ein Dominikaner unter fünfundzwanzig sagt teteo oder coro und empfindet bonche als etwas, das die Eltern sagen." },
+      { "text": "Das Verb bonchar hält sich etwas besser als das Substantiv, vor allem in der Wendung „salir a bonchar“." }
+    ],
+    "examples": {
+      "0": { "translation": "Die haben jeden Samstag eine Party laufen." },
+      "1": { "translation": "Wir waren bis fünf Uhr feiern." }
+    }
+  },
+  "jangueo": {
+    "definitions": [
+      { "text": "Abhängen; ohne festen Plan unterwegs sein. Das Verb ist janguear, und es deckt alles ab, von der Straßenecke bis zum Club." },
+      { "text": "Über die allgemeinen Gewohnheiten einer Person: „él e' de mucho jangueo“ heißt, er ist ständig unterwegs." }
+    ],
+    "examples": {
+      "0": { "translation": "Lass uns eine Weile abhängen." },
+      "1": { "translation": "Das viele Ausgehen wird dich noch den Job kosten." }
+    }
+  },
+  "jumo": {
+    "definitions": [
+      { "text": "Ein Betrunkener; der Zustand, betrunken zu sein. Immer mit coger: „cogió un jumo“ – er hat sich einen angetrunken." },
+      { "text": "Das Adjektiv ist jumo oder jumao – betrunken. „Tá jumo“ ist die gewöhnlichste Art, es zu sagen." }
+    ],
+    "examples": {
+      "0": { "translation": "Er hat sich so betrunken, dass er nicht mal mehr wusste, wo er wohnt." },
+      "1": { "translation": "Fahr nicht, du bist betrunken." }
+    }
+  },
+  "prendio": {
+    "definitions": [
+      { "text": "Von einer Party oder einem Ort: voll am Laufen, brechend voll, am Höhepunkt. „Esto tá prendío“ ist die Ansage, dass die Nacht jetzt richtig losgeht." },
+      { "text": "Von einer Person: betrunken oder high, oder einfach in ausgelassener Stimmung. Milder als jumo und unbestimmter, was die Ursache angeht." }
+    ],
+    "examples": {
+      "0": { "translation": "Komm sofort her, hier ist richtig was los." },
+      "1": { "translation": "Sie kam völlig aufgedreht an und ist auf den Tisch geklettert." }
+    }
+  },
+  "fria": {
+    "definitions": [
+      { "text": "Ein kaltes Bier – fast immer eine Presidente, und fast immer die große Flasche, la grande. „Una fría“ an einem Kiosk bekommt man ohne weitere Diskussion." },
+      { "text": "Die Temperatur ist der Punkt, nicht das Getränk selbst: dominikanisches Bier wird fast gefrierend kalt serviert, und zu fragen, ob es kalt genug ist, ist ganz normal." }
+    ],
+    "examples": {
+      "0": { "translation": "Gib mir zwei Bier, richtig kalt." },
+      "1": { "translation": "Lass uns da an der Ecke ein Bier trinken." }
+    }
+  },
+  "palo": {
+    "definitions": [
+      { "text": "Ein Schuss oder ein Maß Schnaps, fast immer Rum. „Un palito“ ist das höfliche Angebot, „un palo“ das ehrliche." },
+      { "text": "Im Sinn des Katertrunks am Morgen danach: der Drink, um sich zu fangen: „un palo pa' la resaca“." }
+    ],
+    "examples": {
+      "0": { "translation": "Schenk mir einen kleinen Rum ein." },
+      "1": { "translation": "Zwei Drinks drin, und er erzählt schon zu viel." }
+    }
+  },
+  "servicio": {
+    "definitions": [
+      { "text": "Eine Flasche Rum, bestellt mit allem, was dazugehört – Eiskübel, Becher und eine Flasche Cola oder Soda. Die Standardeinheit für einen Abend im colmadón oder an der Autowäsche." },
+      { "text": "Wer eine bestellt, verpflichtet sich zum Teilen: ein servicio wird für einen Tisch gekauft, nie für eine Person." }
+    ],
+    "examples": {
+      "0": { "translation": "Bestell einen Brugal mit allem Drum und Dran für den Tisch." },
+      "1": { "translation": "Dieser Rum mit allem drumherum hat uns zweitausend Pesos gekostet." }
+    }
+  },
+  "cuartos": {
+    "definitions": [
+      { "text": "Geld, allgemein. Das alltägliche dominikanische Wort – dinero klingt wie aus einem Formular, und plata gehört anderen Ländern." },
+      { "text": "Wohlstand als Eigenschaft einer Person: „ese tiene cuarto'“ heißt, der hat's dicke." }
+    ],
+    "examples": {
+      "0": { "translation": "Ich habe kein Geld bis zum Fünfzehnten." },
+      "1": { "translation": "Diese Leute haben wirklich Geld." }
+    }
+  },
+  "chele": {
+    "definitions": [
+      { "text": "Ein Cent – und in der Praxis der kleinstmögliche vorstellbare Geldbetrag. Es überlebt fast nur in der Verneinung: „no tengo un chele“, ich hab keinen Pfennig." },
+      { "text": "Im Plural, chelito', eine kleine Geldsumme statt buchstäblicher Cents." }
+    ],
+    "examples": {
+      "0": { "translation": "Ich bin völlig blank, bis ich bezahlt werde." },
+      "1": { "translation": "Das ist keinen Pfennig wert." }
+    }
+  },
+  "tumbe": {
+    "definitions": [
+      { "text": "Eine Abzocke, ein Betrug; auch ein Raub im speziellen Sinn, jemandem etwas wegzunehmen, der selbst nichts Gutes im Schilde führte." },
+      { "text": "Das Verb tumbar heißt stehlen oder betrügen: „me tumbaron el celular“. Wird auch für Fremdgehen benutzt." }
+    ],
+    "examples": {
+      "0": { "translation": "Das war reine Abzocke, sie haben mir das Doppelte berechnet." },
+      "1": { "translation": "Sie haben ihm das Motorrad direkt an der Ecke geklaut." }
+    }
+  },
+  "vaina": {
+    "definitions": [
+      { "text": "Ding – jeder Gegenstand, jede Situation, jedes Ereignis oder Problem, dessen Name gerade nicht zur Hand oder nicht der Rede wert ist. Das mit Abstand häufigste Substantiv im lockeren dominikanischen Sprachgebrauch." },
+      { "text": "Ein Ärgernis oder ein Schlamassel: „se formó una vaina“ heißt, irgendetwas ist gehörig schiefgelaufen." },
+      { "text": "Als Ausruf deckt „¡qué vaina!“ alles ab, von leichtem Ärger bis zu wirklich schlechten Nachrichten.", "note": "Eher derb als vulgär. Unter Kollegen akzeptabel, in einer offiziellen Besprechung oder vor der Großmutter aber immer noch vermieden." }
+    ],
+    "examples": {
+      "0": { "translation": "Reich mir mal das Ding da rüber." },
+      "1": { "translation": "Ach du meine Güte, jetzt ist schon wieder der Strom weg!" },
+      "2": { "translation": "Da misch ich mich nicht ein, in diesen Schlamassel.", "context": "Über einen Streit gesagt, nicht über einen Gegenstand." }
+    }
+  },
+  "chin": {
+    "definitions": [
+      { "text": "Ein kleines bisschen. „Un chin“ ist das dominikanische Mengenwort schlechthin, gleichermaßen für Zucker, Zeit, Geld, Geduld und Platz." },
+      { "text": "Verdoppelt als „un chin chin“ für eine ganz winzige Menge, und verkleinert als „un chinito“ für eine noch winzigere." }
+    ],
+    "examples": {
+      "0": { "translation": "Schenk mir einen Schluck Kaffee ein." },
+      "1": { "translation": "Warte kurz, ich komme gleich." },
+      "2": { "translation": "Rück ein kleines bisschen rüber." }
+    }
+  },
+  "concho": {
+    "definitions": [
+      { "text": "Ein Sammeltaxi auf fester Route: ein altes Limousinen-Auto, das eine feste Linie fährt und sechs oder sieben Passagiere mitnimmt, vier davon auf der Rückbank. Das Rückgrat des Nahverkehrs in Santo Domingo und Santiago." },
+      { "text": "Der Fahrer eines solchen, auch conchero genannt. „Coger un concho“ heißt, eins zu nehmen – man winkt es heran und ruft das Ziel durchs Fenster." }
+    ],
+    "examples": {
+      "0": { "translation": "Nimm ein Sammeltaxi über die Duarte." },
+      "1": { "translation": "Der Taxifahrer hatte kein Wechselgeld." }
+    }
+  },
+  "zafacon": {
+    "definitions": [
+      { "text": "Ein Mülleimer. Das normale Wort – basurero und papelera klingen beide importiert." },
+      { "text": "Im übertragenen Sinn, wo ein Plan landet: „eso se fue al zafacón“." }
+    ],
+    "examples": {
+      "0": { "translation": "Wirf das in den Mülleimer." },
+      "1": { "translation": "Das ganze Projekt ist in der Tonne gelandet." }
+    }
+  },
+  "bregar": {
+    "definitions": [
+      { "text": "Sich um etwas kümmern, es bewältigen – mit dem Beiklang von Mühe und Improvisation. „Bregar con“ nimmt eine Person oder ein Problem: bregar con el tránsito, bregar con mi jefe." },
+      { "text": "Arbeiten oder sich durchschlagen: „toy bregando“ heißt, ich bin gerade dabei, Geld zu verdienen, mit welchen Mitteln auch immer diese Woche verfügbar sind." },
+      { "text": "In der Verneinung: sich schlecht benehmen: „tú bregaste mal conmigo“ ist eine Beschwerde darüber, wie du mich behandelt hast." }
+    ],
+    "examples": {
+      "0": { "translation": "Ich kümmere mich morgen darum." },
+      "1": { "translation": "Er arbeitet gerade in einem Friseursalon." },
+      "2": { "translation": "Du hast mich echt schlecht behandelt, Alter.", "context": "Ein Vorwurf über das Verhalten – hat nichts mit Arbeit zu tun." }
+    }
+  },
+  "jevo": {
+    "definitions": [
+      { "text": "Ein Freund oder eine Freundin – jevo für ihn, jeva für sie. Lockerer als novio: ein jevo ist jemand, mit dem man sich trifft, ein novio jemand, dem man sich verpflichtet hat, und die falsche Bezeichnung zu benutzen löst Streit aus." },
+      { "text": "Über eine Frau ohne jede Beziehungsandeutung bedeutet jeva schlicht eine junge Frau, ungefähr „Mädchen“. Die männliche Form wird so nicht gebraucht." }
+    ],
+    "examples": {
+      "0": { "translation": "Sie kam mit ihrem Freund." },
+      "1": { "translation": "Auf der Party waren jede Menge Mädels." },
+      "2": { "translation": "Er ist nicht mein fester Freund, wir treffen uns nur.", "context": "Die Unterscheidung ist real, und Sprecher treffen sie bewusst." }
+    }
+  },
+  "tirar": {
+    "definitions": [
+      { "text": "Mit jemandem flirten, sich rantasten – immer mit indirektem Objekt: „le estoy tirando“. Das Stadium, bevor irgendetwas vereinbart wurde." },
+      { "text": "Verbal gegen jemanden schießen, besonders in der Musik: eine tiradera ist ein Disstrack, und Rapper „se tiran“ gegeneinander." }
+    ],
+    "examples": {
+      "0": { "translation": "Der macht schon die ganze Zeit Avancen bei deiner Cousine." },
+      "1": { "translation": "Sie haben sich die ganze Woche auf Instagram gegenseitig gedisst.", "context": "Der Diss-Sinn. Häufig in der Berichterstattung über Dembow- und Rap-Fehden." }
+    }
+  },
+  "pichar": {
+    "definitions": [
+      { "text": "Jemanden absichtlich ignorieren – eine Nachricht unbeantwortet lassen, an jemandem auf der Straße vorbeischauen. Was das Englische neuerdings „ghosting“ nennt, nur mit deutlich längerer Geschichte." },
+      { "text": "Auch über Dinge: schwänzen oder sich davor drücken. „Piché la clase“ – ich hab die Stunde geschwänzt." }
+    ],
+    "examples": {
+      "0": { "translation": "Ich hab ihr geschrieben, und sie hat mich auf gelesen sitzen lassen." },
+      "1": { "translation": "Ignorier mich nicht, antworte mir." }
+    }
+  },
+  "bellaco": {
+    "definitions": [
+      { "text": "Geil. Über eine Person in einem bestimmten Moment, kein Dauercharakterzug – auch wenn „un bellaco“ als Substantiv durchaus jemanden bezeichnet, der dauerhaft in diesem Zustand ist." },
+      { "text": "Das Substantiv bellaquera bezeichnet sowohl den Zustand als auch, in der Musik, ein ganzes Genre-Register: eine bellaquera ist auch ein Song oder eine Party, die um dieses Thema herum gebaut ist." }
+    ],
+    "examples": {
+      "0": { "translation": "Der ist einfach geil, ignorier ihn." },
+      "1": { "translation": "Dieser Song ist von vorne bis hinten reine Schweinerei." }
+    }
+  },
+  "diablo": {
+    "definitions": [
+      { "text": "Verdammt; wow. Die dominikanische Allzweckreaktion auf einen Preis, eine Neuigkeit, ein Tor oder einen gutaussehenden Passanten. Viel milder als die wörtliche Bedeutung und vor den meisten Leuten benutzbar." },
+      { "text": "In die Länge gezogen – „diaaablo“ – wird es zu Bewunderung statt Schock, und so hört man es am häufigsten im Dembow." }
+    ],
+    "examples": {
+      "0": { "translation": "Verdammt, wie teuer!" },
+      "1": { "translation": "Wow, Alter, was ist denn hier los?" }
+    }
+  },
+  "cono": {
+    "definitions": [
+      { "text": "Verdammt noch mal; verflucht. Ein Ausruf von Frust, Überraschung oder Nachdruck, den frustrierte Sprecher mehrmals pro Satz einstreuen." },
+      { "text": "Als Verstärker an eine Frage angehängt – „¿pero qué coño e' esto?“ – trägt es eher Verzweiflung als Obszönität." },
+      { "text": "Seine wörtliche anatomische Bedeutung ist im dominikanischen Sprachgebrauch praktisch erloschen, weshalb Sprecher es freier benutzen, als die Übersetzung vermuten lässt. Vulgär bleibt es trotzdem: nicht vor einem Kunden, nicht vor der Schwiegermutter." }
+    ],
+    "examples": {
+      "0": { "translation": "Verdammt, ich hab den Schlüssel vergessen!" },
+      "1": { "translation": "Was zum Teufel machst du da eigentlich?" }
+    }
+  },
+  "fucu": {
+    "definitions": [
+      { "text": "Pech, das an einer Sache, einer Person oder einem Namen haftet – ein Fluch. Für die meisten Sprecher keine Metapher: bestimmte Wörter laut auszusprechen, gilt als Einladung an das fucú." },
+      { "text": "Allein gesagt als Warnung, dass gerade jemand Unglück heraufbeschworen hat. Die Gegenmaßnahme ist die Antwort „¡zafa!“, die es aufhebt, manchmal begleitet von einer Handgeste." }
+    ],
+    "examples": {
+      "0": { "translation": "Sag das nicht, das bringt Unglück." },
+      "1": { "translation": "Verflixt! Weg damit, weg damit!", "context": "Zafa ist die feste Antwort. Fucú zu sagen, ohne dass jemand mit zafa antwortet, lässt die Sache in der Luft hängen – genau darum geht es bei dem Austausch." }
+    }
+  },
+  "deguabinao": {
+    "definitions": [
+      { "text": "Schlapp, schlaff, jede Energie verloren – von einer Person ohne Kraft, von einem Salatkopf, von einem Plan, der seinen Schwung verloren hat." },
+      { "text": "Von jemandem, der krank oder untröstlich ist: hängend, sichtlich nicht in Ordnung. Das Bild ist zuerst körperlich, dann erst emotional." }
+    ],
+    "examples": {
+      "0": { "translation": "Seit er von der Arbeit kam, ist er wie ein nasser Sack." },
+      "1": { "translation": "Dieser Salat ist ganz schlapp geworden." }
+    }
+  },
+  "dique": {
+    "definitions": [
+      { "text": "Angeblich; anscheinend – und fast immer mit dem Unglauben des Sprechers im Gepäck. „Dique tá enfermo“ heißt, er behauptet krank zu sein, und ich glaube ihm nicht." },
+      { "text": "Um jemanden sarkastisch zu zitieren, steht es für einen ganzen augenrollenden Nebensatz: „me llamó dique pa' disculparse“." }
+    ],
+    "examples": {
+      "0": { "translation": "Angeblich kommt er morgen." },
+      "1": { "translation": "Er hat mir irgendeine Geschichte aufgetischt, dass er kein Geld hätte." }
+    }
+  },
+  "tato": {
+    "definitions": [
+      { "text": "Alles gut; ist geritzt; abgemacht. Der Standard-Abschluss einer Vereinbarung und die Standardantwort auf „¿qué lo que?“." },
+      { "text": "Als Antwort auf eine Entschuldigung oder Erklärung beendet es die Sache: alles gut, lass es gut sein." }
+    ],
+    "examples": {
+      "0": { "translation": "Wir sehen uns dann um acht. – Alles klar." },
+      "1": { "translation": "Alles gut, kein Problem." }
+    }
+  },
+  "chercha": {
+    "definitions": [
+      { "text": "Geplänkel; lautes, neckendes Gerede in der Gruppe. Eine chercha ist ein Gespräch, dessen Zweck der Lärm ist, den es macht, nicht die Information darin." },
+      { "text": "Das Verb cherchar heißt, daran teilzunehmen, und „estar en chercha“ heißt, mittendrin zu sein – was auch eine höfliche Ausrede dafür ist, keine Arbeit erledigt zu haben." }
+    ],
+    "examples": {
+      "0": { "translation": "Sie haben den ganzen Nachmittag nur rumgealbert und gewitzelt." },
+      "1": { "translation": "Das war nur zum Scherzen gesagt, nimm's nicht persönlich." }
+    }
+  },
+  "ombe": {
+    "definitions": [
+      { "text": "Ach komm schon; Mensch. Eine Diskurspartikel des Protests, an den Satzanfang gesetzt, um zu signalisieren, dass der Sprecher genug hat." },
+      { "text": "Wird auch benutzt, um eine Aufforderung zu einer Bitte abzumildern: „ombe, ayúdame con esto“." },
+      { "text": "Zu niemand Bestimmtem gesagt, ist es eher ein Seufzer als ein Wort, und eines der verlässlichen Erkennungszeichen eines älteren oder eher ländlichen Sprechers." }
+    ],
+    "examples": {
+      "0": { "translation": "Ach, lass mich in Ruhe!" },
+      "1": { "translation": "Mensch, so macht man das nicht." }
+    }
+  },
+  "poique": {
+    "definitions": [
+      { "text": "Porque – „weil“ – so ausgesprochen, wie man es im Cibao-Tal tut, wo silbenauslautendes /l/ und /r/ zu einem i werden. Dieselbe Regel ergibt veidá für verdad, capitai für capital und cuaito für cuarto." },
+      { "text": "Hier eher als das klarste Einzelbeispiel für den Cibaeño-i-Laut aufgeführt denn als eigenständiges Wort. Es wird absichtlich so geschrieben – in Songtexten, in Werbung und in Nachrichten –, um den Sprecher als aus Santiago oder dem umliegenden Tal stammend zu markieren." },
+      { "text": "Das Merkmal trägt eine starke soziale Bedeutung: für Cibaeños liebevoll ländlich, für Leute aus der Hauptstadt ein gängiger Witz – weshalb Sprecher, die nach Santo Domingo ziehen, es oft innerhalb eines Jahres wieder verlieren." }
+    ],
+    "examples": {
+      "0": { "translation": "Ich bin nicht gegangen, weil ich keine Lust hatte." },
+      "1": { "translation": "Das ist die Wahrheit, ich sag's dir.", "context": "Dieselbe Regel angewendet auf verdad. Sobald man das i in einem Wort einmal hört, hört man es plötzlich überall." }
+    }
+  }
+}

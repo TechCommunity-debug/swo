@@ -1,0 +1,713 @@
+{
+  "geil": {
+    "literalMeaning": "Com tesão, excitado — sentido que a palavra ainda mantém vivo.",
+    "definitions": [
+      { "text": "Ótimo, genial, sensacional. A palavra-coringa de aprovação em alemão e, com folga, o adjetivo de gíria mais usado na língua." },
+      { "text": "De uma pessoa: com tesão. Esse sentido nunca desapareceu, e é por isso que 'du bist geil' e 'das ist geil' caem de formas bem diferentes." }
+    ],
+    "examples": {
+      "0": { "translation": "O show foi sensacional." },
+      "1": { "translation": "Jaqueta maneira, onde você comprou?" },
+      "2": { "translation": "Cara, ele tá afim de você pra valer.", "context": "Com 'auf' seguido de uma pessoa, a leitura sexual é a única possível." }
+    },
+    "origin": {
+      "etymology": "Do alto-alemão médio geil, 'exuberante, animado, viçoso' — o estreitamento sexual veio depois, e o sentido agrícola sobrevive em 'geiler Boden', solo forte demais. O sentido de aprovação saiu da fala jovem da Alemanha Ocidental nos anos 1970-80 e já era plenamente corrente nos anos 1990. As formas intensificadas (saugeil, affengeil, oberaffengeil) datam o falante com bastante precisão nessa época.",
+      "firstAttested": "anos 1970, no sentido moderno"
+    }
+  },
+  "krass": {
+    "definitions": [
+      { "text": "Extremo, intenso, fora do comum — e sem carga de juízo. Uma krasse Party e um krasser Unfall são igualmente krass; só o tom e o contexto dizem se o falante aprova." },
+      { "text": "Sozinho, como interjeição: caramba, não acredito. O reflexo alemão diante de algo espantoso." },
+      { "text": "Como intensificador antes de adjetivo: 'krass gut', muito bom mesmo. Esse uso é mais recente e mais marcado que os outros." }
+    ],
+    "examples": {
+      "0": { "translation": "Caramba, você viu isso?" },
+      "1": { "translation": "Aquele filme foi pesado." },
+      "2": { "translation": "Ela arrasou de verdade." }
+    },
+    "origin": {
+      "etymology": "Do latim crassus, 'espesso, denso', que entrou no alemão erudito com o sentido de 'gritante, flagrante' — um krasser Widerspruch é uma contradição berrante, e esse sentido segue sendo alemão escrito padrão. A fala jovem ficou com a intensidade e descartou a reprovação, uma virada já visível no fim dos anos 1980.",
+      "firstAttested": "fim dos anos 1980, na fala jovem"
+    }
+  },
+  "hammer": {
+    "literalMeaning": "Um martelo.",
+    "definitions": [
+      { "text": "Algo excepcional: 'das ist der Hammer' é o 'isso é incrível' dos alemães. Também usado cru como adjetivo — 'Der Abend war hammer' — o que é estranho gramaticalmente e absolutamente normal na fala." },
+      { "text": "O ponto alto, a parte escandalosa de uma história: 'der Hammer ist, dass er nichts gesagt hat' — e o melhor é que ele não disse nada. Aqui não é elogio nenhum." }
+    ],
+    "examples": {
+      "0": { "translation": "O álbum novo é um espetáculo absoluto." },
+      "1": { "translation": "E agora vem a melhor parte: ele nem estava lá." }
+    },
+    "origin": {
+      "etymology": "Metáfora transparente de impacto, não um empréstimo — a mesma imagem do 'me atingiu' em português. Reforçada nos anos 1970-80 pela narração esportiva, em que um Hammer é um chute violento a gol."
+    }
+  },
+  "gonn-dir": {
+    "literalMeaning": "Conceda isso a si mesmo.",
+    "definitions": [
+      { "text": "Se dá esse presente; vai lá, você merece. Dito para incentivar alguém a se permitir algo — a segunda sobremesa, o tênis caro, o dia de folga." },
+      { "text": "Dito em tom seco e sem objeto, é uma bênção irônica ao excesso alheio: mais ou menos 'problema seu, se divirta'. Se é caloroso ou zombeteiro, quem decide é o tom." }
+    ],
+    "examples": {
+      "0": { "translation": "Mais um pedaço de bolo? Manda ver!" },
+      "1": { "translation": "Ele tirou o dia inteiro de folga. — Bem que ele merece, vai." }
+    },
+    "origin": {
+      "etymology": "O verbo reflexivo comum sich etwas gönnen, 'permitir-se algo', reduzido a um imperativo. Espalhou-se pelo rap alemão por volta de 2013-14 — o substantivo Gönnung, criado nessa cena, é a prova — e foi indicado a Palavra Jovem do Ano. Diferente da maioria das palavras daquele momento, esta sobreviveu, embora hoje soe mais a millennial do que a adolescente.",
+      "firstAttested": "por volta de 2013"
+    }
+  },
+  "moin": {
+    "definitions": [
+      { "text": "Olá — a qualquer hora. A saudação do norte da Alemanha para o dia inteiro, de Hamburgo e Bremen passando por Schleswig-Holstein e pela Frísia Oriental até o norte da Holanda e a Dinamarca." },
+      { "text": "Dobrado como 'moin moin', fica mais caloroso e conversado. Em partes da Frísia Oriental corre a piada de que dizer duas vezes já conta como conversa fiada." }
+    ],
+    "examples": {
+      "0": { "translation": "Bom dia! Tudo certo com você?", "context": "Dito às três da tarde sem que ninguém ache estranho." },
+      "1": { "translation": "Olá, olá, quanto tempo." }
+    },
+    "origin": {
+      "etymology": "Do baixo-alemão e do frísio moi, 'bom, agradável' — ou seja, 'moin Dag' é 'bom dia'. A crença difundida de que seria um 'Morgen' encurtado é etimologia popular, e é por causa dela que os de fora restringem a palavra à manhã por engano. Desde os anos 2000 ela desceu para o sul como saudação casual ou de brincadeira entre falantes mais jovens, mas lá ainda marca quem está bancando o nortista."
+    }
+  },
+  "servus": {
+    "literalMeaning": "Servo (em latim).",
+    "definitions": [
+      { "text": "Olá e tchau, na Baviera e na Áustria. Funciona nos dois sentidos, o que pega de surpresa quem aprende a palavra como saudação e depois a ouve de novo na despedida." },
+      { "text": "De registro informal: você diz a amigos, a colegas com quem se trata por du e ao dono do bar da esquina — não a um desconhecido no banco." }
+    ],
+    "examples": {
+      "0": { "translation": "Oi, como vão as coisas?" },
+      "1": { "translation": "Falou, até amanhã!" }
+    },
+    "origin": {
+      "etymology": "Encurtamento da fórmula latina de cortesia servus humillimus, 'seu humilíssimo servo', que circulava nas terras dos Habsburgo e ficou na área bávaro-austríaca muito depois de o resto da Europa de língua alemã tê-la abandonado. A mesma rota latina deu o servus tcheco e o szervusz húngaro.",
+      "firstAttested": "século XVIII"
+    }
+  },
+  "digga": {
+    "definitions": [
+      { "text": "Mano, parceiro, cara. O vocativo dominante na fala jovem alemã desde mais ou menos 2015, e hoje tão esvaziado de sentido que funciona quase como pontuação." },
+      { "text": "Dito a mulheres e por mulheres com a mesma frequência que entre homens, apesar de a palavra de origem ser masculina — 'Digga, echt jetzt?' de uma mulher para a amiga é absolutamente comum." }
+    ],
+    "examples": {
+      "0": { "translation": "Mano, o que você tá fazendo aí?" },
+      "1": { "translation": "Cara, mano, isso é muito doido.", "context": "Empilhar dois vocativos no mesmo fôlego é totalmente normal e não acrescenta sentido nenhum." }
+    },
+    "origin": {
+      "etymology": "Da gíria de Hamburgo Dicker, 'o gordo' — originalmente um apelido rude e afetuoso para um amigo grandalhão, com o -er reduzido a -a na pronúncia local. Saiu de Hamburgo pela cena de hip-hop da cidade nos anos 1990 e 2000 e daí ganhou o país. Quase nenhum falante atual ainda ouve 'gordo' nela.",
+      "firstAttested": "anos 1990, Hamburgo"
+    }
+  },
+  "alter": {
+    "literalMeaning": "O velho.",
+    "definitions": [
+      { "text": "Cara, meu — vocativo sem nenhuma relação com idade. Mais antigo que Digga e um pouco mais estabelecido; muita gente de quarenta anos ainda usa." },
+      { "text": "Sozinho, é uma exclamação completa de incredulidade, irritação ou espanto: 'Alter!' faz o trabalho de uma frase inteira." }
+    ],
+    "examples": {
+      "0": { "translation": "Cara, me deixa em paz." },
+      "1": { "translation": "Caraca! Você viu a conta?" }
+    },
+    "origin": {
+      "etymology": "De 'mein Alter', antes um jeito brincalhão de se referir ao próprio pai ou marido, generalizado como vocativo na fala jovem a partir dos anos 1970. A exclamação sem parentesco 'alter Schwede' — literalmente 'velho sueco', supostamente vinda dos sargentos suecos contratados pelo Grande Eleitor depois da Guerra dos Trinta Anos — é uma expressão à parte e não se abrevia como 'Alter'.",
+      "firstAttested": "anos 1970"
+    }
+  },
+  "na": {
+    "definitions": [
+      { "text": "Uma saudação completa por si só, dita em tom ascendente: mais ou menos 'e aí — tudo bem?'. A resposta esperada é outro 'na', e a troca acaba aí. Estrangeiros invariavelmente confundem isso com o começo de uma pergunta." },
+      { "text": "Em combinação, guia a frase: 'na ja' é um 'bem…' hesitante, 'na und?' é 'e daí?', 'na klar' é 'claro', 'na also' é 'viu só, eu avisei'." }
+    ],
+    "examples": {
+      "0": { "translation": "E aí — tudo bem?" },
+      "1": { "translation": "Bem… não foi tão ruim assim, vamos combinar." },
+      "2": { "translation": "E daí? Tanto faz." }
+    },
+    "origin": {
+      "etymology": "Uma velha interjeição germânica de chamamento, sem conteúdo lexical, registrada em alemão desde a Idade Média e aparentada a partículas semelhantes por todo o continente. O uso como saudação é mais forte no norte e no leste e é quase universal entre falantes com menos de cinquenta anos."
+    }
+  },
+  "yalla": {
+    "definitions": [
+      { "text": "Vamos; bora; anda logo. Um chamado geral para pôr o pé na estrada, e um dos empréstimos árabes mais naturalizados da fala jovem alemã — usado por falantes sem nenhuma ligação com o árabe." },
+      { "text": "Também serve de despedida, mais ou menos 'então tá, fui': 'Yalla, bis später.'" }
+    ],
+    "examples": {
+      "0": { "translation": "Bora, a gente vai chegar atrasado!" },
+      "1": { "translation": "Bora, gente, de pé." }
+    },
+    "origin": {
+      "etymology": "Do árabe يا الله yā allāh, literalmente 'ó Deus', há muito desgastado até virar um simples 'vamos' em todo o mundo árabe; o turco tem a mesma palavra como hadi/yallah, e as duas comunidades a levaram para o alemão. Chegou à fala jovem geral pelos pátios de escola e pelo rap, não por uma música específica, e hoje é neutra o bastante para aparecer em publicidade."
+    }
+  },
+  "alman": {
+    "literalMeaning": "Alemão (em turco).",
+    "definitions": [
+      { "text": "O alemão estereotipicamente alemão: o que liga para a fiscalização por causa da fumaça do seu churrasco, exige a separação correta do lixo reciclável e reserva a espreguiçadeira às seis da manhã. Descreve comportamento, não ascendência." },
+      { "text": "Usado majoritariamente como piada, inclusive por alemães sobre si mesmos — 'voll der Alman-Move' é uma autoironia padrão. Dito com cara séria e sem afeto, é uma alfinetada étnica leve." }
+    ],
+    "examples": {
+      "0": { "translation": "Ele reclamou do volume do som — atitude alemã clássica." },
+      "1": { "translation": "Conferi a separação do lixo três vezes. Eu sei, sou um estereótipo alemão ambulante." }
+    },
+    "origin": {
+      "etymology": "Do turco Alman, 'alemão', por sua vez do nome de origem francesa para o país. Passou da fala das famílias turco-alemãs para a fala jovem geral por volta de 2017-18 via contas de meme, sobretudo a @almans no Instagram, que praticamente sozinha montou o catálogo moderno de estereótipos.",
+      "firstAttested": "por volta de 2017"
+    }
+  },
+  "kartoffel": {
+    "literalMeaning": "Batata.",
+    "definitions": [
+      { "text": "Um alemão étnico, visto de fora — o irmão mais velho e mais direto de Alman. Onde Alman debocha do comportamento, Kartoffel nomeia o grupo." },
+      { "text": "Amplamente reapropriado: alemães usam a palavra sobre si mesmos ('meine Kartoffel-Seele'), e o romance e o filme de 2017 chamados Die Kartoffel são parte do motivo. Entre desconhecidos ainda é uma alfinetada e, na ponta hostil, é um insulto étnico." }
+    ],
+    "examples": {
+      "0": { "translation": "Meus pais são alemães da gema — lá em casa nunca teve tempero.", "context": "Autoirônico, dito por uma falante alemã sobre a própria família." },
+      "1": { "translation": "Ele fala que nem alemão raiz.", "context": "Sobre sotaque e jeito; pode ser provocação ou desprezo, dependendo de quem fala." }
+    },
+    "origin": {
+      "etymology": "A batata como o alimento emblemático dos alemães, dentro de uma família de rótulos étnicos baseados em comida que existe por toda a Europa. Circula na fala turco-alemã e árabe-alemã desde pelo menos os anos 1990, muito antes de Alman, e foi popularizada além dela nos anos 2010 por comediantes e escritores de origem migrante.",
+      "firstAttested": "anos 1990"
+    }
+  },
+  "spiesser": {
+    "definitions": [
+      { "text": "Um conformista de vistas curtas: cerca-viva aparada ao milímetro, opiniões emprestadas do jornal da região, desconfiança profunda de tudo que é diferente. Um dos xingamentos alemães mais usados, e nem de longe grosseiro." },
+      { "text": "O adjetivo spießig se estende a coisas — uma spießige Hochzeit, uma spießiges Wohnzimmer — no sentido de convencional e sufocante." }
+    ],
+    "examples": {
+      "0": { "translation": "Não seja tão careta, vem junto." },
+      "1": { "translation": "O bairro ficou careta demais para o meu gosto." }
+    },
+    "origin": {
+      "etymology": "Encurtado de Spießbürger, literalmente 'cidadão da lança' — o morador medieval da cidade que se apresentava para a milícia com um Spieß. Escritores do século XIX, sobretudo os românticos, transformaram o termo em sinônimo de estreiteza filisteia, e é esse o sentido que sobreviveu.",
+      "firstAttested": "século XIX, neste sentido"
+    }
+  },
+  "ehrenmann": {
+    "literalMeaning": "Homem de honra.",
+    "definitions": [
+      { "text": "Alguém que te quebrou um galho — guardou um lugar, pagou uma rodada, devolveu o carregador. Mais ou menos 'lenda viva', e mais ou menos tão sincero quanto essa expressão, ou seja, meio irônico." },
+      { "text": "O feminino Ehrenfrau é usado em paralelo, e o associado 'Ehre genommen' ('honra recebida') é a resposta de praxe ao elogio." }
+    ],
+    "examples": {
+      "0": { "translation": "Você guardou um lugar para mim? Lenda!" },
+      "1": { "translation": "Valeu, lenda. — Honra minha." }
+    },
+    "origin": {
+      "etymology": "Um composto antigo e perfeitamente respeitável, revivido como gíria pelo rap alemão por volta de 2017 — Capital Bra e Kollegah empurraram os dois — e eleito Palavra Jovem do Ano de 2018. É um dos poucos vencedores dessa disputa que pegou de verdade, embora hoje soe a fim dos anos 2010 e não à fala adolescente atual.",
+      "firstAttested": "2017, no sentido de gíria"
+    }
+  },
+  "talahon": {
+    "literalMeaning": "Vem cá (em árabe).",
+    "definitions": [
+      { "text": "Um rapaz, em geral lido como árabe ou turco, num visual específico: agasalho de grife, bolsa de ombro cruzada no peito, logomarcas enormes, luxo falso ou aspiracional. Eleita Palavra Jovem do Ano de 2024." },
+      { "text": "Diferente da maioria das vencedoras desse prêmio, esta está mesmo na boca dos adolescentes — mas é também a mais carregada. Traz embutida a suposição de pequena criminalidade, e a extrema direita alemã a adotou em bloco como insulto étnico poucos meses depois de ela viralizar. Está listada aqui para você reconhecer, não para usar." }
+    ],
+    "examples": {
+      "0": { "translation": "Tinha três moleques no uniforme completo de agasalho e bolsinha na frente da estação.", "context": "Mesmo dita sem má intenção, essa frase julga tanto a etnia quanto a roupa." },
+      "1": { "translation": "Esse visual está em todo lugar agora." }
+    },
+    "origin": {
+      "etymology": "Do árabe levantino تعال هنا taʿāl hōn, 'vem cá'. Chegou ao alemão pela faixa 'Ta3al Lahon', de 2022, do rapper libanês-alemão Hassan, cujo refrão virou som de TikTok em 2023-24; o som grudou num estereótipo visual e o substantivo veio atrás.",
+      "firstAttested": "2023"
+    }
+  },
+  "vollpfosten": {
+    "literalMeaning": "Poste completo.",
+    "definitions": [
+      { "text": "Um完 idiota completo — o 'jumento' dos alemães. Desdenhoso, mas não obsceno, e por isso aparece em coluna de jornal e na TV vespertina." },
+      { "text": "Pfosten sozinho faz o mesmo serviço, de forma mais curta e casual." }
+    ],
+    "examples": {
+      "0": { "translation": "O jumento deixou a chave dentro do carro." },
+      "1": { "translation": "Desculpa, ontem eu fui um idiota completo." }
+    },
+    "origin": {
+      "etymology": "Voll- ('totalmente') mais Pfosten, um poste — a imagem é de algo de madeira, maciço e oco por dentro, a mesma metáfora do 'cabeça de bagre'. Uma criação do fim do século XX; o prefixo Voll- é produtivo e gera Volltrottel, Vollhorst, Vollidiot."
+    }
+  },
+  "arschloch": {
+    "literalMeaning": "Cu.",
+    "definitions": [
+      { "text": "Babaca — uma pessoa de fato ruim, não apenas um tolo. O xingamento sério mais usado em alemão, e o registro é exatamente o que o equivalente em português sugere." },
+      { "text": "Vale saber que a lei alemã trata isso como Beleidigung passível de processo. Dizer a um policial rende com toda a confiabilidade uma multa na casa das centenas de euros, e as tabelas são publicadas." }
+    ],
+    "examples": {
+      "0": { "translation": "Que babaca." },
+      "1": { "translation": "Não seja babaca, liga de volta para ela." }
+    },
+    "origin": {
+      "etymology": "Composto transparente, Arsch mais Loch, atestado como insulto desde o início da era moderna. O interessante é o peso jurídico: os tribunais alemães têm uma jurisprudência de longa data sobre quanto custa cada xingamento, e este é o caso de referência."
+    }
+  },
+  "spast": {
+    "definitions": [
+      { "text": "Idiota, retardado — um termo pejorativo sobre deficiência usado de forma banal como xingamento geral, sobretudo por adolescentes e por adultos que foram adolescentes nos anos 1990." },
+      { "text": "Listado para compreensão. Muitos falantes alemães usam sem se dar conta da origem; outros tantos se dão conta, o que faz a palavra provocar reação com toda a certeza, e ela não tem nenhum uso neutro." }
+    ],
+    "examples": {
+      "0": { "translation": "Você é retardado ou o quê?", "context": "Registro de pátio de escola. Um adulto que diga isso em público vai ser lido como agressivo ou como muito desatualizado." }
+    },
+    "origin": {
+      "etymology": "Encurtado de Spastiker, o termo clínico para uma pessoa com paralisia cerebral espástica. Entrou na fala de pátio nos anos 1980, em paralelo ao mesmo desenvolvimento em inglês, e a objeção dos movimentos de pessoas com deficiência é idêntica nas duas línguas.",
+      "firstAttested": "anos 1980"
+    }
+  },
+  "hurensohn": {
+    "literalMeaning": "Filho de uma prostituta.",
+    "definitions": [
+      { "text": "O insulto forte mais comum do alemão. Dirigido a uma pessoa, ofende a mãe dela, e é exatamente por isso que serve para começar briga de um jeito que Arschloch não serve." },
+      { "text": "Entre meninos adolescentes e no rap alemão, está em parte esvaziado e vira intensificador ou exclamação genérica, atirado contra objetos e situações em vez de pessoas. Esse esvaziamento é real, mas se limita a esse registro — para todo o resto, a palavra soa com toda a força original." }
+    ],
+    "examples": {
+      "0": { "translation": "Me chama disso de novo, seu filho da puta.", "context": "Essa é a frase que vem antes da briga, não uma figura de linguagem." },
+      "1": { "translation": "A impressora não funciona, essa desgraçada.", "context": "O uso esvaziado, e só plausível vindo de um falante jovem do sexo masculino." }
+    },
+    "origin": {
+      "etymology": "Uma construção germânica antiga, com paralelos por toda a Europa, mas sua frequência atual em alemão é recente e vem do contato: o turco e o árabe têm insultos à mãe de alta carga, e o rap alemão dos anos 2000 em diante fez deste a tradução padrão. Os tribunais o tratam como um dos insultos mais caros da tabela."
+    }
+  },
+  "depp": {
+    "definitions": [
+      { "text": "Um bobo, um pateta. A palavra padrão para idiota no sul da Alemanha, na Áustria e na Suíça, e muito mais branda que suas equivalentes do norte — amigos próximos se chamam de Depp com afeto genuíno." },
+      { "text": "O adjetivo deppert ('abobado') se estende a situações: uma depperte Regel é uma regra idiota." }
+    ],
+    "examples": {
+      "0": { "translation": "Você é um bobo mesmo.", "context": "Pronúncia bávara, e dito com carinho na maioria das vezes." },
+      "1": { "translation": "Que ideia mais boba." }
+    },
+    "origin": {
+      "etymology": "Uma palavra dos dialetos bávaro-austríacos aparentada a täppisch, 'desajeitado', da mesma raiz de tappen, tatear. Nada a ver com o sobrenome do ator americano, apesar da piada insistente."
+    }
+  },
+  "verpiss-dich": {
+    "literalMeaning": "Mije-se para longe.",
+    "definitions": [
+      { "text": "Cai fora; se manda. Grosseiro, mas não o mais grosseiro — fica acima de 'hau ab' e abaixo de 'fick dich', mais ou menos na força de 'vai se catar'." },
+      { "text": "O verbo reflexivo sich verpissen também funciona de forma descritiva, no sentido de dar no pé ou vazar: 'er hat sich verpisst'." }
+    ],
+    "examples": {
+      "0": { "translation": "Cai fora, não quero te ver." },
+      "1": { "translation": "Ele simplesmente vazou, sem dizer nada." }
+    },
+    "origin": {
+      "etymology": "O prefixo ver- de afastamento sobre pissen, pela mesma lógica de verschwinden ('desaparecer'). É do século XX e estruturalmente paralelo ao 'piss off' inglês sem ser uma tradução dele."
+    }
+  },
+  "kohle": {
+    "literalMeaning": "Carvão.",
+    "definitions": [
+      { "text": "Grana, dinheiro. A gíria alemã de dinheiro mais usada, neutra o bastante para uma conversa de trabalho e compreendida em todo lugar." },
+      { "text": "'Kohle machen' é ganhar dinheiro de verdade; 'die Kohle stimmt' quer dizer que o salário é bom." }
+    ],
+    "examples": {
+      "0": { "translation": "Estou sem grana no momento." },
+      "1": { "translation": "Dá para faturar uma grana boa com isso." }
+    },
+    "origin": {
+      "etymology": "Gíria do século XIX em que o carvão representa aquilo sem o que não se vive e que é preciso comprar sempre — a mesma figura do 'pão' em outras línguas. As minas do Ruhr reforçaram a expressão, mas não a criaram. Ela pertence a uma família grande de palavras para dinheiro (Knete, Kies, Zaster, Moneten, Schotter), várias das quais entraram pelo Rotwelsch e pelo iídiche.",
+      "firstAttested": "século XIX"
+    }
+  },
+  "malochen": {
+    "definitions": [
+      { "text": "Ralar, dar duro — trabalho físico ou desgastante, com um tom de queixa embutido. Você malocht numa obra ou numa dobra de turno, nunca num escritório confortável." },
+      { "text": "O substantivo Maloche é o próprio batente: 'ab zur Maloche', lá vou eu para o batente." }
+    ],
+    "examples": {
+      "0": { "translation": "Ralei o sábado inteiro." },
+      "1": { "translation": "Ele ralou em turnos por trinta anos." }
+    },
+    "origin": {
+      "etymology": "Do iídiche melocho (מלאכה), 'trabalho, ofício', em última instância do hebraico melakhah, que chegou ao alemão pelo Rotwelsch, a fala cifrada de viajantes e mascates. É fortemente associada ao Ruhr e à sua indústria de carvão e aço, mas é compreendida e usada no país inteiro.",
+      "firstAttested": "século XIX"
+    }
+  },
+  "pleite": {
+    "definitions": [
+      { "text": "Duro, sem dinheiro — de uma pessoa sem grana no momento ou de uma empresa que de fato quebrou." },
+      { "text": "Como substantivo, die Pleite é uma falência e, por extensão, qualquer fracasso: 'der Abend war eine Pleite', a noite foi um fiasco." }
+    ],
+    "examples": {
+      "0": { "translation": "Estou completamente duro até sexta." },
+      "1": { "translation": "A empresa quebrou." }
+    },
+    "origin": {
+      "etymology": "Do iídiche plejte, do hebraico pleitah, 'fuga, escapada' — a imagem é a do comerciante insolvente fugindo dos credores, que é também por que a forma antiga completa era 'Pleite gehen', pôr-se em fuga. Nada a ver com nenhuma palavra românica.",
+      "firstAttested": "século XIX"
+    }
+  },
+  "homeoffice": {
+    "definitions": [
+      { "text": "Trabalho remoto, como situação e não como cômodo: 'ich bin im Homeoffice' quer dizer 'hoje trabalho de casa', não 'estou no meu escritório'." },
+      { "text": "Um pseudoanglicismo. Para um leitor britânico, o Home Office é um ministério; para um americano, é a sede da empresa. Nenhum dos dois é o que o alemão quer dizer, e isso gera confusão real em e-mails em inglês escritos por colegas alemães." }
+    ],
+    "examples": {
+      "0": { "translation": "Amanhã eu trabalho de casa." },
+      "1": { "translation": "Temos dois dias de trabalho em casa por semana." }
+    },
+    "origin": {
+      "etymology": "Montada em alemão com peças do inglês na onda do jargão de escritório dos anos 1990, a mesma que produziu Handy e Beamer. Era marginal até 2020, quando a pandemia a transformou, quase da noite para o dia, em um dos substantivos mais usados da língua.",
+      "firstAttested": "anos 1990; de uso geral a partir de 2020"
+    }
+  },
+  "brotzeit": {
+    "literalMeaning": "Hora do pão.",
+    "definitions": [
+      { "text": "Uma refeição fria — pão, frios, queijo, rabanete, talvez Obatzda — e igualmente a pausa em que se come isso. No meio da manhã numa obra, no meio da tarde numa trilha, ou a noite inteira num Biergarten." },
+      { "text": "Bávara e austríaca. A palavra suábia é Vesper, o Abendbrot do norte é especificamente a refeição da noite, e o direito legal de levar a própria Brotzeit para o Biergarten é motivo de orgulho local sincero." }
+    ],
+    "examples": {
+      "0": { "translation": "Vamos parar para comer alguma coisa primeiro." },
+      "1": { "translation": "Trouxe a comida." }
+    },
+    "origin": {
+      "etymology": "Um composto bávaro direto de Brot e Zeit, registrado desde o século XIX no sentido da pausa do pão do trabalhador. A instituição é mais antiga que a palavra."
+    }
+  },
+  "schrippe": {
+    "definitions": [
+      { "text": "Um pãozinho — mas só em Berlim e em Brandemburgo. Peça uma Schrippe em Munique e você recebe um olhar vazio." },
+      { "text": "O pãozinho é o xibolete regional mais afiado da Alemanha: Brötchen na maior parte do norte e do centro, Semmel na Baviera e na Áustria, Weck ou Weckle na Suábia e na Francônia, Rundstück em Hamburgo, e Brötchen reduzido a Brötsch em partes do oeste." }
+    ],
+    "examples": {
+      "0": { "translation": "Dois pãezinhos e um integral com sementes, por favor.", "context": "Pedido numa padaria de Berlim — onde usar a palavra errada é a forma mais rápida de ser identificado como recém-chegado." },
+      "1": { "translation": "Vou correndo comprar pão para o café da manhã." }
+    },
+    "origin": {
+      "etymology": "Provavelmente de schrippen / schripfen, um verbo do alemão central que significa arranhar ou riscar — o pãozinho leva o nome do corte feito em cima dele. A derivação concorrente a partir de 'schrumpfen' não tem sustentação."
+    }
+  },
+  "mass": {
+    "literalMeaning": "Uma medida.",
+    "definitions": [
+      { "text": "Um litro de cerveja num caneco de vidro almofadado. A unidade padrão da Oktoberfest e dos Biergärten bávaros, e a razão pela qual as pessoas subestimam quanto já beberam." },
+      { "text": "Duas armadilhas para quem é de fora: é feminina — die Maß, eine Maß — enquanto o alemão padrão tem das Maß para uma medição, e a vogal é breve. 'Eine Maß, bitte' dito com a vogal longa e o artigo errado te entrega na hora." }
+    ],
+    "examples": {
+      "0": { "translation": "Um litro de cerveja, por favor." },
+      "1": { "translation": "Depois do segundo litro ele não servia mais para nada." }
+    },
+    "origin": {
+      "etymology": "Do alto-alemão médio mâʒ, uma medida de volume, padronizada na Baviera em 1,069 litro antes de o litro métrico assumir em 1871. O caneco em si é o Maßkrug; pedir 'einen Maßkrug' rende o vidro vazio, ao menos em tese."
+    }
+  },
+  "fressen": {
+    "definitions": [
+      { "text": "A rigor, o verbo de comer usado para animais — o alemão mantém essen e fressen rigorosamente separados, e uma vaca nunca isst. Aplicado a uma pessoa, significa devorar, empanturrar-se, e é deliberadamente ofensivo ou brincalhão." },
+      { "text": "Também 'engolir' em sentido figurado: 'das hat er gefressen' quer dizer que ele finalmente entendeu a coisa; já 'einen Narren an jemandem gefressen haben' quer dizer ter criado uma simpatia inexplicável por alguém." }
+    ],
+    "examples": {
+      "0": { "translation": "Não devora desse jeito, é nojento.", "context": "Dito em família ou entre amigos próximos. A um desconhecido, seria um insulto seco." },
+      "1": { "translation": "Me dá alguma coisa para comer, estou morrendo.", "context": "Aplicado a si mesmo, é só exagero de brincadeira e totalmente amistoso." }
+    },
+    "origin": {
+      "etymology": "Do alto-alemão antigo freʒʒan, de ver- mais eʒʒan — literalmente 'comer até o fim, devorar'. A separação animal/humano é uma das distinções vivas mais antigas do léxico alemão, e é exatamente isso que torna a travessia ofensiva."
+    }
+  },
+  "vorgluehen": {
+    "literalMeaning": "Pré-aquecer — especificamente as velas de aquecimento de um motor a diesel.",
+    "definitions": [
+      { "text": "Esquentar antes: ficar quase bêbado no apartamento de alguém antes de sair, porque os preços de bar e balada tornam isso inviável no local." },
+      { "text": "É um ritual social inteiro, não só um verbo — o Vorglühen é um evento para o qual se é convidado, muitas vezes com playlist e horário de início próprios." }
+    ],
+    "examples": {
+      "0": { "translation": "Vamos esquentar lá em casa, a partir das dez mais ou menos." },
+      "1": { "translation": "Bebi demais antes, não me deixam mais entrar.", "context": "Com a política de porta que Berlim tem, esse é um desfecho real." }
+    },
+    "origin": {
+      "etymology": "Das velas de aquecimento do motor a diesel, que precisam ser pré-aquecidas antes de o motor pegar — vorglühen é a luzinha do painel. A gíria estudantil pegou a metáfora nos anos 1990 e hoje é a palavra comum.",
+      "firstAttested": "anos 1990"
+    }
+  },
+  "kater": {
+    "literalMeaning": "Gato macho.",
+    "definitions": [
+      { "text": "Ressaca. 'Einen Kater haben' é a expressão fixa; 'Katerfrühstück' é o café da manhã gorduroso que vem depois." },
+      { "text": "Estendida a decepções não alcoólicas: o Wahlkater depois de um resultado eleitoral, o Kater quando as férias acabam." }
+    ],
+    "examples": {
+      "0": { "translation": "Estou com uma ressaca terrível." },
+      "1": { "translation": "Metade do escritório estava de ressaca depois da festa da empresa." }
+    },
+    "origin": {
+      "etymology": "Quase certamente não vem do gato. A derivação mais provável é de Katarrh ('catarro'), gíria dos estudantes de Leipzig no século XIX para o mal-estar do dia seguinte, remodelada pela pronúncia local numa palavra que por acaso já existia. A história do gato é etimologia popular, mas está tão consolidada que os alemães hoje imaginam o bicho, e os cartunistas o desenham.",
+      "firstAttested": "século XIX, estudantes de Leipzig"
+    }
+  },
+  "absacker": {
+    "definitions": [
+      { "text": "A saideira — aquele último drinque antes de dormir ou de ir embora, em geral um destilado e em geral não o último de fato." },
+      { "text": "Dito com certa ironia cúmplice: propor um Absacker à uma da manhã é entendido por todos os presentes como uma intenção, não como um plano." }
+    ],
+    "examples": {
+      "0": { "translation": "Mais uma saideira?" },
+      "1": { "translation": "Tomamos mais três 'últimas' no bar." }
+    },
+    "origin": {
+      "etymology": "De absacken, 'afundar, ceder' — o que o bebedor faz depois, e também o que a noite faz. É do século XX, com o mesmo verbo náutico por trás que descreve um navio afundando na água."
+    }
+  },
+  "gaudi": {
+    "definitions": [
+      { "text": "Diversão, farra, um bom momento — bávara e austríaca. 'Eine Gaudi' é uma ocasião concreta de diversão, não a qualidade abstrata." },
+      { "text": "O gênero é instável: die Gaudi na Baviera, das Gaudi em boa parte da Áustria e da Suábia. Ambos estão certos em seu próprio território." }
+    ],
+    "examples": {
+      "0": { "translation": "Foi uma farra danada!", "context": "Pronúncia bávara de 'das war eine Gaudi'." },
+      "1": { "translation": "Só de brincadeira, não foi por mal." }
+    },
+    "origin": {
+      "etymology": "Do latim gaudium, 'alegria', pela via do latim macarrônico de estudantes e escolas de mosteiro — a mesma rota que deu o Gaudeamus igitur. Sobreviveu no sul católico e nunca atravessou para o norte."
+    }
+  },
+  "anbaggern": {
+    "literalMeaning": "Cavar em alguém com uma escavadeira.",
+    "definitions": [
+      { "text": "Dar em cima de alguém — pesado, óbvio e em geral sem sucesso. A escavadeira da etimologia está fazendo trabalho de verdade: a palavra implica insistência e ausência total de sutileza." },
+      { "text": "Quase sempre usada sobre os outros. Você diz que alguém foi angebaggert; raramente descreve a própria abordagem assim, a não ser em tom de autoironia." }
+    ],
+    "examples": {
+      "0": { "translation": "Ele ficou em cima dela a noite inteira." },
+      "1": { "translation": "Estão dando em cima de mim agora?" }
+    },
+    "origin": {
+      "etymology": "De Bagger, escavadeira, por sua vez do neerlandês baggeren, dragar. Uma criação do século XX, e uma das imagens mais vívidas da gíria alemã — o pretendente como maquinário pesado."
+    }
+  },
+  "knutschen": {
+    "definitions": [
+      { "text": "Ficar aos beijos, se agarrar. Entusiasmado e prolongado, em contraste com küssen, que cobre de um selinho para cima." },
+      { "text": "Rumknutschen acrescenta a ideia de fazer isso em público e demoradamente; um Knutschfleck é um chupão." }
+    ],
+    "examples": {
+      "0": { "translation": "Eles ficaram se agarrando metade da noite." },
+      "1": { "translation": "Você está com um chupão no pescoço." }
+    },
+    "origin": {
+      "etymology": "De origem expressiva, de uma família de palavras em knu- que sugerem apertar e comprimir (knautschen, amassar; kneten, sovar). Não é empréstimo — quem faz o trabalho é o som."
+    }
+  },
+  "schatzi": {
+    "literalMeaning": "Tesourinho.",
+    "definitions": [
+      { "text": "Amor, querido. O diminutivo de Schatz, e o carinho padrão entre casais e de pais para filhos." },
+      { "text": "Também usado como arma. 'Hör mal, Schatzi' vindo de um desconhecido ou de um colega é condescendente e muitas vezes machista, e 'Nein, Schatzi' é como se recusa um pedido deixando claro que quem pediu está sendo ridículo. Quem aprende a palavra como algo simpático e a usa com conhecidos cria constrangimentos reais." }
+    ],
+    "examples": {
+      "0": { "translation": "Amor, você pode vir aqui um instante?" },
+      "1": { "translation": "Escuta aqui, benzinho, não é assim que funciona.", "context": "Puro paternalismo. O insulto está no diminutivo." }
+    },
+    "origin": {
+      "etymology": "Schatz, 'tesouro', é termo de carinho desde a Idade Média; o diminutivo -i é de origem sul-alemã e austríaca e se espalhou pelo país via televisão e música pop na segunda metade do século XX."
+    }
+  },
+  "smash": {
+    "definitions": [
+      { "text": "Transar com alguém, ou julgar alguém digno disso. Palavra Jovem do Ano de 2022, e encontrada sobretudo no formato de jogo 'Smash oder Pass', mais do que como verbo livre." },
+      { "text": "Com franqueza: fora desse jogo e do contexto do TikTok, a palavra é magra. Adolescentes alemães realmente dizem, mas adultos usando 'smash' numa conversa comum soam exatamente tão estranhos quanto a cobertura do prêmio fez parecer, e ela nunca desenvolveu o paradigma verbal completo que uma palavra nativa teria." }
+    ],
+    "examples": {
+      "0": { "translation": "Pegaria ou passaria?", "context": "O formato do jogo. Quase todo o uso real da palavra é esse." },
+      "1": { "translation": "Nesse aí eu ia.", "context": "Gramaticalmente alemão, lexicalmente inglês — o híbrido é típico dos empréstimos juvenis atuais." }
+    },
+    "origin": {
+      "etymology": "Direto da gíria de internet em inglês, onde 'smash or pass' era formato de meme desde o começo dos anos 2010. Chegou ao alemão pelo TikTok por volta de 2021 e venceu a Palavra Jovem do Ano da Langenscheidt em 2022, prêmio decidido por voto popular e que costuma superestimar o quanto uma palavra está estabelecida.",
+      "firstAttested": "2021"
+    }
+  },
+  "boah": {
+    "definitions": [
+      { "text": "A exclamação coringa do alemão: espanto, exasperação, nojo, incredulidade. A duração e a altura do som fazem todo o trabalho semântico — um boah curto e plano é irritação, um longo e ascendente é admiração." },
+      { "text": "'Boah ey' é a versão clássica dos anos 1980-90 com sotaque do Ruhr. Ainda se diz o tempo todo, mas hoje carrega um leve ar retrô." }
+    ],
+    "examples": {
+      "0": { "translation": "Nossa, que calor aqui dentro." },
+      "1": { "translation": "Ah, pelo amor de Deus, chega." }
+    },
+    "origin": {
+      "etymology": "Um som expressivo natural, não uma palavra com etimologia, cuja grafia foi padronizada pelos quadrinhos e pelo boom da comédia do Ruhr nos anos 1980. Sua difusão nacional costuma ser creditada à televisão — o dialeto do Ruhr tinha forte presença na comédia da Alemanha Ocidental naquela década."
+    }
+  },
+  "cringe": {
+    "definitions": [
+      { "text": "Constrangedor de assistir; vergonha alheia. Usado como adjetivo predicativo — 'das ist so cringe' — o que não é como o inglês usa a palavra." },
+      { "text": "Palavra Jovem do Ano de 2021, e de fato uma das poucas vencedoras que pegou. Pegou tão bem que adultos e marcas passaram a usar, o que é justamente por que os adolescentes começaram a achar a própria palavra cringe." }
+    ],
+    "examples": {
+      "0": { "translation": "Foi tão constrangedor que eu não consegui olhar." },
+      "1": { "translation": "Aquela apresentação foi vergonha alheia elevada à décima potência.", "context": "Empilhar a palavra sobre o nativo Fremdscham é comum e levemente brincalhão." }
+    },
+    "origin": {
+      "etymology": "Emprestada do uso de internet em inglês por volta de 2019-20 e reanalisada como adjetivo, o que o inglês não permite. O alemão já tinha o substantivo exato para esse sentimento — Fremdscham — o que faz do empréstimo puro gesto de registro, e não preenchimento de lacuna.",
+      "firstAttested": "2019"
+    }
+  },
+  "schmarrn": {
+    "literalMeaning": "Uma panqueca desfiada — como no Kaiserschmarrn.",
+    "definitions": [
+      { "text": "Bobagem, besteira, papo furado. Bávara e austríaca, e a forma padrão de descartar o que alguém acabou de dizer." },
+      { "text": "Também 'nada de nada': 'a Schmarrn hab i davon' quer dizer que eu não tirei absolutamente nada disso." }
+    ],
+    "examples": {
+      "0": { "translation": "Não fala besteira.", "context": "Bávaro para 'red keinen Schmarrn' — uma das frases mais ouvidas no estado." },
+      "1": { "translation": "Publicaram essa besteira no jornal?" }
+    },
+    "origin": {
+      "etymology": "É a mesma palavra do prato: um Schmarrn é algo rasgado em pedaços disformes, de um verbo dialetal que significa espalhar ou raspar. Conversa fiada é conversa em pedaços. A história do Kaiserschmarrn sobre a panqueca arruinada de Francisco José é uma lenda posterior ligada ao prato, não a origem da palavra."
+    }
+  },
+  "wurst": {
+    "literalMeaning": "Isso é salsicha para mim.",
+    "definitions": [
+      { "text": "Estou pouco me lixando; tanto faz para mim. Não é rude nem agressivo — é só uma declaração seca de indiferença, e bem mais comum na fala que o neutro 'das ist mir egal'." },
+      { "text": "A forma do sul e da Áustria é 'Wurscht', e 'wurscht' também funciona como adjetivo puro: 'is mir wurscht'." }
+    ],
+    "examples": {
+      "0": { "translation": "Italiano ou tailandês? — Para mim tanto faz." },
+      "1": { "translation": "Se ele vem ou não, para mim dá no mesmo." }
+    },
+    "origin": {
+      "etymology": "Atestada desde o século XIX; o raciocínio por trás dela é genuinamente obscuro. As duas explicações de praxe — que a salsicha tem duas pontas e tanto faz por qual você começa, e que as sobras do açougue iam todas para a salsicha de qualquer jeito — são racionalizações posteriores, e nenhuma tem apoio documental.",
+      "firstAttested": "século XIX"
+    }
+  },
+  "halt": {
+    "definitions": [
+      { "text": "A partícula da resignação. Marca o que vem em seguida como um fato inalterável com o qual você parou de discutir: 'das ist halt so' — é assim mesmo, e não adianta debater." },
+      { "text": "Não tem equivalente e as traduções precisam recorrer a 'simplesmente', 'é que' ou nada. Tirá-la não muda a verdade da frase, só a postura do falante, e é por isso que quem aprende alemão pode passar anos sem nunca produzir uma." },
+      { "text": "De origem meridional; o equivalente do norte é eben, embora halt venha ganhando terreno no país inteiro há décadas." }
+    ],
+    "examples": {
+      "0": { "translation": "Então a gente vai ter que ir a pé mesmo." },
+      "1": { "translation": "Ele é assim mesmo, não tem o que fazer." }
+    },
+    "origin": {
+      "etymology": "Do advérbio halt, 'certamente, de fato', uma forma do alto-alemão superior aparentada ao comparativo de 'hold/gehalten'. Nada a ver com o imperativo halt! ('pare!'), que é outra palavra que por acaso se escreve igual — uma coincidência que confunde quase todo estudante pelo menos uma vez."
+    }
+  },
+  "ne": {
+    "definitions": [
+      { "text": "A pergunta-etiqueta do alemão: 'não é?', 'né?', 'sabe?'. Colada ao fim de uma afirmação para convidar à concordância, e usada com densidade muito maior que qualquer equivalente em outras línguas." },
+      { "text": "É o marcador regional mais nítido da fala alemã. Ne no norte e em boa parte do centro, gell ou gelle pelo sul, wa em Berlim, oder no sudoeste e na Suíça, woll no Sauerland, nich em partes do norte. Os falantes quase nunca percebem que têm um até se mudarem." }
+    ],
+    "examples": {
+      "0": { "translation": "Isso foi ontem, né?" },
+      "1": { "translation": "Ficou bem caro, né?" }
+    },
+    "origin": {
+      "etymology": "Redução de 'nicht wahr?', 'não é verdade?', passando por 'nich wahr' e 'nech' até uma sílaba só. O gell do sul tem história paralela, a partir de 'gelten', 'valer, ser verdade'."
+    }
+  },
+  "voll": {
+    "literalMeaning": "Cheio.",
+    "definitions": [
+      { "text": "Totalmente, super — o intensificador de trabalho pesado da fala jovem e casual alemã: voll gut, voll nervig, voll der Stress." },
+      { "text": "A construção 'voll der/die/das + substantivo' ('voll der Hammer', 'voll die Katastrophe') é a parte característica. Não tem justificativa no alemão padrão, existe só na fala e é um dos marcadores confiáveis de registro informal." },
+      { "text": "Como adjetivo simples aplicado a uma pessoa, voll quer dizer bêbado — 'der war total voll'. O contexto separa os dois sem dificuldade." }
+    ],
+    "examples": {
+      "0": { "translation": "A comida estava muito boa mesmo." },
+      "1": { "translation": "Isso é uma baita bobagem." },
+      "2": { "translation": "Às nove ele já estava caindo de bêbado." }
+    },
+    "origin": {
+      "etymology": "O adjetivo comum voll posto a serviço como intensificador, um desenvolvimento dos anos 1980 que virou o cacoete definidor da fala jovem alemã nos anos 1990. Ao contrário da maioria dos cacoetes daquela década, este nunca sumiu; apenas deixou de ser marcado como coisa de jovem.",
+      "firstAttested": "anos 1980"
+    }
+  },
+  "wallah": {
+    "literalMeaning": "Por Deus (em árabe).",
+    "definitions": [
+      { "text": "Juro; sério; sem brincadeira. Um juramento usado para insistir que o que se diz é verdade, e o item mais reconhecível do Kiezdeutsch — o alemão urbano multiétnico de Berlim, Hamburgo, Duisburg e do Reno-Ruhr." },
+      { "text": "Frequentemente dobrado com uma glosa em alemão: 'Wallah, ich schwör'. Usado por falantes jovens de todas as origens, e, para a maioria deles, sem nenhuma carga religiosa." },
+      { "text": "Fortemente marcado por idade e registro. Vindo de um adolescente, passa despercebido; vindo de alguém de trinta e cinco anos num escritório, soa a fantasia." }
+    ],
+    "examples": {
+      "0": { "translation": "Juro, não fui eu." },
+      "1": { "translation": "Sério, irmão, isso aconteceu de verdade." }
+    },
+    "origin": {
+      "etymology": "Do árabe والله wallāh, 'por Deus', fórmula de juramento comum em todo o mundo árabe; o turco tem como vallah, e a rota turca é provavelmente a mais importante para o alemão. Já estava estabelecida nos pátios de escola alemães nos anos 1990 e foi documentada como marcador discursivo gramaticalizado pelos linguistas que estudam o Kiezdeutsch a partir dos anos 2000.",
+      "firstAttested": "anos 1990"
+    }
+  },
+  "spaeti": {
+    "definitions": [
+      { "text": "A mercearia de esquina que fica aberta até tarde — cerveja, cigarro, salgadinho, um abridor acorrentado ao balcão e, muitas vezes, algumas cadeiras na calçada. Uma instituição berlinense, e a razão de a cultura de beber na rua funcionar na cidade." },
+      { "text": "Uso de Berlim e de Brandemburgo. Outras cidades têm as lojas, mas não a palavra: Kiosk no Ruhr e em Colônia, Büdchen em Düsseldorf e Mainz, Trinkhalle no Ruhr, e Spätkauf como a forma berlinense não abreviada." }
+    ],
+    "examples": {
+      "0": { "translation": "Vou dar um pulo na mercearia, quer alguma coisa?" },
+      "1": { "translation": "Passamos metade da noite sentados na frente da mercearia." }
+    },
+    "origin": {
+      "etymology": "Encurtada de Spätverkaufsstelle, o 'ponto de venda tardia' estatal da Alemanha Oriental, que ficava aberto quando tudo o mais fechava — a instituição é mesmo uma herança da RDA, e é por isso que se concentra nos bairros do leste. Spätkauf é a forma pós-1990 e Späti, o encurtamento afetuoso dela.",
+      "firstAttested": "época da RDA como Spätverkauf; Späti a partir dos anos 1990"
+    }
+  },
+  "handy": {
+    "definitions": [
+      { "text": "Um celular. A palavra alemã padrão — nem um pouco gíria hoje, e usada em contratos e noticiários — mas é o pseudoanglicismo mais famoso do país, e falantes de inglês entendem errado com toda a regularidade." },
+      { "text": "'Handy' em inglês é um adjetivo que significa prático. Nenhum país de língua inglesa chama um telefone de handy, o que é fonte recorrente de confusão em conversas entre alemães e ingleses." }
+    ],
+    "examples": {
+      "0": { "translation": "Você viu meu celular?" },
+      "1": { "translation": "Meu celular está quase acabando a bateria." }
+    },
+    "origin": {
+      "etymology": "Cunhada no marketing alemão do início dos anos 1990 a partir do adjetivo inglês 'handy', provavelmente com uma ajuda do Handie-Talkie da Motorola, dos tempos da guerra, cujo nome era conhecido no ramo. A história muito repetida de que viria dos suábios perguntando 'Hän die kae Schnur?' ('eles não têm fio?') é piada, não etimologia, e é contada como piada.",
+      "firstAttested": "início dos anos 1990"
+    }
+  },
+  "beamer": {
+    "definitions": [
+      { "text": "Um projetor de vídeo — aquilo no teto da sala de reunião. Alemão absolutamente corriqueiro e absolutamente opaco para falantes de inglês, para quem um Beemer é uma BMW." },
+      { "text": "O alemão para o carro é simplesmente BMW, pronunciado bê-ém-váu. A sobreposição pega alemães no exterior mais ou menos com a mesma frequência com que pega estrangeiros na Alemanha." }
+    ],
+    "examples": {
+      "0": { "translation": "Você consegue conectar o projetor?" },
+      "1": { "translation": "O projetor da sala de reunião está quebrado." }
+    },
+    "origin": {
+      "etymology": "Construída em alemão a partir do verbo inglês 'beam' mais o sufixo de agente, na mesma onda de equipamento de escritório dos anos 1990 que produziu Handy. O inglês não tem esse substantivo para projetor, então é invenção alemã com peças inglesas, não empréstimo.",
+      "firstAttested": "anos 1990"
+    }
+  },
+  "shitstorm": {
+    "definitions": [
+      { "text": "Uma onda de indignação pública, quase sempre on-line — uma empresa, um político ou um influenciador 'bekommt einen Shitstorm'. Mais restrita que a palavra em inglês, que cobre qualquer desastre caótico." },
+      { "text": "O registro é o que surpreende: os falantes alemães não ouvem a obscenidade. Foi eleita Anglicismo do Ano de 2011, aparece em manchete de jornal sério, e Angela Merkel a usou numa aparição pública em 2012 sem que ninguém comentasse a linguagem. Os falantes nativos de inglês na sala costumam notar." }
+    ],
+    "examples": {
+      "0": { "translation": "A campanha provocou uma bela onda de indignação." },
+      "1": { "translation": "Depois da entrevista houve um linchamento virtual no Twitter." }
+    },
+    "origin": {
+      "etymology": "Emprestada do inglês por volta de 2010, mas imediatamente restringida ao sentido de indignação on-line, que o inglês não tinha na época e só desenvolveu em parte depois. Esse estreitamento somado à perda total de vulgaridade faz dela um caso de manual do que o alemão faz com os empréstimos ingleses.",
+      "firstAttested": "por volta de 2010"
+    }
+  },
+  "bock-haben": {
+    "literalMeaning": "Ter um bode.",
+    "definitions": [
+      { "text": "Estar a fim de algo, estar animado para. 'Hast du Bock auf Kino?' — tá a fim de cinema?" },
+      { "text": "Muito mais comum na negativa. 'Keinen Bock' é a expressão alemã padrão para preguiça e má vontade, e 'null Bock' como rótulo geracional foi aplicado aos adolescentes da Alemanha Ocidental durante todos os anos 1980." },
+      { "text": "Também usada com verbo: 'Ich hab keinen Bock, das nochmal zu machen.'" }
+    ],
+    "examples": {
+      "0": { "translation": "Tá a fim de sair hoje à noite?" },
+      "1": { "translation": "Não estou nem um pouco a fim dessa reunião." }
+    },
+    "origin": {
+      "etymology": "Não vem do bode, apesar da grafia e de uma etimologia popular teimosa sobre o cio dos animais. Vem do romani bokh, 'fome', que entrou no alemão pelo Rotwelsch — a mesma rota que deu Kaff, Zaster e boa parte da gíria alemã. Os falantes então a reescreveram como a palavra já existente Bock, e o bode tomou conta da imaginação depois.",
+      "firstAttested": "século XIX"
+    }
+  }
+}

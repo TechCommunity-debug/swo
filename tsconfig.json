@@ -3,9 +3,10 @@
   "include": [".astro/types.d.ts", "**/*"],
   "exclude": ["dist"],
   "compilerOptions": {
-    "baseUrl": ".",
+    // No `baseUrl`: it is deprecated as of TypeScript 6 and aborts the compile
+    // with TS5101. `paths` resolves relative to this file without it.
     "paths": {
-      "@/*": ["src/*"]
+      "@/*": ["./src/*"]
     }
   }
 }

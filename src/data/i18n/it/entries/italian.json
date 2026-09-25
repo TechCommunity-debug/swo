@@ -1,0 +1,466 @@
+{
+  "boh": {
+    "definitions": [
+      {
+        "text": "Non lo so; chi lo sa; non ne ho idea. Una risposta compiuta a sé stante, solitamente accompagnata da un'alzata di spalle e dagli angoli della bocca piegati all'ingiù."
+      }
+    ],
+    "origin": {
+      "etymology": "Più che una parola vera e propria, un suono convenzionalizzato e una delle prime cose che gli stranieri notano nella conversazione italiana reale. Comunica non solo di non sapere, ma anche il rifiuto di tirare a indovinare."
+    }
+  },
+  "mah": {
+    "definitions": [
+      {
+        "text": "Uhm; chissà; staremo a vedere. Esprime dubbio, scetticismo o un'incertezza rassegnata rispetto a quanto è stato appena detto."
+      }
+    ]
+  },
+  "vabbe": {
+    "definitions": [
+      {
+        "text": "Pazienza; fa niente; lasciamo perdere. Contrazione di 'va bene', usata per accettare qualcosa a malincuore o per chiudere un discorso."
+      }
+    ]
+  },
+  "dai": {
+    "literalMeaning": "Da' (imperativo del verbo dare).",
+    "definitions": [
+      {
+        "text": "Forza, coraggio, muoviti. Esprime incoraggiamento, impazienza o incredulità a seconda esclusivamente dell'intonazione."
+      },
+      {
+        "text": "Ma dai! — 'non dirmi!, ma davvero?'. Esprime sorpresa o incredulità."
+      },
+      {
+        "text": "Come attenuatore o esortazione blanda in chiusura di frase: 'andiamo, dai'."
+      }
+    ]
+  },
+  "magari": {
+    "definitions": [
+      {
+        "text": "Volesse il cielo! Altroché! Da solo esprime un desiderio intenso che chi parla ritiene però poco probabile."
+      },
+      {
+        "text": "Forse, eventualmente. All'interno della frase funziona come normale attenuatore ipotetico."
+      },
+      {
+        "text": "Costruito con il congiuntivo: anche se, ammesso che.",
+        "note": "Il significato esclamativo isolato ('volesse il cielo!') è quello che più spiazza chi studia l'italiano, perché è quasi l'opposto di 'forse'."
+      }
+    ],
+    "origin": {
+      "etymology": "Dal greco bizantino makários, 'beato, felice'. L'accezione ottativa di desiderio ('volesse il cielo!') è quella più vicina all'etimo originario."
+    }
+  },
+  "figo": {
+    "definitions": [
+      {
+        "text": "Bello, forte, brillante. 'Che figo!' esprime entusiasmo e approvazione."
+      },
+      {
+        "text": "Riferito a una persona: molto attraente, di bella presenza ('un figo', 'una figa')."
+      },
+      {
+        "text": "Di origine settentrionale; nell'Italia centrale e meridionale si dice 'fico' con lo stesso identico valore.",
+        "note": "Il femminile 'figa' possiede anche il significato anatomico volgare, motivo per cui il maschile resta la forma più neutra e sicura."
+      }
+    ]
+  },
+  "figata": {
+    "definitions": [
+      {
+        "text": "Qualcosa di eccezionale, una meraviglia, una trovata geniale: 'Che figata!'."
+      }
+    ]
+  },
+  "spacca": {
+    "literalMeaning": "Divide in due, rompe.",
+    "definitions": [
+      {
+        "text": "È fortissimo, rende alla grande, fa un figurone. 'Questo pezzo spacca': questo brano è una bomba."
+      }
+    ]
+  },
+  "che-palle": {
+    "literalMeaning": "Che testicoli.",
+    "definitions": [
+      {
+        "text": "Che noia, che barba, che seccatura. Lamentela comunissima per esprimere fastidio o monotonia più che una vera disgrazia."
+      }
+    ],
+    "origin": {
+      "etymology": "Di origine anatomica volgare ma ormai fortemente depotenziato: si sente di continuo, anche in bocca a persone che altrimenti non userebbero mai parolacce. Dalla stessa base deriva la locuzione 'rompere le palle' ('infastidire, seccare')."
+    }
+  },
+  "mannaggia": {
+    "definitions": [
+      {
+        "text": "Accidenti, maledizione. Imprecazione blanda di disappunto o frustrazione, spesso ampliata in 'mannaggia a te' o 'mannaggia la miseria'."
+      }
+    ],
+    "origin": {
+      "etymology": "Dal napoletano 'mal ne aggia' ('male ne abbia, gliene colga male'). Di origine meridionale ma ormai pienamente panitaliano, come buona parte del lessico colloquiale espressivo."
+    }
+  },
+  "porca-miseria": {
+    "literalMeaning": "Lurida miseria.",
+    "definitions": [
+      {
+        "text": "Accidenti, maledizione. Il membro socialmente accettabile di una nutrita famiglia di esclamazioni costruite con 'porca…', le cui altre varianti sono bestemmie vere e proprie e risultano gravemente offensive."
+      }
+    ],
+    "origin": {
+      "etymology": "Il turpiloquio italiano distingue nettamente tra la semplice volgarità e la bestemmia contro Dio o la Madonna, che resta un forte tabù sociale (e fino a tempi recenti un reato penale). 'Porca miseria' sostituisce il nome sacro vietato con un sostantivo astratto innocuo."
+    }
+  },
+  "fregarsene": {
+    "definitions": [
+      {
+        "text": "Disinteressarsi completamente di qualcosa, infischiarsene. 'Me ne frego': non me ne importa nulla. 'Chi se ne frega': a chi vuoi che importi."
+      }
+    ],
+    "origin": {
+      "etymology": "Vale la pena ricordare che 'Me ne frego' fu adottato come motto dagli squadristi e dal regime fascista negli anni Venti e Trenta. L'espressione tuttavia precede di molto quell'uso, gli è sopravvissuta ed è oggi del tutto neutra nel parlato quotidiano, pur restando nota la risonanza storica."
+    }
+  },
+  "scocciare": {
+    "definitions": [
+      {
+        "text": "Infastidire, importunare, dare noia. Uno 'scocciatore' è una persona insistente e molesta."
+      },
+      {
+        "text": "Nella forma riflessiva 'scocciarsi': stufarsi, annoiarsi, perdere la pazienza."
+      }
+    ]
+  },
+  "rompiscatole": {
+    "literalMeaning": "Chi rompe le scatole.",
+    "definitions": [
+      {
+        "text": "Un seccatore, un importuno che non ti lascia in pace. La variante educata e spendibile ovunque di un'espressione più cruda costruita sullo stesso verbo ('rompipalle', 'rompicoglioni')."
+      }
+    ]
+  },
+  "in-bocca-al-lupo": {
+    "literalMeaning": "Dentro la bocca del lupo.",
+    "definitions": [
+      {
+        "text": "Buona fortuna. La risposta tradizionale di rito è 'crepi il lupo' o semplicemente 'crepi' (oppure, più di recente, 'viva il lupo'): rispondere 'grazie' è considerato di cattivo auspicio."
+      }
+    ],
+    "examples": {
+      "1": {
+        "context": "La formula di botta e risposta è fissa. Rispondere 'grazie' tradisce immediatamente chi non è madrelingua."
+      }
+    },
+    "origin": {
+      "etymology": "La logica scaramantica è la stessa dell'inglese 'break a leg' o dell'italiano 'in culo alla balena': augurare buona fortuna direttamente porta sfortuna, quindi si evoca al suo posto il pericolo massimo. Una corrente minoritaria sostiene invece che la bocca del lupo sia un luogo protettivo — quello con cui la lupa trasporta i cuccioli — nel qual caso rispondere 'crepi il lupo' sarebbe un controsenso. Gli italiani ne discutono regolarmente."
+    }
+  },
+  "ci-sta": {
+    "definitions": [
+      {
+        "text": "Va bene, ha senso, è comprensibile, ci può stare. Indica che una proposta o una situazione è accettabile o ragionevole."
+      },
+      {
+        "text": "Riferito a una persona ('starci'): essere d'accordo, partecipare a un'iniziativa (o accettare un approccio). 'Io ci sto' significa 'contatemi'."
+      }
+    ]
+  },
+  "allora": {
+    "definitions": [
+      {
+        "text": "Dunque, bene, insomma. Segnale discorsivo onnipresente che apre una frase, riempie una pausa, richiama l'attenzione di una stanza o introduce una conclusione. Gli insegnanti ci iniziano la lezione e i camerieri l'ordinazione."
+      },
+      {
+        "text": "In quel momento, a quell'epoca, nel suo normale valore di avverbio temporale."
+      }
+    ]
+  },
+  "cavolo": {
+    "literalMeaning": "L'ortaggio (Brassica oleracea).",
+    "definitions": [
+      {
+        "text": "Eufemismo per una parola ben più volgare, usato sia come esclamazione sia come rafforzativo interrogativo: 'che cavolo vuoi?'."
+      },
+      {
+        "text": "Nella locuzione 'non me ne importa un cavolo': non me ne importa assolutamente nulla."
+      }
+    ],
+    "origin": {
+      "etymology": "Sostituto eufemistico di 'cazzo', di cui conserva l'attacco consonantico e il ritmo bisillabico. L'italiano possiede un ricco repertorio di simili sostituzioni ortofrutticole (come 'capperi')."
+    }
+  },
+  "sfigato": {
+    "definitions": [
+      {
+        "text": "Un perdente; una persona cronicamente sfortunata, impacciata o priva di fascino sociale. Il sostantivo corradicale 'sfiga' indica semplicemente la sfortuna."
+      }
+    ],
+    "examples": {
+      "0": {
+        "context": "'Sfiga' da solo si riferisce alla cattiva sorte ed è del tutto blando."
+      }
+    }
+  },
+  "abbiocco": {
+    "definitions": [
+      {
+        "text": "La sonnolenza improvvisa e irresistibile che cala dopo un pasto abbondante. Di origine romanesca e centro-italiana, è oggi compreso e usato in tutta la penisola."
+      }
+    ],
+    "origin": {
+      "etymology": "Dal dialetto romanesco 'abbioccarsi', legato all'immagine della chioccia che si accovaccia sulle uova: l'idea è quella di afflosciarsi pesantemente senza più riuscire a muoversi."
+    }
+  },
+  "apericena": {
+    "definitions": [
+      {
+        "text": "Un aperitivo accompagnato da un buffet abbastanza ricco da sostituire la cena: si paga la consumazione e il cibo è incluso. Un'istituzione milanese e una classica strategia di sopravvivenza studentesca."
+      }
+    ],
+    "origin": {
+      "etymology": "Parola macedonia formata da 'aperitivo' e 'cena', coniata negli anni Duemila. I puristi detestano tanto il vocabolo quanto l'abitudine; nessuna delle due obiezioni ha minimamente scalfito il fenomeno.",
+      "firstAttested": "Anni 2000"
+    }
+  },
+  "spritz": {
+    "definitions": [
+      {
+        "text": "Il classico aperitivo arancione o rosso a base di prosecco, bitter (Aperol, Campari o Select) e una spruzzata di seltz. Ordinarne uno è la mossa d'apertura standard della serata italiana."
+      }
+    ],
+    "origin": {
+      "etymology": "Dal verbo tedesco spritzen, 'spruzzare': nell'Ottocento i soldati austriaci di stanza nel Veneto allungavano i vini locali, per loro troppo alcolici, con uno spruzzo d'acqua frizzante. L'aggiunta del liquore bitter è arrivata nel Novecento.",
+      "firstAttested": "XIX secolo"
+    }
+  },
+  "furbo": {
+    "definitions": [
+      {
+        "text": "Astuto, scaltro, lesto a cogliere il proprio tornaconto. Esprime ammirazione e disapprovazione al tempo stesso: il furbo riesce sempre a cavarsela, e gli italiani nutrono un'eterna ambivalenza sul fatto che questa sia una virtù o un vizio civile."
+      },
+      {
+        "text": "'Fare il furbo': cercare di raggirare le regole o di approfittarsi degli altri."
+      }
+    ],
+    "origin": {
+      "etymology": "La 'furbizia' — la qualità dell'essere furbo — è un tema ricorrente nell'autorappresentazione e nella satira italiana, generalmente descritta come un difetto nazionale che in privato tutti ammirano."
+    }
+  },
+  "beccare": {
+    "literalMeaning": "Dare colpi col becco (detto degli uccelli).",
+    "definitions": [
+      {
+        "text": "Cogliere sul fatto, sorprendere qualcuno in flagrante: 'mi hanno beccato'."
+      },
+      {
+        "text": "Nella forma reciproca 'beccarsi': incontrarsi, vedersi per caso o su appuntamento ('ci becchiamo domani')."
+      }
+    ]
+  },
+  "ganzo": {
+    "definitions": [
+      {
+        "text": "Bello, forte, in gamba, divertente. Voce tipicamente toscana e sicura spia regionale: chi la usa proviene quasi certamente dall'area compresa tra Firenze, Pisa e Livorno."
+      }
+    ]
+  },
+  "ao": {
+    "definitions": [
+      {
+        "text": "Ehi, oh. Il richiamo romanesco per eccellenza, usato per aprire una frase, salutare un amico da lontano o esprimere esasperazione. Quanto di più romano possa esistere."
+      }
+    ],
+    "examples": {
+      "1": {
+        "context": "Il romanesco trasforma anche la particella pronominale 'ci' in 'ce': le due forme viaggiano sempre insieme."
+      }
+    }
+  },
+  "sticazzi": {
+    "definitions": [
+      {
+        "text": "E allora? Chi se ne importa? Interiezione romanesca volgare, costantemente usata a sproposito fuori dal Lazio: a Roma esprime totale indifferenza, mai stupore o ammirazione, e i romani non mancano mai di farlo notare."
+      }
+    ],
+    "origin": {
+      "etymology": "Contrazione di 'questi cazzi'. I parlanti settentrionali la usano spesso erroneamente nel senso di 'però, impressionante!'; l'esclamazione romanesca corretta per esprimere meraviglia è invece la quasi gemella 'mecojoni'."
+    }
+  },
+  "scialla": {
+    "definitions": [
+      {
+        "text": "Tranquillo, rilassati, non ti preoccupare. Gergo giovanile di origine romana, ormai ampiamente compreso in tutta Italia."
+      }
+    ],
+    "origin": {
+      "etymology": "Probabilmente dall'arabo inshallah ('se Dio vuole'), filtrato attraverso il fatalismo mediterraneo delle borgate e delle spiagge romane. La derivazione è plausibile ma non documentata con certezza assoluta."
+    }
+  },
+  "pazzesco": {
+    "definitions": [
+      {
+        "text": "Incredibile, straordinario, fuori dal comune — perlopiù in senso positivo ed entusiastico, ma applicabile a qualsiasi cosa raggiunga proporzioni estreme."
+      }
+    ]
+  },
+  "assurdo": {
+    "definitions": [
+      {
+        "text": "Inconcepibile, incredibile — usato nel parlato in modo molto più ampio rispetto al senso logico rigoroso, come indicatore generico di tutto ciò che appare straordinario, esasperante o estremo."
+      }
+    ]
+  },
+  "macche": {
+    "definitions": [
+      {
+        "text": "Nient'affatto, ma quando mai, figuriamoci. Smentita secca ed enfatica di quanto è stato appena ipotizzato dall'interlocutore."
+      }
+    ]
+  },
+  "capito": {
+    "literalMeaning": "Participio passato di capire.",
+    "definitions": [
+      {
+        "text": "Mi spiego? Chiaro? Intercalare interrogativo appoggiato a fine frase per verificare che l'interlocutore stia seguendo il filo del discorso."
+      },
+      {
+        "text": "Nella locuzione 'Hai capito!': esclamazione di sorpresa mista ad ammirazione ('però, mica male!')."
+      }
+    ]
+  },
+  "cioe": {
+    "literalMeaning": "Ciò è (vale a dire).",
+    "definitions": [
+      {
+        "text": "Insomma, voglio dire, tipo. Formalmente un connettivo esplicativo, nella pratica uno dei riempitivi (tic discorsivi) più frequenti dell'italiano parlato, specialmente tra i giovani."
+      }
+    ]
+  },
+  "meno-male": {
+    "literalMeaning": "Minor male.",
+    "definitions": [
+      {
+        "text": "Per fortuna, grazie al cielo. Esprime sollievo per uno scampato pericolo o perché le cose sono andate meglio del previsto."
+      }
+    ]
+  },
+  "tipo": {
+    "definitions": [
+      {
+        "text": "Circa, all'incirca, per esempio, come. Attenuatore e approssimatore universale del parlato: 'tipo alle sette' (verso le sette)."
+      },
+      {
+        "text": "Un tizio, un individuo: 'un tipo strano'."
+      }
+    ]
+  },
+  "figurati": {
+    "definitions": [
+      {
+        "text": "Di nulla, ci mancherebbe, non c'è di che. La risposta cortese predefinita a un ringraziamento o a delle scuse."
+      },
+      {
+        "text": "Ma figuriamoci, quando mai. Usato in tono ironico o sarcastico per liquidare un'ipotesi come del tutto inverosimile."
+      }
+    ]
+  },
+  "prego": {
+    "literalMeaning": "Io prego (prima persona singolare di pregare).",
+    "definitions": [
+      {
+        "text": "Non c'è di che (come risposta standard a 'grazie')."
+      },
+      {
+        "text": "Dopo di lei, passi pure, si accomodi (tenendo aperta una porta o cedendo il passo)."
+      },
+      {
+        "text": "Mi dica, cosa desidera? (detto da un barista, un cameriere o un commesso per invitare il cliente a ordinare)."
+      },
+      {
+        "text": "Come, scusi? (pronunciato con intonazione ascendente per chiedere di ripetere ciò che non si è sentito)."
+      }
+    ]
+  },
+  "che-ne-so": {
+    "literalMeaning": "Che cosa ne so io.",
+    "definitions": [
+      {
+        "text": "E io che ne posso sapere? Usato anche all'interno della frase come intercalare per introdurre un esempio preso a caso: 'un libro, che ne so, o una pianta'."
+      }
+    ]
+  },
+  "sgamare": {
+    "definitions": [
+      {
+        "text": "Smascherare qualcuno, scoprire cosa sta tramando, mangiare la foglia. Più acuto di 'beccare': implica l'aver intuito un inganno o un secondo fine, non solo il cogliere sul fatto."
+      }
+    ]
+  },
+  "sbattersi": {
+    "definitions": [
+      {
+        "text": "Darsi un gran daffare, prodigarsi, faticare per risolvere qualcosa. Il sostantivo derivato 'sbattimento' indica una grossa seccatura o una faticaccia."
+      }
+    ]
+  },
+  "raga": {
+    "definitions": [
+      {
+        "text": "Ragazzi, gente. Accorciamento di 'ragazzi' usato come vocativo per rivolgersi a un gruppo di amici indipendentemente dal genere dei presenti."
+      }
+    ]
+  },
+  "sclerare": {
+    "definitions": [
+      {
+        "text": "Perdere le staffe, dare di matto, andare fuori di testa per lo stress o la frustrazione."
+      }
+    ],
+    "origin": {
+      "etymology": "Derivato da 'sclerosi', termine medico arruolato nel gergo giovanile. Lo slang italiano attinge piuttosto spesso al vocabolario clinico per descrivere gli stati d'animo estremi."
+    }
+  },
+  "che-due-palle": {
+    "definitions": [
+      {
+        "text": "Versione rafforzata e ancora più esasperata di 'che palle': che noia mortale, che seccatura infinita."
+      }
+    ]
+  },
+  "andare-a-ruba": {
+    "literalMeaning": "Andare via come in un furto.",
+    "definitions": [
+      {
+        "text": "Esaurirsi in un lampo, vendersi a grandissima velocità, sparire dagli scaffali."
+      }
+    ]
+  },
+  "acqua-in-bocca": {
+    "literalMeaning": "Tenere dell'acqua in bocca.",
+    "definitions": [
+      {
+        "text": "Mantieni il segreto, non fiatare, non dirlo a nessuno. L'immagine è quella di chi tiene un sorso d'acqua in bocca trovandosi nell'impossibilità fisica di parlare."
+      }
+    ]
+  },
+  "non-ci-piove": {
+    "literalMeaning": "Sopra questa cosa non cade pioggia (è al riparo da ogni dubbio).",
+    "definitions": [
+      {
+        "text": "Non c'è il minimo dubbio, è fuori discussione. Aggiunto a un'affermazione per sancirla come certezza assoluta."
+      }
+    ]
+  },
+  "avere-le-mani-in-pasta": {
+    "literalMeaning": "Avere le mani immerse nell'impasto.",
+    "definitions": [
+      {
+        "text": "Essere addentro a un affare o a un ambiente, disponendo di ottime entrature, contatti e conoscenze riservate. Può indicare un'influenza utile e legittima oppure traffici poco limpidi."
+      }
+    ]
+  }
+}

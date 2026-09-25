@@ -1,0 +1,954 @@
+{
+  "tio": {
+    "literalMeaning": "Zio.",
+    "definitions": [
+      {
+        "text": "Amico, vecchio, zio. L'appellativo standard tra amici in Spagna, nonché il corrispettivo approssimativo del messicano güey."
+      },
+      {
+        "text": "Qualsiasi uomo di cui non si fa il nome: ese tío, «quel tipo»."
+      },
+      {
+        "text": "Come puro intercalare che connota il parlato informale, privo di qualsiasi contenuto proprio."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Come butta, amico? Quanto tempo."
+      },
+      "1": {
+        "translation": "Vecchio, non ci posso credere."
+      },
+      "2": {
+        "translation": "Quel tipo lavora nel bar qui sotto."
+      }
+    },
+    "origin": {
+      "etymology": "Il passaggio dei termini di parentela ad appellativi per chi non è parente è uno degli schemi più costanti dello slang in tutto il mondo — basti pensare all'uso identico di «zio» nell'italiano giovanile. Lo spagnolo ha adottato tío esattamente come lo spagnolo messicano ha adottato carnal e l'inglese bro."
+    }
+  },
+  "vale": {
+    "definitions": [
+      {
+        "text": "Va bene; d'accordo; ok. La singola parola più frequente nella conversazione in Spagna dopo i termini di base, e sostanzialmente intraducibile con una sola parola in tutta la sua gamma di sfumature."
+      },
+      {
+        "text": "Come domanda, ¿vale?, aggiunta a fine frase per chiedere conferma: «va bene?, d'accordo?»"
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "«Ci vediamo alle otto.» «Va bene.»"
+      },
+      "1": {
+        "translation": "Ci fermiamo qui, d'accordo?"
+      },
+      "2": {
+        "translation": "Sì, va bene, arrivo.",
+        "context": "Ripetuto due volte, segnala una lieve impazienza."
+      }
+    },
+    "origin": {
+      "etymology": "Da valer, «valere» — «vale, è valido», e quindi «va bene così». È un uso quasi esclusivamente peninsulare: in America Latina si dice bueno, dale o listo, e vale è uno dei modi più rapidi per capire che chi parla viene dalla Spagna."
+    }
+  },
+  "venga": {
+    "literalMeaning": "Venga (congiuntivo di venir).",
+    "definitions": [
+      {
+        "text": "Dai; forza, andiamo. Incoraggiamento o sollecitazione."
+      },
+      {
+        "text": "E va bene, d'accordo. Assenso concesso con una certa riluttanza."
+      },
+      {
+        "text": "Bene allora, a posto. Usato per chiudere una telefonata, quasi sempre nella formula venga, hasta luego.",
+        "note": "Le telefonate in Spagna si chiudono spessissimo con una cascata di queste formule: venga, vale, hasta luego, adiós, adiós."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Dai, che facciamo tardi!"
+      },
+      "1": {
+        "translation": "E va bene, dai, ti accompagno."
+      },
+      "2": {
+        "translation": "Bene, ci sentiamo domani. Un bacio."
+      }
+    }
+  },
+  "guay": {
+    "definitions": [
+      {
+        "text": "Figo, bello, fantastico. Il corrispettivo peninsulare del messicano chido, ed è invariabile — non cambia né per genere né per numero."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Che figa la tua giacca."
+      },
+      "1": {
+        "translation": "La mostra è stata davvero bella."
+      }
+    },
+    "origin": {
+      "etymology": "Emerso nello slang giovanile madrileno tra gli anni Settanta e Ottanta, si è poi generalizzato. Alle orecchie dei più giovani suona leggermente legato alla sua epoca, tanto che spesso preferiscono guapo o brutal, ma resta ampiamente in uso.",
+      "firstAttested": "anni Settanta"
+    }
+  },
+  "molar": {
+    "definitions": [
+      {
+        "text": "Spaccare, essere figo; piacere parecchio. Costruito esattamente come gustar e l'italiano «piacere» — la cosa apprezzata fa da soggetto: me mola, «mi piace un sacco, mi prende bene»."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Mi piace un sacco quella canzone."
+      },
+      "1": {
+        "translation": "Il programma non mi convince per niente."
+      }
+    }
+  },
+  "flipar": {
+    "definitions": [
+      {
+        "text": "Restare a bocca aperta, impazzire per qualcosa. Flipé con el concierto — il concerto mi ha lasciato senza parole."
+      },
+      {
+        "text": "Flipar en colores: un'estensione enfatica che significa restare completamente sbalorditi."
+      },
+      {
+        "text": "Farsi dei film, sragionare, nelle forme flipas o estás flipando — «tu sogni, sei fuori»."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Sono rimasto di sasso quando ho visto il prezzo."
+      },
+      "1": {
+        "translation": "Trecento euro? Ma tu sei fuori."
+      }
+    },
+    "origin": {
+      "etymology": "Dall'inglese «to flip», preso in prestito dallo spagnolo negli anni Settanta. Il senso negativo — vaneggiare, illudersi — si è sviluppato più tardi e localmente."
+    }
+  },
+  "alucinar": {
+    "literalMeaning": "Avere allucinazioni.",
+    "definitions": [
+      {
+        "text": "Restare allibiti, non credere ai propri occhi. Alucino contigo — «con te resto senza parole», detto di solito per esasperazione più che per ammirazione."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Non riesco a credere alla fila che c'è."
+      },
+      "1": {
+        "translation": "Con te non ho parole, te l'ho detto tre volte."
+      }
+    }
+  },
+  "joder": {
+    "definitions": [
+      {
+        "text": "Cazzo; maledizione. Un'esclamazione di frustrazione, sorpresa o enfasi, nonché la singola imprecazione più comune in Spagna."
+      },
+      {
+        "text": "Rompere le scatole o prendere in giro qualcuno: no me jodas, «non mi rompere» oppure «ma stai scherzando»."
+      },
+      {
+        "text": "Guastare o rovinare qualcosa: se jodió el móvil, «si è fottuto il telefono»."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Cazzo, che spavento!"
+      },
+      "1": {
+        "translation": "Non dirmi così — di nuovo?"
+      },
+      "2": {
+        "translation": "È andata a farsi benedire la stampante."
+      }
+    },
+    "origin": {
+      "etymology": "Il senso letterale è osceno. La disinvoltura e l'altissima frequenza con cui si impreca in Spagna stupiscono gli ispanofoni latinoamericani più di quasi qualsiasi altro tratto dello spagnolo peninsulare — sentir dire joder a un collega o a una nonna è del tutto normale."
+    }
+  },
+  "hostia": {
+    "literalMeaning": "Ostia consacrata.",
+    "definitions": [
+      {
+        "text": "Porca miseria; ostia. Un'esclamazione di sorpresa, spesso nelle forme ¡hostia! o ¡hostia puta!"
+      },
+      {
+        "text": "Una botta o uno schiaffone: le dio una hostia, «gli ha mollato un ceffone»."
+      },
+      {
+        "text": "Ser la hostia: essere una bomba, o essere assurdo, a seconda del tono."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Ammazza che freddo che fa!"
+      },
+      "1": {
+        "translation": "Ha preso una gran botta cadendo dalla bici."
+      },
+      "2": {
+        "translation": "Quel gruppo dal vivo è una bomba."
+      }
+    },
+    "origin": {
+      "etymology": "Il turpiloquio spagnolo attinge a piene mani al vocabolario religioso — hostia, me cago en Dios e così via — laddove l'inglese ricorre alla sfera corporea. Le parole conservano una reale carica d'urto per i parlanti più anziani e religiosi, anche se i più giovani le usano in piena libertà."
+    }
+  },
+  "cono": {
+    "definitions": [
+      {
+        "text": "Cazzo; ma insomma. Usato come esclamazione generica e come rafforzativo all'interno delle domande: ¿qué coño haces? («che cazzo fai?»)"
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Porca miseria, che spavento mi hai fatto prendere!"
+      },
+      "1": {
+        "translation": "Dove diavolo ho lasciato le chiavi?"
+      }
+    },
+    "origin": {
+      "etymology": "Di origine anatomica oscena, è un tabù molto più forte in America Latina che in Spagna, dove funziona per lo più come segno di punteggiatura. Questo divario provoca veri e propri incidenti diplomatici in entrambe le direzioni."
+    }
+  },
+  "chaval": {
+    "definitions": [
+      {
+        "text": "Un ragazzino; un ragazzo. Femminile chavala. Usato anche per rivolgersi a un giovane."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Un ragazzo mi ha aiutato a portare su la valigia."
+      },
+      "1": {
+        "translation": "Quando ero ragazzino vivevamo in paese."
+      }
+    },
+    "origin": {
+      "etymology": "Dal caló chavale, vocativo di chavó, «ragazzo» — la stessa radice romaní da cui deriva l'inglese britannico «chav», anche se le due parole hanno preso direzioni sociali opposte."
+    }
+  },
+  "colega": {
+    "literalMeaning": "Collega.",
+    "definitions": [
+      {
+        "text": "Amico, socio. In Spagna significa amico e non collega di lavoro — un falso amico tanto per gli italiani quanto per gli ispanofoni dell'America Latina."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Vado a cena fuori con degli amici."
+      },
+      "1": {
+        "translation": "Stai tranquillo, amico."
+      }
+    }
+  },
+  "que-pasa": {
+    "literalMeaning": "Che succede?",
+    "definitions": [
+      {
+        "text": "Come va? Che si dice? Il saluto informale standard, di solito accompagnato da tío."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Ehi! Come va, vecchio?"
+      },
+      "1": {
+        "translation": "Com'è la situazione per la riunione di domani?",
+        "context": "Seguìto da con chiede notizie su una questione specifica."
+      }
+    }
+  },
+  "que-tal": {
+    "definitions": [
+      {
+        "text": "Come va? Leggermente più neutro di ¿qué pasa? e utilizzabile anche con sconosciuti e nei negozi."
+      },
+      {
+        "text": "Seguito da un sostantivo, chiede un parere: ¿qué tal la película? — «com'era il film?»"
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Ciao, come stai?"
+      },
+      "1": {
+        "translation": "Come procede il nuovo lavoro?"
+      }
+    }
+  },
+  "curro": {
+    "definitions": [
+      {
+        "text": "Lavoro; impiego. Il verbo currar significa lavorare, e un currante è un gran lavoratore."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Esco dal lavoro alle sei."
+      },
+      "1": {
+        "translation": "Sta lavorando in una start-up."
+      }
+    }
+  },
+  "pasta": {
+    "definitions": [
+      {
+        "text": "Soldi, contanti, grana. Non ha nulla a che vedere con l'alimento."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Sono rimasto senza un soldo fino a fine mese."
+      },
+      "1": {
+        "translation": "Quella macchina costa una barca di soldi."
+      }
+    },
+    "origin": {
+      "etymology": "L'impasto o il grano come metafora del denaro è un fenomeno pressoché universale — l'inglese «dough», il francese «blé» (grano), l'italiano «grana» o «pagnotta». L'alimento base di un luogo tende a diventare il nome di ciò che serve per comprarlo."
+    }
+  },
+  "cutre": {
+    "definitions": [
+      {
+        "text": "Squallido, sciatto, dozzinale e un po' triste. Si applica a bar, alberghi, vestiti e comportamenti."
+      },
+      {
+        "text": "A volte usato con affetto: un bar cutre può essere esattamente il posto in cui si ha voglia di stare."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "L'albergo era piuttosto squallido."
+      },
+      "1": {
+        "translation": "È un bar spartano e malandato, ma le tapas sono squisite.",
+        "context": "Affettuoso. In Spagna c'è un sincero apprezzamento per i bar di quartiere vecchia maniera ma ben gestiti."
+      }
+    }
+  },
+  "cani": {
+    "definitions": [
+      {
+        "text": "Un giovane di estrazione popolare identificato da un'estetica ben precisa — tute acetata, vistose catene d'oro, un taglio di capelli particolare. Il corrispettivo spagnolo del «tamarro» o «maranza», del britannico chav o dell'australiano bogan, con lo stesso disprezzo di classe incorporato."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Quel quartiere è pieno di tamarri."
+      },
+      "1": {
+        "translation": "Ha uno stile un po' coatto."
+      }
+    },
+    "origin": {
+      "etymology": "Probabilmente dal caló, dove cani è legato all'identità gitana — motivo per cui la parola porta con sé una carica etnica oltre a quella classista. Riportato a scopo di comprensione; non è una descrizione neutra."
+    }
+  },
+  "pijo": {
+    "definitions": [
+      {
+        "text": "Fighetto, altolocato, snob, «pariolino». Il corrispettivo spagnolo del messicano fresa, nonché l'opposto sociale di cani."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Quel quartiere è molto esclusivo e snob."
+      },
+      "1": {
+        "translation": "Parla con l'accento da fighetta."
+      }
+    }
+  },
+  "chulo": {
+    "definitions": [
+      {
+        "text": "Riferito a una cosa: bello, carino, figo. Qué chulo — «che bello»."
+      },
+      {
+        "text": "Riferito a una persona: spavaldo, arrogante, pieno di sé. Ponerse chulo significa alzare la cresta."
+      },
+      {
+        "text": "Un magnaccia, un protettore. Il significato più antico, tuttora vivo e motivo per cui il contesto conta parecchio.",
+        "note": "Tre accezioni che spaziano dal complimento al codice penale. La distinzione tra cosa e persona di solito scioglie ogni dubbio."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Che bello l'appartamento che ti sei comprato."
+      },
+      "1": {
+        "translation": "Non fare tanto lo spavaldo con me."
+      }
+    }
+  },
+  "marron": {
+    "literalMeaning": "Marrone; castagna.",
+    "definitions": [
+      {
+        "text": "Una gatta da pelare, un compito ingrato o una situazione spinosa che ti piove addosso. Comerse un marrón significa doversi sobbarcare una rogna."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Mi sono dovuto sobbarcare la rogna di organizzare tutto quanto."
+      },
+      "1": {
+        "translation": "Che bella gatta da pelare ti hanno refilato."
+      }
+    }
+  },
+  "movida": {
+    "definitions": [
+      {
+        "text": "Una faccenda, un pasticcio, una grana. Deliberatamente vago: vaya movida, «che storia complicata»."
+      },
+      {
+        "text": "Un fermento culturale o la vita notturna. La Movida Madrileña fu il nome dato all'esplosione culturale di Madrid dopo la morte di Franco, da cui il prestito italiano «movida»."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "È scoppiato un gran parapiglia davanti alla porta del bar."
+      },
+      "1": {
+        "translation": "Non voglio saperne nulla di tutta quella faccenda."
+      }
+    }
+  },
+  "liarse": {
+    "literalMeaning": "Ingarbugliarsi, legarsi.",
+    "definitions": [
+      {
+        "text": "Avere un flirt o mettersi insieme a qualcuno, di solito senza impegno: se liaron en la fiesta."
+      },
+      {
+        "text": "Farsi prendere da qualcosa perdendo la cognizione del tempo: me lié con el trabajo."
+      },
+      {
+        "text": "Liarla significa combinare un casino. La liaste parda — «l'hai combinata proprio grossa»."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Sono finiti insieme alla festa di Natale."
+      },
+      "1": {
+        "translation": "Mi sono perso a chiacchierare e ho perso il treno."
+      }
+    }
+  },
+  "ligar": {
+    "literalMeaning": "Legare, unire.",
+    "definitions": [
+      {
+        "text": "Rimorchiare; flirtare con successo. Salir a ligar significa uscire la sera con l'obiettivo di conoscere qualcuno."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Ha passato tutta la sera a cercare di rimorchiare."
+      },
+      "1": {
+        "translation": "Ha rimorchiato qualcuno al concerto."
+      }
+    }
+  },
+  "botellon": {
+    "definitions": [
+      {
+        "text": "Un grande ritrovo all'aperto in cui i giovani bevono insieme in una piazza o in un parco prima di andare nei locali, soprattutto perché costa infinitamente meno che bere al bar."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Ci vediamo per bere qualcosa insieme al parco alle undici."
+      },
+      "1": {
+        "translation": "Il comune ha vietato i ritrovi alcolici all'aperto in centro.",
+        "context": "È regolamentato o vietato nella maggior parte delle città spagnole, il che non ha cambiato granché le cose."
+      }
+    },
+    "origin": {
+      "etymology": "Accrescitivo di botella, «bottiglia» — letteralmente «bottiglione». Sia la pratica sia la parola risalgono agli anni Novanta, e il fenomeno è così specifico della Spagna che il termine non ha un vero equivalente altrove.",
+      "firstAttested": "anni Novanta"
+    }
+  },
+  "marcha": {
+    "literalMeaning": "Marcia (anche del cambio dell'auto).",
+    "definitions": [
+      {
+        "text": "Vita notturna; vitalità; voglia di far festa e tirare tardi. Irse de marcha significa uscire a far serata."
+      },
+      {
+        "text": "Riferito a una persona: tener mucha marcha significa avere un'energia inesauribile."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Questa città ha una grande vita notturna."
+      },
+      "1": {
+        "translation": "Siamo andati a far serata fino alle sette del mattino."
+      }
+    }
+  },
+  "resaca": {
+    "literalMeaning": "Risacca.",
+    "definitions": [
+      {
+        "text": "I postumi della sbornia."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Ho dei postumi della sbornia terribili."
+      },
+      "1": {
+        "translation": "Tre giorni per smaltire la sbornia, non esagero."
+      }
+    },
+    "origin": {
+      "etymology": "Dal lessico marinaro: la risacca che trascina indietro dopo che l'onda si è infranta. Un'immagine per il mattino dopo più efficace di quelle trovate dalla maggior parte delle altre lingue."
+    }
+  },
+  "tapear": {
+    "definitions": [
+      {
+        "text": "Andare di bar in bar mangiando tapas. Ir de tapas è la formulazione più comune."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Siamo usciti a mangiare tapas in giro per il centro."
+      },
+      "1": {
+        "translation": "A Granada le tapas sono gratuite con la consumazione.",
+        "context": "La tapa gratuita servita con da bere è la norma a Granada e León, mentre è insolita nel resto del Paese."
+      }
+    }
+  },
+  "cana": {
+    "definitions": [
+      {
+        "text": "Un bicchiere piccolo di birra alla spina, da circa 20 cl. L'ordinazione predefinita in qualsiasi bar spagnolo."
+      },
+      {
+        "text": "Dar caña: spingere sull'acceleratore, dare filo da torcere o metterci grinta."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Mi faccia una birra piccola alla spina, per favore."
+      },
+      "1": {
+        "translation": "Ci siamo bevuti due birre dopo il lavoro."
+      }
+    }
+  },
+  "majo": {
+    "definitions": [
+      {
+        "text": "Simpatico, gradevole, alla mano. Detto soprattutto delle persone — es muy maja è un gran bel complimento detto con naturalezza."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Sua sorella è davvero simpaticissima."
+      },
+      "1": {
+        "translation": "Che gentile il cameriere."
+      }
+    }
+  },
+  "vaya-tela": {
+    "literalMeaning": "Che stoffa.",
+    "definitions": [
+      {
+        "text": "Roba da matti; non ho parole. Esprime sbalordimento, di solito davanti a qualcosa di eccessivo o assurdo."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Quattro ore di ritardo? Roba da matti."
+      },
+      "1": {
+        "translation": "La situazione dei prezzi degli affitti è davvero assurda."
+      }
+    }
+  },
+  "en-plan": {
+    "definitions": [
+      {
+        "text": "Tipo; in modalità; per dire. Un segnale discorsivo che introduce un'approssimazione o una citazione a discorso diretto, quasi esattamente parallelo all'inglese «like» e all'italiano giovanile «tipo»."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "E mi fa, tipo, che non viene."
+      },
+      "1": {
+        "translation": "Siamo andati in modalità tranquilla, senza fretta."
+      }
+    },
+    "origin": {
+      "etymology": "Recente e fortemente generazionale. I parlanti più anziani lo criticano esattamente come gli italiani criticano l'abuso di «tipo», e con altrettanto scarso successo."
+    }
+  },
+  "rollo": {
+    "literalMeaning": "Rotolo, pergamena.",
+    "definitions": [
+      {
+        "text": "Una pizza, una barba; qualcosa di noioso e prolisso. Qué rollo — «che palle, che noia»."
+      },
+      {
+        "text": "Un'atmosfera o uno stile: buen rollo indica una bella atmosfera e sintonia, mal rollo una brutta aria."
+      },
+      {
+        "text": "Una storiella sentimentale senza impegno: tuvieron un rollo."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "La conferenza è stata una noia mortale."
+      },
+      "1": {
+        "translation": "C'è davvero un bel clima nel gruppo di lavoro."
+      }
+    },
+    "origin": {
+      "etymology": "Dall'immagine di un rotolo di pergamena che si srotola all'infinito — qualcosa che non finisce più. La coppia buen rollo / mal rollo è oggi l'uso più frequente."
+    }
+  },
+  "currante": {
+    "definitions": [
+      {
+        "text": "Un gran lavoratore; uno che sgobba. Elogiativo, con una spiccata connotazione popolare e operaia."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "È un gran lavoratore, non si ferma un attimo."
+      },
+      "1": {
+        "translation": "Un quartiere di lavoratori da generazioni."
+      }
+    }
+  },
+  "chungo": {
+    "definitions": [
+      {
+        "text": "Brutto, losco, malmesso. Riferito a una situazione: difficile o che promette male."
+      },
+      {
+        "text": "Riferito a una persona: giù di corda, poco bene. Estoy chungo — «mi sento uno straccio»."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "La situazione si mette male quest'anno."
+      },
+      "1": {
+        "translation": "Quel quartiere di notte è un po' poco raccomandabile."
+      }
+    },
+    "origin": {
+      "etymology": "Dal caló chungo, «brutto, cattivo». Il lessico romaní è una fonte importante e spesso sottovalutata dello slang spagnolo — chaval, camelar, currar e molar provengono tutti verosimilmente dalla stessa direzione."
+    }
+  },
+  "mogollon": {
+    "definitions": [
+      {
+        "text": "Un sacco; una marea. Un mogollón de gente, oppure con funzione avverbiale: me gusta mogollón («mi piace un casino»)."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "C'era una marea di gente in piazza."
+      },
+      "1": {
+        "translation": "Ho una voglia matta di andarci."
+      }
+    }
+  },
+  "pillar": {
+    "definitions": [
+      {
+        "text": "Prendere al volo: voy a pillar el metro («vado a prendere la metro»)."
+      },
+      {
+        "text": "Comprare o passare a prendere qualcosa: pilla pan de camino."
+      },
+      {
+        "text": "Afferrare il senso, specialmente di una battuta: no lo pillo — «non la capisco»."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Prendi due birre lungo la strada."
+      },
+      "1": {
+        "translation": "Non capisco la battuta."
+      },
+      "2": {
+        "translation": "Mi ha beccato la pioggia senza ombrello."
+      }
+    }
+  },
+  "ostras": {
+    "literalMeaning": "Ostriche.",
+    "definitions": [
+      {
+        "text": "Caspita; accidenti. Un eufemismo per hostia, e di conseguenza del tutto innocuo."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Accidenti, com'è tardi!"
+      },
+      "1": {
+        "translation": "Caspita, non me n'ero accorto."
+      }
+    },
+    "origin": {
+      "etymology": "Un'imprecazione attenuata costruita sostituendo la parola offensiva con un termine innocuo che inizia allo stesso modo — lo stesso meccanismo del messicano no manches per no mames, o dell'italiano «ostrega»."
+    }
+  },
+  "jolin": {
+    "definitions": [
+      {
+        "text": "Mannaggia; cavoli. Un morbido eufemismo per joder, utilizzabile senza problemi davanti a bambini e nonni."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Mannaggia, che sfortuna."
+      },
+      "1": {
+        "translation": "Ma insomma, di nuovo!"
+      }
+    }
+  },
+  "quedar": {
+    "definitions": [
+      {
+        "text": "Darsi appuntamento; mettersi d'accordo per vedersi. Assolutamente centrale nella vita sociale spagnola e privo di un equivalente di una sola parola in molte lingue — quedamos a las ocho significa che l'incontro è fissato."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Ci vediamo sabato?"
+      },
+      "1": {
+        "translation": "Ho appuntamento con Marta alle nove."
+      }
+    }
+  },
+  "morro": {
+    "literalMeaning": "Muso.",
+    "definitions": [
+      {
+        "text": "Faccia tosta, sfacciataggine. Tener mucho morro significa avere una bella faccia di bronzo."
+      },
+      {
+        "text": "Por el morro: a sbafo, con pura faccia tosta. Entró por el morro — si è imbucato senza pagare."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Che faccia tosta che ha, ha saltato la fila."
+      },
+      "1": {
+        "translation": "Ha rimediato il biglietto a sbafo."
+      }
+    }
+  },
+  "de-puta-madre": {
+    "definitions": [
+      {
+        "text": "Eccellente; da paura, spettacolare. Fortemente positivo nonostante sia costruito interamente con parole offensive — un ottimo esempio di come funziona il turpiloquio spagnolo."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "La cena è stata davvero spettacolare."
+      },
+      "1": {
+        "translation": "Venerdì per me è perfetto."
+      }
+    },
+    "origin": {
+      "etymology": "Letteralmente qualcosa che nessun dizionario dovrebbe tradurre parola per parola. Lo spagnolo costruisce spesso superlativi a partire da materiale tabù invertendone poi la polarità — affine nello spirito all'inglese «the dog's bollocks» o all'italiano «da paura»."
+    }
+  },
+  "ni-de-cona": {
+    "definitions": [
+      {
+        "text": "Neanche per sogno; col cazzo. Un rifiuto categorico o la negazione assoluta di una possibilità."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Andare in macchina di domenica? Neanche per idea."
+      },
+      "1": {
+        "translation": "Col cavolo che arriviamo in tempo."
+      }
+    }
+  },
+  "buah": {
+    "definitions": [
+      {
+        "text": "Madonna; mamma mia. Una particella di reazione universale posta a inizio frase, capace di esprimere qualsiasi cosa, dallo stupore alla stanchezza, a seconda dell'intonazione."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Mamma mia che caldo che fa oggi."
+      },
+      "1": {
+        "translation": "Guarda, te lo giuro, è stato incredibile."
+      }
+    }
+  },
+  "empanado": {
+    "literalMeaning": "Impanato.",
+    "definitions": [
+      {
+        "text": "Rimbambito, lento di riflessi, con la testa fra le nuvole. Estar empanado significa dormire in piedi."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Scusa, ero tra le nuvole, che stavi dicendo?"
+      },
+      "1": {
+        "translation": "È tutta la mattina che gira completamente rimbambito."
+      }
+    },
+    "origin": {
+      "etymology": "Da empanar, passare nel pangrattato — l'immagine è quella di una mente avvolta da una spessa crosta."
+    }
+  },
+  "petarlo": {
+    "definitions": [
+      {
+        "text": "Spaccare; fare il botto. Lo petaron en el concierto — hanno spaccato tutto al concerto."
+      },
+      {
+        "text": "Petar da solo: essere strapieno, detto di un locale."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Hai spaccato con la presentazione."
+      },
+      "1": {
+        "translation": "Il bar era murato di gente."
+      }
+    }
+  },
+  "tela": {
+    "literalMeaning": "Tela, stoffa.",
+    "definitions": [
+      {
+        "text": "Parecchio; un bel po'. Es tela de caro — «è caro arrabbiato»."
+      },
+      {
+        "text": "Anche denaro, nello slang meno recente: soltar la tela, sborsare i quattrini."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Costa un occhio della testa quel master."
+      },
+      "1": {
+        "translation": "C'è una montagna di lavoro arretrato."
+      }
+    }
+  },
+  "fiera": {
+    "literalMeaning": "Belva, fiera.",
+    "definitions": [
+      {
+        "text": "Campione, bomber; un appellativo carico di ammirazione per chi è stato grande in qualcosa, o semplicemente un saluto amichevole tra uomini."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Come butta, campione!"
+      },
+      "1": {
+        "translation": "Sei un mostro coi numeri."
+      }
+    }
+  },
+  "crack": {
+    "definitions": [
+      {
+        "text": "Un fenomeno, un fuoriclasse; qualcuno eccezionalmente bravo nel suo campo. Eres un crack è un gran complimento informale e non ha nulla a che vedere con la droga."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Grazie, amico, sei un grande."
+      },
+      "1": {
+        "translation": "Quel ragazzino è un fenomeno col pallone."
+      }
+    },
+    "origin": {
+      "etymology": "Preso in prestito dal lessico sportivo inglese — «a crack player», un giocatore di punta — e ristretto in spagnolo a indicare un fuoriclasse. Le telecronache calcistiche sono state il veicolo principale."
+    }
+  },
+  "cotilla": {
+    "definitions": [
+      {
+        "text": "Un pettegolo; un ficcanaso. Il verbo cotillear significa spettegolare, e la prensa del corazón (la stampa scandalistica) ne è la forma professionale."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "La mia vicina è una pettegola insopportabile."
+      },
+      "1": {
+        "translation": "Non fare il ficcanaso, posa quel telefono."
+      }
+    }
+  },
+  "sobremesa": {
+    "literalMeaning": "Sopratavola.",
+    "definitions": [
+      {
+        "text": "La lunga chiacchierata che prosegue a tavola dopo che il pasto è terminato. Non è esattamente slang, ma è intraducibile con una sola parola ed è abbastanza centrale nella vita spagnola da meritare un posto qui."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Le chiacchiere a fine pasto sono durate più del pranzo stesso."
+      },
+      "1": {
+        "translation": "Siamo rimasti a chiacchierare a tavola fino alle sei."
+      }
+    }
+  }
+}

@@ -1,0 +1,1159 @@
+{
+  "asere": {
+    "definitions": [
+      {
+        "text": "Pote, frère, mec. La formule d'adresse la plus immédiatement cubaine qui soit, employée pour ouvrir une phrase, pour la clore, ou comme phrase entière."
+      },
+      {
+        "text": "Par extension, un ami ou une relation dont on parle à la troisième personne : un asere mío — un pote à moi."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Ça va, frère ?",
+        "context": "La salutation cubaine par défaut entre hommes qui se connaissent."
+      },
+      "1": {
+        "translation": "Mec, il y a eu un sacré bazar hier."
+      },
+      "2": {
+        "translation": "Ça, c'est un gars du quartier qui me l'a réglé."
+      }
+    },
+    "origin": {
+      "etymology": "De la langue rituelle de la société secrète abakuá, elle-même apportée à Cuba par les captifs carabalís (efiks et efuts) de la région de la Cross River. Dans ce vocabulaire, asere est une salutation, à peu près « je te salue ». Le mot est resté marqué comme parler de rue et de marge pendant l'essentiel du XXe siècle avant de se généraliser dans les années 1990. L'affirmation très répandue selon laquelle il voudrait dire « singe » en yoruba relève de l'étymologie populaire, généralement brandie par ceux qui n'aiment pas le mot.",
+      "firstAttested": "XIXe siècle dans l'usage abakuá ; dans le parler cubain général à partir des années 1970"
+    }
+  },
+  "que-bola": {
+    "definitions": [
+      {
+        "text": "Quoi de neuf ? Ça va ? L'entrée en matière cubaine standard, et la formule que les étrangers entendent en premier et imitent le plus mal."
+      },
+      {
+        "text": "Suivi d'un groupe nominal, « où ça en est, cette histoire de — » : ¿Qué bolá con el dinero? — ça donne quoi, l'argent ?"
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Quoi de neuf, frère ? Tout va bien ?"
+      },
+      "1": {
+        "translation": "Il en est où, le bus, il arrive ou pas ?"
+      }
+    },
+    "origin": {
+      "etymology": "Littéralement « quelle balle ? ». L'origine est réellement incertaine : on a proposé la balle comme métaphore des nouvelles qui circulent (correr la bola, « faire passer le mot ») et une troncation d'un ancien ¿qué bola hay?. On l'écrit par convention avec un accent sur la dernière syllabe — bolá — pour marquer l'accentuation cubaine, ce qui le distingue à l'écrit du nom ordinaire bola.",
+      "firstAttested": "milieu du XXe siècle"
+    }
+  },
+  "socio": {
+    "definitions": [
+      {
+        "text": "Pote, copain. À la fois formule d'adresse et façon de désigner un ami, avec une forte connotation d'utilité mutuelle concrète : un socio, c'est quelqu'un qui vous procure des choses."
+      },
+      {
+        "text": "Au pluriel, le réseau de contacts sur lequel on s'appuie pour obtenir les biens rares."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Hé, mon pote, prête-moi ton téléphone une minute."
+      },
+      "1": {
+        "translation": "J'ai un contact à la pharmacie, il me met le médicament de côté.",
+        "context": "Le sens qui compte à Cuba : un socio est un canal, pas seulement un ami."
+      }
+    },
+    "origin": {
+      "etymology": "L'espagnol standard socio, « associé » ou « membre d'un club », resserré dans l'usage cubain sur l'allié personnel. La coloration économique n'est pas accessoire : c'est le même raisonnement qui a produit le jeu de mots sociolismo."
+    }
+  },
+  "ambia": {
+    "definitions": [
+      {
+        "text": "Ami, frère. Nettement marqué rue : il situe celui qui parle dans le monde du quartier, de la loge abakuá ou de la cour de prison, ce que asere ne fait plus."
+      },
+      {
+        "text": "Employé seul comme vocatif, souvent avec un eh emphatique — ¡eh, ambia!"
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Ce frère-là m'a donné un coup de main quand personne d'autre ne l'a fait."
+      },
+      "1": {
+        "translation": "Hé, frérot, viens voir !"
+      }
+    },
+    "origin": {
+      "etymology": "Du bantou (kikongo) mbia, « ami, compagnon », passé par les registres religieux abakuá et palo monte. Il appartient à la même strate afro-cubaine que monina et nagüe, et comme eux il n'est jamais vraiment passé dans le parler neutre."
+    }
+  },
+  "brutal": {
+    "definitions": [
+      {
+        "text": "Génial, formidable, exceptionnel. Le superlatif propre le plus courant du parler cubain, et celui qu'on peut employer sans risque devant n'importe qui."
+      },
+      {
+        "text": "En intensif d'un nom : un calor brutal — une chaleur écrasante. Il garde ici sa force négative ordinaire."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Le concert était dingue, frère."
+      },
+      "1": {
+        "translation": "Cette fille chante incroyablement bien."
+      }
+    },
+    "origin": {
+      "etymology": "L'espagnol ordinaire brutal, « brutal, sauvage », retourné en intensif positif — la même inversion que l'anglais opère avec wicked ou sick. Cuba n'est pas seule à le faire, mais la fréquence est distinctive : brutal y assure le rôle que bacán ou bacano tient ailleurs dans la Caraïbe."
+    }
+  },
+  "de-pinga": {
+    "definitions": [
+      {
+        "text": "Superbe, exceptionnel. Está de pinga à propos d'un film, d'un repas ou d'une fête est un grand compliment."
+      },
+      {
+        "text": "Épouvantable, catastrophique. La même locution, à propos d'une situation, veut dire exactement le contraire — les transports, la coupure de courant, les nouvelles. Le ton et le sujet portent seuls toute la distinction, et rien d'autre."
+      },
+      {
+        "text": "D'une personne, ser de pinga : mauvais, impitoyable, quelqu'un qui vous fera du mal."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Le film est excellent, regarde-le."
+      },
+      "1": {
+        "translation": "La situation de l'électricité est catastrophique.",
+        "context": "Construction identique, sens opposé. Les Cubains le lisent au contexte sans même remarquer qu'il y a une ambiguïté."
+      },
+      "2": {
+        "translation": "Ce type est une ordure, ne lui fais pas confiance."
+      }
+    },
+    "origin": {
+      "etymology": "De pinga, mot grossier pour le pénis qui est l'obscénité centrale de l'espagnol cubain et occupe à peu près la place du f-word en anglais. La double polarité de la locution repose sur le même mécanisme qui rend l'anglais « that's sick » ambigu."
+    }
+  },
+  "en-talla": {
+    "definitions": [
+      {
+        "text": "Être au point : affûté, bien mis, au courant, à la hauteur de ce que la situation exige."
+      },
+      {
+        "text": "D'un arrangement ou d'un plan, être réglé, être calé. Estamos en talla — c'est bon, c'est convenu."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Ce gamin assure, toujours bien habillé."
+      },
+      "1": {
+        "translation": "Je lui ai parlé, c'est calé pour samedi."
+      }
+    },
+    "origin": {
+      "etymology": "De talla, « taille de vêtement » — être à la bonne taille pour l'occasion. L'espagnol cubain emploie aussi talla pour une saillie ou un échange d'esprit (echar talla, « pérorer avec verve »), et les deux sens se renforcent."
+    }
+  },
+  "ache": {
+    "definitions": [
+      {
+        "text": "La chance, la bénédiction, la charge invisible qui fait que tout réussit à quelqu'un. Tener aché, c'est avoir une veine qui frôle le surnaturel."
+      },
+      {
+        "text": "Le charisme, la présence scénique. D'un chanteur ou d'un danseur, la qualité qui ne s'apprend pas."
+      },
+      {
+        "text": "Dans la santería proprement dite, la puissance divine qui émane des orishas et se transmet par le rituel — le sens que le mot garde pour les pratiquants."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Ce type a de la baraka, tout lui réussit."
+      },
+      "1": {
+        "translation": "L'orchestre a une présence phénoménale sur scène."
+      }
+    },
+    "origin": {
+      "etymology": "Du yoruba àṣẹ, le pouvoir de faire advenir les choses, porté à Cuba par la tradition religieuse lucumí et aujourd'hui pleinement naturalisé dans le parler profane. Contrairement à la plupart du vocabulaire afro-cubain de cette liste, il a voyagé vers le haut plutôt que latéralement : des gens sans aucun lien avec la religion l'emploient sans gêne."
+    }
+  },
+  "comemierda": {
+    "definitions": [
+      {
+        "text": "Un crâneur prétentieux : quelqu'un qui se donne des airs, fait des manières ou se croit au-dessus de son entourage. Cette acception de snobisme est la principale à Cuba et c'est ce qui la sépare du même mot ailleurs."
+      },
+      {
+        "text": "Plus vaguement, un imbécile — quelqu'un qui se comporte bêtement ou qui gêne."
+      }
+    ],
+    "literalMeaning": "Mangeur de merde.",
+    "examples": {
+      "0": {
+        "translation": "Fais pas ta chochotte, assieds-toi avec nous et mange."
+      },
+      "1": {
+        "translation": "Cet abruti ne m'a même pas rendu mon bonjour."
+      }
+    },
+    "origin": {
+      "etymology": "Composé transparent de comer et mierda. À Cuba, c'est la lecture « affecté, imbu de soi-même » qui domine ; en République dominicaine et à Porto Rico, le mot penche plus purement vers « idiot ». Le dérivé comemierdería nomme le comportement."
+    }
+  },
+  "chivaton": {
+    "definitions": [
+      {
+        "text": "Un indicateur. À Cuba, ce n'est pas un mot de cour de récréation : il désigne celui qui signale voisins ou collègues aux autorités, en général via le comité de quartier, et c'est à peu près l'accusation sociale la plus lourde qu'on puisse porter dans une conversation ordinaire."
+      },
+      {
+        "text": "Le verbe chivatear, c'est dénoncer quelqu'un ; la chivatería est la pratique."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Baisse d'un ton, le voisin est un indic."
+      },
+      "1": {
+        "translation": "Personne ne parle politique devant lui parce qu'il rapporte.",
+        "context": "Dit platement, comme un avertissement pratique plutôt que comme une insulte."
+      }
+    },
+    "origin": {
+      "etymology": "Augmentatif de chivato, « mouchard », de chivo, « chevreau » — vieille métaphore espagnole de l'animal qui bêle et trahit le troupeau. Le poids spécifiquement cubain vient des Comités de Defensa de la Revolución, la structure de surveillance de quartier créée en 1960, qui a fait de l'indicateur un rôle social fixe et non une figure occasionnelle.",
+      "firstAttested": "le terme est ancien ; la charge cubaine date des années 1960"
+    }
+  },
+  "singao": {
+    "definitions": [
+      {
+        "text": "Salaud, fils de pute. L'injure personnelle la plus forte de l'espagnol cubain au quotidien, et un véritable mot de bagarre entre inconnus."
+      },
+      {
+        "text": "Comme intensif après un nom, pour marquer le mépris : el trabajo singao ese — ce boulot de merde."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Ce salaud m'a laissé poireauter deux heures."
+      },
+      "1": {
+        "translation": "Lâche-moi, fils de pute !",
+        "context": "Registre de bagarre de rue. Il n'y a aucun usage plaisant de ce mot entre gens qui ne sont pas déjà très proches."
+      }
+    },
+    "origin": {
+      "etymology": "Participe passé de singar, le verbe cubain pour l'acte sexuel, avec la terminaison -ado réduite à -ao comme le parler cubain le fait couramment. Singar lui-même est d'origine disputée, plausiblement nautique (godiller avec un seul aviron), et le sens sexuel est cubain et dominicain plutôt que général."
+    }
+  },
+  "guapo": {
+    "definitions": [
+      {
+        "text": "Une brute, un caïd, quelqu'un qui joue les gros bras et cherche la bagarre. Pas « beau » — c'est le piège permanent pour les hispanophones venus d'ailleurs."
+      },
+      {
+        "text": "Hacerse el guapo : jouer les durs, chercher l'affrontement. Presque toujours dit avec désapprobation."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Ne joue pas les durs avec moi."
+      },
+      "1": {
+        "translation": "Dans ce quartier, il y a quatre caïds qui se croient propriétaires du coin de la rue."
+      }
+    },
+    "origin": {
+      "etymology": "Guapo voulait dire « hardi, fanfaron » en espagnol ancien avant de se fixer sur « beau » dans la majeure partie de la langue. Cuba a gardé le sens antérieur, qui a survécu à travers la figure du guapo de barrio, l'homme fort du quartier au XIXe siècle. Un Cubain qui veut dire qu'un homme est séduisant dira qu'il est lindo, ou qu'il está tremendo mango.",
+      "firstAttested": "XIXe siècle"
+    }
+  },
+  "palestino": {
+    "definitions": [
+      {
+        "text": "Un Cubain des provinces de l'Est installé à La Havane. Employé par les habaneros, avec condescendance, à propos des migrants intérieurs — la plaisanterie courante étant que ce sont des gens sans patrie qu'on ne peut pas renvoyer chez eux."
+      },
+      {
+        "text": "Par extension, tout ce qui est jugé fruste ou péquenaud, comme un Parisien dirait « provincial »."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Ça s'entend à son accent, il vient de l'Est.",
+        "context": "Rarement neutre. Le mot charrie un ricanement même quand celui qui parle n'en met aucun."
+      },
+      "1": {
+        "translation": "Ici on nous traite encore d'étrangers alors qu'on est à La Havane depuis vingt ans."
+      }
+    },
+    "origin": {
+      "etymology": "Une invention havanaise des années 1990, bâtie sur l'analogie de l'apatridie et aiguisée par le décret 217 de 1997, qui a restreint la résidence dans la capitale et laissé des milliers de migrants de l'Est y vivre sans enregistrement légal. C'est un mot de préjugé, et les Cubains de l'Oriente le ressentent comme tel.",
+      "firstAttested": "années 1990"
+    }
+  },
+  "cheo": {
+    "definitions": [
+      {
+        "text": "Ringard, kitsch, gnangnan. De vêtements, de musique, d'une phrase de drague ou d'une fête — tout ce qui essaie d'avoir du style et échoue."
+      },
+      {
+        "text": "D'une personne, fruste d'une manière un peu pitoyable. Plus doux que comemierda, qui vous accuse d'arrogance ; cheo ne vous accuse que de mauvais goût."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Cette chemise est d'un ringard incroyable, enlève-la."
+      },
+      "1": {
+        "translation": "Ne lui envoie pas cette chanson, c'est gnangnan."
+      }
+    },
+    "origin": {
+      "etymology": "D'origine incertaine ; on le rattache généralement à Cheo, forme familière du prénom José, servant de nom générique pour l'homme ordinaire et sans vernis — le même procédé qui a donné « un vrai Jean-Michel » en français. Le superlatif cheísimo est très courant."
+    }
+  },
+  "yuma": {
+    "definitions": [
+      {
+        "text": "Un étranger, surtout un étranger blanc venu d'un pays riche. À l'origine réservé aux Américains, désormais appliqué à tout touriste qui y ressemble."
+      },
+      {
+        "text": "La Yuma : les États-Unis, et par extension tout ailleurs qui vaille la peine d'émigrer. Irse pa' la Yuma, c'est partir aux États-Unis."
+      },
+      {
+        "text": "Comme adjectif, de fabrication étrangère et donc bon : un teléfono yuma."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Ce restaurant est pour les touristes, aucun Cubain n'y mange."
+      },
+      "1": {
+        "translation": "Il est parti aux États-Unis il y a trois ans."
+      }
+    },
+    "origin": {
+      "etymology": "Deux explications circulent. La populaire crédite le western 3h10 pour Yuma (1957), largement diffusé à Cuba, qui aurait fixé « Yuma » comme raccourci pour les États-Unis. L'autre y voit la troncation d'une adaptation espagnole de « United States » via yunay. Aucune n'est assez documentée pour être affirmée, et l'histoire du film a la forme d'une étymologie populaire, même si elle se trouve être juste.",
+      "firstAttested": "années 1960-1970"
+    }
+  },
+  "gusano": {
+    "definitions": [
+      {
+        "text": "Un contre-révolutionnaire ; quelqu'un qui a quitté Cuba, ou qui veut le faire. Dans la bouche officielle et pro-gouvernementale, c'est une insulte politique pure et simple."
+      },
+      {
+        "text": "Réapproprié, à Miami et de plus en plus chez les jeunes Cubains de l'île, comme un badge : imprimé sur des tee-shirts, employé avec autodérision, appliqué affectueusement aux parents partis à l'étranger."
+      }
+    ],
+    "literalMeaning": "Ver.",
+    "examples": {
+      "0": {
+        "translation": "On a traité ma grand-mère de ver en 1980 et elle ne l'a jamais oublié.",
+        "context": "L'exode de Mariel, quand les Cubains qui partaient étaient publiquement insultés au moment du départ."
+      },
+      "1": {
+        "translation": "Ici à Miami, on est des vers et on en est fiers.",
+        "context": "L'usage réapproprié de la diaspora. Sur l'île, le mot reste surtout une arme."
+      }
+    },
+    "origin": {
+      "etymology": "Fixé dans la langue politique cubaine par les discours de Fidel Castro du début des années 1960, qui présentaient les émigrés comme des parasites se nourrissant de la révolution. Un second récit, semi-populaire, le rattache aux sacs de voyage en forme de ver que portaient les exilés ; les sacs ont existé, mais ce sont les discours qui ont fait le travail. Le féminin gusana et le diminutif gusanito sont tous deux en usage.",
+      "firstAttested": "début des années 1960"
+    }
+  },
+  "balsero": {
+    "definitions": [
+      {
+        "text": "Quelqu'un qui quitte Cuba par la mer sur un radeau ou une embarcation de fortune. Employé de façon descriptive et non péjorative, y compris par les intéressés eux-mêmes."
+      },
+      {
+        "text": "Par extension, tout Cubain ayant émigré irrégulièrement, même par voie terrestre à travers l'Amérique centrale — un élargissement du mot que les locuteurs plus âgés n'aiment pas."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Mon oncle est parti sur un radeau en 94 et il est arrivé à Key West."
+      },
+      "1": {
+        "translation": "Il a pris la mer sur un radeau avec cinq autres."
+      }
+    },
+    "origin": {
+      "etymology": "De balsa, « radeau », avec le suffixe d'agent -ero. Le mot s'est généralisé pendant la crise d'août 1994, quand le gouvernement a brièvement cessé de surveiller les départs et que des dizaines de milliers de personnes sont parties sur des radeaux faits de chambres à air, de portes et de polystyrène.",
+      "firstAttested": "1994"
+    }
+  },
+  "jinetera": {
+    "definitions": [
+      {
+        "text": "Une femme qui noue des relations avec des touristes étrangers en vue d'un bénéfice matériel. Le terme brouille délibérément le travail du sexe, la débrouille et la relation véritable, parce que dans les faits les catégories se brouillaient."
+      },
+      {
+        "text": "Au masculin, jinetero : un homme qui fait la même chose, ou plus souvent un rabatteur de rue qui oriente les touristes vers des restaurants, des taxis et des cigares contre commission."
+      },
+      {
+        "text": "L'activité, c'est el jineteo ; le verbe, jinetear."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "La police dégage les rabatteurs du Malecón sans arrêt."
+      },
+      "1": {
+        "translation": "On la traite de jinetera parce qu'elle est avec un Italien, et c'est tout ce qu'ils savent réellement.",
+        "context": "Le mot sert d'injure bien au-delà de son sens littéral, en particulier à propos de toute Cubaine vue avec un étranger."
+      }
+    },
+    "origin": {
+      "etymology": "De jinete, « cavalier » — la métaphore est celle de la monte du touriste. Il est apparu au début de la Période spéciale, au début des années 1990, quand l'effondrement des subventions soviétiques et l'ouverture au tourisme ont fait des devises la seule monnaie qui comptait.",
+      "firstAttested": "début des années 1990"
+    }
+  },
+  "friki": {
+    "definitions": [
+      {
+        "text": "Un rockeur ou un métalleux — cheveux longs, tee-shirts noirs, cassettes importées. À Cuba, le mot nomme une sous-culture précise, harcelée par la police tout au long des années 1980 et 1990, et pas simplement quelqu'un aux goûts bizarres."
+      },
+      {
+        "text": "Plus récemment, et chez les jeunes locuteurs, un original ou un passionné obsessionnel, proche du « geek » anglais."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Mon père était rockeur, il allait au Patio de María tous les week-ends.",
+        "context": "Le Patio de María, à La Havane, a été le principal lieu de rassemblement des rockeurs cubains jusqu'à sa fermeture en 2003."
+      },
+      "1": {
+        "translation": "Ce gamin est un pur geek de l'informatique."
+      }
+    },
+    "origin": {
+      "etymology": "De l'anglais « freak », arrivé à Cuba par le rock plutôt que par l'anglais général. La scène friki cubaine est historiquement singulière : la désapprobation d'État envers le « diversionnisme idéologique » faisait d'une écoute d'Iron Maiden un acte politique, et la sous-culture a produit son propre vocabulaire et ses propres lieux.",
+      "firstAttested": "fin des années 1970"
+    }
+  },
+  "pincho": {
+    "definitions": [
+      {
+        "text": "Un chef, un haut responsable, quelqu'un qui occupe un poste d'État et jouit des privilèges qui vont avec. Dit avec ressentiment bien plus souvent qu'avec respect."
+      },
+      {
+        "text": "Pincho grande : une huile de tout premier rang. Un pinchito est un petit fonctionnaire qui se comporte comme s'il en était une."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Ça, seul quelqu'un qui a le bras long peut le régler, pas nous."
+      },
+      "1": {
+        "translation": "Il est arrivé dans une voiture de l'État, c'est un des chefs."
+      }
+    },
+    "origin": {
+      "etymology": "Origine incertaine. L'hypothèse habituelle le rattache à pincho, « pointe, piquant », comme image de celui qui est au sommet ; une autre y lit la troncation du grade militaire pincho de alta graduación. Aucune documentation ne tranche, et les Cubains eux-mêmes avancent les deux.",
+      "firstAttested": "années 1970"
+    }
+  },
+  "fula": {
+    "definitions": [
+      {
+        "text": "Le dollar américain, et par extension les devises en général. Cien fula, c'est cent dollars."
+      },
+      {
+        "text": "Comme adjectif, mauvais, louche, désagréable — d'une situation, d'une personne ou d'une nouvelle. Estar fula, c'est aller mal ; ponerse fula, c'est quand les choses tournent au vinaigre."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Ça, il faut le payer en dollars, ils ne le vendent pas en pesos."
+      },
+      "1": {
+        "translation": "C'est dur, ce mois-ci.",
+        "context": "L'adjectif est le sens le plus ancien et reste d'un usage constant."
+      }
+    },
+    "origin": {
+      "etymology": "Le sens adjectival — mauvais, sans valeur — est l'original et on le rattache généralement à un substrat africain de l'espagnol cubain. Le sens monétaire en est sorti à l'époque où détenir des dollars était un délit : l'argent pour lequel on pouvait aller en prison était de l'argent fula. Il a survécu à la dépénalisation de 1993 et au peso convertible qui l'avait remplacé.",
+      "firstAttested": "adjectif au début du XXe siècle ; « dollar » à partir des années 1980"
+    }
+  },
+  "luchar": {
+    "definitions": [
+      {
+        "text": "Se débrouiller : s'en sortir par le travail informel, le troc, les services rendus et l'improvisation. Estar en la lucha est la réponse standard à « comment ça va ? » et veut dire, en gros, qu'on survit."
+      },
+      {
+        "text": "Employé transitivement avec un complément d'objet, obtenir quelque chose par ces moyens : luchar un pollo, luchar unos pesos. C'est cet emploi transitif qui est proprement cubain."
+      }
+    ],
+    "literalMeaning": "Lutter, se battre.",
+    "examples": {
+      "0": {
+        "translation": "Comment ça va ? — Bah, on se débrouille.",
+        "context": "Presque un échange rituel. Ça ne dit rien de précis et tout le monde comprend."
+      },
+      "1": {
+        "translation": "Je vais voir si je peux dégoter des œufs pour le dîner."
+      }
+    },
+    "origin": {
+      "etymology": "Le verbe ordinaire « lutter », absorbé par le vocabulaire économique pendant la Période spéciale des années 1990. L'expression la lucha comporte un écho délibéré de la rhétorique révolutionnelle officielle, et les Cubains l'emploient en pleine conscience de l'ironie.",
+      "firstAttested": "années 1990 en ce sens"
+    }
+  },
+  "resolver": {
+    "definitions": [
+      {
+        "text": "Se procurer quelque chose de rare par des voies informelles — un contact, un échange, un stock d'État détourné. Le verbe s'emploie absolument, sans complément, et l'absence de complément est tout le propos : personne ne demande comment."
+      },
+      {
+        "text": "Avec un complément, se procurer une chose précise : resolver unos huevos, resolver el cemento."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "T'inquiète, je m'occupe de toi.",
+        "context": "La forme la plus courante. Nommer la méthode serait un manquement à l'étiquette."
+      },
+      "1": {
+        "translation": "Il faut trouver de l'huile avant le week-end."
+      }
+    },
+    "origin": {
+      "etymology": "L'espagnol standard « résoudre », resserré à Cuba sur une seule acception économique. Avec inventar (« improviser une solution ») et escapar (« s'en sortir de justesse »), il forme la triade verbale centrale de l'économie informelle — le vocabulaire que la Période spéciale a engendré puis rendu permanent.",
+      "firstAttested": "années 1990 en ce sens"
+    }
+  },
+  "pincha": {
+    "definitions": [
+      {
+        "text": "Un boulot, le travail, l'endroit où l'on va le matin. Voy pa' la pincha — je file au boulot."
+      },
+      {
+        "text": "Le verbe pinchar, travailler. Pincho en un hospital — je bosse dans un hôpital. Rien à voir avec le fait que le salaire d'État vaille la peine qu'on travaille, ce qui est une autre conversation que les Cubains auront volontiers avec vous."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Demain je ne bosse pas, c'est dimanche."
+      },
+      "1": {
+        "translation": "Ça fait vingt ans qu'il bosse dans la même boîte."
+      }
+    },
+    "origin": {
+      "etymology": "De pinchar, littéralement « piquer, percer ». Le chemin jusqu'à « travail » n'est pas documenté ; la lecture la plus plausible est celle de la carte de pointage qu'on perfore. Le mot est cubain et canarien, et n'a rien à voir avec le pinchar d'Espagne, « mixer, être DJ »."
+    }
+  },
+  "por-la-izquierda": {
+    "definitions": [
+      {
+        "text": "Au marché noir ; au noir ; obtenu ou fait sans autorisation officielle. Comprar por la izquierda, c'est acheter à quelqu'un qui n'est pas censé vendre."
+      },
+      {
+        "text": "Du comportement en général, dans le dos de quelqu'un — y compris l'infidélité amoureuse."
+      }
+    ],
+    "literalMeaning": "Par la gauche.",
+    "examples": {
+      "0": {
+        "translation": "Le lait, je me le procure au noir ; à la bodega il n'y en a jamais."
+      },
+      "1": {
+        "translation": "Il voit quelqu'un d'autre dans son dos."
+      }
+    },
+    "origin": {
+      "etymology": "La main gauche comme main sinistre ou fautive est une vieille image européenne ; ce qui est cubain, c'est la spécialisation sur la propriété d'État qui sort d'un entrepôt par la mauvaise porte. Noter la plaisanterie politique enfouie dans la locution, que les Cubains perçoivent et que les étrangers ratent presque toujours."
+    }
+  },
+  "sociolismo": {
+    "definitions": [
+      {
+        "text": "Le système qui consiste à obtenir les choses par relations personnelles plutôt que par les canaux officiels. Un jeu de mots qui nomme une institution réelle : en pratique, l'accès aux biens de la plupart des Cubains passe par là."
+      },
+      {
+        "text": "Employé comme diagnostic désabusé d'une situation : aquí lo que funciona es el sociolismo — ce qui marche vraiment ici, c'est le carnet d'adresses."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Ici il n'y a pas de socialisme, il y a le règne du piston.",
+        "context": "La blague dans sa forme canonique. Elle est vieille, tout le monde l'a entendue, et on la dit encore."
+      },
+      "1": {
+        "translation": "Il a eu le rendez-vous par piston, pas par la liste d'attente."
+      }
+    },
+    "origin": {
+      "etymology": "Mot-valise de socialismo et socio, « contact, associé ». Il appartient à une famille de calembours politiques cubains qui ont circulé de bouche à oreille à partir des années 1980, et c'est l'un des très rares à être passé à l'imprimé.",
+      "firstAttested": "années 1980"
+    }
+  },
+  "guagua": {
+    "definitions": [
+      {
+        "text": "Un bus. Le seul mot que la plupart des Cubains emploient ; autobús sonne comme un manuel et ómnibus comme un horaire affiché."
+      },
+      {
+        "text": "Coger la guagua, prendre le bus — et, vu le service, une expression qui apparaît dans une quantité prodigieuse de récriminations."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Ça fait une heure et demie que j'attends le bus."
+      },
+      "1": {
+        "translation": "Le bus était tellement bondé que je n'ai même pas pu monter."
+      }
+    },
+    "origin": {
+      "etymology": "Partagé avec les Canaries, Porto Rico et la République dominicaine. L'histoire souvent répétée d'une dérivation de « Washington, Walton and Company », un constructeur américain d'autobus, est une étymologie populaire sans le moindre appui. Une origine canarienne, peut-être onomatopéique, est plus probable. Attention : au Chili et dans une partie des Andes, guagua désigne un bébé.",
+      "firstAttested": "XIXe siècle"
+    }
+  },
+  "almendron": {
+    "definitions": [
+      {
+        "text": "L'une de ces voitures américaines d'avant 1960 qui servent de taxis collectifs à itinéraire fixe. On la hèle, on dit où l'on va, et on paie un tarif unique pour partager la banquette arrière avec des inconnus."
+      },
+      {
+        "text": "Plus largement, toute grosse vieille américaine, qu'elle transporte des passagers ou non."
+      }
+    ],
+    "literalMeaning": "Grosse amande.",
+    "examples": {
+      "0": {
+        "translation": "Prends un taxi collectif le long de Línea, ce sera plus rapide que le bus."
+      },
+      "1": {
+        "translation": "Cette vieille Chevrolet a un moteur de Lada à l'intérieur.",
+        "context": "C'est la norme : les carrosseries sont américaines, la mécanique est soviétique ou coréenne."
+      }
+    },
+    "origin": {
+      "etymology": "De almendra, « amande », avec l'augmentatif -ón, pour les carrosseries arrondies des années cinquante. Le mot le plus courant à La Havane pour le même véhicule en service est simplement máquina ; almendrón est un peu plus affectueux et c'est celui que les Cubains emploient quand ils expliquent la chose aux étrangers.",
+      "firstAttested": "années 1990"
+    }
+  },
+  "jaba": {
+    "definitions": [
+      {
+        "text": "Un sac — précisément le sac plastique de courses, qui à Cuba est un bien réutilisable et non quelque chose qu'on jette. Le diminutif jabita est au moins aussi courant."
+      },
+      {
+        "text": "Par extension, le contenu : traer la jaba, c'est arriver avec les courses."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Prends un sac, au cas où il y aurait quelque chose au magasin en devises.",
+        "context": "Sortir sans sac passe pour de l'imprévoyance, parce que les achats se font au hasard des occasions."
+      },
+      "1": {
+        "translation": "Elle m'a donné un petit sac de mangues de son jardin."
+      }
+    },
+    "origin": {
+      "etymology": "Du taïno, où le mot désignait un panier ou un récipient tressé ; il a survécu à la disparition de la langue dont il vient et fait partie du petit ensemble de mots indigènes des Caraïbes encore d'usage quotidien à Cuba, avec güiro et batey."
+    }
+  },
+  "botella": {
+    "definitions": [
+      {
+        "text": "Un trajet en stop. Pedir botella, c'est faire du stop — une composante normale et organisée du transport cubain plutôt qu'une aventure, avec à certains carrefours des agents de l'État tenus d'arrêter les véhicules pour les passagers qui attendent."
+      },
+      {
+        "text": "Dar botella, c'est prendre quelqu'un en stop. Botellero, celui qui fait du stop en permanence."
+      }
+    ],
+    "literalMeaning": "Bouteille.",
+    "examples": {
+      "0": {
+        "translation": "J'ai passé une heure à faire du stop au bord de la route."
+      },
+      "1": {
+        "translation": "Tu peux me déposer au Vedado ?"
+      }
+    },
+    "origin": {
+      "etymology": "Le lien avec la bouteille n'est pas établi. Dans l'usage cubain plus ancien, botella désignait aussi une sinécure — un emploi d'État payé sans travail — et les deux sens partagent l'idée d'obtenir quelque chose pour rien, ce qui est peut-être le lien, ou pas.",
+      "firstAttested": "le sens de « sinécure » date du XIXe siècle"
+    }
+  },
+  "paquete": {
+    "definitions": [
+      {
+        "text": "El paquete semanal : un téraoctet de films, de séries, de musique, d'applis, de magazines et de petites annonces, compilé chaque semaine et distribué de la main à la main sur disques durs et clés USB. Pendant des années, c'est ainsi que la plupart des Cubains ont consommé des médias, dans un pays presque sans internet domestique."
+      },
+      {
+        "text": "Par extension, n'importe quel lot de contenus numériques piratés acheté à un distributeur local."
+      }
+    ],
+    "literalMeaning": "Le paquet.",
+    "examples": {
+      "0": {
+        "translation": "Le gamin du coin de la rue m'apporte le paquet hebdomadaire le lundi."
+      },
+      "1": {
+        "translation": "Cette série, je l'ai vue par le paquet."
+      }
+    },
+    "origin": {
+      "etymology": "Un nom purement descriptif pour une chose qui est passée de rien, à la fin des années 2000, à un réseau de distribution national avec un calendrier hebdomadaire et sa propre publicité. C'est toléré plutôt que légal, et ses compilateurs en excluent notoirement la pornographie et le matériel politique, ce qui lui a permis de durer.",
+      "firstAttested": "vers 2008"
+    }
+  },
+  "alumbron": {
+    "definitions": [
+      {
+        "text": "Le bref créneau où le courant est effectivement là. Une invention sarcastique qui renverse apagón, « coupure » : si le courant est coupé la majeure partie de la journée, l'événement notable, c'est la lumière, pas le noir."
+      },
+      {
+        "text": "Employé comme unité de planification — cuisiner, recharger les téléphones et pomper l'eau se calent tous dessus."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Profite qu'il y a le courant et mets le riz à cuire."
+      },
+      "1": {
+        "translation": "Ici on n'a plus de coupures, on a de brèves poussées d'électricité.",
+        "context": "La blague dans sa forme standard, en circulation dans toute l'île pendant la crise énergétique des années 2020."
+      }
+    },
+    "origin": {
+      "etymology": "Bâti sur alumbrar, « éclairer », avec l'augmentatif -ón repris tel quel à apagón. La trouvaille est assez ancienne pour être apparue pendant les coupures de la Période spéciale des années 1990, mais elle n'est devenue vraiment omniprésente qu'après 2021.",
+      "firstAttested": "années 1990, relancé à partir de 2021"
+    }
+  },
+  "jama": {
+    "definitions": [
+      {
+        "text": "De la nourriture, de la bouffe. Hay jama — il y a à manger, annoncé comme une bonne nouvelle."
+      },
+      {
+        "text": "Le verbe jamar, manger, souvent avec l'idée de manger beaucoup ou avec voracité."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Viens par ici, il y a à manger."
+      },
+      "1": {
+        "translation": "Ce type s'enfile la bouffe comme s'il n'y avait pas de lendemain."
+      }
+    },
+    "origin": {
+      "etymology": "Du caló jamar, « manger », l'argot d'Espagne d'origine rom — la même source qui a donné à l'espagnol chaval et currelar. Il a gagné Cuba par le parler ouvrier péninsulaire et est aujourd'hui bien plus quotidien à La Havane qu'à Madrid."
+    }
+  },
+  "frutabomba": {
+    "definitions": [
+      {
+        "text": "La papaye. Le fruit s'appelle ainsi à La Havane et dans l'ouest de l'île parce que papaya est un mot grossier pour la vulve, et en demander une au marché vous vaudra des rires."
+      },
+      {
+        "text": "Dans l'est de Cuba, le même fruit est généralement fruta bomba aussi, même si certains y disent papaya sans gêne — le tabou faiblit à mesure qu'on s'éloigne de La Havane."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Donne-moi un milk-shake à la papaye."
+      },
+      "1": {
+        "translation": "Ici on ne dit pas papaya, mon vieux.",
+        "context": "La correction qu'un Cubain fera, gentiment, la première fois qu'un Mexicain ou un Espagnol de passage en commande une."
+      }
+    },
+    "origin": {
+      "etymology": "Un renommage euphémique, entièrement dicté par le sens obscène de papaya en espagnol cubain et dominicain. C'est l'exemple le plus net de toute une classe de vocabulaire cubain d'évitement, et l'un des rares faits d'argot qui peut épargner à un touriste une gêne bien réelle."
+    }
+  },
+  "chispa-e-tren": {
+    "definitions": [
+      {
+        "text": "Tord-boyaux distillé à domicile, vendu illégalement à la bouteille. Rugueux, fort et parfois dangereux, puisque la matière première est ce qu'on avait sous la main."
+      },
+      {
+        "text": "Plus largement, n'importe quel alcool très bon marché et très fort."
+      }
+    ],
+    "literalMeaning": "Étincelle de train.",
+    "examples": {
+      "0": {
+        "translation": "Ne bois pas ça, c'est de l'alcool de contrebande."
+      },
+      "1": {
+        "translation": "Deux verres de ce truc-là et plus personne ne se rappelle son propre nom."
+      }
+    },
+    "origin": {
+      "etymology": "Le nom est une plaisanterie sur la puissance : ça part comme une étincelle de locomotive. La distillation domestique cubaine s'est développée pendant les pénuries des années 1990, et la boisson s'appelle aussi train, bajativo ou, ironiquement, la bebida del pueblo.",
+      "firstAttested": "années 1990"
+    }
+  },
+  "paladar": {
+    "definitions": [
+      {
+        "text": "Un restaurant privé, à l'origine installé dans le logement du propriétaire. Le mot s'applique aujourd'hui à tous les restaurants privés de Cuba, y compris les grands et les chers."
+      },
+      {
+        "text": "Encore employé parfois au sens étroit, chez les locuteurs plus âgés, pour la petite affaire de salon avec une poignée de tables."
+      }
+    ],
+    "literalMeaning": "Palais (de la bouche).",
+    "examples": {
+      "0": {
+        "translation": "On a mangé dans un restaurant privé du Centro Habana, excellent."
+      },
+      "1": {
+        "translation": "Ils ont ouvert un restaurant dans la maison du coin."
+      }
+    },
+    "origin": {
+      "etymology": "Du feuilleton brésilien Vale Tudo, diffusé à Cuba vers 1990, où un personnage monte une chaîne de sandwicheries appelée Paladar. Le feuilleton était une obsession nationale, et quand les restaurants à domicile ont été légalisés en 1993, le nom attendait déjà. L'un des emprunts à la télévision les mieux documentés, toutes langues confondues.",
+      "firstAttested": "début des années 1990"
+    }
+  },
+  "descarga": {
+    "definitions": [
+      {
+        "text": "Une jam session : des musiciens qui jouent ensemble sans arrangement fixé. Le terme est cubain et a donné son nom à tout un genre enregistré dans les années 1950."
+      },
+      {
+        "text": "Par extension, une réunion informelle avec musique, boisson et aucun programme."
+      },
+      {
+        "text": "Le verbe descargar veut aussi dire vider son sac — s'en prendre verbalement à quelqu'un, ou pérorer longuement."
+      }
+    ],
+    "literalMeaning": "Décharge, déchargement.",
+    "examples": {
+      "0": {
+        "translation": "Une session improvisée s'est montée dans la cour jusqu'à trois heures du matin."
+      },
+      "1": {
+        "translation": "Il m'est tombé dessus pour un truc que je n'avais pas fait."
+      }
+    },
+    "origin": {
+      "etymology": "Littéralement une décharge électrique ou le déchargement d'une cargaison, repris par les musiciens de jazz et de son de La Havane pour les sessions improvisées d'après-concert qu'Israel « Cachao » López a mises sur disque à partir de 1957. Le sens festif a suivi le sens musical.",
+      "firstAttested": "années 1950"
+    }
+  },
+  "bembe": {
+    "definitions": [
+      {
+        "text": "Une célébration avec tambours donnée pour les orishas dans la tradition religieuse lucumí : tambours batá, chants, danse, nourriture et possession. C'est le sens premier et littéral."
+      },
+      {
+        "text": "Par extension dans le parler profane, une grosse fête bruyante. L'employer ainsi devant des pratiquants manque un peu de tact, à peu près comme dire « c'était un cirque » d'un enterrement."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Il y a une cérémonie de tambours samedi chez la marraine."
+      },
+      "1": {
+        "translation": "Une fête d'un boucan terrible a démarré dans le couloir."
+      }
+    },
+    "origin": {
+      "etymology": "Du yoruba via le lucumí, la langue liturgique de la santería cubaine, où il nomme la célébration tambourinée elle-même. Il a gagné l'anglais par le jazz latin — l'époque de « Manteca » de Chano Pozo et Dizzy Gillespie — bien avant d'être largement compris."
+    }
+  },
+  "echar-un-pie": {
+    "definitions": [
+      {
+        "text": "Danser — et précisément aller danser maintenant, avec la personne à qui l'on parle. L'invitation cubaine standard, et nettement moins formelle que bailar."
+      },
+      {
+        "text": "Plus largement, sortir danser pour la soirée."
+      }
+    ],
+    "literalMeaning": "Jeter un pied.",
+    "examples": {
+      "0": {
+        "translation": "On va danser ?"
+      },
+      "1": {
+        "translation": "Ce soir on va danser sur le Malecón."
+      }
+    },
+    "origin": {
+      "etymology": "L'une des nombreuses locutions cubaines en echar (echar un cabo, donner un coup de main ; echar talla, pérorer). Le pied vaut pour la danse entière, par simple métonymie."
+    }
+  },
+  "jeva": {
+    "definitions": [
+      {
+        "text": "Une petite amie. Mi jeva est la façon ordinaire dont un jeune Cubain désigne la femme avec qui il est."
+      },
+      {
+        "text": "Plus vaguement, une jeune femme. En ce sens, c'est familier plutôt que grossier, mais ce n'est pas un mot à employer sur quelqu'un en sa présence si on ne la connaît pas."
+      },
+      {
+        "text": "Au masculin, jevo : petit ami, mec."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Il est venu avec sa copine et les deux enfants."
+      },
+      "1": {
+        "translation": "Cette fille est dans ma promo."
+      }
+    },
+    "origin": {
+      "etymology": "Origine incertaine. L'hypothèse la plus courante est une refonte phonétique d'Eva comme nom générique de la femme ; une autre le rattache à l'anglais « heifer » (génisse) par les contacts portuaires caribéens, ce qui est phonétiquement plausible et sémantiquement déplaisant. Aucune n'est tranchée. Le mot est partagé dans toute la Caraïbe hispanophone et au Venezuela."
+    }
+  },
+  "templar": {
+    "definitions": [
+      {
+        "text": "Coucher, baiser. Le verbe cubain quotidien pour l'acte : grossier sans être le plus grossier, à peu près là où se situe « s'envoyer en l'air » en français."
+      },
+      {
+        "text": "Templeta, le nom dérivé. Estar templando, coucher avec quelqu'un de façon suivie."
+      }
+    ],
+    "literalMeaning": "Tempérer, accorder une corde.",
+    "examples": {
+      "0": {
+        "translation": "Ces deux-là couchent ensemble depuis des mois et croient que personne ne le sait."
+      },
+      "1": {
+        "translation": "Ne parle pas comme ça devant ma mère.",
+        "context": "Bon à savoir, parce que les sens standard de templar — accorder un instrument, tremper l'acier — sont parfaitement innocents, et que les Cubains entendent l'autre d'abord."
+      }
+    },
+    "origin": {
+      "etymology": "Une spécialisation cubaine du templar standard, « tendre, accorder ». La métaphore de la mise sous tension est assez transparente. Le sens est cubain et ne voyage pas : un Espagnol ou un Mexicain qui dit voy a templar la guitarra veut dire exactement ce qu'il dit, et ne comprendra pas pourquoi un Cubain rit."
+    }
+  },
+  "mango": {
+    "definitions": [
+      {
+        "text": "Une personne très attirante, homme ou femme. Estar tremendo mango est la façon cubaine standard de dire que quelqu'un est canon."
+      },
+      {
+        "text": "Employé adjectivalement avec está : está mango — il ou elle est renversant(e). Attention au verbe : ser mango sonnerait bizarre, parce que c'est un état dans lequel on est, pas une chose que l'on est."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Dis donc, ce garçon est absolument canon."
+      },
+      "1": {
+        "translation": "La nouvelle voisine est renversante."
+      }
+    },
+    "origin": {
+      "etymology": "Le fruit comme image de la maturité et de la douceur — le même réflexe que derrière l'anglais « peach » et l'espagnol bombón. L'usage cubain n'est pas unique, mais son intensité l'est : mango s'applique aux hommes au moins aussi volontiers qu'aux femmes, ce qui n'est pas le cas des équivalents dans une grande partie de l'Amérique latine."
+    }
+  },
+  "titimania": {
+    "definitions": [
+      {
+        "text": "L'obsession d'un homme d'âge mûr pour les femmes bien plus jeunes. Moqueur plutôt que réprobateur, et généralement dit d'un homme par ses amis."
+      },
+      {
+        "text": "De l'intéressé, on dit qu'il tener titimanía ou qu'il est un titimaníaco."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "À cinquante ans, il s'est mis à courir après les filles de vingt ans."
+      },
+      "1": {
+        "translation": "C'est un cas d'école de démon de midi."
+      }
+    },
+    "origin": {
+      "etymology": "De titi, argot cubain pour une jeune femme, plus le suffixe -manía d'origine grecque. Le mot pendant est temba, une personne dans la quarantaine ou la cinquantaine — un terme d'âge cubain sans équivalent net en français. Tous deux relèvent d'un vocabulaire cubain très développé sur les écarts d'âge dans les couples.",
+      "firstAttested": "années 1990"
+    }
+  },
+  "jamonear": {
+    "definitions": [
+      {
+        "text": "Peloter quelqu'un dans une foule — dans un bus bondé, dans une file, à un concert — en profitant de la promiscuité des corps. Le nom jamonero désigne l'homme qui le fait."
+      },
+      {
+        "text": "Employé aussi, de façon bien plus anodine, du collé-serré intense entre partenaires de danse, d'où viennent les plaisanteries cubaines sur le mot."
+      }
+    ],
+    "literalMeaning": "« Jambonner » ; de jamón, jambon.",
+    "examples": {
+      "0": {
+        "translation": "Dans le bus, il faut faire attention aux peloteurs.",
+        "context": "Dit comme un conseil pratique, le plus souvent par des femmes à des femmes plus jeunes."
+      },
+      "1": {
+        "translation": "Ils ont passé la nuit à se coller sur la piste."
+      }
+    },
+    "origin": {
+      "etymology": "De jamón, « jambon » — l'image est celle du pétrissage et de la manipulation de la viande. Le sens dansant et le sens d'agression coexistent depuis des décennies, et l'humour attaché au premier a historiquement amorti la réaction publique au second, ce que les féministes cubaines ont longuement souligné."
+    }
+  },
+  "cono": {
+    "definitions": [
+      {
+        "text": "Merde ! Putain ! L'exclamation cubaine à tout faire, pour la surprise, la douleur, le plaisir, l'exaspération comme l'emphase. Sa fréquence dans le parler cubain ordinaire est bien supérieure à ce que la traduction littérale suggère."
+      },
+      {
+        "text": "Comme intensif à l'intérieur d'une phrase : ¿qué coño pasó? — qu'est-ce qui s'est passé, bon sang ?"
+      },
+      {
+        "text": "L'euphémisme tronqué ño est employé par ceux qui essaient de ne pas jurer, y compris devant les enfants, et on l'entend en permanence."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Putain, le courant est encore coupé !"
+      },
+      "1": {
+        "translation": "Punaise, mon vieux, quelle chaleur !",
+        "context": "La forme adoucie. C'est celle à employer si vous êtes de passage et hésitez."
+      }
+    },
+    "origin": {
+      "etymology": "Littéralement la vulve, du latin cunnus — la même racine que le c-word anglais. Le sens littéral a été presque entièrement délavé de l'interjection pour les locuteurs cubains, espagnols et vénézuéliens, et c'est pour cela qu'on l'emploie devant les grands-parents. Il ne l'a pas été pour des oreilles mexicaines ou colombiennes, et il y frappe beaucoup plus fort."
+    }
+  },
+  "candela": {
+    "definitions": [
+      {
+        "text": "Estar en candela : être dans de sales draps, ou se dit d'une situation désastreuse. S'applique à une personne, à un mariage, à l'économie ou à la météo."
+      },
+      {
+        "text": "Ser candela : d'une personne, être ingérable — déchaînée, espiègle, impossible à tenir. Souvent dit avec une réelle tendresse d'un enfant."
+      },
+      {
+        "text": "Dar candela : mener la vie dure à quelqu'un ; et aussi, d'une voiture ou d'une machine, faire des siennes."
+      }
+    ],
+    "literalMeaning": "Flamme, feu.",
+    "examples": {
+      "0": {
+        "translation": "Ça va très mal, mon vieux."
+      },
+      "1": {
+        "translation": "Cette gamine est une pile électrique, elle ne s'arrête pas une minute."
+      },
+      "2": {
+        "translation": "Il m'a cassé les pieds tout le trajet."
+      }
+    },
+    "origin": {
+      "etymology": "Le mot espagnol ordinaire pour la flamme, que le parler cubain a exploité jusqu'à en faire une image générale de la chaleur, du danger et de l'indiscipline. Les expressions apparentées — echar candela, meterle candela — prolongent la même image, et le mot revient sans cesse dans les paroles de son et de timba."
+    }
+  },
+  "berro": {
+    "definitions": [
+      {
+        "text": "Un accès de rage. Coger un berro, c'est exploser, complètement et visiblement."
+      },
+      {
+        "text": "Estar emberrado, être d'une humeur massacrante ; emberrarse, se mettre dans cet état. S'emploie aussi bien des adultes que des tout-petits."
+      }
+    ],
+    "literalMeaning": "Cresson.",
+    "examples": {
+      "0": {
+        "translation": "Il a piqué une crise terrible quand il l'a appris."
+      },
+      "1": {
+        "translation": "Il est de mauvais poil depuis ce matin à cause d'hier soir."
+      }
+    },
+    "origin": {
+      "etymology": "Le lien avec berro, « cresson », est opaque et probablement fortuit ; une source plus probable est le verbe berrear, « beugler, brailler », qui décrit exactement le comportement. Le parler cubain traite le nom comme la forme de base et le verbe emberrarse comme un dérivé, ce qui n'appuie que faiblement l'hypothèse berrear."
+    }
+  },
+  "no-es-facil": {
+    "definitions": [
+      {
+        "text": "Le soupir national. Placé à la fin de tout récit de difficulté — transports, prix, files d'attente, électricité, un parent à l'étranger — comme façon de clore le sujet sans le creuser."
+      },
+      {
+        "text": "Employé aussi ironiquement, à propos d'une broutille, pour se moquer de l'habitude elle-même."
+      }
+    ],
+    "literalMeaning": "Ce n'est pas facile.",
+    "examples": {
+      "0": {
+        "translation": "Quatre heures de queue pour du poulet. C'est pas facile."
+      },
+      "1": {
+        "translation": "Et qu'est-ce qu'on peut y faire ? Rien, mon frère. C'est comme ça.",
+        "context": "La formule est un point final, pas une invitation à poursuivre. Les étrangers la prennent souvent pour une ouverture et insistent, ce qui passe mal."
+      }
+    },
+    "origin": {
+      "etymology": "Une phrase ordinaire figée en formule pendant la Période spéciale, quand dire quelque chose de plus précis sur la pénurie comportait un risque. Son flou est fonctionnel : elle enregistre une plainte sans nommer de cause, et c'est précisément pour cela que tout le monde l'emploie.",
+      "firstAttested": "années 1990"
+    }
+  },
+  "dale": {
+    "definitions": [
+      {
+        "text": "Vas-y, d'accord, OK. La particule d'assentiment cubaine par défaut — elle accepte une proposition, termine un appel et donne une permission, selon la seule intonation."
+      },
+      {
+        "text": "Comme encouragement : allez, on y va, continue. C'est le sens qui est passé dans le reggaeton et dans l'anglais de Miami."
+      },
+      {
+        "text": "Dale que dale, de quelqu'un qui s'acharne de façon lassante sur une chose."
+      }
+    ],
+    "literalMeaning": "Donne-le-lui.",
+    "examples": {
+      "0": {
+        "translation": "On se voit à huit heures. — D'accord, ça marche."
+      },
+      "1": {
+        "translation": "Allez, frère, on est en retard !"
+      }
+    },
+    "origin": {
+      "etymology": "L'impératif de dar avec pronom accolé, de forme espagnole générale mais typiquement cubain par sa fréquence et par le sens plat de « OK ». Sa notoriété mondiale est largement l'œuvre d'artistes cubains de Miami — Pitbull en a fait une signature — ce qui fait que beaucoup de gens hors de Cuba connaissent le sens crié et pas le sens ordinaire."
+    }
+  },
+  "chico": {
+    "definitions": [
+      {
+        "text": "Particule vocative glissée dans la phrase pour adoucir, implorer ou reprendre gentiment — à peu près « mec », « ma belle » ou « enfin, voyons ». Le féminin chica fonctionne pareil."
+      },
+      {
+        "text": "Point capital : il ne dit rien de l'âge. Les Cubains appellent chico des retraités. Un étranger qui y entend « gamin » se trompera sur le ton d'un très grand nombre d'échanges."
+      },
+      {
+        "text": "Au négatif, oye chico ou pero chico marque un désaccord poli : attendez, ce n'est pas ça."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Enfin voyons, ne le prends pas comme ça."
+      },
+      "1": {
+        "translation": "Mais enfin, je te l'ai dit hier."
+      },
+      "2": {
+        "translation": "Donne-moi juste une seconde, s'il te plaît.",
+        "context": "Dit à absolument n'importe qui, y compris à quelqu'un de trente ans plus âgé que le locuteur."
+      }
+    },
+    "origin": {
+      "etymology": "L'espagnol standard chico, « petit, garçon », grammaticalisé dans le parler cubain en marqueur de discours entièrement vidé de contenu lexical. Le même processus a produit tío en Espagne et güey au Mexique, mais chico est allé plus loin : il a totalement perdu sa restriction d'âge, ce que les autres n'ont pas fait."
+    }
+  }
+}

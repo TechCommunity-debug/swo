@@ -1,0 +1,1019 @@
+{
+  "craic": {
+    "definitions": [
+      {
+        "text": "Le bon temps, l'ambiance, la bonne compagnie — la réussite d'un moment dans son ensemble plutôt qu'un détail particulier. « The craic was mighty » : il y avait une ambiance du tonnerre."
+      },
+      {
+        "text": "Les nouvelles ou les potins, dans la salutation « what's the craic? », qui signifie « quoi de neuf ? » et appelle en réponse un simple « pas grand-chose »."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Le pub était blindé et l'ambiance était au sommet.",
+        "context": "« Craic was ninety » est une expression figée, tirée du titre d'une vieille chanson ; ninety veut simplement dire « au plus haut »."
+      },
+      "1": {
+        "translation": "Mais on y est juste allés pour rigoler.",
+        "context": "L'emploi le plus courant de tous : « for the craic » veut dire pour le seul plaisir de la chose, sans autre raison."
+      }
+    },
+    "origin": {
+      "etymology": "Ce n'est pas un vieux mot gaélique, malgré l'orthographe. Il vient de l'anglais du Nord et du scots « crack », qui désigne les grandes discussions, les nouvelles ou la blague, très implanté en Ulster ; l'irlandais l'a emprunté sous la forme « craic » au milieu du XXe siècle, et cette graphie gaélisée est revenue en anglais à partir des années 1970, poussée par la télévision et les enseignes de pubs. L'histoire qui en fait une survivance gaélique relève de l'étymologie populaire.",
+      "firstAttested": "années 1970 sous la graphie craic"
+    }
+  },
+  "grand": {
+    "definitions": [
+      {
+        "text": "Ça va, correct, pas de souci. Presque l'exact opposé de son sens en anglais standard : grand, c'est tout juste la moyenne, jamais un compliment."
+      },
+      {
+        "text": "À propos d'une personne : indemne, pas contrariée, qui n'a besoin de rien. « Ça va ? » — « I'm grand. »"
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Mais non, c'est rien, ne t'en fais pas pour ça.",
+        "context": "Se dit pour balayer des excuses. Sans doute la phrase la plus prononcée de tout le pays."
+      },
+      "1": {
+        "translation": "Le dîner était tout à fait correct.",
+        "context": "Le cuisinier qui entend cela ne vient pas de recevoir un compliment."
+      }
+    },
+    "origin": {
+      "etymology": "L'adjectif anglais standard, usé jusqu'à la corde par un emploi constant pour ne plus marquer qu'un minimum acceptable. Le même dégonflage est arrivé à « fine » en anglais britannique, mais grand va encore plus loin : en Irlande, il peut vouloir dire « tout juste passable » tout en restant poli."
+    }
+  },
+  "deadly": {
+    "definitions": [
+      {
+        "text": "Excellent, génial, mortel. Surtout vivant et naturel à Dublin, où le mot se suffit à lui-même en réaction."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Ce concert était mortel."
+      },
+      "1": {
+        "translation": "T'as eu des places ? Génial."
+      }
+    },
+    "origin": {
+      "etymology": "Un intensif négatif retourné en positif, exactement le même mécanisme que pour le français « mortel » ou « tuerie ». Il a connu son apogée dans le parler des jeunes Dublinois des années 1980 et 1990 et s'est depuis installé dans le langage adulte ordinaire de la ville au lieu de disparaître."
+    }
+  },
+  "sound": {
+    "definitions": [
+      {
+        "text": "À propos d'une personne : réglo, fiable, généreuse sans faire d'histoires. Le plus beau compliment ordinaire qu'un Irlandais puisse faire à un autre."
+      },
+      {
+        "text": "En réponse d'un seul mot : merci, ou parfait, c'est entendu."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "C'est un mec en or, il te donnerait sa chemise."
+      },
+      "1": {
+        "translation": "Je te dépose ça tout à l'heure. — Nickel, merci.",
+        "context": "« Sound out » et « sound as a pound » en sont les variantes appuyées."
+      }
+    },
+    "origin": {
+      "etymology": "Du vieux sens anglais de sound, « solide, digne de confiance », comme dans « sain d'esprit » (of sound mind). L'Irlande a gardé cet emploi appliqué aux personnes après qu'il s'est estompé ailleurs, et en a fait le mot par défaut pour saluer le caractère de quelqu'un."
+    }
+  },
+  "gas": {
+    "definitions": [
+      {
+        "text": "Drôle, tordant, impayable. Dit d'une personne, cela signifie qu'elle est de bonne compagnie et fait rire ; dit d'une situation, qu'elle était cocasse ou absurde."
+      },
+      {
+        "text": "Comme nom précédé de l'article : « it was a gas », un bon moment de rigolade sans queue ni tête."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Ta grand-mère est impayable, elle nous a fait pleurer de rire."
+      },
+      "1": {
+        "translation": "C'est fou comme il ne répond jamais à une question.",
+        "context": "Souvent teinté d'une légère critique : gas peut vouloir dire « assez bizarre pour prêter à sourire »."
+      }
+    },
+    "origin": {
+      "etymology": "Du protoxyde d'azote, le gaz hilarant (laughing gas), qui a donné en anglais du XIXe siècle « a gas » pour désigner quelque chose de tordant. L'Irlande a conservé l'emploi adjectival bien après sa disparition ailleurs et, contrairement à l'américain « a gas », le mot est ici tout à fait vivant et n'a rien de vieilli.",
+      "firstAttested": "XIXe siècle"
+    }
+  },
+  "fair-play": {
+    "definitions": [
+      {
+        "text": "Chapeau ; bien joué ; il faut lui reconnaître ça. S'emploie pour saluer un effort qui a demandé du cran, de l'honnêteté ou de la ténacité plutôt que du talent."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Franchement chapeau, tu n'as rien lâché."
+      },
+      "1": {
+        "translation": "Elle a tout organisé toute seule. Chapeau.",
+        "context": "Employé seul, c'est chaleureux et sincère ; prononcé lentement en traînant les syllabes, cela devient sarcastique."
+      }
+    },
+    "origin": {
+      "etymology": "Du sens sportif de fair-play, élargi en formule de félicitations. L'expression recouvre à peu près le domaine de l'irlandais « maith thú » (« bravo à toi »), que beaucoup de locuteurs emploient aussi, et « fair dues » en est la variante courante."
+    }
+  },
+  "howya": {
+    "definitions": [
+      {
+        "text": "Salut. Une salutation, pas une question : on y répond par un autre « howya » ou un signe de tête, jamais par un bulletin de santé."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Salut, ça fait une éternité qu'on s'est pas vus."
+      },
+      "1": {
+        "translation": "Bonjour, deux pintes s'il vous plaît.",
+        "context": "L'entrée en matière standard pour commander au comptoir d'un pub ou payer dans une boutique partout à Dublin."
+      }
+    },
+    "origin": {
+      "etymology": "Compression de « how are you », réduit à un mot unique de salutation. La graphie « howya » est étroitement associée au parler de Dublin ; hors de la capitale, « how's it going » ou « well » remplissent le même office."
+    }
+  },
+  "whats-the-story": {
+    "definitions": [
+      {
+        "text": "Quoi de neuf ? Comment ça va ? Une salutation entre gens qui se connaissent déjà, et qui appelle « pas grand-chose » plutôt que de vraies nouvelles."
+      },
+      {
+        "text": "Suivi d'un complément, une vraie demande de renseignement : « what's the story with the buses? » (qu'est-ce qui se passe avec les bus ?)."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Quoi de neuf, mec ? — Pas grand-chose, et toi ?",
+        "context": "Tronqué en un seul mot, « story? », surtout entre jeunes hommes."
+      },
+      "1": {
+        "translation": "Ça donne quoi pour les billets, tout est parti ?"
+      }
+    },
+    "origin": {
+      "etymology": "Un pendant quasi calqué sur « what's the craic », tous deux demandant les nouvelles. La salutation abrégée « story? » s'est répandue dans tout le pays à partir de Dublin dans les années 1990 et est aujourd'hui générale."
+    }
+  },
+  "hows-she-cuttin": {
+    "definitions": [
+      {
+        "text": "Comment va la vie ? Une salutation rurale, aujourd'hui employée surtout par des hommes âgés ou, au second degré, par des plus jeunes pour l'effet comique. Le « she » ne renvoie à rien de précis."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Alors, comment ça roule, Mick ?"
+      },
+      "1": {
+        "translation": "Comment ça va-t-il ? — Ma foi, pas de quoi se plaindre.",
+        "context": "Aujourd'hui, l'échange complet se joue comme une réplique de théâtre plus qu'il ne se dit au premier degré."
+      }
+    },
+    "origin": {
+      "etymology": "Origine incertaine. Les explications habituelles — une faux ou une charrue qui coupe bien, ou une étrave qui fend l'eau — sont des suppositions sans preuves écrites, et ce « she » impersonnel est le même que dans « she's a fine day ». Méfiez-vous de quiconque vous en raconte l'origine avec trop d'assurance."
+    }
+  },
+  "boy": {
+    "definitions": [
+      {
+        "text": "Une ponctuation placée en fin de phrase à Cork et dans une grande partie du Munster, adressée à n'importe quel interlocuteur masculin de n'importe quel âge. Le mot marque la familiarité et n'implique aucune idée de jeunesse."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Comment ça va, mon vieux ?",
+        "context": "Se dit tout aussi naturellement à un septuagénaire qu'à un adolescent."
+      },
+      "1": {
+        "translation": "Il fait rudement beau aujourd'hui, dis donc."
+      }
+    },
+    "origin": {
+      "etymology": "L'anglais « boy » employé en apostrophe, renforcé par le vocatif irlandais « a bhuachaill ». On ne sait pas si la forme irlandaise a produit l'habitude de Cork ou s'y est simplement superposée, mais la fréquence du mot et l'effacement total de l'idée d'âge sont typiques du Munster."
+    }
+  },
+  "yer-man": {
+    "definitions": [
+      {
+        "text": "Ce type-là ; l'homme dont nous savons très bien tous les deux de qui il s'agit sans le nommer. Le féminin est « yer wan »."
+      },
+      {
+        "text": "Un inconnu que l'on désigne du menton, avec une pointe de jugement : « yer man over there »."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Le gars de la banque a encore rappelé.",
+        "context": "S'emploie quand celui qui parle part du principe que son interlocuteur voit très bien de qui il est question."
+      },
+      "1": {
+        "translation": "La bonne femme de la télé, là, comment elle s'appelle déjà."
+      }
+    },
+    "origin": {
+      "etymology": "Le possessif n'a rien de littéral : ce n'est pas « votre » homme. C'est le pendant de l'irlandais « mo dhuine », littéralement « ma personne », employé de la même façon pour désigner un tiers sans le nommer — et l'un des exemples les plus limpides de tournures syntaxiques irlandaises ayant survécu au passage à l'anglais."
+    }
+  },
+  "culchie": {
+    "definitions": [
+      {
+        "text": "Un campagnard, un provincial — un habitant de l'Irlande rurale vu depuis la ville. Entre amis, c'est une taquinerie qu'on s'applique volontiers à soi-même ; dans la bouche d'un inconnu à Dublin, c'est du mépris."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "La moitié du pub, c'est des gens de la campagne montés pour le match."
+      },
+      "1": {
+        "translation": "Je suis un bouseux et fier de l'être.",
+        "context": "Revendiquer le mot est tout à fait courant : la « culchie pride » est une posture bien réelle."
+      }
+    },
+    "origin": {
+      "etymology": "Origine discutée. Les deux pistes principales sont la bourgade de Kiltimagh (Coillte Mách), dans le comté de Mayo, longtemps synonyme de trou perdu, et une troncation d'« agricultural ». Aucune des deux n'est démontrée, et l'explication par l'irlandais « coillte » (« les bois ») est plus fragile qu'elle n'en a l'air.",
+      "firstAttested": "milieu du XXe siècle"
+    }
+  },
+  "chancer": {
+    "definitions": [
+      {
+        "text": "Un culotté, un embrouilleur qui tente le coup — qui facture trop cher, promet ce qu'il est incapable de tenir ou resquille dans une file d'attente. La réprobation s'y mêle d'un certain amusement malgré soi."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Quarante euros pour ça ? Quel culot."
+      },
+      "1": {
+        "translation": "Oh, il tente juste le coup au flanc, sur un malentendu."
+      }
+    },
+    "origin": {
+      "etymology": "De « chancing your arm », tenter le coup dans l'espoir d'y gagner quelque chose. Le nom existe en Grande-Bretagne comme en Irlande, mais il occupe beaucoup plus de place en Irlande, où il voisine avec « cute hoor » pour former toute une catégorie morale."
+    }
+  },
+  "cute-hoor": {
+    "definitions": [
+      {
+        "text": "Un roublard qui connaît toutes les ficelles du système et reste tout juste du bon côté de la ligne jaune — typiquement un élu local, un patron de pub ou un promoteur immobilier. « Cute » veut dire ici rusé, pas mignon."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Il a fait reclasser le terrain constructible avant que quiconque s'en aperçoive. Le sacré renard.",
+        "context": "Le ton est mi-réprobateur, mi-admiratif, et tout l'intérêt de l'expression tient dans ce dosage."
+      },
+      "1": {
+        "translation": "Chaque paroisse a son magouilleur attitré."
+      }
+    },
+    "origin": {
+      "etymology": "« Cute » conserve le vieux sens anglais d'acute, « vif, madré », maintenu en anglais d'Irlande. « Hoor » est la prononciation irlandaise de whore (putain), employé ici comme terme générique pour un homme sans la moindre connotation sexuelle. L'expression est entrée dans le vocabulaire politique courant au XXe siècle : le « cute hoorism » est un chef d'accusation reconnu dans la vie publique irlandaise."
+    }
+  },
+  "notions": {
+    "definitions": [
+      {
+        "text": "De grands airs, des manières au-dessus de sa condition — commander du vin, glisser un mot sur ses vacances, employer un terme savant que personne n'a demandé. Accuser quelqu'un d'avoir des notions est l'arme nationale irlandaise contre quiconque se met en avant."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Des bougies parfumées dans les toilettes du bas. Mais pour qui elle se prend."
+      },
+      "1": {
+        "translation": "Il ne se sent plus pisser depuis qu'il s'est installé à Dublin."
+      }
+    },
+    "origin": {
+      "etymology": "Abréviation de « notions above your station » (des prétentions au-dessus de son rang), un rappel à l'ordre social du XIXe siècle. Le nom employé tout seul est devenu une blague nationale dans les années 2010 sur les réseaux sociaux, où il sert désormais de verdict en un seul mot."
+    }
+  },
+  "eejit": {
+    "definitions": [
+      {
+        "text": "Un bêta, un grand dadais. Nettement plus doux qu'« idiot » : c'est le mot d'un parent à son enfant, et celui qu'on lance à un ami qui a enfermé ses clés dans sa voiture."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Espèce de grand dadais, ça ne se monte pas comme ça.",
+        "context": "Affectueux. « Big eejit » n'est presque jamais hostile."
+      },
+      "1": {
+        "translation": "Il y a un abruti qui s'est garé devant le portail.",
+        "context": "Ici, l'agacement est réel, mais le mot reste modéré."
+      }
+    },
+    "origin": {
+      "etymology": "Transcription de la prononciation irlandaise d'« idiot », avec allongement de la voyelle initiale. Le changement d'orthographe a suffi à changer le sens : dès que le mot a eu l'air d'un autre, il a perdu la dureté clinique d'« idiot » pour devenir affectueux."
+    }
+  },
+  "gobshite": {
+    "definitions": [
+      {
+        "text": "Un sombre crétin, et plus précisément une grande gueule qui débite des âneries avec un aplomb total. Plus dur qu'eejit et franchement grossier, même s'il est courant dans la bouche des adultes et qu'on l'entend à la radio nationale."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Laisse tomber, c'est un gros con qui parle pour ne rien dire."
+      },
+      "1": {
+        "translation": "Je suis passé pour le dernier des abrutis."
+      }
+    },
+    "origin": {
+      "etymology": "« Gob » (la gueule) plus « shite » (merde). Gob vient de l'irlandais « gob », bec ou museau, et c'est pour cela que l'insulte vise précisément celui qui parle à tort et à travers plutôt que la bêtise en général.",
+      "firstAttested": "début du XXe siècle"
+    }
+  },
+  "langer": {
+    "definitions": [
+      {
+        "text": "Un abruti ou un type insupportable. L'insulte emblématique de Cork, employée à tout bout de champ là-bas et presque nulle part ailleurs."
+      },
+      {
+        "text": "Le pénis. C'est le même mot, et la raison pour laquelle l'insulte a plus de poids que ne le laisserait croire sa banalité quotidienne."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "C'est vraiment un sacré blaireau, ce type.",
+        "context": "Parler de Cork ; en dehors du Munster, cela sonne comme une pose."
+      },
+      "1": {
+        "translation": "À neuf heures, on était déjà complètement ronds.",
+        "context": "Au pluriel, « langers » employé comme adjectif veut dire ivre mort — un sens distinct de l'insulte."
+      }
+    },
+    "origin": {
+      "etymology": "Origine discutée. L'histoire la plus souvent répétée le fait venir du hindi-ourdou « langur », un singe, rapporté au pays par les soldats de Cork des Royal Munster Fusiliers en poste aux Indes. C'est plausible et dépourvu de la moindre preuve écrite : mieux vaut y voir une belle histoire qu'une étymologie."
+    }
+  },
+  "gowl": {
+    "definitions": [
+      {
+        "text": "Un sombre crétin, un pauvre type. L'insulte est forte, surtout à Limerick et dans le centre-ouest, où c'est un classique entre hommes."
+      },
+      {
+        "text": "La vulve. C'est le sens premier sous-jacent, et la raison pour laquelle l'insulte est bien plus crue que ne le laisse penser le ton décontracté sur lequel on la lance."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Regarde-moi ce guignol."
+      },
+      "1": {
+        "translation": "Il s'est complètement ridiculisé au mariage."
+      }
+    },
+    "origin": {
+      "etymology": "De l'irlandais « gabhal », fourche ou entrejambe, le même mot étant employé au sens anatomique. L'insulte est un emprunt direct à l'irlandais plutôt qu'un mot anglais déformé, ce qui est typique du vocabulaire le plus corsé du Munster."
+    }
+  },
+  "melter": {
+    "definitions": [
+      {
+        "text": "Quelqu'un qui vous use les nerfs — un casse-pieds, un moulin à paroles, un lourd qui ne s'arrête jamais. Du nord de l'île, très associé à Derry et Belfast."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Ne t'assieds pas à côté de lui, il va te tenir la jambe."
+      },
+      "1": {
+        "translation": "Tu me prends la tête.",
+        "context": "La tournure verbale est la forme la plus ancienne et s'emploie dans tout le nord ainsi que dans le Donegal."
+      }
+    },
+    "origin": {
+      "etymology": "De « melting my head » (me faire fondre la tête), l'équivalent nordiste de « me prendre le chou ». Le nom d'agent est récent : il a franchi les frontières de l'Ulster dans les années 2010, aidé par les séries télévisées situées à Derry, et les locuteurs du sud l'emploient aujourd'hui à moitié entre guillemets.",
+      "firstAttested": "années 2010 sous la forme nominale"
+    }
+  },
+  "bollix": {
+    "definitions": [
+      {
+        "text": "Un sale type ou un emmerdeur. En Irlande, le mot désigne une personne bien plus souvent qu'il ne sert d'exclamation, exactement à l'inverse de l'usage britannique."
+      },
+      {
+        "text": "Bousiller, foirer quelque chose : « I bollixed it up »."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Ce connard m'a coupé la route au rond-point."
+      },
+      "1": {
+        "translation": "Il devient vraiment infect quand il a un coup dans le nez."
+      }
+    },
+    "origin": {
+      "etymology": "L'orthographe irlandaise de « bollocks » (couilles), réécrite pour coller à la prononciation. L'anglais britannique emploie surtout le pluriel en interjection pour dire « des conneries » ; l'anglais d'Irlande a spécialisé le singulier pour désigner une personne."
+    }
+  },
+  "wagon": {
+    "definitions": [
+      {
+        "text": "Une femme jugée mauvaise, revêche ou impossible à vivre. Ne vise que les femmes et, même lancé sur un ton léger, cela reste une insulte sur le caractère féminin qui n'a aucun équivalent masculin."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "C'est une vraie mégère, celle-là.",
+        "context": "« Oul' wagon » est la tournure habituelle ; « oul' » donne ici le ton général et n'indique pas forcément l'âge."
+      },
+      "1": {
+        "translation": "Fais pas ta mauvaise tête là-dessus.",
+        "context": "Entre amies proches, cela peut être une taquinerie — dans la bouche d'un homme, ça l'est très rarement."
+      }
+    },
+    "origin": {
+      "etymology": "Du vieil emploi argotique de « wagon » pour désigner une femme de mauvaise vie, attesté en Grande-Bretagne et en Irlande dès le XIXe siècle. L'Irlande l'a gardé après sa disparition ailleurs et l'a un peu adouci, sans lui ôter son tranchant sexiste."
+    }
+  },
+  "scarlet": {
+    "definitions": [
+      {
+        "text": "Mort de honte, rouge jusqu'aux oreilles. Se dit de soi-même et — c'est là la touche irlandaise — pour quelqu'un d'autre à sa place : « I'm scarlet for ya » (j'ai honte pour toi)."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "J'ai appelé la prof « maman ». Je ne savais plus où me mettre."
+      },
+      "1": {
+        "translation": "La honte intersidérale pour toi, ma belle.",
+        "context": "Parler jeune de Dublin, souvent lâché avec délectation plutôt que par compassion."
+      }
+    },
+    "origin": {
+      "etymology": "De la couleur écarlate de celui qui rougit, transformée en adjectif pour désigner tout l'état émotionnel. La tournure par procuration « scarlet for you » s'est répandue dans tout le pays à partir du parler des adolescentes dublinoises dans les années 2000, et c'est aujourd'hui la forme que tout le monde cite."
+    }
+  },
+  "cat": {
+    "definitions": [
+      {
+        "text": "Affreux, lamentable, infect. S'applique à la météo, à un spectacle, à la cuisine comme à l'humeur, et n'a strictement aucun rapport avec les chats."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Il a fait un temps de chien toute la semaine."
+      },
+      "1": {
+        "translation": "Je suis complètement en vrac après la soirée d'hier.",
+        "context": "Courant dans le Leinster et le centre du pays ; un Dublinois peut l'employer, un habitant de Cork généralement pas."
+      }
+    },
+    "origin": {
+      "etymology": "Généralement expliqué comme une troncation de « cat melodeon » (harmonium de chat), deux bruits réputés aussi insupportables l'un que l'autre, et parfois comme une déformation de l'irlandais « cat mara » (« chat de mer », un malheur). Les deux pistes se tiennent, aucune n'est tranchée, et ceux qui l'emploient aujourd'hui n'en ont pas la moindre idée."
+    }
+  },
+  "feck": {
+    "definitions": [
+      {
+        "text": "Un substitut adouci du grand juron anglais en f-, employé dans les mêmes constructions grammaticales : feck off, fecking, for feck's sake."
+      },
+      {
+        "text": "Faucher, chaparder, dans l'anglais d'Irlande plus ancien : « he fecked a few apples ». Sans rapport avec le juron et devenu rare aujourd'hui."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Oh, et puis zut, on y va quand même.",
+        "context": "C'est l'emploi de tous les jours : agacé, jamais agressif."
+      },
+      "1": {
+        "translation": "Arrête ton char, t'es pas sérieux.",
+        "context": "Lancé à un ami, le mot exprime l'incrédulité, pas le rejet."
+      }
+    },
+    "origin": {
+      "etymology": "Un juron déguisé, dont l'orthographe a croisé un vieux verbe d'anglais d'Irlande distinct, « feck », qui signifiait voler. La série Father Ted l'a fait connaître au public international dans les années 1990, raison pour laquelle les visiteurs surestiment son caractère transgressif — la radio et la télévision irlandaises le diffusent sans sourciller."
+    }
+  },
+  "begorrah": {
+    "definitions": [
+      {
+        "text": "Pardi, par Dieu — un juron euphémique du XIXe siècle qu'aucun Irlandais vivant ne prononce au premier degré. Il figure ici parce que les touristes débarquent en s'attendant à l'entendre, généralement flanqué de « top o' the mornin' », qui n'est pas davantage employé."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Cré nom de Dieu, regardez-moi ça.",
+        "context": "On ne l'entend jamais en Irlande autrement que pour se moquer des touristes, des films américains ou des cartes postales."
+      },
+      "1": {
+        "translation": "Personne ne dit begorrah. Aucun Irlandais ne m'a jamais dit ça.",
+        "context": "Une mise au point que vous entendrez assez souvent dans la bouche des Irlandais."
+      }
+    },
+    "origin": {
+      "etymology": "Un véritable euphémisme pour « by God », attesté au XIXe siècle et réellement employé à l'époque. Il ne doit sa survie qu'aux Irlandais de pacotille du théâtre victorien puis d'Hollywood, qui l'ont conservé comme accessoire de déguisement bien après que la langue parlée l'eut abandonné. « Bejaysus » et « begob » sont les formes qui ont réellement duré, même si toutes deux sonnent aujourd'hui vieillottes.",
+      "firstAttested": "début du XIXe siècle"
+    }
+  },
+  "locked": {
+    "definitions": [
+      {
+        "text": "Complètement bourré, plein comme une barrique. L'un des nombreux mots irlandais pour décrire cet état, et parmi les plus répandus."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Il était déjà rond comme une queue de pelle avant même que le dîner soit servi."
+      },
+      "1": {
+        "translation": "On s'est mis une caisse monumentale."
+      }
+    },
+    "origin": {
+      "etymology": "L'image est celle d'un mécanisme bloqué ou grippé. Le répertoire irlandais de l'ivresse est exceptionnellement fourni — langers, ossified, twisted, flootered, in bits, buckled — et locked se situe au milieu de l'échelle, bien au-delà de la simple gaieté mais juste avant le coma."
+    }
+  },
+  "on-the-tear": {
+    "definitions": [
+      {
+        "text": "En pleine bordée, parti dans une cuite au long cours qui dure généralement plusieurs jours. Le mot suppose un élan continu plutôt qu'une simple soirée arrosée."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Ils font la bringue sans désemparer depuis jeudi."
+      },
+      "1": {
+        "translation": "J'ai arrêté de boire, j'ai enchaîné les cuites pendant toutes les fêtes de Noël."
+      }
+    },
+    "origin": {
+      "etymology": "De « tear » au sens d'une ruée furieuse. « On the batter », « on the lash » et « on the beer » couvrent le même terrain ; « on the dry » (au régime sec) en est l'exact opposé et s'entend tout aussi souvent, surtout en janvier."
+    }
+  },
+  "session": {
+    "definitions": [
+      {
+        "text": "Une longue beuverie entre amis, généralement improvisée dans un lieu privé. « A bit of a session » veut dire que la soirée a complètement échappé à tout le monde."
+      },
+      {
+        "text": "Une session de musique traditionnelle dans un pub — où les musiciens jouent de façon informelle pour eux-mêmes. C'est le même mot, et seul le contexte permet de savoir duquel on parle."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "La soirée à la maison a tourné à la grosse beuverie jusqu'au petit matin."
+      },
+      "1": {
+        "translation": "Ça joue de la musique traditionnelle chez Sheehan le jeudi soir.",
+        "context": "Ici, c'est le sens musical — à l'écrit, on lui donne souvent son orthographe irlandaise, seisiún."
+      }
+    },
+    "origin": {
+      "etymology": "L'anglais « session » au sens de séance, emprunté en irlandais sous la forme « seisiún » pour désigner la réunion musicale avant de repasser en anglais. Le sens de beuverie et le sens musical ont grandi côte à côte parce qu'historiquement, les deux se passaient dans la même pièce."
+    }
+  },
+  "gargle": {
+    "definitions": [
+      {
+        "text": "La boisson, l'alcool pris au sens collectif. « The gargle » désigne l'action de boire en tant que loisir et, bien souvent, en tant que penchant un peu trop prononcé."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Il lève volontiers le coude.",
+        "context": "Un euphémisme classique pour désigner un problème d'alcool — volontairement atténué."
+      },
+      "1": {
+        "translation": "On s'en jette quelques-uns derrière la cravate ?"
+      }
+    },
+    "origin": {
+      "etymology": "Du gargarisme, le geste de se rincer la gorge. Le mot appartient au vaste lexique irlandais qui permet de parler d'une consommation d'alcool excessive sans la nommer de front, aux côtés de « fond of a drop » et « he likes his pint »."
+    }
+  },
+  "naggin": {
+    "definitions": [
+      {
+        "text": "Une flasque de 20 cl d'alcool fort — la petite bouteille plate qui se glisse dans une poche de manteau ou dans une chaussette. Une unité de mesure à part entière de la vie sociale irlandaise, surtout chez les lycéens et les étudiants."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Prends une flasque de vodka en passant."
+      },
+      "1": {
+        "translation": "Il y avait des petites bouteilles d'alcool planquées partout dans le pré.",
+        "context": "Vocabulaire des festivals et des bals de fin d'études (debs). La taille juste au-dessus s'appelle une « shoulder » (35 cl)."
+      }
+    },
+    "origin": {
+      "etymology": "De « noggin », ancienne mesure de liquide équivalant à peu près à un quart de pinte. La Grande-Bretagne a perdu le mot ; l'Irlande l'a gardé parce que ce format de bouteille est resté en vente, et le terme figure aujourd'hui aussi bien sur les étiquettes des rayons que dans la conversation."
+    }
+  },
+  "chipper": {
+    "definitions": [
+      {
+        "text": "Une friterie (fish-and-chips), et par extension n'importe quel fast-food ouvert tard la nuit. « Going to the chipper » est la conclusion obligée d'une soirée arrosée."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "On prendra un cornet de frites à la friterie."
+      },
+      "1": {
+        "translation": "Dernier arrêt de la soirée : la friterie."
+      }
+    },
+    "origin": {
+      "etymology": "Tout simplement « chip » (frite) suivi du suffixe d'agent -er. Beaucoup de friteries irlandaises ont été fondées par des familles d'immigrés italiens à partir des années 1880 — Borza, Macari, Cafolla —, raison pour laquelle le métier porte un nom de famille italien dans la plupart des villes du pays."
+    }
+  },
+  "spice-bag": {
+    "definitions": [
+      {
+        "text": "Des frites, des aiguillettes de poulet croustillant, des poivrons et des oignons sautés avec un mélange de sel, d'épices et de piment, le tout secoué dans un sac en papier. Une invention des traiteurs chinois d'Irlande, devenue le véritable plat national de fin de soirée."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Deux spice bags et une sauce au curry, s'il vous plaît."
+      },
+      "1": {
+        "translation": "Il n'y a rien de tel qu'un spice bag pour soigner une gueule de bois."
+      }
+    },
+    "origin": {
+      "etymology": "Créé dans les restaurants chinois à emporter de Dublin au début des années 2010 — le Sunflower, à Templeogue, en revendique généralement la paternité — avant de conquérir tout le pays en quelques années. Contrairement à la plupart des entrées de cette liste, son origine est traçable et très récente, et on ne le trouve nulle part ailleurs.",
+      "firstAttested": "début des années 2010"
+    }
+  },
+  "yoke": {
+    "definitions": [
+      {
+        "text": "Un truc, un machin dont le nom vous échappe ou que vous avez la flemme de chercher. S'applique aux machines, aux gadgets, aux outils et aux objets de toute taille."
+      },
+      {
+        "text": "À propos d'une personne : un drôle de numéro ou quelqu'un de pénible — « she's a fierce yoke ». Moins fréquent et jamais flatteur."
+      },
+      {
+        "text": "Un cachet d'ecstasy, dans l'argot de la drogue né avec la scène rave des années 1990."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Passe-moi le machin, là, le truc rond."
+      },
+      "1": {
+        "translation": "Le truc pour déboucher le vin est dans le tiroir.",
+        "context": "Le sens de tous les jours. L'anglais d'Irlande emploie yoke là où le français dit truc, machin ou bidule."
+      }
+    },
+    "origin": {
+      "etymology": "Du joug en bois (yoke) posé sur les bêtes de trait, élargi à n'importe quel attirail puis à tout et n'importe quoi. Le sens lié à la drogue est venu plus tard et dépend entièrement du contexte : personne ne tique en entendant « passe-moi ce yoke » dans une cuisine."
+    }
+  },
+  "press": {
+    "definitions": [
+      {
+        "text": "Un placard. Le kitchen press est le placard de la cuisine où l'on range les tasses ; le hot press est le placard chauffant qui entoure le ballon d'eau chaude, et il n'a d'équivalent sous ce nom nulle part ailleurs."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Les tasses sont dans le placard au-dessus de la bouilloire."
+      },
+      "1": {
+        "translation": "Il y a des serviettes dans le placard du chauffe-eau.",
+        "context": "« Hot press » déroute les visiteurs plus sûrement que n'importe quel autre mot domestique."
+      }
+    },
+    "origin": {
+      "etymology": "Un vieux mot anglais et scots désignant une grande armoire, resté tout à fait courant en Irlande et en Écosse alors que l'Angleterre l'a restreint à l'imprimerie et à la presse écrite. Ce n'est pas tant de l'argot que le mot irlandais ordinaire que les gens de l'extérieur prennent pour de l'argot."
+    }
+  },
+  "jacks": {
+    "definitions": [
+      {
+        "text": "Les toilettes, les chiottes, surtout celles d'un pub ou d'un lieu public. Toujours au pluriel et toujours précédé de l'article « the »."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Où sont les toilettes, ici ?"
+      },
+      "1": {
+        "translation": "Les toilettes sont fermées à clé, il faut demander au comptoir."
+      }
+    },
+    "origin": {
+      "etymology": "De « jakes », un mot anglais du XVIe siècle désignant les latrines, qu'employait déjà Shakespeare. L'Angleterre l'a remplacé ; l'Irlande l'a conservé en le mettant au pluriel. L'américain « john » vient de la même famille de prénoms.",
+      "firstAttested": "XVIe siècle sous la forme jakes"
+    }
+  },
+  "banjaxed": {
+    "definitions": [
+      {
+        "text": "Fichu, bousillé, bon pour la casse. S'emploie pour les machines, les projets et les genoux."
+      },
+      {
+        "text": "À propos d'une personne : sur les rotules, lessivée ou ravagée par la gueule de bois."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "La machine à laver a rendu l'âme."
+      },
+      "1": {
+        "translation": "Je suis sur les rotules après cette marche."
+      }
+    },
+    "origin": {
+      "etymology": "Origine inconnue — une pure création dublinoise du début du XXe siècle, parfaitement opaque et sans étymon convaincant ni en irlandais ni en anglais. Flann O'Brien l'employait à tour de bras dans sa chronique de l'Irish Times, ce qui explique en grande partie sa diffusion dans tout le pays.",
+      "firstAttested": "début du XXe siècle"
+    }
+  },
+  "wee": {
+    "definitions": [
+      {
+        "text": "Petit — mais dans le nord de l'Irlande, on l'accole à presque n'importe quel nom, quelle qu'en soit la taille, en guise de marqueur d'amabilité : une petite addition (a wee bill), une petite minute (a wee minute), un petit poids lourd (a wee lorry)."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Je vais juste prendre votre petite carte, là.",
+        "context": "Dans la bouche d'un commerçant à Belfast ou à Derry. La carte bancaire n'a rien de particulièrement petit : « wee » relève de la politesse, pas de la géométrie."
+      },
+      "1": {
+        "translation": "Vous prendrez bien une petite tasse de thé ?"
+      }
+    },
+    "origin": {
+      "etymology": "Venu du scots, introduit en Ulster par la colonisation de peuplement au XVIIe siècle, raison pour laquelle cet usage s'arrête assez net le long de la frontière de l'Ulster historique et s'entend dans le Donegal, à Cavan et à Monaghan aussi bien que dans les six comtés d'Irlande du Nord. C'est un adoucisseur du discours plus qu'un adjectif de dimension."
+    }
+  },
+  "bold": {
+    "definitions": [
+      {
+        "text": "Vilain, pas sage, turbulent. Se dit constamment des enfants et, par taquinerie, des adultes ; dans l'usage irlandais, le mot ne veut jamais dire courageux ou audacieux."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Arrête tes bêtises, petit polisson.",
+        "context": "D'un parent à un jeune enfant. C'est l'emploi fondamental du mot."
+      },
+      "1": {
+        "translation": "Deux desserts ? Ce n'est vraiment pas raisonnable.",
+        "context": "Taquinerie entre adultes, avec une pointe de badinage selon le ton."
+      }
+    },
+    "origin": {
+      "etymology": "L'adjectif anglais standard, restreint en Irlande à la mauvaise conduite au point de perdre en pratique le sens de « courageux » dans la langue courante. L'irlandais « dána » réunit exactement ces deux sens, ce qui explique sans doute pourquoi le mot anglais s'est fixé ici sur cette acception."
+    }
+  },
+  "hames": {
+    "definitions": [
+      {
+        "text": "Un travail bâclé, un massacre. S'emploie presque toujours dans la locution « to make a hames of », qui signifie rater quelque chose au point qu'il faut tout reprendre à zéro."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Ils ont fait un vrai carnage dans la comptabilité."
+      },
+      "1": {
+        "translation": "Tâche de ne pas tout massacrer, cette fois-ci."
+      }
+    },
+    "origin": {
+      "etymology": "Les hames (les attelles) sont les deux pièces courbes du collier d'un cheval de trait auxquelles s'attachent les traits. Les monter à l'envers rendait tout le harnais inutilisable, et l'expression a survécu un bon siècle à la disparition des chevaux de trait."
+    }
+  },
+  "graft": {
+    "definitions": [
+      {
+        "text": "Le dur labeur, le turbin, et l'ardeur à la tâche. « He's a great grafter » (c'est un gros bosseur) est un compliment de premier ordre, sur un chantier comme dans un bureau."
+      },
+      {
+        "text": "Trimer, charbonner, souvent à une tâche ingrate : « I was grafting all weekend »."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "C'est du boulot ingrat, mais ça paie bien."
+      },
+      "1": {
+        "translation": "Elle a trimé dur pour tout ce qu'elle possède."
+      }
+    },
+    "origin": {
+      "etymology": "De l'argot britannique du XIXe siècle désignant le travail, sans aucun rapport avec l'américain « graft » qui veut dire corruption politique — les deux mots n'ont en commun que l'orthographe. En Irlande et dans le nord de l'Angleterre, il a gardé toute sa valeur d'éloge."
+    }
+  },
+  "sure": {
+    "definitions": [
+      {
+        "text": "Une particule placée en début de phrase qui adoucit ce qui suit pour le présenter comme une évidence entendue : « sure it's grand », « sure you may as well ». Ce n'est pas un acquiescement et cela ne veut pas dire « certainement »."
+      },
+      {
+        "text": "Accroché en fin de phrase pour produire le même effet : « I'll do it tomorrow, sure » (je le ferai demain, va)."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Et puis après tout, quel mal y a-t-il ?",
+        "context": "Une phrase complète à elle seule, et l'une des répliques les plus irlandaises qui soient."
+      },
+      "1": {
+        "translation": "Enfin bon, écoute, c'est comme ça.",
+        "context": "« Sure look » est la formule consacrée pour clore une conversation sur une situation à laquelle on ne peut rien changer."
+      }
+    },
+    "origin": {
+      "etymology": "Cet emploi discursif décalque les particules initiales de l'irlandais comme « nach » et « muise », qui présentent un énoncé comme allant de soi. L'anglais a fourni le mot, l'irlandais lui a donné sa fonction : c'est pourquoi il sonne si différemment du « sure » américain."
+    }
+  },
+  "so": {
+    "definitions": [
+      {
+        "text": "Particule de fin de phrase signifiant « dans ce cas » ou « alors ». « I'll see you Tuesday so » (On se voit mardi, alors). Elle scelle un accord et signale que la conversation est close."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Parfait, c'est entendu alors.",
+        "context": "Deux mots qui suffisent à conclure un coup de fil, une négociation ou une commande au pub."
+      },
+      "1": {
+        "translation": "Je vais prendre la soupe, alors."
+      }
+    },
+    "origin": {
+      "etymology": "Un décalque structurel direct : l'irlandais place « mar sin » et d'autres formules de clôture en fin de proposition, et l'anglais d'Irlande a glissé « so » exactement au même endroit. L'anglais standard n'a aucun équivalent à cette place, raison pour laquelle la tournure paraît bizarre aux étrangers plutôt que simplement inhabituelle."
+    }
+  },
+  "like": {
+    "definitions": [
+      {
+        "text": "Particule de fin de phrase, particulièrement fréquente à Cork, à Limerick et dans le nord : « it was freezing, like ». Elle donne à l'énoncé un ton d'explication ou de légère protestation, et n'a rien à voir avec le « like » américain placé en milieu de phrase."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Mais je n'étais même pas là, enfin.",
+        "context": "Défensif ou explicatif. L'accent tonique tombe sur le mot qui précède « like », jamais sur « like » lui-même."
+      },
+      "1": {
+        "translation": "Il pleuvait des cordes, tu vois."
+      }
+    },
+    "origin": {
+      "etymology": "Le « like » en fin de proposition est ancien en Irlande et dans le nord de la Grande-Bretagne, bien antérieur au « like » américain servant à introduire une citation (« like she was all… »). Les deux coexistent aujourd'hui en Irlande, à des places différentes et dans des bouches différentes, les jeunes Dublinois employant volontiers la version américaine."
+    }
+  },
+  "after": {
+    "definitions": [
+      {
+        "text": "Venir tout juste de faire quelque chose. « I'm after eating » veut dire « je viens de manger » — un présent par la forme, un passé immédiat par le sens."
+      },
+      {
+        "text": "Avec insistance, pour annoncer une nouvelle que l'interlocuteur ignore encore : « you're after missing him by five minutes » (tu viens de le rater à cinq minutes près)."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Je viens de le lui répéter deux fois."
+      },
+      "1": {
+        "translation": "Elle vient de partir à l'instant.",
+        "context": "« Only after » resserre encore l'intervalle aux toutes dernières secondes."
+      }
+    },
+    "origin": {
+      "etymology": "Traduction mot à mot de la construction irlandaise avec « tar éis » — « tá mé tar éis ithe », « je suis après manger » — que l'irlandais emploie pour le passé immédiat. C'est le vestige grammatical irlandais le plus net de tout l'anglais d'Irlande, et des gens qui ne parlent pas un mot d'irlandais l'emploient tous les jours. Les étrangers le comprennent régulièrement à contresens comme l'expression d'une envie : à Londres, « I'm after a pint » veut dire qu'on aimerait boire une pinte ; en Irlande, cela veut dire qu'on vient de la finir."
+    }
+  },
+  "do-be": {
+    "definitions": [
+      {
+        "text": "Indique qu'une action est habituelle plutôt que ponctuelle : « he does be working late » signifie qu'il travaille tard en règle générale. « He's working late » voudrait dire ce soir seulement."
+      },
+      {
+        "text": "Devient « do be » avec un sujet au pluriel : « they do be at that every Sunday » (ils font ça tous les dimanches)."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Il y a généralement du monde ici le vendredi."
+      },
+      "1": {
+        "translation": "Je suis toujours crevé après le service du matin."
+      }
+    },
+    "origin": {
+      "etymology": "L'irlandais distingue le présent d'habitude « bíonn » du présent simple « tá », et l'anglais d'Irlande a reconstruit cette distinction avec des matériaux anglais. C'est un véritable temps grammatical et non une faute, même s'il est combattu à l'école et associé aux parlers ruraux et populaires — beaucoup de locuteurs qui l'emploient dans leur cuisine l'évitent lors d'un entretien d'embauche."
+    }
+  },
+  "giving-out": {
+    "definitions": [
+      {
+        "text": "Râler, rouspéter, ou passer un savon à quelqu'un. « Giving out to » quelqu'un, c'est l'engueuler ; « giving out about » quelque chose, c'est bougonner."
+      },
+      {
+        "text": "Renforcé en « giving out yards » ou « giving out stink » — une engueulade en règle et sans reprendre son souffle."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Elle m'a passé un savon pendant une heure entière."
+      },
+      "1": {
+        "translation": "Il ne fait que râler contre la météo."
+      }
+    },
+    "origin": {
+      "etymology": "Calque de l'irlandais « ag tabhairt amach do », littéralement « donner dehors à ». Le piège pour le visiteur tient au sens littéral en anglais standard : on n'y distribue absolument rien, et « she was giving out » est tout l'inverse d'un élan de générosité."
+    }
+  },
+  "shift": {
+    "definitions": [
+      {
+        "text": "Embrasser quelqu'un à pleine bouche, rouler une pelle, typiquement en boîte, dans un festival ou à une soirée. Uniquement s'embrasser : malgré le flou apparent du mot, cela s'arrête là."
+      },
+      {
+        "text": "Comme nom : la pelle elle-même, ou la personne embrassée. « He got the shift » (il a chopé)."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "T'as chopé quelqu'un ?",
+        "context": "La question rituelle du lundi matin chez les lycéens et les étudiants."
+      },
+      "1": {
+        "translation": "Ils se sont galochés au bal de fin d'études et ne se sont plus jamais adressé la parole."
+      }
+    },
+    "origin": {
+      "etymology": "Argot des adolescents irlandais de la fin du XXe siècle, sans doute issu de « shifting » au sens de se rapprocher de quelqu'un pour tenter sa chance. Le mot régional plus ancien est « meeting » — « were you meeting anyone? » —, qui survit dans certains coins du pays et prête au quiproquo partout ailleurs.",
+      "firstAttested": "fin du XXe siècle"
+    }
+  },
+  "ride": {
+    "definitions": [
+      {
+        "text": "Une personne terriblement séduisante, homme ou femme : « he's an absolute ride » (c'est une bombe). Cru mais extrêmement courant, et lancé de bon cœur dans les conversations mixtes."
+      },
+      {
+        "text": "Coucher avec quelqu'un. Le verbe est à l'origine du nom et reste, en pratique, nettement plus cru que lui."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Le gars du groupe, là, c'est une vraie bombe.",
+        "context": "Se dit entre amis. Pas quelque chose qu'on lance en face à l'intéressé, ni au bureau."
+      },
+      "1": {
+        "translation": "C'est une sacrée belle fille, un vrai canon."
+      }
+    },
+    "origin": {
+      "etymology": "Le verbe sexuel est ancien et commun à tout l'anglais ; l'invention proprement irlandaise est le nom désignant une personne séduisante, qui ne s'emploie ainsi ni en Grande-Bretagne ni aux États-Unis. « Fine thing » remplit le même office en moins cru."
+    }
+  },
+  "mot": {
+    "definitions": [
+      {
+        "text": "Une petite amie, une copine, dans le vieux parler de Dublin : « the mot », « me mot ». Aujourd'hui réservé pour l'essentiel aux hommes de plus de cinquante ans et à ceux qui les imitent."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Il emmène sa copine voir le match."
+      },
+      "1": {
+        "translation": "Ma nana me fait la tête.",
+        "context": "Pur parler des vieux quartiers de Dublin, qu'on entend surtout aujourd'hui comme une touche de couleur locale assumée."
+      }
+    },
+    "origin": {
+      "etymology": "Origine discutée. L'étymologie populaire par l'irlandais « maith » (« bonne ») est séduisante mais sans fondement ; un vieux mot de l'argot des bas-fonds anglais, « mot », désignant une femme et attesté bien avant l'usage dublinois, est la source la plus probable. L'explication par le gaélique est si souvent répétée qu'il vaut la peine de savoir que ce n'est qu'une conjecture.",
+      "firstAttested": "XIXe siècle dans l'usage dublinois"
+    }
+  }
+}

@@ -1,0 +1,1206 @@
+{
+  "chido": {
+    "definitions": [
+      {
+        "text": "Figo, grande, ottimo. Il complimento universale per eccellenza nello spagnolo messicano, applicato indistintamente a oggetti, programmi, persone e situazioni."
+      },
+      {
+        "text": "Detto di una persona: perbene, generosa, di buon cuore. In questo senso è più vicino a «gentile» che a «figo».",
+        "note": "Di solito con ser: es muy chido conmigo — si comporta davvero bene con me."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Che figa la tua macchina!"
+      },
+      "1": {
+        "translation": "Il concerto è stato davvero spettacolare, saresti dovuto venire."
+      },
+      "2": {
+        "translation": "Il mio capo è proprio una brava persona, mi ha lasciato uscire prima.",
+        "context": "Il senso di «generoso» — non ha nulla a che vedere con l'essere alla moda."
+      }
+    },
+    "origin": {
+      "etymology": "Ricondotto il più delle volte al caló, la lingua dei gitani spagnoli, dove chidó significava «eccellente» o «splendido». È entrato nello spagnolo messicano attraverso la parlata operaia urbana e negli anni Settanta si era già diffuso in tutto il Paese.",
+      "firstAttested": "metà del XX secolo"
+    }
+  },
+  "guey": {
+    "literalMeaning": "Bue — da buey, toro castrato.",
+    "definitions": [
+      {
+        "text": "Amico, vecchio, tipo. Usato sia per rivolgersi direttamente a un amico sia per riferirsi a qualsiasi uomo di cui non si fa il nome."
+      },
+      {
+        "text": "Usato come particella a fine frase priva di qualsiasi contenuto lessicale, per connotare il parlato come informale — più o meno la funzione di «zio» o «fra'» in italiano giovanile.",
+        "note": "È di gran lunga il suo uso più frequente tra i parlanti giovani."
+      },
+      {
+        "text": "Idiota, scemo. Il senso originario, ancora vivo quando il tono è ostile."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Come butta, vecchio? Tutto bene?"
+      },
+      "1": {
+        "translation": "Ma dai, amico, così non si fa.",
+        "context": "Puro intercalare — togliere güey non cambia nulla se non il registro."
+      },
+      "2": {
+        "translation": "Quel tipo non risponde mai al telefono.",
+        "context": "Riferimento in terza persona a uno sconosciuto, lievemente sprezzante."
+      }
+    },
+    "origin": {
+      "etymology": "Da buey, «bue». Dare del bue a un uomo implicava che fosse tardo di comprendonio o cornuto — trattandosi di un animale castrato. L'insulto si è logorato con l'uso costante fino a diventare un appellativo neutro, lo stesso percorso compiuto dall'inglese «dude» e «bloke».",
+      "firstAttested": "XIX secolo come insulto; il senso neutro dalla metà del XX secolo"
+    }
+  },
+  "compa": {
+    "definitions": [
+      {
+        "text": "Compare, amico. Un termine caloroso e senza pretese per un amico, e un modo comune per rivolgersi a un uomo di cui non si conosce il nome."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Grazie, amico, te ne devo una."
+      },
+      "1": {
+        "translation": "Ecco che arriva il mio socio con le birre."
+      }
+    },
+    "origin": {
+      "etymology": "Troncamento di compadre, in origine il padrino di battesimo del proprio figlio — un vincolo formale di parentela rituale. La forma abbreviata ha conservato il calore lasciando cadere l'obbligo formale. Radicatissimo nel nord, ma ormai diffuso ovunque."
+    }
+  },
+  "no-mames": {
+    "literalMeaning": "Non succhiare.",
+    "definitions": [
+      {
+        "text": "Non ci credo; ma stai scherzando. Un'esclamazione di incredulità, che può esprimere entusiasmo, orrore o indignazione a seconda esclusivamente del tono."
+      },
+      {
+        "text": "Piantala; dacci un taglio. Rivolto a qualcuno che sta esagerando.",
+        "note": "Qui riemerge la forza imperativa letterale."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Non ci credo! Hai vinto alla lotteria?",
+        "context": "Incredulità entusiasta — il registro più comune."
+      },
+      "1": {
+        "translation": "Ma dai, sono già due ore che aspetto."
+      },
+      "2": {
+        "translation": "Adesso piantala, sul serio, lascialo in pace.",
+        "context": "Sinceramente infastidito. Il tono fa tutto il lavoro."
+      }
+    },
+    "origin": {
+      "etymology": "Il senso letterale è osceno, da mamar, «succhiare». Come gran parte delle imprecazioni ad altissima frequenza, si è fortemente sbiadito con l'uso e tra amici oggi ha più o meno la forza di «ma va'». Non si è però sbiadito abbastanza da poter essere usato al lavoro."
+    }
+  },
+  "no-manches": {
+    "literalMeaning": "Non macchiare.",
+    "definitions": [
+      {
+        "text": "Ma dai; stai scherzando. La versione socialmente presentabile di no mames, con la stessa gamma di incredulità ma senza alcuna oscenità."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Ma dai, vai davvero a vivere in Giappone?"
+      },
+      "1": {
+        "translation": "Ma no, è saltato di nuovo internet."
+      }
+    },
+    "origin": {
+      "etymology": "Un eufemismo deliberato per no mames, ottenuto sostituendo il verbo con uno innocuo che inizia allo stesso modo — la stessa strategia di sostituzione dell'italiano «cavolo» o «mercoledì» al posto di una parola più forte. Utilizzabile davanti a familiari, colleghi e bambini."
+    }
+  },
+  "orale": {
+    "definitions": [
+      {
+        "text": "Va bene; d'accordo; andiamo. Assenso o incoraggiamento."
+      },
+      {
+        "text": "Però; wow. Sorpresa o ammirazione, di solito allungando la vocale tonica."
+      },
+      {
+        "text": "Dai, sbrigati. Sollecitazione impaziente.",
+        "note": "Tre significati ben distinti, differenziati unicamente dall'intonazione."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "«Ci vediamo alle otto?» «Va bene, ci vediamo lì.»"
+      },
+      "1": {
+        "translation": "Però! Non sapevo che suonassi la chitarra.",
+        "context": "Ammirazione, segnalata dall'allungamento della prima vocale."
+      },
+      "2": {
+        "translation": "Muoviti, che facciamo tardi!"
+      }
+    },
+    "origin": {
+      "etymology": "Da ahora («adesso») più la desinenza enfatica -le che lo spagnolo messicano attacca a moltissimi imperativi — ándale, épale, híjole, úpale. Il suffisso -le non ha alcuna funzione grammaticale; è un intensificatore puramente messicano."
+    }
+  },
+  "neta": {
+    "definitions": [
+      {
+        "text": "La verità; le cose come stanno. Di solito con l'articolo: la neta."
+      },
+      {
+        "text": "Davvero? Sul serio? Usato da solo come domanda per verificare se qualcuno dice sul serio."
+      },
+      {
+        "text": "Onestamente, a dirla tutta. A inizio frase segnala che ciò che segue è sincero.",
+        "note": "La neta, no me gustó — sinceramente, non mi è piaciuto."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Dimmi la verità, ti è piaciuto o no?"
+      },
+      "1": {
+        "translation": "«Mi hanno promosso.» «Sul serio?»"
+      },
+      "2": {
+        "translation": "A dirla tutta, quel ristorante è sopravvalutato."
+      }
+    },
+    "origin": {
+      "etymology": "Da neto/neta, «netto» nel senso contabile — ciò che resta una volta tolto tutto il superfluo. La metafora è la stessa che sta dietro a «in soldoni»."
+    }
+  },
+  "padre": {
+    "literalMeaning": "Padre.",
+    "definitions": [
+      {
+        "text": "Bello, figo, fantastico. Intercambiabile con chido nella maggior parte dei contesti, e leggermente più morbido — è la versione che più facilmente userà un genitore."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Che bello il tuo appartamento!"
+      },
+      "1": {
+        "translation": "La festa è stata bellissima.",
+        "context": "Il superlativo padrísimo è estremamente comune."
+      }
+    },
+    "origin": {
+      "etymology": "Un sostantivo comune trasformato in aggettivo di approvazione — lo stesso passaggio compiuto dall'inglese con «ace» e «boss». Il superlativo padrísimo lo rafforza, e qué padre è la forma esclamativa fissa."
+    }
+  },
+  "chamba": {
+    "definitions": [
+      {
+        "text": "Lavoro; impiego. Mette l'accento sul guadagnarsi da vivere più che sulla carriera — la chamba si cerca, non si costruisce."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Sto cercando lavoro da gennaio."
+      },
+      "1": {
+        "translation": "Ho un sacco di lavoro questa settimana, non posso uscire."
+      }
+    },
+    "origin": {
+      "etymology": "Una storia ripetuta di continuo lo fa derivare dai lavoratori messicani negli Stati Uniti che leggevano «Chamber of Commerce» sulle porte degli uffici di collocamento. L'aneddoto è simpatico e quasi certamente falso; è molto più plausibile che la parola provenga da antichi usi dialettali iberici. Lo segnaliamo qui perché l'etimologia popolare viene spacciata ovunque per un dato di fatto."
+    }
+  },
+  "lana": {
+    "literalMeaning": "Lana.",
+    "definitions": [
+      {
+        "text": "Soldi, contanti, grana. La parola informale più comune per il denaro in Messico."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Non ho contanti dietro, me li presti?"
+      },
+      "1": {
+        "translation": "Quel lavoro rende parecchi soldi."
+      }
+    },
+    "origin": {
+      "etymology": "La lana come sinonimo di ricchezza è un'immagine antica e diffusa — il bestiame era capitale molto prima della moneta coniata, e l'inglese «fleece» («tosare, spennare») conserva la stessa associazione vista dall'altra parte."
+    }
+  },
+  "varo": {
+    "definitions": [
+      {
+        "text": "Soldi in generale; oppure un singolo peso, quando viene contato."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Mi restano sì e no cento pesos.",
+        "context": "Senso numerabile — qui varo è un'unità di misura."
+      },
+      "1": {
+        "translation": "Sono rimasto senza un soldo fino al giorno di paga.",
+        "context": "Senso non numerabile — usato al singolare."
+      }
+    }
+  },
+  "cruda": {
+    "literalMeaning": "Cruda, non cotta.",
+    "definitions": [
+      {
+        "text": "Postumi della sbornia. Si usa con tener o andar: tengo cruda, ando crudo."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Ho un doposbornia terribile, non parlarmi a voce alta."
+      },
+      "1": {
+        "translation": "Un brodo di gamberi è il rimedio migliore contro i postumi della sbornia.",
+        "context": "Il brodo piccante come cura per il doposbornia è un consiglio pressoché universale in Messico."
+      }
+    },
+    "origin": {
+      "etymology": "Da crudo, «crudo» — la sensazione del mattino dopo di sentirsi incompleti, scoperti, non ancora rimessi in sesto. La forma aggettivale crudo/cruda descrive la persona; il sostantivo descrive lo stato."
+    }
+  },
+  "pedo": {
+    "literalMeaning": "Scoreggia.",
+    "definitions": [
+      {
+        "text": "Un problema, una grana o una seccatura. Spesso alla forma negativa: no hay pedo, «nessun problema»."
+      },
+      {
+        "text": "Ubriaco, come aggettivo: estar pedo."
+      },
+      {
+        "text": "La situazione, la questione. In ¿qué pedo? significa «come butta?» oppure, in tono brusco, «che problemi hai?».",
+        "note": "Una delle parole semanticamente più sovraccariche dello spagnolo messicano."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Nessun problema, ti copro io."
+      },
+      "1": {
+        "translation": "Si è presentato al matrimonio completamente ubriaco."
+      },
+      "2": {
+        "translation": "Che ti prende, perché non hai avvisato?",
+        "context": "Aggressivo. Il saluto amichevole ¿qué pedo? usa le stesse identiche parole con un'intonazione diversa."
+      }
+    },
+    "origin": {
+      "etymology": "Il significato letterale è volgare, e l'enorme estensione semantica della parola illustra bene come lo spagnolo messicano costruisca intere famiglie di espressioni a partire da un'unica radice tabù."
+    }
+  },
+  "chela": {
+    "definitions": [
+      {
+        "text": "Una birra. Il termine informale predefinito in tutto il Messico."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Andiamo a farci due birre?"
+      },
+      "1": {
+        "translation": "Una birra ben ghiacciata, per favore."
+      }
+    },
+    "origin": {
+      "etymology": "Generalmente collegato a michelada, la preparazione a base di birra e lime, anche se la direzione del prestito è discussa — chela potrebbe benissimo essere la parola più antica."
+    }
+  },
+  "antro": {
+    "literalMeaning": "Antro, bettola, locale malfamato.",
+    "definitions": [
+      {
+        "text": "Una discoteca, un locale notturno. In Messico la parola ha perso del tutto la sua carica negativa e significa semplicemente un posto dove si va a ballare."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Siamo rimasti in discoteca fino alle quattro."
+      },
+      "1": {
+        "translation": "Quel locale è carissimo il sabato."
+      }
+    },
+    "origin": {
+      "etymology": "Dal latino antrum, «caverna». In gran parte del mondo ispanofono antro è ancora dispregiativo — una topaia, proprio come in italiano. Il Messico è la notevole eccezione, cosa che puntualmente disorienta i visitatori provenienti dalla Spagna e dal Sudamerica."
+    }
+  },
+  "fresa": {
+    "literalMeaning": "Fragola.",
+    "definitions": [
+      {
+        "text": "Fighetto, snob, viziato. Descrive i giovani benestanti e, nello specifico, una cadenza e un atteggiamento inconfondibili che in Messico si accompagnano ai soldi."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Parla proprio da fighetta, si capisce subito da dove viene."
+      },
+      "1": {
+        "translation": "È un locale molto esclusivo, non fa per me."
+      }
+    },
+    "origin": {
+      "etymology": "Le associazioni legate al frutto — dolce, delicato, costoso, leggermente artificiale — trasferite a un tipo sociale. Il suo opposto è naco, e le due parole tracciano una contrapposizione di classe che attraversa buona parte dell'umorismo messicano."
+    }
+  },
+  "naco": {
+    "definitions": [
+      {
+        "text": "Pacchiano, cafone, di basso livello. Applicato ai gusti, ai comportamenti e, inevitabilmente, alle persone."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Non fare il cafone, togliti il cappellino a tavola."
+      },
+      "1": {
+        "translation": "Quel colore mi sembra un po' pacchiano, a dire il vero.",
+        "context": "Riferito a un oggetto anziché a una persona — l'uso meno carico."
+      }
+    },
+    "origin": {
+      "etymology": "Probabilmente un troncamento di totonaco, un popolo indigeno di Veracruz. Quest'origine è il motivo per cui la parola ha un peso reale: la sua forza nasce dall'associare l'identità indigena e la povertà al cattivo gusto. In Messico viene usata con grande disinvoltura, ma è autenticamente classista e carica di connotazioni razziali. Riportata qui a scopo di comprensione."
+    }
+  },
+  "cuate": {
+    "literalMeaning": "Gemello.",
+    "definitions": [
+      {
+        "text": "Amico, socio. Suona leggermente più tradizionale di güey e più caloroso di un neutro amigo."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "È un mio grande amico fin dalle elementari."
+      },
+      "1": {
+        "translation": "Chiedi a un mio amico che lavora lì."
+      }
+    },
+    "origin": {
+      "etymology": "Dal nahuatl cōātl, «serpente» e, per estensione, «gemello» — la stessa radice alla base del nome della divinità Quetzalcóatl. La gemellarità come metafora dell'amicizia stretta costituisce il ponte semantico."
+    }
+  },
+  "carnal": {
+    "literalMeaning": "Carnale; consanguineo.",
+    "definitions": [
+      {
+        "text": "Fratello — sia un fratello di sangue sia un amico abbastanza stretto da valere come tale. Più forte di cuate o compa."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Lui è come un fratello per me, mi fido ciecamente."
+      },
+      "1": {
+        "translation": "Come va, fratello? Erano anni che non ti vedevo."
+      }
+    },
+    "origin": {
+      "etymology": "Da hermano carnal, «fratello carnale», dove carnal distingue i fratelli germani dai fratellastri. Caduto hermano, l'aggettivo si è fatto carico dell'intero significato — e dell'intero peso emotivo."
+    }
+  },
+  "morro": {
+    "definitions": [
+      {
+        "text": "Un ragazzino o un giovane; per estensione un ragazzo. Il femminile morra indica una ragazza e, a seconda del contesto, la fidanzata."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Quando ero ragazzino giocavo a calcio tutti i giorni."
+      },
+      "1": {
+        "translation": "Si è presentato alla festa con la sua ragazza."
+      }
+    }
+  },
+  "chavo": {
+    "definitions": [
+      {
+        "text": "Un giovane; un ragazzo o una ragazza pressappoco in età adolescenziale o universitaria. Neutro e usatissimo."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Un ragazzo mi ha aiutato con le valigie."
+      },
+      "1": {
+        "translation": "I ragazzi d'oggi non guardano più la televisione."
+      }
+    }
+  },
+  "escuincle": {
+    "definitions": [
+      {
+        "text": "Un bambino piccolo — di solito con una punta di esasperazione, più vicino a «marmocchio» che a «bambino»."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Quei marmocchi non smettono di urlare."
+      },
+      "1": {
+        "translation": "Fin da piccolo gli piaceva disegnare.",
+        "context": "Affettuoso quando è riferito a se stessi o al proprio passato."
+      }
+    },
+    "origin": {
+      "etymology": "Dal nahuatl itzcuintli, il cane nudo del Messico preispanico — l'animale da cui prende il nome la razza xoloitzcuintle. Applicare il nome di un cane ai bambini non è lusinghiero, ma il termine viene usato con affetto almeno quanto con fastidio."
+    }
+  },
+  "jefa": {
+    "literalMeaning": "Capa, direttrice.",
+    "definitions": [
+      {
+        "text": "Mamma. Affettuoso e comunissimo; il maschile jefe significa papà."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Chiamo mia madre per avvisarla."
+      },
+      "1": {
+        "translation": "I miei vanno in viaggio la settimana prossima.",
+        "context": "Il plurale indica entrambi i genitori."
+      }
+    },
+    "origin": {
+      "etymology": "Chiamare un genitore «il capo» è affettuosamente ironico ma anche piuttosto realistico riguardo alle gerarchie domestiche. Lo stesso spirito produce l'inglese «the old man» e l'italiano «i miei»."
+    }
+  },
+  "que-onda": {
+    "literalMeaning": "Che onda?",
+    "definitions": [
+      {
+        "text": "Come va? Che si dice? Il classico saluto informale tra amici."
+      },
+      {
+        "text": "Com'è la situazione con…? Usato con la preposizione con per chiedere notizie su qualcosa: ¿qué onda con el proyecto?"
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Ehi vecchio! Come te la passi?"
+      },
+      "1": {
+        "translation": "Allora, che si fa con la festa di sabato?"
+      }
+    },
+    "origin": {
+      "etymology": "Onda, «onda», porta con sé il senso di un'atmosfera o di una vibrazione nell'aria — la onda era il nome di un movimento controculturale messicano degli anni Sessanta, e la parola ha mantenuto quel sapore. Buena onda («buone vibrazioni, simpatico») e mala onda nascono dalla stessa immagine."
+    }
+  },
+  "sale": {
+    "literalMeaning": "Esce / parte.",
+    "definitions": [
+      {
+        "text": "Va bene; affare fatto; ci sto. Segnala l'accordo su un programma, spesso raddoppiato nella formula sale y vale."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "«Ci vediamo alla metro alle sei.» «Andata.»"
+      },
+      "1": {
+        "translation": "Va bene allora, io porto le birre."
+      }
+    }
+  },
+  "andale": {
+    "definitions": [
+      {
+        "text": "Dai; muoviti. Per spronare qualcuno a sbrigarsi."
+      },
+      {
+        "text": "Proprio così; esatto. Per confermare che l'interlocutore ha capito bene."
+      },
+      {
+        "text": "Dai, ti prego. In tono supplichevole — ándale, ¿sí?"
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Sbrigati, che l'autobus sta già partendo!"
+      },
+      "1": {
+        "translation": "«Quindi giro a sinistra?» «Esatto!»"
+      },
+      "2": {
+        "translation": "Dai, prestami la macchina, solo per un'ora."
+      }
+    },
+    "origin": {
+      "etymology": "Da andar, «camminare, andare», più l'enfatico messicano -le. Il pubblico straniero lo conosce soprattutto grazie ai cartoni animati di Speedy Gonzales, il che gli ha dato un'immeritata fama di parola macchiettistica; in Messico è del tutto normale."
+    }
+  },
+  "hijole": {
+    "definitions": [
+      {
+        "text": "Caspita; accidenti; oh mamma. Sorpresa, sgomento o riluttante compassione — e molto spesso il suono di qualcuno che sta per dirti di no."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Accidenti, non mi sono accorto dell'ora."
+      },
+      "1": {
+        "translation": "«Riesci a farmelo avere pronto per domani?» «Eh, guarda…»",
+        "context": "Un rifiuto morbido. Riconoscerlo risparmia parecchi malintesi."
+      }
+    },
+    "origin": {
+      "etymology": "Una deformazione eufemistica di hijo de… («figlio di…»), interrotta prima del sostantivo offensivo e completata con la desinenza messicana -le. Di conseguenza è del tutto innocua."
+    }
+  },
+  "chingon": {
+    "definitions": [
+      {
+        "text": "Spettacolare, cazzuto, eccezionale. Riferito a cose e situazioni."
+      },
+      {
+        "text": "Di una persona: bravissima in quello che fa. Es un chingón en la cocina — è un fenomeno ai fornelli."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Il tuo progetto è davvero una bomba, sul serio."
+      },
+      "1": {
+        "translation": "Mia zia è un fenomeno negli affari."
+      }
+    },
+    "origin": {
+      "etymology": "Da chingar, la radice volgare più produttiva dello spagnolo messicano — Octavio Paz le ha dedicato un intero capitolo de Il labirinto della solitudine. Caso unico tra i suoi derivati, chingón ha valore positivo."
+    }
+  },
+  "cabron": {
+    "literalMeaning": "Caprone.",
+    "definitions": [
+      {
+        "text": "Tra amici: vecchio mio, bastardo. Un appellativo affettuoso, più o meno della stessa forza di «bastardo» o «figlio di buona donna» usato in tono affettuoso."
+      },
+      {
+        "text": "Rivolto a uno sconosciuto: stronzo, carogna. Un insulto vero e proprio."
+      },
+      {
+        "text": "Come aggettivo: tosto, difficile, o impressionante per bravura. Está cabrón el examen — l'esame è massacrante.",
+        "note": "Quale dei tre significati sia inteso dipende dal rapporto tra i parlanti e dal tono, non dalla parola in sé."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Come stai, vecchio bastardo? Mi mancavi.",
+        "context": "Affettuoso. Funziona solo tra amici di lunga data."
+      },
+      "1": {
+        "translation": "Quello stronzo mi ha tamponato la macchina ed è scappato.",
+        "context": "Autenticamente ostile."
+      },
+      "2": {
+        "translation": "È un incubo trovare parcheggio da queste parti."
+      }
+    },
+    "origin": {
+      "etymology": "Il caprone è il simbolo tradizionale del marito tradito in tutte le lingue romanze, ed è da lì che veniva il morso originario dell'insulto. In Messico quel significato è in gran parte sbiadito, lasciando una parola il cui senso è stabilito quasi interamente dal rapporto tra chi parla e chi ascolta."
+    }
+  },
+  "pendejo": {
+    "definitions": [
+      {
+        "text": "Idiota, coglione, scemo. Più forte di tonto ma meno estremo delle opzioni peggiori a disposizione; prende di mira la mancanza di sale in zucca più che l'intelligenza."
+      },
+      {
+        "text": "Come aggettivo: stupido, sbadato. No seas pendejo — non fare l'idiota."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Non fare lo scemo, salva il file prima di chiuderlo."
+      },
+      "1": {
+        "translation": "Mi ha preso per fesso e mi ha fatto pagare il doppio.",
+        "context": "ver la cara de pendejo — prendere qualcuno per fesso. Una locuzione fissa estremamente comune."
+      }
+    },
+    "origin": {
+      "etymology": "In origine pelo pubico, e quindi qualcosa di infimo e privo di valore. Il passaggio da lì a «sciocco» passa attraverso un senso generale di insignificanza."
+    }
+  },
+  "pinche": {
+    "literalMeaning": "Sguattero, garzone di cucina.",
+    "definitions": [
+      {
+        "text": "Maledetto, fottuto, schifoso. Un intensificatore posto prima del sostantivo per esprimere disprezzo: pinche tráfico, «traffico del cavolo»."
+      },
+      {
+        "text": "Ridicolarmente misero o scadente. Me dieron un pinche descuento del dos por ciento — mi hanno fatto uno striminzito sconto del due per cento."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Il maledetto traffico di questa città mi sta uccidendo."
+      },
+      "1": {
+        "translation": "Si è lamentato per tutto il santo giorno."
+      }
+    },
+    "origin": {
+      "etymology": "Un pinche era l'ultimo degli aiutanti di cucina. Il percorso della parola da mansione lavorativa a insulto universale è una storia di classe in miniatura."
+    }
+  },
+  "mamon": {
+    "definitions": [
+      {
+        "text": "Spocchioso, pieno di sé; o anche semplicemente insopportabile. Descrive chi si crede superiore alla compagnia in cui si trova."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Non fare lo snob, almeno salutala."
+      },
+      "1": {
+        "translation": "Si è montato parecchio la testa da quando l'hanno promosso."
+      }
+    }
+  },
+  "sangron": {
+    "definitions": [
+      {
+        "text": "Antipatico, altezzoso, pesante da sopportare. Più blando di mamón e riferito alla freddezza più che alla vanità."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Che antipatico — non ha nemmeno detto grazie."
+      },
+      "1": {
+        "translation": "È una brava persona, ma all'inizio è un po' sulle sue."
+      }
+    },
+    "origin": {
+      "etymology": "Da sangre, «sangue» — lo spagnolo descrive una persona sgradevole come avente mala sangre o essendo pesada, pesante nel sangue. La stessa immagine dà forza all'italiano «antipatico»."
+    }
+  },
+  "codo": {
+    "literalMeaning": "Gomito.",
+    "definitions": [
+      {
+        "text": "Tirchio, spilorcio, dal braccino corto."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Non fare il tirchio, lascia la mancia."
+      },
+      "1": {
+        "translation": "È così spilorcio che si è portato l'acqua da casa al ristorante."
+      }
+    },
+    "origin": {
+      "etymology": "Dal gesto di battersi la mano sul gomito, che in Messico significa «è avaro» — l'immagine è quella di qualcuno talmente restio ad aprire il portafoglio che il braccio gli si è bloccato all'altezza dell'articolazione, esattamente come nell'italiano «avere il braccino corto». Il gesto si capisce anche senza pronunciare la parola."
+    }
+  },
+  "gacho": {
+    "definitions": [
+      {
+        "text": "Brutto, sgradevole, pesante. Applicato a situazioni e al tempo atmosferico."
+      },
+      {
+        "text": "Detto di una persona: meschino, cattivo. Qué gacho eres — è stata una carognata."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Il tempo è davvero orribile oggi."
+      },
+      "1": {
+        "translation": "Non essere meschino, offrile almeno un taco."
+      }
+    }
+  },
+  "chafa": {
+    "definitions": [
+      {
+        "text": "Scadente, dozzinale, di bassa qualità. Usato anche per i prodotti taroccati e per qualsiasi cosa non sia all'altezza delle aspettative."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Le cuffie che ho comprato si sono rivelate una vera schifezza."
+      },
+      "1": {
+        "translation": "È un'imitazione da quattro soldi, si vede lontano un miglio."
+      }
+    }
+  },
+  "huevon": {
+    "definitions": [
+      {
+        "text": "Un pigrone; sfaticato, scansafatiche. Il sostantivo correlato hueva significa pigrizia, e qué hueva equivale a «che barba, che fatica»."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Alzati, scansafatiche, sono già le due."
+      },
+      "1": {
+        "translation": "Che pesantezza arrivare fino a là di domenica.",
+        "context": "hueva — il sostantivo — è molto più blando di huevón e si può usare quasi ovunque."
+      }
+    },
+    "origin": {
+      "etymology": "Da huevos nel senso anatomico; l'immagine è quella di qualcuno troppo appesantito per muoversi. Blando tra amici, offensivo se detto da uno sconosciuto o da un superiore."
+    }
+  },
+  "desmadre": {
+    "definitions": [
+      {
+        "text": "Caos, casino totale. Detto di una situazione andata completamente fuori controllo."
+      },
+      {
+        "text": "Una serata memorabile e sfrenata. In senso positivo, detto di una festa o di un'uscita degenerata nel migliore dei modi.",
+        "note": "Che si tratti di una lamentela o di un vanto dipende unicamente dal contesto."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "L'ufficio è nel caos più totale da quando se n'è andata la direttrice."
+      },
+      "1": {
+        "translation": "Abbiamo fatto una baldoria pazzesca al suo compleanno."
+      }
+    },
+    "origin": {
+      "etymology": "Letteralmente «smadramento» — madre, madre, è la radice di una vasta famiglia di intensificatori messicani, e il prefisso privativo des- la trasforma in disordine. Il gruppo di parole legate alla figura materna è culturalmente così carico che desmadre colpisce ancora più forte di un semplice «casino»."
+    }
+  },
+  "relajo": {
+    "definitions": [
+      {
+        "text": "Un trambusto, una confusione, una gazzarra. L'equivalente educato di desmadre."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "È scoppiato un gran putiferio in riunione per via del budget."
+      },
+      "1": {
+        "translation": "I bambini hanno messo a soqquadro il salotto."
+      }
+    }
+  },
+  "banda": {
+    "literalMeaning": "Banda, comitiva.",
+    "definitions": [
+      {
+        "text": "La compagnia; il gruppo di amici; per estensione, tutti i presenti. Usato con l'articolo determinativo: la banda."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Verrà tutta la comitiva al concerto."
+      },
+      "1": {
+        "translation": "Bella, ragazzi!",
+        "context": "Per rivolgersi a un gruppo collettivamente, come «ciao a tutti»."
+      }
+    }
+  },
+  "apapachar": {
+    "definitions": [
+      {
+        "text": "Coccolare, viziare, consolare con tenerezza. Porta con sé un calore che abrazar («abbracciare») non ha — implica prendersi cura di qualcuno, non solo stringerlo."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Oggi ho bisogno di essere coccolato un po'."
+      },
+      "1": {
+        "translation": "Ha passato la domenica a spupazzarsi il cane."
+      }
+    },
+    "origin": {
+      "etymology": "Dal nahuatl papatzoa, «ammorbidire qualcosa premendolo». Una glossa molto diffusa lo traduce con «abbracciare con l'anima», definizione poetica più che linguistica — la vera etimologia parla di impastare e massaggiare, ed è forse ancora più bella proprio per questo."
+    }
+  },
+  "antojo": {
+    "definitions": [
+      {
+        "text": "Una voglia improvvisa, uno sfizio — quasi sempre per un cibo preciso. Il verbo antojarse significa «avere voglia di»."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Ho una gran voglia di tacos al pastor."
+      },
+      "1": {
+        "translation": "Non ti andrebbe un gelato?",
+        "context": "Nel parlato quotidiano la costruzione verbale è più comune del sostantivo."
+      }
+    }
+  },
+  "botana": {
+    "definitions": [
+      {
+        "text": "Stuzzichini, spuntini — nello specifico il cibo servito per accompagnare da bere."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Porta qualcosa da sgranocchiare per il film."
+      },
+      "1": {
+        "translation": "In quella cantina gli stuzzichini sono inclusi nel prezzo da bere.",
+        "context": "La botana gratuita servita insieme alle consumazioni è una storica tradizione delle cantinas messicane."
+      }
+    }
+  },
+  "chupe": {
+    "definitions": [
+      {
+        "text": "Alcolici; il bere. In questo registro il verbo chupar significa «bere alcolici»."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Io porto da bere, tu porta gli stuzzichini."
+      },
+      "1": {
+        "translation": "Ha passato tutta la notte a bere."
+      }
+    },
+    "origin": {
+      "etymology": "Da chupar, «succhiare». La stessa metafora per il bere attraversa buona parte dello slang spagnolo e l'italiano «ciucciarsi una birra»."
+    }
+  },
+  "peda": {
+    "definitions": [
+      {
+        "text": "Una bevuta collettiva; una sbronza tra amici. Anche lo stato di forte ubriachezza: traía una peda tremenda."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Venerdì c'è stata una grande bevuta a casa di Ana."
+      },
+      "1": {
+        "translation": "Si è preso una sbronza tale che non si ricorda nulla."
+      }
+    }
+  },
+  "bronca": {
+    "definitions": [
+      {
+        "text": "Un problema o una grana. L'alternativa pulita a pedo in questa accezione."
+      },
+      {
+        "text": "Una lite o una rissa. Armar bronca significa attaccare briga."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Nessun problema, sistemiamo tutto domani."
+      },
+      "1": {
+        "translation": "È scoppiata una rissa fuori dallo stadio."
+      }
+    },
+    "origin": {
+      "etymology": "Da bronco, «ruvido, indomito» — la stessa radice dell'inglese bronco, il cavallo non domato. Ciò che non è domato tende a creare guai."
+    }
+  },
+  "aguas": {
+    "literalMeaning": "Acque.",
+    "definitions": [
+      {
+        "text": "Attento! Occhio! Un avvertimento di pericolo immediato, o dell'arrivo di qualcuno che non dovrebbe sentire."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Occhio, arriva una macchina!"
+      },
+      "1": {
+        "translation": "Stai attento a quel venditore, fa pagare più del dovuto."
+      }
+    },
+    "origin": {
+      "etymology": "Dall'esclamazione di epoca coloniale ¡agua va! — il grido lanciato prima di svuotare il vaso da notte in strada da una finestra dei piani alti. Un avvertimento a cui conveniva dare retta, e l'espressione è sopravvissuta alla pratica per diversi secoli.",
+      "firstAttested": "periodo coloniale"
+    }
+  },
+  "ahorita": {
+    "literalMeaning": "Proprio adesso (diminutivo di ahora).",
+    "definitions": [
+      {
+        "text": "Tra un attimo; a momenti; in un punto imprecisato del futuro che potrebbe non arrivare mai. Nonostante il suffisso diminutivo prometta immediatezza, ahorita è notoriamente elastico — può significare cinque minuti, cinque ore o mai."
+      },
+      {
+        "text": "Poco fa, un istante fa. La stessa parola guarda anche all'indietro: ahorita salió, «è appena uscito»."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "«Mi dai una mano?» «Arrivo subito.»",
+        "context": "Se questo significhi trenta secondi o quarantacinque minuti è genuinamente impossibile da sapere."
+      },
+      "1": {
+        "translation": "Adesso no, grazie.",
+        "context": "Usato come rifiuto è cortese e definitivo, non un rinvio."
+      },
+      "2": {
+        "translation": "È uscito proprio un attimo fa.",
+        "context": "Il senso rivolto al passato appena trascorso."
+      }
+    },
+    "origin": {
+      "etymology": "Il diminutivo -ita in spagnolo normalmente rafforza l'immediatezza. In Messico si è dilatato così tanto nella pratica che è nato il super-intensificatore ahoritita per esprimere ciò che un tempo significava ahorita. Lo scarto tra la forma della parola e il suo uso reale è una battuta ricorrente tra gli stessi messicani."
+    }
+  },
+  "chilango": {
+    "definitions": [
+      {
+        "text": "Un abitante di Città del Messico; originario della capitale. Nato come epiteto sprezzante usato dal resto del Paese, oggi è portato con orgoglio dagli stessi abitanti della capitale."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Si sente dall'accento che è di Città del Messico."
+      },
+      "1": {
+        "translation": "Sono di Città del Messico dalla nascita."
+      }
+    },
+    "origin": {
+      "etymology": "Controverso. Tra le ipotesi figurano il nahuatl chilan-co («dove stanno i rossi») e una derivazione da chile. Ciò che è certo è la riappropriazione: un termine di disprezzo provinciale che la capitale ha adottato come distintivo d'orgoglio."
+    }
+  },
+  "metiche": {
+    "definitions": [
+      {
+        "text": "Un ficcanaso; impiccione. Chi si intromette in faccende che non lo riguardano."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "La mia vicina è una gran ficcanaso, sa tutto di tutti."
+      },
+      "1": {
+        "translation": "Non fare l'impiccione, sono affari loro."
+      }
+    },
+    "origin": {
+      "etymology": "Da meterse, «intromettersi, ficcarsi» — letteralmente chi si infila ovunque. Il suffisso -iche aggiunge una nota di disprezzo."
+    }
+  },
+  "dar-el-avion": {
+    "literalMeaning": "Dare l'aereo.",
+    "definitions": [
+      {
+        "text": "Dare corda per togliersi qualcuno di torno; dare ragione su tutta la linea al solo scopo di chiudere la conversazione, senza alcuna intenzione di dare seguito alle parole."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Non mi stai ascoltando, mi stai solo dando corda per liquidarmi."
+      },
+      "1": {
+        "translation": "Gli ho dato ragione su tutto così almeno stava zitto."
+      }
+    },
+    "origin": {
+      "etymology": "Spiegato di solito con l'immagine del gesto con cui si fa cenno a qualcuno di proseguire — il segnale manuale che fa decollare un aereo, eseguito mentre la propria attenzione è già altrove."
+    }
+  },
+  "hacer-el-paro": {
+    "literalMeaning": "Fare la parata / il blocco.",
+    "definitions": [
+      {
+        "text": "Fare un favore a qualcuno; coprirgli le spalle o toglierlo dai guai."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Fammi un favore e digli che me ne sono già andato."
+      },
+      "1": {
+        "translation": "Mi ha dato una mano con l'affitto questo mese."
+      }
+    },
+    "origin": {
+      "etymology": "Da paro nel senso di blocco o parata — l'immagine è quella di chi si para davanti a qualcosa diretto verso un amico, proprio come fa un portiere."
+    }
+  },
+  "caer-gordo": {
+    "literalMeaning": "Cadere grasso.",
+    "definitions": [
+      {
+        "text": "Stare sullo stomaco a qualcuno; risultare insopportabile. Si noti la costruzione inversa, identica all'italiano: la persona detestata è il soggetto — me cae gordo, «mi cade pesante», significa «non lo sopporto»."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Quel tipo mi sta sullo stomaco e non so nemmeno perché."
+      },
+      "1": {
+        "translation": "Sto antipatico a tua sorella, vero?",
+        "context": "Si noti che qui chi parla è il soggetto — «cado pesante a tua sorella»."
+      }
+    },
+    "origin": {
+      "etymology": "Appartiene alla famiglia spagnola di caer bien / caer mal, dove la simpatia è espressa in base a come una persona «cade» sullo stomaco. Gordo — grasso, pesante, indigesto — intensifica caer mal."
+    }
+  },
+  "chale": {
+    "definitions": [
+      {
+        "text": "Ma no; che peccato. Delusione o lieve protesta davanti a una brutta notizia."
+      },
+      {
+        "text": "Ma figuriamoci. Incredulità sprezzante davanti a qualcosa di poco plausibile."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Che sfortuna, hanno annullato il viaggio."
+      },
+      "1": {
+        "translation": "Ma dai, davvero non hai intenzione di venire?"
+      }
+    }
+  },
+  "ni-modo": {
+    "literalMeaning": "Nessun modo, nessuna maniera.",
+    "definitions": [
+      {
+        "text": "Pazienza; non c'è niente da fare. Accettazione rassegnata di qualcosa che ormai non si può più cambiare."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "I biglietti sono già finiti. Pazienza, sarà per la prossima volta."
+      },
+      "1": {
+        "translation": "Non c'era modo di dirgli di no.",
+        "context": "Seguito da de più infinito significa «non c'è verso di…» anziché «pazienza»."
+      }
+    },
+    "origin": {
+      "etymology": "Spesso citato come un piccolo spiraglio sul temperamento nazionale — una formula universale per incassare un contrattempo senza protestare. Che questa lettura sia calzante o solo comoda, l'espressione è davvero onnipresente."
+    }
+  },
+  "de-pelos": {
+    "literalMeaning": "Di peli.",
+    "definitions": [
+      {
+        "text": "Fantastico, eccellente, da paura. Una versione enfatica di chido, e leggermente datata — ha avuto il suo momento d'oro con una generazione precedente."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Il viaggio è stato spettacolare."
+      },
+      "1": {
+        "translation": "«Com'è andata?» «Alla grande!»"
+      }
+    }
+  },
+  "simon": {
+    "definitions": [
+      {
+        "text": "Sì; certo che sì. Un «sì» gergale ed enfatico."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "«Ci vai?» «Certo, ci vediamo lì.»"
+      },
+      "1": {
+        "translation": "Assolutamente sì, siamo già d'accordo."
+      }
+    },
+    "origin": {
+      "etymology": "Un sí ampliato e scherzoso, costruito attaccando un nome proprio maschile alla sillaba di partenza. Il suo corrispettivo negativo nel funziona allo stesso modo. Entrambi appartengono a un registro giocoso dello spagnolo messicano che allunga deliberatamente i monosillabi."
+    }
+  },
+  "nel": {
+    "definitions": [
+      {
+        "text": "Macché, col cavolo. Un «no» secco e gergale, spesso allungato in nel pastel puramente per fare rima."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "«Gli hai prestato dei soldi?» «Col cavolo, neanche per sogno.»"
+      },
+      "1": {
+        "translation": "Macché, quel film l'ho già visto.",
+        "context": "pastel significa «torta» e non aggiunge altro che la rima."
+      }
+    }
+  },
+  "jalar": {
+    "literalMeaning": "Tirare.",
+    "definitions": [
+      {
+        "text": "Funzionare, detto di una macchina o di un dispositivo: ya no jala el control, «il telecomando non funziona più»."
+      },
+      {
+        "text": "Esserci, partecipare, aggregarsi. ¿Jalas? — «ci stai?»"
+      },
+      {
+        "text": "Lavorare sodo, detto di una persona. Le jala duro en la chamba.",
+        "note": "Il senso di «ci stai?» è quello che i visitatori sentono più spesso."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Il mio cellulare non funziona più."
+      },
+      "1": {
+        "translation": "Andiamo al cinema, ci stai?"
+      },
+      "2": {
+        "translation": "Quel ragazzo sì che si dà da fare."
+      }
+    }
+  },
+  "ponerse-buzo": {
+    "literalMeaning": "Farsi palombaro / subacqueo.",
+    "definitions": [
+      {
+        "text": "Stare in campana; tenere gli occhi ben aperti. Buzo da solo funziona come aggettivo col significato di sveglio o scafato."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Tieni gli occhi aperti, che qui rubano i portafogli."
+      },
+      "1": {
+        "translation": "È davvero sveglio negli affari."
+      }
+    },
+    "origin": {
+      "etymology": "Buzo significa «sommozzatore, palombaro». Il legame con la prontezza di riflessi è discusso — una spiegazione richiama la costante vigilanza necessaria sott'acqua, un'altra rimanda a un più antico significato gergale indipendente di «astuto». Non abbiamo trovato una fonte che chiuda la questione."
+    }
+  }
+}

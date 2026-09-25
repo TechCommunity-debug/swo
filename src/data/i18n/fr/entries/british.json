@@ -1,0 +1,1233 @@
+{
+  "knackered": {
+    "definitions": [
+      {
+        "text": "Épuisé ; complètement vidé."
+      },
+      {
+        "text": "D’un objet : irréparable. « The washing machine’s knackered » — la machine à laver est fichue."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Je suis complètement crevé, je suis debout depuis cinq heures.",
+        "context": "L’emploi de très loin le plus fréquent."
+      },
+      "1": {
+        "translation": "Laisse tomber cet ordinateur, il est mort."
+      }
+    },
+    "origin": {
+      "etymology": "Un knacker rachetait les chevaux hors d’usage pour l’abattage, et le knacker’s yard était l’endroit où ils finissaient. Un cheval knackered n’était bon que pour ce dernier voyage — la métaphore a survécu au métier d’un siècle."
+    }
+  },
+  "shattered": {
+    "definitions": [
+      {
+        "text": "Extrêmement fatigué. Légèrement plus doux que knackered, et sans risque en toute compagnie."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "J’étais sur les rotules après le vol."
+      },
+      "1": {
+        "translation": "Elle avait l’air exténuée à la fin de son service."
+      }
+    }
+  },
+  "gutted": {
+    "definitions": [
+      {
+        "text": "Amèrement déçu. S’emploie pour des pertes qui font vraiment mal — un poste raté, un match perdu — et, par ironie, pour de toutes petites déconvenues."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Il était effondré de ne pas avoir été sélectionné dans l’équipe."
+      },
+      "1": {
+        "translation": "Ils avaient vendu le dernier. La cata.",
+        "context": "Employé seul comme réaction en un mot — très courant, et en général légèrement ironique."
+      }
+    },
+    "origin": {
+      "etymology": "De l’image d’un poisson vidé : tout ce qu’il y avait à l’intérieur retiré. Le mot est un classique des interviews d’après-match de football, ce qui explique en grande partie son passage de l’usage régional à l’usage national."
+    }
+  },
+  "chuffed": {
+    "definitions": [
+      {
+        "text": "Content, ravi — en général d’une chose à laquelle on a soi-même contribué. Souvent renforcé en chuffed to bits."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Elle était super contente de ses résultats d’examen."
+      },
+      "1": {
+        "translation": "Je suis vraiment ravi pour toi, sincèrement."
+      }
+    },
+    "origin": {
+      "etymology": "Du dialecte chuff, « dodu, content ». Une seconde acception, désormais obsolète, voulait dire mécontent — les deux ont coexisté un moment avant que le sens positif ne l’emporte totalement."
+    }
+  },
+  "made-up": {
+    "definitions": [
+      {
+        "text": "Fou de joie. Fortement associé à Liverpool et au Nord-Ouest, bien que compris dans tout le pays."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Je suis tellement content que tu aies pu venir."
+      },
+      "1": {
+        "translation": "Il était aux anges à la naissance du bébé."
+      }
+    }
+  },
+  "cheeky": {
+    "definitions": [
+      {
+        "text": "Impertinent d’une façon plus amusante qu’offensante."
+      },
+      {
+        "text": "D’un petit plaisir : discret, improvisé et légèrement coupable. Un cheeky pint, un cheeky takeaway.",
+        "note": "Ce second sens est aujourd’hui le plus courant, et s’applique à presque n’importe quelle petite gâterie."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Ne sois pas insolent avec ta grand-mère.",
+        "context": "Le sens d’origine, dit surtout aux enfants."
+      },
+      "1": {
+        "translation": "Ça te dit une petite bière improvisée après le boulot ?",
+        "context": "Rien d’inconvenant là-dedans — cheeky veut simplement dire « un peu indulgent envers soi-même »."
+      }
+    }
+  },
+  "dodgy": {
+    "definitions": [
+      {
+        "text": "Suspect, peu fiable, probablement illégal."
+      },
+      {
+        "text": "Peu fiable ou en mauvais état. Un genou dodgy, une connexion dodgy."
+      },
+      {
+        "text": "D’un aliment : susceptible de rendre malade."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Il l’a acheté à un type louche au marché."
+      },
+      "1": {
+        "translation": "Le wifi est capricieux depuis ce matin."
+      },
+      "2": {
+        "translation": "Je crois que ce sandwich aux crevettes n’était pas très frais."
+      }
+    }
+  },
+  "faff": {
+    "definitions": [
+      {
+        "text": "Des tracas inutiles ; une complication qui n’en vaut pas la peine. Comme nom : it’s a bit of a faff."
+      },
+      {
+        "text": "Tergiverser, s’agiter sans but. En général faff about ou faff around."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Se garer là-bas, c’est bien plus compliqué que ça n’en vaut la peine, prends le train."
+      },
+      "1": {
+        "translation": "Arrête de tourner en rond et monte dans la voiture."
+      }
+    }
+  },
+  "bloke": {
+    "definitions": [
+      {
+        "text": "Un homme ; un type. Totalement neutre, et le mot par défaut pour un homme non identifié."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Un type est passé demander des nouvelles de la voiture."
+      },
+      "1": {
+        "translation": "C’est un type bien, tu vas bien t’entendre avec lui."
+      }
+    },
+    "origin": {
+      "etymology": "D’origine incertaine — parmi les hypothèses, le shelta (l’argot des gens du voyage irlandais) et le néerlandais blok. Le mot apparaît dans l’anglais du milieu du XIXe siècle et est resté d’un banal imperturbable depuis."
+    }
+  },
+  "geezer": {
+    "definitions": [
+      {
+        "text": "Un homme, avec une couleur nettement londonienne — impliquant souvent une certaine assurance de rue. Un proper geezer est un compliment."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Demande à ce type derrière le bar."
+      },
+      "1": {
+        "translation": "Dave ? C’est un personnage, quelqu’un de vrai."
+      }
+    },
+    "origin": {
+      "etymology": "Du dialecte guiser, un joueur de mascarade ou une personne déguisée. Notez le décalage transatlantique : en anglais américain, geezer désigne un vieil homme, ce qui n’est pas le cas en Grande-Bretagne."
+    }
+  },
+  "mate": {
+    "definitions": [
+      {
+        "text": "Un ami. Le mot le plus courant pour cela en anglais britannique."
+      },
+      {
+        "text": "Employé pour s’adresser à n’importe quel homme, ami ou inconnu. Cheers, mate."
+      },
+      {
+        "text": "Dit sèchement à un inconnu qui vous a agacé, c’est un avertissement plutôt qu’une salutation amicale.",
+        "note": "Tout est dans le ton. « Alright, mate ? » et « Mate. » ne sont pas le même acte de parole."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Je retrouve quelques amis pour boire un verre."
+      },
+      "1": {
+        "translation": "Merci, mon pote, j’apprécie vraiment."
+      },
+      "2": {
+        "translation": "Excusez-moi. C’est ma place.",
+        "context": "Sec et tranchant. C’est ici une phrase de confrontation."
+      }
+    }
+  },
+  "lad": {
+    "definitions": [
+      {
+        "text": "Un garçon ou un jeune homme."
+      },
+      {
+        "text": "The lads : la bande de copains d’un homme, en particulier pour une sortie."
+      },
+      {
+        "text": "Un homme porté sur la boisson et le chahut — parfois admiratif, parfois non.",
+        "note": "L’adjectif laddish est presque toujours critique."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "C’est un bon gars, toujours prêt à aider."
+      },
+      "1": {
+        "translation": "Sorti avec les copains samedi."
+      }
+    }
+  },
+  "naff": {
+    "definitions": [
+      {
+        "text": "Ringard, de mauvais goût, démodé. Visant précisément les choses qui essaient d’être impressionnantes et qui échouent."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "L’hôtel était bien mais la déco était plutôt ringarde."
+      },
+      "1": {
+        "translation": "C’est une excuse minable et tu le sais."
+      }
+    },
+    "origin": {
+      "etymology": "Origine véritablement incertaine. Le mot avait cours dans le Polari, l’argot codé des milieux gays et théâtraux de la Grande-Bretagne du milieu du siècle, et s’est répandu dans l’usage courant dans les années 1970. Les diverses explications par acronymes qui circulent en ligne sont des étymologies fantaisistes inventées après coup, sans aucun fondement."
+    }
+  },
+  "minging": {
+    "definitions": [
+      {
+        "text": "Dégoûtant ; nauséabond ou crasseux."
+      },
+      {
+        "text": "D’une personne : peu attirante. Cet emploi est méchant et de plus en plus évité."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Cette poubelle traîne dehors depuis une semaine, c’est répugnant."
+      },
+      "1": {
+        "translation": "Le temps était affreux tout le week-end."
+      }
+    },
+    "origin": {
+      "etymology": "De l’écossais ming, « une mauvaise odeur ». Le mot s’est diffusé vers le sud dans les années 1990. Le sens « laid » est une extension plus tardive, et c’est ce qui vaut aujourd’hui au mot d’être employé avec prudence."
+    }
+  },
+  "rank": {
+    "definitions": [
+      {
+        "text": "Dégoûtant, en particulier au goût ou à l’odeur."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Cette boisson énergisante a un goût vraiment infect."
+      },
+      "1": {
+        "translation": "Les vestiaires sentaient franchement mauvais."
+      }
+    }
+  },
+  "grim": {
+    "definitions": [
+      {
+        "text": "Morne, désagréable, franchement mauvais. S’applique au temps, aux lieux, aux humeurs et aux situations avec la même aisance."
+      },
+      {
+        "text": "D’une personne : se sentir malade ou très mal en point. I felt grim all day."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Février à Manchester est plutôt sinistre."
+      },
+      "1": {
+        "translation": "Je me sentais mal après ce curry."
+      }
+    }
+  },
+  "sound": {
+    "definitions": [
+      {
+        "text": "D’une personne : fiable, de bonne compagnie, quelqu’un de bien. He’s sound."
+      },
+      {
+        "text": "Parfait ; aucun problème. Employé seul comme accusé de réception."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Demande à Jen, elle est réglo, elle t’aidera."
+      },
+      "1": {
+        "translation": "« J’aurai dix minutes de retard. » « Parfait. »"
+      }
+    }
+  },
+  "mint": {
+    "definitions": [
+      {
+        "text": "Excellent, génial. Surtout dans le nord de l’Angleterre et en Écosse."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Ce concert était génial."
+      },
+      "1": {
+        "translation": "Ton nouveau vélo est génial, mon pote."
+      }
+    },
+    "origin": {
+      "etymology": "De mint condition — un objet si peu usé qu’il pourrait tout juste sortir de la fabrique. L’adjectif s’est libéré de l’expression et fonctionne désormais tout seul."
+    }
+  },
+  "buzzing": {
+    "definitions": [
+      {
+        "text": "Ravi, exalté, plein d’impatience."
+      },
+      {
+        "text": "D’un lieu : animé, plein d’ambiance."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Je suis à fond dans l’attente du week-end."
+      },
+      "1": {
+        "translation": "Le centre-ville était très animé samedi soir."
+      }
+    }
+  },
+  "peng": {
+    "definitions": [
+      {
+        "text": "Séduisant ; aussi, pour la nourriture, délicieux."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Ce fast-food de poulet est vraiment délicieux."
+      },
+      "1": {
+        "translation": "Elle était magnifique sur cette photo."
+      }
+    },
+    "origin": {
+      "etymology": "De l’anglais multiculturel londonien (Multicultural London English), avec des racines dans le patois jamaïcain. Comme une grande partie du vocabulaire MLE, il s’est répandu dans tout le pays via le rap et la drill britanniques, et reste fortement marqué générationnellement — surtout employé par les moins de trente ans."
+    }
+  },
+  "bare": {
+    "definitions": [
+      {
+        "text": "Beaucoup de ; plein de. Contre-intuitivement, cela signifie l’exact opposite du bare standard (« nu, vide »)."
+      },
+      {
+        "text": "Très, comme intensificateur : it’s bare cold."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Il y avait un monde fou devant la gare."
+      },
+      "1": {
+        "translation": "C’est interminable, ce trajet."
+      }
+    },
+    "origin": {
+      "etymology": "Anglais multiculturel londonien. L’inversion du sens standard est la raison pour laquelle il déroute systématiquement les locuteurs plus âgés, et explique en partie son succès."
+    }
+  },
+  "safe": {
+    "definitions": [
+      {
+        "text": "Merci ; cool ; compris. Un accusé de réception passe-partout."
+      },
+      {
+        "text": "Employé seul comme salutation ou pour prendre congé."
+      },
+      {
+        "text": "D’une personne : digne de confiance, quelqu’un de bien."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "« Je te l’envoie ce soir. » « Nickel. »"
+      },
+      "1": {
+        "translation": "À plus, mon pote, à bientôt."
+      }
+    }
+  },
+  "innit": {
+    "definitions": [
+      {
+        "text": "Contraction de « isn’t it », employée comme cheville en fin de phrase, quelle que soit la grammaire de la phrase qui précède."
+      },
+      {
+        "text": "Employé seul : un accord appuyé, à peu près « exactement »."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Il fait un froid glacial dehors, hein."
+      },
+      "1": {
+        "translation": "T’as fait tout ce chemin pour rien, hein.",
+        "context": "Grammaticalement, la cheville devrait être « didn’t you ». Innit a remplacé tout le système des question tags pour de nombreux locuteurs."
+      },
+      "2": {
+        "translation": "« Les prix sont devenus fous. » « Comme tu dis. »"
+      }
+    }
+  },
+  "proper": {
+    "definitions": [
+      {
+        "text": "Très, vraiment. Comme intensificateur devant un adjectif : proper cold, proper good."
+      },
+      {
+        "text": "Authentique, la vraie chose. A proper pub, a proper cup of tea."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Il faisait vraiment froid sur le quai."
+      },
+      "1": {
+        "translation": "Ça, c’est un vrai petit-déjeuner."
+      }
+    }
+  },
+  "dead": {
+    "definitions": [
+      {
+        "text": "Très, extrêmement. Un intensificateur sans rapport avec le sens littéral : dead good, dead easy."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "La recette est vraiment simple, ça prend dix minutes."
+      },
+      "1": {
+        "translation": "Elle en était très contente."
+      }
+    }
+  },
+  "quid": {
+    "definitions": [
+      {
+        "text": "Une livre sterling. Le pluriel est aussi quid, jamais quids : fifty quid."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Ça m’a coûté vingt livres."
+      },
+      "1": {
+        "translation": "T’aurais pas une pièce d’une livre pour le chariot ?"
+      }
+    },
+    "origin": {
+      "etymology": "En usage depuis le XVIIe siècle, origine incertaine. L’hypothèse la plus probable fait remonter le mot au latin quid (« quoi », comme dans quid pro quo), passé dans l’argot pour désigner la contrepartie exigée."
+    }
+  },
+  "tenner": {
+    "definitions": [
+      {
+        "text": "Un billet de dix livres, ou la somme de dix livres. Son équivalent fiver fonctionne de la même façon."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Prête-moi dix livres jusqu’à vendredi."
+      },
+      "1": {
+        "translation": "J’ai trouvé un billet de dix livres dans la poche de mon manteau."
+      }
+    }
+  },
+  "skint": {
+    "definitions": [
+      {
+        "text": "Fauché ; complètement sans argent, en général temporairement."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Je peux pas sortir, je suis fauché jusqu’à la paie."
+      },
+      "1": {
+        "translation": "On était complètement fauchés cette première année-là."
+      }
+    },
+    "origin": {
+      "etymology": "Une forme usée de skinned — dépouillé de tout, comme un animal qu’on écorche."
+    }
+  },
+  "dosh": {
+    "definitions": [
+      {
+        "text": "De l’argent, du liquide. Un peu daté aujourd’hui — le mot a connu son pic dans les années 1980 et 1990."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Il s’est fait pas mal d’argent avec ça."
+      },
+      "1": {
+        "translation": "Apporte du liquide, l’endroit n’accepte pas les cartes."
+      }
+    }
+  },
+  "cuppa": {
+    "definitions": [
+      {
+        "text": "Une tasse de thé. On suppose qu’il s’agit de thé, sauf précision contraire."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Assieds-toi, je mets la bouilloire à chauffer pour une tasse de thé."
+      },
+      "1": {
+        "translation": "Rien qu’une bonne tasse de thé ne puisse arranger.",
+        "context": "Offrir du thé est la réponse britannique standard à toute détresse, quelle qu’en soit l’ampleur."
+      }
+    }
+  },
+  "brew": {
+    "definitions": [
+      {
+        "text": "Une boisson chaude, en général du thé. Le terme préféré du nord de l’Angleterre, là où le sud dit cuppa."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Ça te dit une tasse de thé ?"
+      },
+      "1": {
+        "translation": "Je mets la bouilloire à chauffer, on va se faire un thé."
+      }
+    }
+  },
+  "chippy": {
+    "definitions": [
+      {
+        "text": "Une friterie de fish and chips."
+      },
+      {
+        "text": "Comme adjectif : susceptible, prompt à s’offusquer. Un sens sans rapport, mais courant."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "On a pris des frites à la friterie en rentrant."
+      },
+      "1": {
+        "translation": "Il devient plutôt susceptible si on aborde le sujet."
+      }
+    }
+  },
+  "butty": {
+    "definitions": [
+      {
+        "text": "Un sandwich, en particulier un petit pain garni. Un chip butty — des frites dans du pain beurré — en est l’exemple emblématique."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Un sandwich au bacon et un thé, s’il vous plaît."
+      },
+      "1": {
+        "translation": "Tu n’as jamais mangé de sandwich aux frites ?"
+      }
+    },
+    "origin": {
+      "etymology": "De butter — du pain avec du beurre dessus. Le nord de l’Angleterre et le Pays de Galles disent butty, d’autres régions disent sarnie ou barm, et la dispute nationale sur le nom du petit pain n’est réellement jamais tranchée."
+    }
+  },
+  "scran": {
+    "definitions": [
+      {
+        "text": "De la nourriture ; un repas. Courant dans le nord de l’Angleterre, en Écosse et chez les marins et les soldats."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Bon, qui s’occupe de la bouffe ?"
+      },
+      "1": {
+        "translation": "Vraiment bonne bouffe dans ce pub."
+      }
+    }
+  },
+  "pissed": {
+    "definitions": [
+      {
+        "text": "Ivre. Attention au piège transatlantique : en anglais américain, pissed veut dire en colère. En anglais britannique, « pissed off » veut dire en colère ; pissed tout court ne le veut pas dire."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Il s’est complètement bourré au mariage."
+      },
+      "1": {
+        "translation": "Je suis vraiment agacé par toute cette histoire.",
+        "context": "Avec « off », le sens bascule vers l’agacement."
+      }
+    }
+  },
+  "legless": {
+    "definitions": [
+      {
+        "text": "Tellement ivre qu’on ne peut plus marcher correctement."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Elle était complètement bourrée dès neuf heures."
+      },
+      "1": {
+        "translation": "Ils sont revenus du pub à peine capables de tenir debout."
+      }
+    }
+  },
+  "on-the-lash": {
+    "definitions": [
+      {
+        "text": "Sorti pour boire abondamment, comme projet délibéré pour la soirée."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Les copains sont sortis picoler ce soir."
+      },
+      "1": {
+        "translation": "Je peux pas, j’étais sorti picoler hier soir."
+      }
+    }
+  },
+  "gaff": {
+    "definitions": [
+      {
+        "text": "Une maison ou un appartement ; chez quelqu’un. Round my gaff."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "On retourne tous chez lui après."
+      },
+      "1": {
+        "translation": "Sympa, ton appart."
+      }
+    }
+  },
+  "kip": {
+    "definitions": [
+      {
+        "text": "Un somme ou une sieste : have a kip."
+      },
+      {
+        "text": "Dormir, en particulier quelque part de fortune : kip on the sofa."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Je vais faire une petite sieste avant qu’on sorte."
+      },
+      "1": {
+        "translation": "Tu peux dormir sur le canapé si tu rates le dernier train."
+      }
+    },
+    "origin": {
+      "etymology": "Du danois kippe, une auberge bon marché ou un asile de nuit. Le mot désignant le lieu est devenu celui de l’activité."
+    }
+  },
+  "doss": {
+    "definitions": [
+      {
+        "text": "Ne rien faire, paresser. En général doss about."
+      },
+      {
+        "text": "Quelque chose ne demandant aucun effort : the exam was a doss."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "On a juste traîné toute l’après-midi sans rien faire."
+      },
+      "1": {
+        "translation": "La première année, c’était de la rigolade, aucun travail à fournir."
+      }
+    }
+  },
+  "skive": {
+    "definitions": [
+      {
+        "text": "Éviter le travail ou l’école en s’éclipsant ; tirer au flanc. Souvent skive off."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Il a séché l’école toute l’après-midi."
+      },
+      "1": {
+        "translation": "Travailler à la maison n’est pas une excuse pour tirer au flanc."
+      }
+    },
+    "origin": {
+      "etymology": "Entré dans la langue anglaise par les soldats de la Première Guerre mondiale, sans doute du français esquiver."
+    }
+  },
+  "nick": {
+    "definitions": [
+      {
+        "text": "Voler, en général quelque chose de petit."
+      },
+      {
+        "text": "Arrêter. Get nicked."
+      },
+      {
+        "text": "Comme nom : un poste de police, ou une prison. Down the nick."
+      },
+      {
+        "text": "In good nick / in bad nick : en bon ou mauvais état.",
+        "note": "Quatre sens sans rapport partageant une même forme. Le contexte lève toujours l’ambiguïté."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Quelqu’un m’a piqué mon chargeur."
+      },
+      "1": {
+        "translation": "Il s’est fait arrêter pour avoir conduit sans assurance."
+      },
+      "2": {
+        "translation": "La voiture est vieille mais elle est en bon état."
+      }
+    }
+  },
+  "grass": {
+    "definitions": [
+      {
+        "text": "Un indicateur ; quelqu’un qui dénonce les autres aux autorités."
+      },
+      {
+        "text": "Dénoncer quelqu’un. En général grass someone up."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Personne n’aime un balance."
+      },
+      "1": {
+        "translation": "Elle l’a dénoncé au responsable."
+      }
+    },
+    "origin": {
+      "etymology": "Le plus souvent rattaché à l’argot rimé — grasshopper pour « copper », le policier — bien que la filiation soit contestée, et le mot pourrait tout simplement venir de l’image du serpent caché dans l’herbe."
+    }
+  },
+  "banter": {
+    "definitions": [
+      {
+        "text": "Des taquineries mutuelles et enjouées ; l’échange bon enfant d’insultes qui soude les amitiés britanniques."
+      },
+      {
+        "text": "Invoqué pour se défendre et excuser quelque chose qui est mal tombé : it was only banter.",
+        "note": "Ce second emploi a rendu le mot controversé — c’est aujourd’hui la couverture standard pour une remarque dont le locuteur ne veut pas assumer la responsabilité."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Il y a une bonne ambiance de vanne dans ce bureau."
+      },
+      "1": {
+        "translation": "Détends-toi, c’était juste pour rigoler.",
+        "context": "Souvent un signal d’alarme plutôt qu’un réconfort."
+      }
+    }
+  },
+  "taking-the-mickey": {
+    "definitions": [
+      {
+        "text": "Se moquer de quelqu’un ; le charrier."
+      },
+      {
+        "text": "Être déraisonnable ou abuser de la situation. Forty pounds for that? They’re taking the mickey."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Tu te moques de mon accent ?"
+      },
+      "1": {
+        "translation": "Six livres pour un café — c’est de l’arnaque pure et simple."
+      }
+    },
+    "origin": {
+      "etymology": "Une version édulcorée d’une expression plus crue ; mickey est une substitution euphémique. La forme polie est aujourd’hui bien plus courante que l’originale."
+    }
+  },
+  "wind-up": {
+    "definitions": [
+      {
+        "text": "Une tentative délibérée de provoquer ou de duper quelqu’un ; une farce. Is this a wind-up ?"
+      },
+      {
+        "text": "Comme verbe, wind someone up : l’agacer exprès, ou le faire marcher."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Dis-moi que tu plaisantes — c’est une blague ?"
+      },
+      "1": {
+        "translation": "Il sait exactement comment faire enrager sa sœur."
+      }
+    },
+    "origin": {
+      "etymology": "De l’image d’un mécanisme à ressort que l’on remonte de plus en plus, jusqu’à ce que quelque chose lâche."
+    }
+  },
+  "git": {
+    "definitions": [
+      {
+        "text": "Une personne désagréable ou méprisable. Léger comme insulte, et souvent affectueux précédé d’un qualificatif : you lucky git, you daft git."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Le vieux grincheux n’a même pas voulu nous laisser nous garer."
+      },
+      "1": {
+        "translation": "Espèce de veinard, comment t’as fait ton coup ?"
+      }
+    }
+  },
+  "pillock": {
+    "definitions": [
+      {
+        "text": "Un idiot. Léger, un peu désuet, plus exaspéré qu’agressif."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Je me suis senti complètement idiot, planté là."
+      },
+      "1": {
+        "translation": "Un abruti s’est garé en travers de l’allée."
+      }
+    }
+  },
+  "plonker": {
+    "definitions": [
+      {
+        "text": "Un imbécile. Affectueux et désuet, popularisé dans l’usage courant par la télévision des années 1980."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Tu l’as mis à l’envers, espèce d’andouille."
+      },
+      "1": {
+        "translation": "Quel abruti, il s’est encore enfermé dehors."
+      }
+    }
+  },
+  "muppet": {
+    "definitions": [
+      {
+        "text": "Un incapable. N’implique pas la méchanceté, mais une absence totale de réflexion."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Un abruti a laissé la porte du congélateur ouverte."
+      },
+      "1": {
+        "translation": "Je suis vraiment nul, j’ai réservé la mauvaise date."
+      }
+    },
+    "origin": {
+      "etymology": "Des marionnettes de la série télévisée — l’image est celle de quelqu’un dont les fils sont tirés par quelqu’un d’autre. Le mot est devenu une insulte britannique courante dans les années 1990."
+    }
+  },
+  "numpty": {
+    "definitions": [
+      {
+        "text": "Une personne sotte ou malchanceuse. D’origine écossaise, aujourd’hui largement employé dans toute la Grande-Bretagne, et remarquablement bon enfant pour une insulte."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Ne sois pas bête, lis les instructions."
+      },
+      "1": {
+        "translation": "Un idiot a bloqué la sortie de secours."
+      }
+    }
+  },
+  "gobsmacked": {
+    "definitions": [
+      {
+        "text": "Stupéfait ; rendu muet de surprise."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "J’étais abasourdi quand ils ont annoncé le gagnant."
+      },
+      "1": {
+        "translation": "Elle avait l’air complètement sidérée."
+      }
+    },
+    "origin": {
+      "etymology": "De gob, dialecte pour « bouche », plus smacked — l’image est celle d’un coup reçu en pleine bouche, ou d’une main plaquée dessus sous le choc. D’origine anglaise du nord et écossaise, national depuis les années 1980."
+    }
+  },
+  "blimey": {
+    "definitions": [
+      {
+        "text": "Une exclamation de surprise. Désuète mais encore réellement en usage, en particulier chez les locuteurs plus âgés."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Mince alors, ça a été rapide."
+      },
+      "1": {
+        "translation": "Ça alors, t’as vu le prix de ce truc ?"
+      }
+    },
+    "origin": {
+      "etymology": "Contraction de « God blind me » — un juron euphémisé usé jusqu’à ce que rien de l’original ne soit plus reconnaissable. Cor blimey en est la forme plus complète."
+    }
+  },
+  "bloody": {
+    "definitions": [
+      {
+        "text": "Un intensificateur passe-partout exprimant l’agacement, l’emphase ou l’admiration : bloody hell, bloody brilliant, bloody typical."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Il fait un froid de canard dehors."
+      },
+      "1": {
+        "translation": "Bon sang, regarde cette file d’attente."
+      },
+      "2": {
+        "translation": "C’était un repas vraiment excellent.",
+        "context": "Positif. Le mot tire sa charge de ce qui l’entoure."
+      }
+    },
+    "origin": {
+      "etymology": "Considéré comme réellement choquant à l’écrit jusqu’au milieu du XXe siècle — Pygmalion de Shaw a créé un scandale avec un seul emploi du mot en 1914. Il se situe aujourd’hui près du bas de l’échelle de l’offense et fonctionne surtout comme une emphase."
+    }
+  },
+  "bollocks": {
+    "definitions": [
+      {
+        "text": "N’importe quoi, des sottises. That’s complete bollocks."
+      },
+      {
+        "text": "Comme exclamation de frustration ou de désaccord catégorique."
+      },
+      {
+        "text": "The dog’s bollocks : excellent, ce qu’il y a de mieux. Le même mot avec la valence opposée.",
+        "note": "Un bon exemple de la mesure dans laquelle le contexte l’emporte sur le sens littéral dans les grossièretés britanniques."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Il raconte n’importe quoi."
+      },
+      "1": {
+        "translation": "Oh zut, j’ai laissé mes clés à l’intérieur."
+      },
+      "2": {
+        "translation": "Leur nouvel album est ce qu’il y a de mieux."
+      }
+    }
+  },
+  "sorted": {
+    "definitions": [
+      {
+        "text": "Réglé ; organisé. That’s the tickets sorted."
+      },
+      {
+        "text": "Comme confirmation en un mot qu’une affaire est close."
+      },
+      {
+        "text": "D’une personne : stable, organisée, ayant sa vie bien en main."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Ne t’inquiète pas pour la réservation, c’est réglé."
+      },
+      "1": {
+        "translation": "« Je passe te prendre à sept heures. » « Parfait. »"
+      }
+    }
+  },
+  "cheers": {
+    "definitions": [
+      {
+        "text": "Merci. De loin son emploi le plus courant en Grande-Bretagne — bien plus souvent qu’un toast."
+      },
+      {
+        "text": "Au revoir. Souvent les deux à la fois, pour conclure un échange : cheers, bye."
+      },
+      {
+        "text": "Un toast à trinquer, son sens d’origine."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Merci d’avoir réglé ça."
+      },
+      "1": {
+        "translation": "Allez, à bientôt, à lundi."
+      }
+    }
+  },
+  "ta": {
+    "definitions": [
+      {
+        "text": "Merci. Très familier et très court — pour de petits services, pas pour de grands."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Merci, pose-le juste sur le côté."
+      },
+      "1": {
+        "translation": "Merci beaucoup."
+      }
+    },
+    "origin": {
+      "etymology": "Souvent décrit comme une réduction enfantine de « thank you », attesté en anglais depuis le XVIIIe siècle."
+    }
+  },
+  "fit": {
+    "definitions": [
+      {
+        "text": "Physiquement séduisant. Rien à voir avec la forme physique, ce qui déroute régulièrement les visiteurs américains et australiens."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Son frère est plutôt beau gosse, en fait."
+      },
+      "1": {
+        "translation": "Elle trouve le nouveau barista séduisant."
+      }
+    }
+  },
+  "fancy": {
+    "definitions": [
+      {
+        "text": "Être attiré par quelqu’un. I think she fancies you."
+      },
+      {
+        "text": "Avoir envie de quelque chose. Fancy a pint ? — c’est de loin le sens le plus fréquent."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Ça te dit une balade avant qu’il fasse nuit ?"
+      },
+      "1": {
+        "translation": "Il craque pour elle depuis l’université."
+      }
+    }
+  },
+  "snog": {
+    "definitions": [
+      {
+        "text": "Embrasser passionnément ; un baiser prolongé. Une saveur légèrement adolescente."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Ils s’embrassaient dans le bus de nuit."
+      },
+      "1": {
+        "translation": "Il ne s’est jamais remis de ce baiser à la fête de Noël."
+      }
+    }
+  },
+  "pull": {
+    "definitions": [
+      {
+        "text": "Réussir à séduire un partenaire romantique ou sexuel en sortant le soir."
+      },
+      {
+        "text": "On the pull : sorti spécifiquement dans cette intention."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Il porte sa belle chemise, il espère conclure."
+      },
+      "1": {
+        "translation": "Ils étaient sortis en chasse tout le week-end."
+      }
+    }
+  },
+  "leg-it": {
+    "definitions": [
+      {
+        "text": "Courir, en particulier s’enfuir précipitamment."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "On a dû sprinter pour attraper le dernier train."
+      },
+      "1": {
+        "translation": "Il a filé dès qu’il a vu le contractuel."
+      }
+    }
+  },
+  "bottle": {
+    "definitions": [
+      {
+        "text": "Du cran, du courage. He didn’t have the bottle to ask."
+      },
+      {
+        "text": "To bottle it : perdre son sang-froid au moment décisif."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Il a fallu un sacré courage pour se lever et dire ça."
+      },
+      "1": {
+        "translation": "Il a flanché au moment du penalty."
+      }
+    },
+    "origin": {
+      "etymology": "Généralement rattaché à l’argot rimé. Le renversement est habile : avoir du bottle, c’est être courageux, mais to bottle it, c’est être lâche."
+    }
+  },
+  "mardy": {
+    "definitions": [
+      {
+        "text": "Boudeur, maussade, de mauvaise humeur. Fortement associé aux East Midlands et au Yorkshire."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Il boude depuis ce matin."
+      },
+      "1": {
+        "translation": "Ne te mets pas à bouder contre moi."
+      }
+    },
+    "origin": {
+      "etymology": "Du dialecte marred, « gâté » — un enfant mardy était un enfant gâté. Le mot a touché un public plus large grâce à la pop du nord de l’Angleterre dans les années 2000."
+    }
+  },
+  "wee": {
+    "definitions": [
+      {
+        "text": "Petit. En Écosse et en Irlande du Nord, ce n’est pas tant de l’argot que le mot ordinaire, et il est souvent affectueux plutôt que littéralement lié à la taille."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Accorde-moi un petit instant.",
+        "context": "Rien ici n’est réellement petit. wee adoucit la demande."
+      },
+      "1": {
+        "translation": "On s’est arrêtés dans un petit café au bord du loch."
+      }
+    }
+  },
+  "canny": {
+    "definitions": [
+      {
+        "text": "Dans le nord-est de l’Angleterre : bon, agréable, considérable. A canny lad est un type sympa ; canny good veut dire très bien."
+      },
+      {
+        "text": "En anglais standard et en Écosse : perspicace, prudent. Un mot en pratique tout à fait différent.",
+        "note": "Les deux sens sont réellement distincts, et le sens régional surprend souvent les gens de l’extérieur."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "C’est un type sympa, vous allez bien vous entendre.",
+        "context": "Usage de Tyneside — « sympa », pas « perspicace »."
+      },
+      "1": {
+        "translation": "Il y avait pas mal de monde là-bas."
+      }
+    }
+  }
+}

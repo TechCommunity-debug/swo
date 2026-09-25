@@ -1,0 +1,462 @@
+{
+  "eh": {
+    "definitions": [
+      { "text": "Eine an eine Aussage angehängte Anhängselfrage, die um Zustimmung bittet, vergleichbar mit 'nicht wahr?' oder 'oder?'" },
+      { "text": "Ein erzählerisches Anhängsel, das den Zuhörer mitten in der Geschichte bei der Stange hält: 'Ich steh also da, ne, und der Typ kommt rüber…'", "note": "Dieser zweite Gebrauch ist der typisch kanadische und gilt Linguisten als das eigentlich Charakteristische." },
+      { "text": "Eine Bitte um Wiederholung: 'Eh? Sag das nochmal.'" }
+    ],
+    "examples": {
+      "0": { "translation": "Kalt heute, was?" },
+      "1": { "translation": "Wir kommen also bei der Hütte an, ne, und der Strom ist weg.", "context": "Erzählerisches eh. Es bittet um Aufmerksamkeit, nicht um Zustimmung." }
+    },
+    "origin": {
+      "etymology": "Nicht ausschließlich kanadisch – es existiert auch im britischen, australischen und neuseeländischen Englisch –, aber der erzählerische Gebrauch ist in Kanada häufiger und systematischer als anderswo, weshalb er zum nationalen Klischee wurde. Kanadier sind sich dessen bewusst genug, dass manche es bewusst vermeiden."
+    }
+  },
+  "toque": {
+    "definitions": [
+      { "text": "Eine gestrickte Wintermütze. In den USA und Australien beanie genannt, in Großbritannien woolly hat, aber in Kanada ist es schlicht das Wort für das Ding." }
+    ],
+    "examples": {
+      "0": { "translation": "Nimm eine Mütze mit, draußen sind es minus zwanzig." },
+      "1": { "translation": "Er trägt diese Mütze das ganze Jahr über." }
+    },
+    "origin": {
+      "etymology": "Vom kanadischen Französisch tuque, selbst von einem älteren französischen Wort für eine randlose Mütze. Einer der klarsten Fälle einer französischen Entlehnung, die englischsprachige Kanadier benutzen, ohne sie als fremd zu empfinden."
+    }
+  },
+  "double-double": {
+    "definitions": [
+      { "text": "Ein Kaffee mit zwei Sahne und zwei Zucker. Ursprünglich von Tim Hortons, heute an jedem kanadischen Kaffeetresen verstanden." }
+    ],
+    "examples": {
+      "0": { "translation": "Einen mittleren Kaffee mit zwei Sahne und zwei Zucker, bitte." },
+      "1": { "translation": "Er trinkt seinen Kaffee schon immer mit zwei Sahne und zwei Zucker." }
+    },
+    "origin": {
+      "etymology": "Eine markenspezifische Bestellung, die zum allgemeinen Wortschatz wurde – sie steht im Canadian Oxford Dictionary. Triple-triple gibt es auch, und wird mit mildem Erschrecken betrachtet."
+    }
+  },
+  "timmies": {
+    "definitions": [
+      { "text": "Tim Hortons, die Kaffee-und-Donut-Kette. Liebevoll gemeint, und viel gebräuchlicher als der volle Name." }
+    ],
+    "examples": {
+      "0": { "translation": "Treffen wir uns um acht bei Tim Hortons." },
+      "1": { "translation": "Es gibt buchstäblich in jeder Stadt ein Tim Hortons." }
+    }
+  },
+  "timbits": {
+    "definitions": [
+      { "text": "Kleine runde Donut-Löcher. Eine Marke, die zum generischen Wort wurde, und das Standardmitbringsel für ein Meeting oder ein Kinder-Eishockeyspiel." }
+    ],
+    "examples": {
+      "0": { "translation": "Jemand hat eine Schachtel Donut-Bällchen zum Meeting mitgebracht." },
+      "1": { "translation": "Zwanzig gemischte Donut-Bällchen, bitte." }
+    }
+  },
+  "loonie": {
+    "definitions": [
+      { "text": "Die kanadische Ein-Dollar-Münze, und im weiteren Sinne der kanadische Dollar selbst — auch in der Wirtschaftspresse." }
+    ],
+    "examples": {
+      "0": { "translation": "Du brauchst eine Ein-Dollar-Münze für den Einkaufswagen." },
+      "1": { "translation": "Der kanadische Dollar ist wieder gegenüber dem US-Dollar gefallen.", "context": "Standard in der Wirtschaftsberichterstattung — das ist kein scherzhafter Gebrauch." }
+    },
+    "origin": {
+      "etymology": "Die 1987 eingeführte Münze zeigt auf der Rückseite einen Eistaucher. Der Spitzname setzte sich sofort durch, und die Royal Canadian Mint ließ ihn später als Marke schützen.",
+      "firstAttested": "1987"
+    }
+  },
+  "toonie": {
+    "definitions": [
+      { "text": "Die kanadische Zwei-Dollar-Münze." }
+    ],
+    "examples": {
+      "0": { "translation": "Hast du eine Zwei-Dollar-Münze für die Parkuhr?" },
+      "1": { "translation": "Kaffee und ein Muffin für unter zwei Dollar, das gab's mal." }
+    },
+    "origin": {
+      "etymology": "In Analogie zu loonie gebildet, als 1996 die Zwei-Dollar-Münze eingeführt wurde – 'two' plus das bestehende -oonie-Muster. Ein sauberes Beispiel für ein Slangwort, das nach Schema entstanden ist statt entlehnt zu werden.",
+      "firstAttested": "1996"
+    }
+  },
+  "poutine": {
+    "definitions": [
+      { "text": "Pommes mit Käsebruch und Bratensoße. Ursprünglich aus dem ländlichen Québec, heute landesweit, und das definierende Spätnacht-Essen." }
+    ],
+    "examples": {
+      "0": { "translation": "Nichts geht über Poutine um zwei Uhr morgens." },
+      "1": { "translation": "Der Käsebruch muss quietschen, sonst ist es keine echte Poutine.", "context": "Das Quietschen des frischen Käsebruchs ist die Standardprobe, und Quebecer werden es einem erzählen." }
+    },
+    "origin": {
+      "etymology": "Aus Québec, Ende der 1950er-Jahre; mehrere ländliche Orte beanspruchen die Erfindung für sich, der Streit ist ungeklärt. Das Wort könnte von einem Québecer Ausdruck für ein Durcheinander oder eine Mischung stammen.",
+      "firstAttested": "1950er-Jahre"
+    }
+  },
+  "depanneur": {
+    "definitions": [
+      { "text": "Ein Eckladen oder Kiosk. Von englischsprachigen Quebecern durchweg zu dep verkürzt." }
+    ],
+    "examples": {
+      "0": { "translation": "Ich hol noch Milch beim Kiosk." },
+      "1": { "translation": "In Montreal gibt es an jeder zweiten Ecke einen Dépanneur." }
+    },
+    "origin": {
+      "etymology": "Vom französischen dépanner, 'aus der Klemme helfen' – der Laden, der einen aus der Bredouille holt. Von Montrealern auf Englisch verwendet, ohne das Gefühl, die Sprache zu wechseln, was für das Englisch in Québec allgemein typisch ist."
+    }
+  },
+  "two-four": {
+    "definitions": [
+      { "text": "Ein Kasten mit vierundzwanzig Bieren." }
+    ],
+    "examples": {
+      "0": { "translation": "Hol auf dem Weg zur Hütte einen Kasten mit vierundzwanzig Bieren." },
+      "1": { "translation": "Wir sind versorgt — im Kofferraum steht ein Kasten Bier." }
+    },
+    "origin": {
+      "etymology": "Das lange Wochenende im Mai, offiziell Victoria Day, wird allgemein als the May two-four bezeichnet — ein Wortspiel sowohl auf das Datum nahe dem 24. Mai als auch auf den Bierkasten, der traditionell dabei geleert wird."
+    }
+  },
+  "mickey": {
+    "definitions": [
+      { "text": "Eine 375-ml-Spirituosenflasche — die flache, gebogene, die in eine Tasche passt. Ein twenty-sixer ist die größere 750-ml-Flasche." }
+    ],
+    "examples": {
+      "0": { "translation": "Jemand hat eine Flachmannflasche Spirituosen in die Halle geschmuggelt." },
+      "1": { "translation": "Nur eine kleine Flasche, wir bleiben nicht lange." }
+    }
+  },
+  "keener": {
+    "definitions": [
+      { "text": "Jemand auffällig Eifriger — der Student, der jede Frage beantwortet, der Kollege, der sich als Erster meldet. Leicht spöttisch, aber selten feindselig." }
+    ],
+    "examples": {
+      "0": { "translation": "Sie ist ein totaler Streber, sie hätte den ganzen Lehrplan schon vor der ersten Woche gelesen." },
+      "1": { "translation": "Sei nicht so ein Übereifriger." }
+    }
+  },
+  "hoser": {
+    "definitions": [
+      { "text": "Ein unkultivierter, biertrinkender, kariertes-Hemd-tragender Mann. Weitgehend ein komisches Klischee statt lebendiger Alltagssprache — Kanadier benutzen es über das Klischee, nicht übereinander." }
+    ],
+    "examples": {
+      "0": { "translation": "Sie haben das Klischee des unkultivierten Kanadiers voll ausgespielt." },
+      "1": { "translation": "Hau ab, du Trottel.", "context": "Ein direktes Zitat aus dem Comedy-Sketch, der das Wort berühmt gemacht hat. Es ernst zu sagen ist selbst schon ein Witz." }
+    },
+    "origin": {
+      "etymology": "Wurde ausschließlich durch die 'Great White North'-Sketche der frühen 1980er-Jahre populär. Konkurrierende Erklärungen — verlierende Eishockeyteams, die die Eisbahn abschlauchen, oder Benzin mit einem Schlauch absaugen — sind nachträglich angehängte Volksetymologie.",
+      "firstAttested": "1980er-Jahre"
+    }
+  },
+  "chirp": {
+    "definitions": [
+      { "text": "Jemanden verbal aufziehen oder sticheln, besonders im Sport. A chirp ist eine einzelne solche Bemerkung." }
+    ],
+    "examples": {
+      "0": { "translation": "Er hat den Torwart das ganze Spiel über aufgezogen." },
+      "1": { "translation": "Die Sticheleien von der Bank waren unerbittlich." }
+    },
+    "origin": {
+      "etymology": "Direkt aus dem Eishockey, das einen Großteil des kanadischen Umgangswortschatzes liefert. Das Bild ist das von anhaltendem, nervigem Vogelgezwitscher."
+    }
+  },
+  "beauty": {
+    "definitions": [
+      { "text": "Ein durch und durch guter Mensch; eine tolle Nummer. 'He's a beauty.'" },
+      { "text": "Als Ausruf: ausgezeichnet, perfekt." }
+    ],
+    "examples": {
+      "0": { "translation": "Dave ist ein Prachtkerl, der fährt dich." },
+      "1": { "translation": "—Ich hab uns Tickets besorgt. —Klasse." }
+    },
+    "origin": {
+      "etymology": "Ein weiteres Wort aus der Eishockeykabine, durch die Dominanz des Sports im kanadischen Alltag in den allgemeinen Gebrauch getragen."
+    }
+  },
+  "give-er": {
+    "definitions": [
+      { "text": "Sich voll reinhängen; sich einer Sache voll widmen. Auch als Imperativ: give'r!" }
+    ],
+    "examples": {
+      "0": { "translation": "Nur noch zwanzig Minuten — gib alles." },
+      "1": { "translation": "Sie haben das ganze Wochenende voll durchgezogen." }
+    }
+  },
+  "klick": {
+    "definitions": [
+      { "text": "Ein Kilometer. Auch für Kilometer pro Stunde: doing a hundred klicks." }
+    ],
+    "examples": {
+      "0": { "translation": "Es sind ungefähr vierzig Kilometer die Autobahn hoch." },
+      "1": { "translation": "Er fuhr hundertzwanzig in einer Hundert-Zone." }
+    },
+    "origin": {
+      "etymology": "Militärischen Ursprungs und bei mehreren Streitkräften verbreitet, aber in Kanada allgemeiner zivilgesellschaftlicher Wortschatz in einer Weise, wie es anderswo nicht der Fall ist."
+    }
+  },
+  "parkade": {
+    "definitions": [
+      { "text": "Ein mehrstöckiges Parkhaus. Standard in Westkanada; Ontario sagt eher parking garage." }
+    ],
+    "examples": {
+      "0": { "translation": "Lass das Auto im Parkhaus in der 8th stehen." },
+      "1": { "translation": "Das Parkhaus ist schon vor neun voll." }
+    }
+  },
+  "gitch": {
+    "definitions": [
+      { "text": "Unterwäsche, meist die von Männern. Wortschatz der Prärieprovinzen; gonch ist die Variante aus Alberta und British Columbia." }
+    ],
+    "examples": {
+      "0": { "translation": "Er läuft in Unterhosen im Haus rum." },
+      "1": { "translation": "Pack etwas saubere Unterwäsche ein." }
+    },
+    "origin": {
+      "etymology": "Wahrscheinlich aus dem Ukrainischen oder Polnischen, ein Spiegelbild der mittel- und osteuropäischen Besiedlung der Prärieprovinzen — eine der klarsten Spuren dieser Einwanderung im kanadischen Englisch."
+    }
+  },
+  "runners": {
+    "definitions": [
+      { "text": "Turnschuhe. Das kanadische Standardwort, das sich sowohl vom amerikanischen 'sneakers' als auch vom britischen 'trainers' unterscheidet." }
+    ],
+    "examples": {
+      "0": { "translation": "Zieh deine Turnschuhe an der Tür aus.", "context": "Schuhe drinnen auszuziehen ist in Kanada nahezu universell, wegen des Schnees." },
+      "1": { "translation": "Ich brauche neue Turnschuhe vor Saisonbeginn." }
+    }
+  },
+  "washroom": {
+    "definitions": [
+      { "text": "Eine öffentliche Toilette. Der kanadische Standardausdruck, wo Amerikaner restroom sagen und Briten the loo oder the toilets." }
+    ],
+    "examples": {
+      "0": { "translation": "Wo ist die Toilette?" },
+      "1": { "translation": "Die Toiletten sind den Flur runter links." }
+    }
+  },
+  "pop": {
+    "definitions": [
+      { "text": "Ein Erfrischungsgetränk mit Kohlensäure. Der Standardbegriff im größten Teil Kanadas; 'soda' stempelt einen als Amerikaner oder Montrealer ab." }
+    ],
+    "examples": {
+      "0": { "translation": "Möchtest du dazu ein Erfrischungsgetränk?" },
+      "1": { "translation": "Hol den Kindern etwas Limonade." }
+    }
+  },
+  "the-six": {
+    "definitions": [
+      { "text": "Toronto. Von Drake Mitte der 2010er-Jahre populär gemacht und von Torontonern selbst mit unterschiedlicher Ironie verwendet." }
+    ],
+    "examples": {
+      "0": { "translation": "Er hat sein ganzes Leben in Toronto verbracht." },
+      "1": { "translation": "Nächste Woche wieder zurück in Toronto." }
+    },
+    "origin": {
+      "etymology": "Meist erklärt durch die sechs Gemeinden, die 1998 zu Toronto zusammengelegt wurden, oder durch die Vorwahlen 416 und 647. Drake hat zu verschiedenen Zeiten beide Versionen erzählt.",
+      "firstAttested": "2015"
+    }
+  },
+  "mans": {
+    "definitions": [
+      { "text": "Wird als Ich-Pronomen verwendet, 'ich' oder 'mich' bedeutend — 'mans is tired'. Auch als allgemeiner Begriff für einen Typen." }
+    ],
+    "examples": {
+      "0": { "translation": "Bei dem Wetter geh ich nicht raus." },
+      "1": { "translation": "Irgendein Typ hat versucht, sich vorzudrängeln." }
+    },
+    "origin": {
+      "etymology": "Toronto-Slang, geprägt durch karibische und somalische Sprachmuster im Norden und Westen der Stadt. Der selbstreferenzielle Gebrauch entspricht dem 'man' im jamaikanischen Patois und im Multicultural London English."
+    }
+  },
+  "ting": {
+    "definitions": [
+      { "text": "Ein Ding; eine Situation oder eine Angelegenheit. 'What's the ting?'" },
+      { "text": "Ein romantisches Interesse — jemand, mit dem man sich locker trifft. 'That's my ting.'" }
+    ],
+    "examples": {
+      "0": { "translation": "Was ist der Plan für Freitag?" },
+      "1": { "translation": "Sie ist wohl seine Flamme." }
+    },
+    "origin": {
+      "etymology": "Von der jamaikanischen Patois-Aussprache von 'thing'. Der Weg ins Toronto-Englisch verlief direkt statt vermittelt, was die Größe und das Alter der karibischen Gemeinschaft der Stadt widerspiegelt."
+    }
+  },
+  "wasteman": {
+    "definitions": [
+      { "text": "Eine nutzlose Person; jemand ohne Perspektive und ohne etwas zu bieten. Ein echtes Schimpfwort, kein Scherz." }
+    ],
+    "examples": {
+      "0": { "translation": "Verschwende deine Zeit nicht, der ist ein Versager." },
+      "1": { "translation": "Er blamiert sich vor allen." }
+    },
+    "origin": {
+      "etymology": "Wird mit dem Multicultural London English geteilt, was den parallelen karibischen Einfluss auf die Jugendsprache beider Städte widerspiegelt — die beiden Varianten haben sich einander stärker angenähert als jede von ihnen ihrem jeweiligen nationalen Standard."
+    }
+  },
+  "kerfuffle": {
+    "definitions": [
+      { "text": "Ein Aufruhr oder Getue, meist um eine Kleinigkeit. In Kanada und Großbritannien gleichermaßen gebräuchlich, und auffallend gemäßigt — es verkleinert, was es beschreibt." }
+    ],
+    "examples": {
+      "0": { "translation": "Es gab ein bisschen Getue um die Sitzordnung." },
+      "1": { "translation": "Machen wir keinen Aufstand deswegen." }
+    },
+    "origin": {
+      "etymology": "Vom schottischen curfuffle, selbst vom gälischen car ('Drehung') plus einer schottischen Verstärkungssilbe."
+    }
+  },
+  "canuck": {
+    "definitions": [
+      { "text": "Ein Kanadier. Von Kanadiern stolz über sich selbst verwendet — es ist ein Eishockey-Teamname und ein Kriegszeit-Comicheld —, wurde aber auch von Außenstehenden als abwertend gebraucht." }
+    ],
+    "examples": {
+      "0": { "translation": "Dem Klang nach sind ein paar Kanadier in der Menge." },
+      "1": { "translation": "Stolzer Kanadier, geboren und aufgewachsen." }
+    },
+    "origin": {
+      "etymology": "Seit den 1830er-Jahren in Gebrauch; Herkunft unsicher, mit Vorschlägen von hawaiianischen bis irokesischen Quellen. Die Rückeroberung des Wortes ist gründlich — Johnny Canuck war Kanadas nationale Personifikation lange bevor das Vancouver-Eishockeyteam den Namen übernahm.",
+      "firstAttested": "1830er-Jahre"
+    }
+  },
+  "the-states": {
+    "definitions": [
+      { "text": "Die Vereinigten Staaten. Kanadier sagen viel häufiger 'the States' als 'America' oder 'the US', und down south zu fahren heißt die Grenze zu überqueren, nicht Richtung Tropen aufzubrechen." }
+    ],
+    "examples": {
+      "0": { "translation": "Wir fahren übers Wochenende runter in die Staaten." },
+      "1": { "translation": "In den Staaten ist es billiger." }
+    }
+  },
+  "cottage": {
+    "definitions": [
+      { "text": "Ein Ferienhaus an einem See. Going to the cottage ist in Ontario eine sommerliche Institution; Québec sagt chalet und Westkanada cabin, für dasselbe." }
+    ],
+    "examples": {
+      "0": { "translation": "Wir sind im Juli die meisten Wochenenden im Seehaus." },
+      "1": { "translation": "Der Verkehr zu den Seehäusern auf der 400 ist freitags brutal." }
+    }
+  },
+  "hydro": {
+    "definitions": [
+      { "text": "Strom, und insbesondere die Stromrechnung. The hydro's out heißt, der Strom ist ausgefallen." }
+    ],
+    "examples": {
+      "0": { "translation": "Die Stromrechnung hat sich diesen Winter verdoppelt." },
+      "1": { "translation": "Seit dem Sturm ist der Strom weg." }
+    },
+    "origin": {
+      "etymology": "Von hydroelectricity, die den Großteil der Stromversorgung in Ontario, Québec, Manitoba und British Columbia liefert. Die Provinzversorger heißen entsprechend — Hydro One, Hydro-Québec —, und aus dem Wort für die Quelle wurde das Wort für die Dienstleistung."
+    }
+  },
+  "freezies": {
+    "definitions": [
+      { "text": "Aromatisiertes Eis in einer langen Plastikröhre, zu Hause eingefroren. Andernorts ice pops oder freeze pops genannt." }
+    ],
+    "examples": {
+      "0": { "translation": "Im Tiefkühlfach sind Eis-Lollis." },
+      "1": { "translation": "Jedes Kind auf der Straße hatte einen Eis-Lolli." }
+    }
+  },
+  "garburator": {
+    "definitions": [
+      { "text": "Ein Küchenabfallzerkleinerer unter der Spüle. In den USA garbage disposal genannt, in Großbritannien fast unbekannt." }
+    ],
+    "examples": {
+      "0": { "translation": "Wirf keine Knochen in den Abfallzerkleinerer." },
+      "1": { "translation": "Der Abfallzerkleinerer ist schon wieder verstopft." }
+    },
+    "origin": {
+      "etymology": "Eine Mischung aus garbage und incinerator, ursprünglich ein Markenname und heute das allgemeine kanadische Wort."
+    }
+  },
+  "serviette": {
+    "definitions": [
+      { "text": "Eine Papierserviette. Die französische Entlehnung ist gewöhnliches kanadisches Englisch, während das amerikanische Englisch durchweg napkin sagt." }
+    ],
+    "examples": {
+      "0": { "translation": "Könnten wir ein paar Servietten haben?" },
+      "1": { "translation": "Im Handschuhfach liegen Servietten." }
+    }
+  },
+  "chesterfield": {
+    "definitions": [
+      { "text": "Ein Sofa. Einst das kanadische Standardwort und heute wirklich im Rückgang — meist von Sprechern über sechzig benutzt, während couch übernommen hat." }
+    ],
+    "examples": {
+      "0": { "translation": "Oma nennt es noch immer das Sofa im alten Stil." },
+      "1": { "translation": "Er ist auf dem Sofa eingeschlafen." }
+    },
+    "origin": {
+      "etymology": "Von einem bestimmten Stil des geknöpften Ledersofas, benannt nach einem Earl of Chesterfield. Kanada verallgemeinerte den markennahen Begriff auf alle Sofas; der Rückschwung zu 'couch' in den letzten vierzig Jahren ist eine der besser dokumentierten Veränderungen im kanadischen Englisch."
+    }
+  },
+  "bunnyhug": {
+    "definitions": [
+      { "text": "Ein Kapuzenpullover. Fast ausschließlich auf Saskatchewan beschränkt, wo es das gewöhnliche Wort ist und 'hoodie' importiert klingt." }
+    ],
+    "examples": {
+      "0": { "translation": "Nimm einen Kapuzenpulli mit, es wird heute Abend kühler." },
+      "1": { "translation": "Nur in Saskatchewan nennt man einen Hoodie bunnyhug." }
+    },
+    "origin": {
+      "etymology": "Herkunft unbekannt, und lokal ein gewisser Stolzpunkt — es ist eines der geografisch am stärksten begrenzten Wörter im kanadischen Englisch, und die Menschen in Saskatchewan wissen das genau."
+    }
+  },
+  "jam-buster": {
+    "definitions": [
+      { "text": "Ein mit Marmelade gefüllter Donut. Manitobas Wort dafür." }
+    ],
+    "examples": {
+      "0": { "translation": "Zwei Marmeladen-Donuts und einen Kaffee." },
+      "1": { "translation": "Außerhalb Manitobas weiß niemand, was ein jambuster ist." }
+    }
+  },
+  "screech": {
+    "definitions": [
+      { "text": "Ein starker Rum aus Neufundland. Being 'screeched in' ist eine touristische Zeremonie mit einem Schuss davon und dem Küssen eines Kabeljaus." }
+    ],
+    "examples": {
+      "0": { "translation": "Sie haben ihn im Pub in St. John's durch die Neufundland-Initiationszeremonie geschickt." },
+      "1": { "translation": "Ein Schuss davon war mehr als genug." }
+    },
+    "origin": {
+      "etymology": "Der Überlieferung nach benannt nach dem Geräusch, das ein amerikanischer Soldat machte, als er ihn im Zweiten Weltkrieg unvorbereitet trank. Die Geschichte wird vor Ort mit sichtlicher Freude wiedererzählt und ist nicht überprüfbar."
+    }
+  },
+  "by": {
+    "definitions": [
+      { "text": "'Boy', in Neufundland als allgemeine Anrede verwendet, unabhängig vom Alter oder häufig auch vom Geschlecht der angesprochenen Person. 'Yes b'y' ist die bekannteste Redewendung der Provinz und bedeutet alles von echter Zustimmung bis zu glattem Unglauben." }
+    ],
+    "examples": {
+      "0": { "translation": "Oh ja, das ist wirklich gut." },
+      "1": { "translation": "—Ich bin die ganze Strecke gelaufen. —Na klar doch.", "context": "Trockener Unglaube. Dieselben zwei Worte wie bei echter Zustimmung." }
+    }
+  },
+  "snowbird": {
+    "definitions": [
+      { "text": "Ein pensionierter Kanadier, der den Winter in Florida, Arizona oder Mexiko verbringt und im Frühling nach Norden zurückkehrt." }
+    ],
+    "examples": {
+      "0": { "translation": "Meine Eltern überwintern jetzt sechs Monate im Jahr in Florida." },
+      "1": { "translation": "Die Winterflüchtigen ziehen im November nach Süden." }
+    }
+  },
+  "out-for-a-rip": {
+    "definitions": [
+      { "text": "Zum reinen Vergnügen unterwegs, eine Fahrt oder einen Ausflug machen — mit dem Schneemobil, dem Quad, dem Motorrad oder im Auto." }
+    ],
+    "examples": {
+      "0": { "translation": "Wir machen eine Spritztour, sind in einer Stunde zurück." },
+      "1": { "translation": "Schöner Abend für eine Spritztour." }
+    }
+  },
+  "dart": {
+    "definitions": [
+      { "text": "Eine Zigarette." }
+    ],
+    "examples": {
+      "0": { "translation": "Ich geh kurz raus für eine Zigarette, bin in fünf Minuten zurück." },
+      "1": { "translation": "Kann ich mir eine Zigarette von dir schnorren?" }
+    }
+  }
+}

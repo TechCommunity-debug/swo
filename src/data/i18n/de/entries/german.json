@@ -1,0 +1,562 @@
+{
+  "geil": {
+    "definitions": [
+      { "text": "Toll, super, klasse. Das deutsche Allzweckwort der Zustimmung und mit Abstand das meistgebrauchte Slang-Adjektiv der Sprache." },
+      { "text": "Von einer Person gesagt: sexuell erregt. Dieser Sinn ist nie verschwunden, und deshalb landen „du bist geil“ und „das ist geil“ völlig verschieden." }
+    ],
+    "examples": {
+      "2": { "context": "Mit „auf“ plus Person ist die sexuelle Lesart die einzige, die zur Verfügung steht." }
+    },
+    "literalMeaning": "Sexuell erregt – der andere, weiterhin lebendige Sinn des Wortes.",
+    "origin": {
+      "etymology": "Mittelhochdeutsch geil, „übermütig, munter, üppig“ – die sexuelle Verengung kam später, und der gärtnerische Sinn lebt in „geiler Boden“ weiter, dem überfetten Boden. Die Bedeutung der Zustimmung breitete sich in den 1970er- und 80er-Jahren aus der westdeutschen Jugendsprache aus und war in den 90ern vollständig Mainstream. Die verstärkten Formen (saugeil, affengeil, oberaffengeil) datieren den Sprecher ziemlich genau auf jene Zeit.",
+      "firstAttested": "1970er-Jahre in der heutigen Bedeutung"
+    }
+  },
+  "krass": {
+    "definitions": [
+      { "text": "Extrem, heftig, außergewöhnlich – und dabei wertungsneutral. Eine krasse Party und ein krasser Unfall sind gleichermaßen krass; erst Tonfall und Kontext verraten, ob der Sprecher das gut findet." },
+      { "text": "Als eigenständiger Ausruf: Wahnsinn, nicht dein Ernst. Der deutsche Reflex, wenn man etwas Verblüffendes hört." },
+      { "text": "Als Verstärker vor einem Adjektiv: „krass gut“. Diese Verwendung ist jünger und auffälliger als die übrigen." }
+    ],
+    "origin": {
+      "etymology": "Vom lateinischen crassus, „dick, dicht“, das als Bildungswort mit der Bedeutung „auffällig, eklatant“ ins Deutsche kam – ein krasser Widerspruch ist ein schroffer Gegensatz, und dieser Sinn gehört bis heute zur geschriebenen Standardsprache. Die Jugendsprache übernahm die Intensität und ließ die Missbilligung fallen, eine Verschiebung, die schon Ende der 1980er-Jahre erkennbar war.",
+      "firstAttested": "Ende der 1980er-Jahre in der Jugendsprache"
+    }
+  },
+  "hammer": {
+    "definitions": [
+      { "text": "Etwas Herausragendes: „das ist der Hammer“. Auch bloß als Adjektiv – „Der Abend war hammer“ –, was grammatisch schief und im Gesprochenen völlig normal ist." },
+      { "text": "Der Clou, die unerhörte Pointe einer Geschichte: „der Hammer ist, dass er nichts gesagt hat“. Hier ist es überhaupt kein Lob." }
+    ],
+    "literalMeaning": "Ein Hammer, das Werkzeug.",
+    "origin": {
+      "etymology": "Eine durchsichtige Metapher des Aufpralls, keine Entlehnung – dasselbe Bild wie in „es hat mich getroffen“. Verstärkt wurde sie in den 1970er- und 80er-Jahren von der Sportberichterstattung, in der ein Hammer ein wuchtiger Torschuss ist."
+    }
+  },
+  "gonn-dir": {
+    "definitions": [
+      { "text": "Leiste es dir; los, du hast es dir verdient. Ermuntert jemanden, sich etwas zu genehmigen – den zweiten Nachtisch, die teuren Sneaker, den freien Tag." },
+      { "text": "Trocken und ohne Objekt gesagt, ist es ein knapper Segen über den Exzess eines anderen: ungefähr „mach du mal“. Ob es warm oder spöttisch gemeint ist, trägt allein der Tonfall." }
+    ],
+    "literalMeaning": "Gönn es dir.",
+    "origin": {
+      "etymology": "Das gewöhnliche reflexive Verb sich etwas gönnen, zum Imperativ verkürzt. Verbreitet hat es sich um 2013/14 über den deutschen Rap – das in dieser Szene geprägte Substantiv Gönnung ist der Beleg – und es war als Jugendwort des Jahres nominiert. Anders als die meisten Wörter jenes Moments hat es überlebt, wirkt inzwischen aber eher millennial als jugendlich.",
+      "firstAttested": "um 2013"
+    }
+  },
+  "moin": {
+    "definitions": [
+      { "text": "Hallo – zu jeder Tageszeit. Der norddeutsche Ganztagesgruß, von Hamburg und Bremen über Schleswig-Holstein und Ostfriesland bis in die nördlichen Niederlande und nach Dänemark." },
+      { "text": "Verdoppelt als „moin moin“ ist es herzlicher und gesprächiger. In Teilen Ostfrieslands hält sich der Witz, zweimal Moin gelte schon als Small Talk." }
+    ],
+    "examples": {
+      "0": { "context": "Um drei Uhr nachmittags gesagt, ohne dass jemand mit der Wimper zuckt." }
+    },
+    "origin": {
+      "etymology": "Vom niederdeutschen und friesischen moi, „gut, schön“ – „moin Dag“ ist also „guten Tag“. Die verbreitete Annahme, es sei ein verkürztes „Morgen“, ist Volksetymologie und der Grund, warum Auswärtige es fälschlich auf den Vormittag beschränken. Seit den 2000er-Jahren wandert es als lässiger oder scherzhafter Gruß nach Süden, wo es einen aber weiterhin als jemanden ausweist, der den Norddeutschen spielt."
+    }
+  },
+  "servus": {
+    "definitions": [
+      { "text": "Hallo und tschüss, in Bayern und Österreich. Es funktioniert in beide Richtungen, was Lernende überrascht, die es als Gruß kennenlernen und es beim Abschied wiederhören." },
+      { "text": "Im Register informell: zu Freunden, zu Kollegen, mit denen man per du ist, und zum Wirt im Stammlokal – nicht zu einer fremden Person am Bankschalter." }
+    ],
+    "literalMeaning": "Diener, Sklave (lateinisch).",
+    "origin": {
+      "etymology": "Verkürzt aus der lateinischen Höflichkeitsformel servus humillimus, „euer untertänigster Diener“, die in den habsburgischen Ländern kursierte und im bairisch-österreichischen Raum hängen blieb, lange nachdem der Rest des deutschen Sprachgebiets sie aufgegeben hatte. Über denselben lateinischen Weg kamen das tschechische servus und das ungarische szervusz.",
+      "firstAttested": "18. Jahrhundert"
+    }
+  },
+  "digga": {
+    "definitions": [
+      { "text": "Kumpel, Alter, Bruder. Seit etwa 2015 die vorherrschende Anrede der deutschen Jugendsprache und inzwischen so bedeutungsleer, dass sie fast als Satzzeichen funktioniert." },
+      { "text": "Wird trotz des maskulinen Ausgangsworts ebenso oft von Frauen und zu Frauen gesagt wie unter Männern – „Digga, echt jetzt?“ von einer Frau zu ihrer Freundin ist völlig gewöhnlich." }
+    ],
+    "examples": {
+      "1": { "context": "Zwei Anreden in einem Atemzug zu stapeln ist ganz normal und trägt keinerlei Zusatzbedeutung." }
+    },
+    "origin": {
+      "etymology": "Aus dem Hamburger Slang Dicker, ursprünglich eine derb-liebevolle Bezeichnung für einen kräftigen Freund, mit lokal zu -a abgeschwächter Endung. Über die Hamburger Hip-Hop-Szene der 1990er und 2000er verließ das Wort die Stadt und wurde von dort aus bundesweit. Kaum ein heutiger Sprecher hört darin noch „dick“.",
+      "firstAttested": "1990er-Jahre, Hamburg"
+    }
+  },
+  "alter": {
+    "definitions": [
+      { "text": "Anrede ohne jeden Bezug zum Lebensalter. Älter als Digga und etwas mehr Mainstream; auch reichlich Vierzigjährige sagen es noch." },
+      { "text": "Allein stehend ein vollständiger Ausruf des Unglaubens, der Entnervung oder der Ehrfurcht: „Alter!“ leistet, wofür es sonst einen ganzen Satz bräuchte." }
+    ],
+    "literalMeaning": "Der Alte.",
+    "origin": {
+      "etymology": "Von „mein Alter“, einst eine scherzhafte Bezeichnung für den Vater oder den Ehemann, ab den 1970er-Jahren in der Jugendsprache zur Anrede verallgemeinert. Der damit nicht verwandte Ausruf „alter Schwede“ – angeblich von schwedischen Ausbildern, die der Große Kurfürst nach dem Dreißigjährigen Krieg anwarb – ist eine eigene Wendung und wird nicht zu „Alter“ verkürzt.",
+      "firstAttested": "1970er-Jahre"
+    }
+  },
+  "na": {
+    "definitions": [
+      { "text": "Ein vollständiger Gruß für sich, mit steigendem Ton gefragt: ungefähr „hey – wie geht's?“. Die erwartete Antwort ist ein „na“ zurück, und damit ist der Austausch erledigt. Ausländische Sprecher halten es beharrlich für den Anfang einer Frage." },
+      { "text": "In Kombination steuert es den Satz: „na ja“ ist ein abgeschwächtes „tja …“, „na und?“ heißt „na wenn schon“, „na klar“ heißt „selbstverständlich“, „na also“ heißt „hab ich doch gesagt“." }
+    ],
+    "origin": {
+      "etymology": "Eine alte germanische Anredeinterjektion ohne lexikalischen Gehalt, im Deutschen seit dem Mittelalter belegt und verwandt mit ähnlichen Partikeln quer über den Kontinent. Als Gruß ist sie im Norden und Osten am stärksten und unter Sprechern unter fünfzig nahezu allgemein."
+    }
+  },
+  "yalla": {
+    "definitions": [
+      { "text": "Los; komm; beeil dich. Ein allgemeiner Aufbruchsruf und eine der am vollständigsten eingebürgerten arabischen Entlehnungen der deutschen Jugendsprache – gebraucht auch von Sprechern ganz ohne Bezug zum Arabischen." },
+      { "text": "Auch als Verabschiedung, ungefähr „so, ich bin weg“: „Yalla, bis später.“" }
+    ],
+    "origin": {
+      "etymology": "Vom arabischen يا الله yā allāh, wörtlich „o Gott“, das im gesamten arabischen Sprachraum längst zu einem schlichten „los“ abgeschliffen ist; das Türkische hat dasselbe Wort als hadi/yallah, und beide Communities trugen es ins Deutsche. In die allgemeine Jugendsprache kam es über Schulhöfe und Rap, nicht über einen einzelnen Song, und ist heute neutral genug für die Werbung."
+    }
+  },
+  "alman": {
+    "definitions": [
+      { "text": "Ein stereotyp deutscher Deutscher: der, der wegen deines Grillrauchs das Ordnungsamt anruft, auf korrekter Mülltrennung besteht und um sechs Uhr früh die Liege belegt. Beschrieben wird ein Verhalten, keine Abstammung." },
+      { "text": "Ganz überwiegend als Witz gebraucht, auch von Deutschen über sich selbst – „voll der Alman-Move“ ist die Standard-Selbstironie. Mit ernstem Gesicht und ohne Zuneigung gesagt, ist es ein milder ethnischer Seitenhieb." }
+    ],
+    "literalMeaning": "Deutscher (türkisch).",
+    "origin": {
+      "etymology": "Türkisch Alman, „Deutscher“, seinerseits vom aus dem Französischen stammenden Namen des Landes. Um 2017/18 wanderte es aus dem türkisch-deutschen Familiensprachgebrauch in die allgemeine Jugendsprache, getragen von Meme-Accounts, allen voran @almans auf Instagram, der den heutigen Stereotypenkatalog praktisch im Alleingang aufgebaut hat.",
+      "firstAttested": "um 2017"
+    }
+  },
+  "kartoffel": {
+    "definitions": [
+      { "text": "Ein ethnisch deutscher Deutscher, von außen gesehen – der derbere, ältere Bruder von Alman. Wo Alman ein Verhalten verspottet, benennt Kartoffel die Gruppe." },
+      { "text": "Vielfach angeeignet: Deutsche gebrauchen es über sich selbst („meine Kartoffel-Seele“), und der Roman- und Filmtitel Die Kartoffel von 2017 hat daran Anteil. Unter Fremden bleibt es ein Stich, und am feindseligen Ende ist es eine ethnische Beleidigung." }
+    ],
+    "examples": {
+      "0": { "context": "Selbstironisch, von einer deutschen Sprecherin über die eigene Familie." },
+      "1": { "context": "Gemeint sind Akzent und Auftreten; je nach Sprecher neckisch oder verächtlich." }
+    },
+    "literalMeaning": "Kartoffel.",
+    "origin": {
+      "etymology": "Die Kartoffel als das deutsche Grundnahrungsmittel schlechthin, Teil einer ganzen Familie essensbasierter ethnischer Etiketten in Europa. Im deutsch-türkischen und deutsch-arabischen Sprachgebrauch spätestens seit den 1990er-Jahren im Umlauf, also lange vor Alman, und in den 2010er-Jahren von Komikern und Autorinnen mit Migrationsgeschichte darüber hinaus bekannt gemacht.",
+      "firstAttested": "1990er-Jahre"
+    }
+  },
+  "spiesser": {
+    "definitions": [
+      { "text": "Ein engstirniger Konformist: die Hecke auf den Millimeter geschnitten, die Meinungen aus der Lokalzeitung, tiefes Misstrauen gegen alles Ungewohnte. Eine der meistgebrauchten deutschen Beleidigungen, die nicht im Entferntesten unanständig ist." },
+      { "text": "Das Adjektiv spießig greift auf Dinge über – eine spießige Hochzeit, ein spießiges Wohnzimmer – im Sinn von bieder-konventionell." }
+    ],
+    "origin": {
+      "etymology": "Verkürzt aus Spießbürger, wörtlich dem Stadtbürger, der mit dem Spieß zum Wachdienst antrat. Schriftsteller des 19. Jahrhunderts, vor allem die Romantiker, machten daraus das Schlagwort für philisterhafte Enge, und dieser Sinn hat überlebt.",
+      "firstAttested": "19. Jahrhundert in dieser Bedeutung"
+    }
+  },
+  "ehrenmann": {
+    "definitions": [
+      { "text": "Jemand, der einem einen Gefallen getan hat – einen Platz freigehalten, eine Runde übernommen, das Ladekabel zurückgebracht. Ungefähr „Legende“, und ungefähr so ernst gemeint wie das, also halb ironisch." },
+      { "text": "Die Ehrenfrau läuft parallel dazu, und das zugehörige „Ehre genommen“ ist die feste Erwiderung auf ein Kompliment." }
+    ],
+    "literalMeaning": "Mann von Ehre.",
+    "origin": {
+      "etymology": "Ein altes und völlig ehrbares Kompositum, um 2017 vom deutschen Rap als Slang wiederbelebt – Capital Bra und Kollegah haben es beide vorangetrieben – und 2018 zum Jugendwort des Jahres gewählt. Es ist einer der wenigen Sieger dieses Wettbewerbs, die sich wirklich durchgesetzt haben, klingt heute allerdings eher nach den späten 2010ern als nach aktueller Jugendsprache.",
+      "firstAttested": "2017 in der Slang-Bedeutung"
+    }
+  },
+  "talahon": {
+    "definitions": [
+      { "text": "Ein junger Mann, meist als arabisch oder türkisch gelesen, in einem bestimmten Look: Designer-Trainingsanzug, quer über der Brust getragene Umhängetasche, großflächige Logos, echter oder erhoffter Luxus. Jugendwort des Jahres 2024." },
+      { "text": "Anders als die meisten Preisträger ist dieses Wort tatsächlich im Mund von Jugendlichen – aber es ist auch das am stärksten aufgeladene. Es unterstellt Kleinkriminalität, und die deutsche extreme Rechte hat es binnen Monaten nach dem viralen Durchbruch geschlossen als ethnisches Schimpfwort übernommen. Hier verzeichnet, damit man es erkennt, nicht damit man es benutzt." }
+    ],
+    "examples": {
+      "0": { "context": "Auch neutral gemeint urteilt dieser Satz über Herkunft ebenso sehr wie über Kleidung." }
+    },
+    "literalMeaning": "Komm her (arabisch).",
+    "origin": {
+      "etymology": "Vom levantinisch-arabischen تعال هنا taʿāl hōn, „komm her“. Ins Deutsche kam es über den Track „Ta3al Lahon“ des libanesisch-deutschen Rappers Hassan von 2022, dessen Refrain 2023/24 zum TikTok-Sound wurde; der Sound heftete sich an ein visuelles Stereotyp, und das Substantiv folgte.",
+      "firstAttested": "2023"
+    }
+  },
+  "vollpfosten": {
+    "definitions": [
+      { "text": "Ein kompletter Idiot. Verächtlich, aber nicht obszön – deshalb steht es in Zeitungskolumnen und fällt im Nachmittagsfernsehen." },
+      { "text": "Pfosten allein leistet dasselbe in kürzerer, beiläufigerer Form." }
+    ],
+    "literalMeaning": "Vollständiger Zaunpfosten.",
+    "origin": {
+      "etymology": "Voll- („gänzlich“) plus Pfosten – das Bild ist etwas Hölzernes, Massives und Hohlköpfiges, dieselbe Metapher wie im englischen „thick as a plank“. Eine Prägung des späten 20. Jahrhunderts; das Präfix Voll- ist produktiv und liefert Volltrottel, Vollhorst, Vollidiot."
+    }
+  },
+  "arschloch": {
+    "definitions": [
+      { "text": "Ein wirklich übler Mensch, nicht bloß ein Dummkopf. Die meistgebrauchte ernst gemeinte Beleidigung des Deutschen, und das Register ist genau das, was das Wort vermuten lässt." },
+      { "text": "Wissenswert: Das deutsche Recht behandelt es als justiziable Beleidigung. Einem Polizisten gesagt, bringt es zuverlässig eine dreistellige Geldstrafe ein, und die Tarife sind veröffentlicht." }
+    ],
+    "literalMeaning": "Arschloch, anatomisch.",
+    "origin": {
+      "etymology": "Durchsichtiges Kompositum aus Arsch und Loch, als Schimpfwort seit der frühen Neuzeit belegt. Interessant ist die juristische Seite: Die deutschen Gerichte pflegen eine lange Rechtsprechung dazu, welche Beleidigung wie viel kostet, und dieses Wort ist der Referenzfall."
+    }
+  },
+  "spast": {
+    "definitions": [
+      { "text": "Idiot, Vollidiot – ein Behindertenschimpfwort, das beiläufig als allgemeine Beleidigung benutzt wird, vor allem von Jugendlichen und von Erwachsenen, die in den 1990ern Jugendliche waren." },
+      { "text": "Zum Verstehen verzeichnet. Viele Sprecher benutzen es, ohne sich die Herkunft klarzumachen; genug andere machen sie sich klar, sodass es heute verlässlich eine Reaktion auslöst. Eine neutrale Verwendung gibt es nicht." }
+    ],
+    "examples": {
+      "0": { "context": "Schulhofregister. Eine erwachsene Person, die das in der Öffentlichkeit sagt, wirkt entweder aggressiv oder heillos aus der Zeit gefallen." }
+    },
+    "origin": {
+      "etymology": "Verkürzt aus Spastiker, dem klinischen Ausdruck für einen Menschen mit spastischer Zerebralparese. In den 1980er-Jahren in die Schulhofsprache gelangt, parallel zur gleichen Entwicklung im Englischen, und der behindertenpolitische Einwand dagegen ist in beiden Sprachen derselbe.",
+      "firstAttested": "1980er-Jahre"
+    }
+  },
+  "hurensohn": {
+    "definitions": [
+      { "text": "Die stärkste gebräuchliche Beleidigung des Deutschen. An eine Person gerichtet, beleidigt sie deren Mutter – und genau deshalb löst sie Schlägereien aus, was Arschloch nicht tut." },
+      { "text": "Unter Jugendlichen und im deutschen Rap ist sie teilweise zum allgemeinen Verstärker oder Ausruf verblasst und richtet sich dann an Gegenstände und Situationen statt an Menschen. Diese Verblassung ist real, bleibt aber auf dieses Register beschränkt – alle anderen hören darin nach wie vor das Original in voller Stärke." }
+    ],
+    "examples": {
+      "0": { "context": "Das ist der Satz vor der Prügelei, keine Redewendung." },
+      "1": { "context": "Die verblasste Verwendung, und nur von einem jungen männlichen Sprecher plausibel." }
+    },
+    "literalMeaning": "Sohn einer Hure.",
+    "origin": {
+      "etymology": "Eine alte germanische Bildung mit Parallelen in ganz Europa, doch ihre heutige Häufigkeit im Deutschen ist jung und kontaktbedingt: Türkisch und Arabisch kennen beide sehr präsente Mutterbeleidigungen, und der deutsche Rap machte seit den 2000er-Jahren diese hier zur Standardübersetzung dafür. Die Gerichte führen sie als eine der teuersten Beleidigungen im Tarif."
+    }
+  },
+  "depp": {
+    "definitions": [
+      { "text": "Ein Dummkopf, ein Trottel. Das süddeutsche, österreichische und schweizerische Standardwort für einen Idioten, und viel milder als seine norddeutschen Entsprechungen – enge Freunde nennen einander mit echter Zuneigung Depp." },
+      { "text": "Das Adjektiv deppert greift auf Situationen über: eine depperte Regel ist eine blöde Regel." }
+    ],
+    "examples": {
+      "0": { "context": "Bairische Aussprache, und öfter liebevoll gemeint als nicht." }
+    },
+    "origin": {
+      "etymology": "Ein bairisch-österreichisches Dialektwort, verwandt mit täppisch, „ungeschickt“, aus derselben Wurzel wie tappen. Mit dem englischen Familiennamen hat es trotz eines hartnäckigen Witzes nichts zu tun."
+    }
+  },
+  "verpiss-dich": {
+    "definitions": [
+      { "text": "Verschwinde. Grob, aber nicht das Gröbste – es steht über „hau ab“ und unter „fick dich“ und liegt etwa auf der Höhe des englischen „piss off“." },
+      { "text": "Das reflexive sich verpissen funktioniert auch beschreibend, im Sinn von abhauen oder sich davonstehlen: „er hat sich verpisst“." }
+    ],
+    "literalMeaning": "Piss dich weg.",
+    "origin": {
+      "etymology": "Das Präfix ver- der Entfernung auf pissen, nach derselben Logik gebaut wie verschwinden. Eine Bildung des 20. Jahrhunderts, strukturell parallel zum englischen „piss off“, ohne dessen Lehnübersetzung zu sein."
+    }
+  },
+  "kohle": {
+    "definitions": [
+      { "text": "Geld, Zaster. Der am weitesten verbreitete deutsche Geldslang, neutral genug für ein Gespräch im Büro und überall verstanden." },
+      { "text": "„Kohle machen“ heißt richtig verdienen; „die Kohle stimmt“ heißt, die Bezahlung ist gut." }
+    ],
+    "literalMeaning": "Kohle, der Brennstoff.",
+    "origin": {
+      "etymology": "Ein Slangwort des 19. Jahrhunderts, in dem die Kohle für das steht, ohne das man nicht leben kann und was man ständig nachkaufen muss – dieselbe Figur wie das englische „bread“. Das Ruhrrevier hat den Ausdruck verstärkt, aber nicht hervorgebracht. Er steht in einer großen Familie von Geldwörtern (Knete, Kies, Zaster, Moneten, Schotter), von denen mehrere über Rotwelsch und Jiddisch ins Deutsche kamen.",
+      "firstAttested": "19. Jahrhundert"
+    }
+  },
+  "malochen": {
+    "definitions": [
+      { "text": "Schuften, sich abrackern – harte körperliche oder zermürbende Arbeit, mit einem Unterton von Klage. Malocht wird auf dem Bau oder in der Doppelschicht, nie am angenehmen Schreibtisch." },
+      { "text": "Das Substantiv Maloche ist die Arbeit selbst: „ab zur Maloche“." }
+    ],
+    "origin": {
+      "etymology": "Vom jiddischen melocho (מלאכה), „Arbeit, Handwerk“, letztlich vom hebräischen melakhah, das über das Rotwelsch, die Sprache der Fahrenden und Händler, ins Deutsche kam. Stark mit dem Ruhrgebiet und seiner Montanindustrie verbunden, aber bundesweit verstanden und gebraucht.",
+      "firstAttested": "19. Jahrhundert"
+    }
+  },
+  "pleite": {
+    "definitions": [
+      { "text": "Blank, abgebrannt – von einer Person, die gerade kein Geld hat, oder von einer Firma, die tatsächlich untergegangen ist." },
+      { "text": "Als Substantiv ist die Pleite eine Insolvenz und, übertragen, jeder Reinfall: „der Abend war eine Pleite“." }
+    ],
+    "origin": {
+      "etymology": "Vom jiddischen plejte, vom hebräischen pleitah, „Flucht, Entkommen“ – das Bild ist der zahlungsunfähige Kaufmann, der sich vor seinen Gläubigern davonmacht, weshalb die ältere Vollform „Pleite gehen“ lautete. Mit irgendeinem romanischen Wort hat es nichts zu tun.",
+      "firstAttested": "19. Jahrhundert"
+    }
+  },
+  "homeoffice": {
+    "definitions": [
+      { "text": "Die Arbeit von zu Hause, als Zustand und nicht als Raum: „ich bin im Homeoffice“ heißt „ich arbeite heute von zu Hause“, nicht „ich sitze in meinem Arbeitszimmer“." },
+      { "text": "Ein Scheinanglizismus. Im britischen Englisch ist das Home Office ein Ministerium, im amerikanischen die Firmenzentrale. Gemeint ist im Deutschen keines von beidem, und in englischsprachigen E-Mails deutscher Kolleginnen und Kollegen entstehen daraus echte Missverständnisse." }
+    ],
+    "origin": {
+      "etymology": "Im Deutschen aus englischen Bauteilen zusammengesetzt, in der Bürojargon-Welle der 1990er-Jahre, die auch Handy und Beamer hervorbrachte. Bis 2020 ein Randwort, dann machte die Pandemie es praktisch über Nacht zu einem der meistgebrauchten Substantive der Sprache.",
+      "firstAttested": "1990er-Jahre, allgemein gebräuchlich seit 2020"
+    }
+  },
+  "brotzeit": {
+    "definitions": [
+      { "text": "Eine kalte Zwischenmahlzeit – Brot, Wurst, Käse, Radi, vielleicht Obatzda – und ebenso die Pause, in der man sie isst. Am Vormittag auf dem Bau, am Nachmittag auf der Wanderung, oder den ganzen Abend im Biergarten." },
+      { "text": "Bairisch und österreichisch. Das schwäbische Wort ist Vesper, das norddeutsche Abendbrot meint eigens die Abendmahlzeit, und das Recht, die eigene Brotzeit in den Biergarten mitzubringen, ist ein echter Lokalstolz." }
+    ],
+    "literalMeaning": "Zeit für Brot.",
+    "origin": {
+      "etymology": "Ein schlichtes bairisches Kompositum aus Brot und Zeit, seit dem 19. Jahrhundert im Sinn der Brotpause des Arbeiters belegt. Die Einrichtung ist älter als das Wort."
+    }
+  },
+  "schrippe": {
+    "definitions": [
+      { "text": "Ein Brötchen – aber nur in Berlin und Brandenburg. Wer in München eine Schrippe verlangt, erntet einen ratlosen Blick." },
+      { "text": "Das Brötchen ist Deutschlands schärfstes regionales Erkennungszeichen: Brötchen im größten Teil des Nordens und der Mitte, Semmel in Bayern und Österreich, Weck oder Weckle in Schwaben und Franken, Rundstück in Hamburg, in Teilen des Westens zu Brötsch verkürzt." }
+    ],
+    "examples": {
+      "0": { "context": "Bestellung in einer Berliner Bäckerei – wo das falsche Wort der schnellste Weg ist, sich als frisch Zugezogener zu erkennen zu geben." }
+    },
+    "origin": {
+      "etymology": "Wahrscheinlich von schrippen / schripfen, einem mitteldeutschen Verb für kratzen oder einritzen – das Brötchen ist nach dem Schnitt auf seiner Oberseite benannt. Die konkurrierende Herleitung aus „schrumpfen“ ist nicht gestützt."
+    }
+  },
+  "mass": {
+    "definitions": [
+      { "text": "Ein Liter Bier im gerippten Glaskrug. Die Standardeinheit auf dem Oktoberfest und im bayerischen Biergarten – und der Grund, warum Leute unterschätzen, wie viel sie getrunken haben." },
+      { "text": "Zwei Fallen für Auswärtige: Es ist feminin – die Maß, eine Maß – wo die Standardsprache für eine Messgröße das Maß kennt, und der Vokal ist kurz. Wer „eine Maß, bitte“ mit langem a und falschem Artikel bestellt, ist sofort erkannt." }
+    ],
+    "literalMeaning": "Ein Maß, ein Hohlmaß.",
+    "origin": {
+      "etymology": "Vom mittelhochdeutschen mâʒ, einem Hohlmaß, in Bayern auf 1,069 Liter normiert, bevor 1871 der metrische Liter übernahm. Der Krug selbst ist der Maßkrug; wer „einen Maßkrug“ bestellt, bekommt zumindest theoretisch das leere Glas."
+    }
+  },
+  "fressen": {
+    "definitions": [
+      { "text": "Eigentlich das Verb für das Essen der Tiere – das Deutsche hält essen und fressen streng auseinander, und eine Kuh isst nie. Auf einen Menschen angewandt heißt es schlingen, reinhauen, in sich hineinstopfen, und es ist bewusst beleidigend oder scherzhaft." },
+      { "text": "Auch übertragen „schlucken“: „das hat er gefressen“ heißt, er hat es endlich begriffen; „einen Narren an jemandem gefressen haben“ heißt, jemanden auf unerklärliche Weise ins Herz geschlossen zu haben." }
+    ],
+    "examples": {
+      "0": { "context": "Unter Familie oder engen Freunden gesagt. Einer fremden Person gegenüber wäre es eine glatte Beleidigung." },
+      "1": { "context": "Auf sich selbst bezogen ist es bloß scherzhafte Übertreibung und völlig freundlich." }
+    },
+    "origin": {
+      "etymology": "Althochdeutsch freʒʒan, aus ver- plus eʒʒan – wörtlich „aufessen, wegessen“. Die Trennung zwischen Tier und Mensch gehört zu den ältesten noch lebendigen Unterscheidungen des deutschen Wortschatzes, und genau das macht ihre Überschreitung beleidigend."
+    }
+  },
+  "vorgluehen": {
+    "definitions": [
+      { "text": "Sich vor dem Ausgehen in einer Wohnung schon fast in den Rausch trinken, weil die Preise in Club und Bar das vor Ort unbezahlbar machen." },
+      { "text": "Eher ein ganzes soziales Ritual als bloß ein Verb – das Vorglühen ist ein Termin, zu dem man eingeladen wird, oft mit eigener Playlist und eigener Anfangszeit." }
+    ],
+    "examples": {
+      "1": { "context": "Bei der Berliner Türpolitik ist das ein realistischer Ausgang." }
+    },
+    "literalMeaning": "Vorheizen – genauer das Vorglühen der Glühkerzen eines Dieselmotors.",
+    "origin": {
+      "etymology": "Von den Glühkerzen des Dieselmotors, die vorgeheizt werden müssen, bevor der Motor anspringt – vorglühen ist die Kontrollleuchte im Armaturenbrett. Die Studentensprache griff die Metapher in den 1990er-Jahren auf, heute ist es schlicht das normale Wort.",
+      "firstAttested": "1990er-Jahre"
+    }
+  },
+  "kater": {
+    "definitions": [
+      { "text": "Der Zustand am Morgen nach dem Rausch. „Einen Kater haben“ ist die feste Wendung; das Katerfrühstück ist das fettige Frühstück danach." },
+      { "text": "Übertragen auf nichtalkoholische Ernüchterungen: der Wahlkater nach einem Wahlergebnis, der Kater nach dem Ende des Urlaubs." }
+    ],
+    "literalMeaning": "Kater, das männliche Tier.",
+    "origin": {
+      "etymology": "Mit ziemlicher Sicherheit nicht das Tier. Die wahrscheinlichste Herleitung führt auf Katarrh zurück, in der Leipziger Studentensprache des 19. Jahrhunderts der Ausdruck für das Unwohlsein am Morgen danach, von der örtlichen Aussprache zu einem Wort umgeformt, das es zufällig schon gab. Die Geschichte vom Kater ist Volksetymologie, aber so fest etabliert, dass die Deutschen heute das Tier vor Augen haben und Karikaturisten es zeichnen.",
+      "firstAttested": "19. Jahrhundert, Leipziger Studenten"
+    }
+  },
+  "absacker": {
+    "definitions": [
+      { "text": "Der eine letzte Drink vor dem Heimweg oder vor dem Bett, meist etwas Kurzes und meist nicht wirklich der letzte." },
+      { "text": "Mit einer gewissen wissenden Ironie gesagt: Wer um ein Uhr nachts einen Absacker vorschlägt, wird von allen Anwesenden so verstanden, dass er eine Absicht äußert und keinen Plan." }
+    ],
+    "origin": {
+      "etymology": "Von absacken, „absinken“ – was der Trinkende danach tut und was ebenso der Abend tut. Zwanzigstes Jahrhundert, mit demselben seemännischen Verb dahinter, das das Tiefergehen eines Schiffs im Wasser beschreibt."
+    }
+  },
+  "gaudi": {
+    "definitions": [
+      { "text": "Spaß, Vergnügen, ein Heidenspaß – bairisch und österreichisch. „Eine Gaudi“ ist ein einzelner Anlass des Vergnügens, nicht die abstrakte Eigenschaft." },
+      { "text": "Das Genus schwankt: die Gaudi in Bayern, das Gaudi in weiten Teilen Österreichs und Schwabens. Beides ist am jeweiligen Ort richtig." }
+    ],
+    "examples": {
+      "0": { "context": "Bairische Aussprache von „das war eine Gaudi“." }
+    },
+    "origin": {
+      "etymology": "Vom lateinischen gaudium, „Freude“, über das makkaronische Latein der Studenten und Klosterschulen – derselbe Weg, der Gaudeamus igitur hervorbrachte. Es hielt sich im katholischen Süden und ging nie nach Norden."
+    }
+  },
+  "anbaggern": {
+    "definitions": [
+      { "text": "Jemanden anmachen – schwer, unübersehbar und meist erfolglos. Der Bagger in der Etymologie arbeitet mit: Das Wort unterstellt Hartnäckigkeit und die völlige Abwesenheit von Feingefühl." },
+      { "text": "Fast immer über andere gesagt. Man stellt fest, dass jemand angebaggert wurde; das eigene Vorgehen beschreibt man selten so, es sei denn selbstironisch." }
+    ],
+    "literalMeaning": "Jemanden mit dem Bagger bearbeiten.",
+    "origin": {
+      "etymology": "Von Bagger, dieses vom niederländischen baggeren, „ausbaggern“. Eine Bildung des 20. Jahrhunderts und eines der anschaulichsten Bilder des deutschen Slangs – der Werbende als schweres Baugerät."
+    }
+  },
+  "knutschen": {
+    "definitions": [
+      { "text": "Ausgiebig und mit Nachdruck küssen – im Unterschied zu küssen, das alles vom Küsschen aufwärts abdeckt." },
+      { "text": "Rumknutschen fügt hinzu, dass es in der Öffentlichkeit und über längere Zeit geschieht; ein Knutschfleck ist das sichtbare Ergebnis." }
+    ],
+    "origin": {
+      "etymology": "Expressiven Ursprungs, aus einer Familie von knu-Wörtern für Drücken und Pressen (knautschen, kneten). Keine Entlehnung – der Klang macht die Arbeit."
+    }
+  },
+  "schatzi": {
+    "definitions": [
+      { "text": "Liebling, Süße, Süßer. Die Verkleinerungsform von Schatz und die Standardkoseform zwischen Partnern und von Eltern zu Kindern." },
+      { "text": "Auch als Waffe. „Hör mal, Schatzi“ von einer fremden Person oder aus dem Kollegenkreis ist herablassend und oft sexistisch, und „Nein, Schatzi“ ist die Art, eine Bitte abzulehnen und dabei klarzumachen, dass die Bitte lächerlich war. Lernende, die es als freundliches Wort aufschnappen und bei Bekannten einsetzen, sorgen für echte Peinlichkeiten." }
+    ],
+    "examples": {
+      "1": { "context": "Glatt herablassend. Die Verkleinerungsform ist die Beleidigung." }
+    },
+    "literalMeaning": "Kleiner Schatz.",
+    "origin": {
+      "etymology": "Schatz ist seit dem Mittelalter ein Kosewort; die Verkleinerung auf -i ist süddeutsch-österreichischen Ursprungs und breitete sich in der zweiten Hälfte des 20. Jahrhunderts über Fernsehen und Schlager bundesweit aus."
+    }
+  },
+  "smash": {
+    "definitions": [
+      { "text": "Mit jemandem schlafen oder jemanden als dafür infrage kommend einstufen. Jugendwort des Jahres 2022, begegnet aber vor allem im Spielformat „Smash oder Pass“ und kaum als freies Verb." },
+      { "text": "Ehrlicherweise: Außerhalb dieses Spiels und seines TikTok-Umfelds ist das Wort dünn. Deutsche Jugendliche sagen es durchaus, aber Erwachsene, die „smash“ im normalen Gespräch einsetzen, klingen genau so schräg, wie die Berichterstattung über die Wahl sie klingen ließ, und es hat nie das volle Formeninventar entwickelt, das ein einheimisches Wort hätte." }
+    ],
+    "examples": {
+      "0": { "context": "Das Spielformat. Fast der gesamte reale Gebrauch des Wortes besteht daraus." },
+      "1": { "context": "Grammatisch deutsch, lexikalisch englisch – die Mischform ist typisch für die aktuellen jugendsprachlichen Entlehnungen." }
+    },
+    "origin": {
+      "etymology": "Direkt aus dem englischen Internetslang, wo „smash or pass“ seit den frühen 2010er-Jahren ein Memeformat ist. Über TikTok kam es um 2021 ins Deutsche und gewann 2022 Langenscheidts Jugendwort des Jahres – einen Preis, dessen Sieger per öffentlicher Abstimmung bestimmt werden und der verlässlich überzeichnet, wie etabliert ein Wort ist.",
+      "firstAttested": "2021"
+    }
+  },
+  "boah": {
+    "definitions": [
+      { "text": "Der deutsche Allzweckausruf: Ehrfurcht, Genervtheit, Ekel, Ungläubigkeit. Länge und Tonhöhe leisten die gesamte Bedeutungsarbeit – ein kurzes, flaches boah ist Ärger, ein langes, steigendes ist Staunen." },
+      { "text": "„Boah ey“ ist die klassische Ruhrpott-Variante der 1980er und 90er. Sie fällt nach wie vor ständig, trägt aber inzwischen einen leichten Retro-Anstrich, ähnlich wie das englische „no way“." }
+    ],
+    "origin": {
+      "etymology": "Ein natürlicher Ausdruckslaut und kein Wort mit Etymologie; die Schreibung haben Comics und der Ruhrgebiets-Comedy-Boom der 1980er-Jahre vereinheitlicht. Die bundesweite Ausbreitung wird üblicherweise dem Fernsehen zugeschrieben – der Ruhrdialekt war in der westdeutschen Comedy jenes Jahrzehnts stark vertreten."
+    }
+  },
+  "cringe": {
+    "definitions": [
+      { "text": "Peinlich mit anzusehen; Fremdscham auslösend. Wird als prädikatives Adjektiv verwendet – „das ist so cringe“ –, was das Englische so nicht kennt." },
+      { "text": "Jugendwort des Jahres 2021 und tatsächlich einer der wenigen Sieger, die geblieben sind. So sehr geblieben, dass inzwischen Erwachsene und Marken es benutzen – und genau deshalb finden Jugendliche das Wort selbst mittlerweile cringe." }
+    ],
+    "examples": {
+      "1": { "context": "Es auf das einheimische Fremdscham draufzusetzen ist verbreitet und leicht scherzhaft." }
+    },
+    "origin": {
+      "etymology": "Um 2019/20 aus dem englischen Internetgebrauch entlehnt und als Adjektiv umgedeutet, was das Englische nicht zulässt. Für das Gefühl gab es mit Fremdscham längst das genaue deutsche Wort – die Entlehnung ist also ein reiner Registerzug und kein Lückenfüller.",
+      "firstAttested": "2019"
+    }
+  },
+  "schmarrn": {
+    "definitions": [
+      { "text": "Unsinn, Quatsch, Blödsinn. Bairisch und österreichisch, und die Standardform, etwas eben Gesagtes abzutun." },
+      { "text": "Auch „so gut wie nichts“: „a Schmarrn hab i davon“ heißt, ich habe überhaupt nichts davon gehabt." }
+    ],
+    "examples": {
+      "0": { "context": "Bairisch für „red keinen Schmarrn“ – einer der meistgehörten Sätze des Freistaats." }
+    },
+    "literalMeaning": "Ein zerrissener Pfannkuchen – wie im Kaiserschmarrn.",
+    "origin": {
+      "etymology": "Dasselbe Wort wie die Speise: Ein Schmarrn ist etwas in formlose Stücke Gerissenes, von einem Dialektverb für schmieren oder schaben. Unsinnsrede ist Rede in Fetzen. Die Geschichte von Franz Josephs missratenem Pfannkuchen ist eine spätere Legende um das Gericht und nicht der Ursprung des Wortes."
+    }
+  },
+  "wurst": {
+    "definitions": [
+      { "text": "Es ist mir gleichgültig. Nicht unhöflich, nicht aggressiv – bloß eine sachliche Feststellung der Gleichgültigkeit, und im Gesprochenen weit häufiger als das neutrale „das ist mir egal“." },
+      { "text": "Im Süden und in Österreich heißt es „Wurscht“, und „wurscht“ funktioniert auch als bloßes Adjektiv: „is mir wurscht“." }
+    ],
+    "literalMeaning": "Das ist mir eine Wurst.",
+    "origin": {
+      "etymology": "Seit dem 19. Jahrhundert belegt; der Gedanke dahinter ist tatsächlich unklar. Die beiden Standarderklärungen – dass eine Wurst zwei Enden hat und es keinen Unterschied macht, an welchem man anfängt, und dass ohnehin alle Abschnitte des Metzgers in der Wurst landeten – sind beide nachträgliche Rationalisierungen, und keine ist urkundlich gestützt.",
+      "firstAttested": "19. Jahrhundert"
+    }
+  },
+  "halt": {
+    "definitions": [
+      { "text": "Die Resignationspartikel. Sie markiert das Folgende als unabänderliche Tatsache, mit der man aufgehört hat zu hadern: „das ist halt so“ – so ist es eben, und es lohnt sich nicht, darüber zu reden." },
+      { "text": "Eine englische Entsprechung gibt es nicht; Übersetzungen behelfen sich mit „just“, „simply“ oder gar nichts. Weglassen ändert nichts am Wahrheitsgehalt des Satzes, nur an der Haltung des Sprechers – deshalb können Lernende jahrelang Deutsch sprechen, ohne je ein halt hervorzubringen." },
+      { "text": "Süddeutschen Ursprungs; die norddeutsche Entsprechung ist eben, doch halt gewinnt seit Jahrzehnten bundesweit an Boden." }
+    ],
+    "origin": {
+      "etymology": "Vom Adverb halt, „gewiss, freilich“, einer oberdeutschen Form, verwandt mit dem Komparativ zu „hold/gehalten“. Nichts zu tun mit dem Imperativ halt! („stopp!“), der ein anderes Wort ist und nur zufällig gleich aussieht – eine Übereinstimmung, die fast jeden Lernenden mindestens einmal verwirrt."
+    }
+  },
+  "ne": {
+    "definitions": [
+      { "text": "Die deutsche Rückversicherungsfrage: „nicht wahr?“, „oder?“, „weißt du?“. An eine Aussage angehängt, um Zustimmung einzuholen, und dichter gebraucht als jede englische Entsprechung." },
+      { "text": "Es ist der klarste regionale Marker der deutschen Rede. Ne im Norden und in weiten Teilen der Mitte, gell oder gelle quer durch den Süden, wa in Berlin, oder im Südwesten und in der Schweiz, woll im Sauerland, nich in Teilen des Nordens. Die Sprecher merken selten, dass sie eines haben – bis sie umziehen." }
+    ],
+    "origin": {
+      "etymology": "Eine Reduktion von „nicht wahr?“ über „nich wahr“ und „nech“ auf eine einzige Silbe. Das südliche gell hat eine parallele Geschichte aus „gelten“."
+    }
+  },
+  "voll": {
+    "definitions": [
+      { "text": "Total, echt – der Arbeitsverstärker der deutschen Jugend- und Umgangssprache: voll gut, voll nervig, voll der Stress." },
+      { "text": "Das Besondere ist die Konstruktion „voll der/die/das + Substantiv“ („voll der Hammer“, „voll die Katastrophe“). Sie hat keine standardsprachliche Rechtfertigung, existiert nur im Gesprochenen und ist einer der verlässlichen Marker des informellen Registers." },
+      { "text": "Als schlichtes Adjektiv über eine Person heißt voll betrunken – „der war total voll“. Der Kontext hält die beiden mühelos auseinander." }
+    ],
+    "literalMeaning": "Voll, gefüllt.",
+    "origin": {
+      "etymology": "Das gewöhnliche Adjektiv voll in den Dienst als Verstärker gestellt, eine Entwicklung der 1980er-Jahre, die in den 1990ern zum prägenden Tic der deutschen Jugendsprache wurde. Anders als die meisten Tics jenes Jahrzehnts verschwand er nie; er hörte bloß auf, als jugendlich markiert zu gelten.",
+      "firstAttested": "1980er-Jahre"
+    }
+  },
+  "wallah": {
+    "definitions": [
+      { "text": "Ich schwöre; ehrlich; kein Witz. Ein Schwur, mit dem man auf der Wahrheit des Gesagten besteht, und das wiedererkennbarste Element des Kiezdeutschen – des multiethnischen Stadtdeutsch von Berlin, Hamburg, Duisburg und dem Rhein-Ruhr-Raum." },
+      { "text": "Häufig mit deutscher Glosse verdoppelt: „Wallah, ich schwör“. Gebraucht von jungen Sprechern jeder Herkunft, für die meisten ohne jede religiöse Kraft." },
+      { "text": "Scharf nach Alter und Register markiert. Von einem Jugendlichen ist es unauffällig; von einer fünfunddreißigjährigen Person im Büro klingt es wie ein Kostüm." }
+    ],
+    "literalMeaning": "Bei Gott (arabisch).",
+    "origin": {
+      "etymology": "Arabisch والله wallāh, „bei Gott“, eine gewöhnliche Schwurformel im gesamten arabischen Sprachraum; das Türkische hat sie als vallah, und der türkische Weg dürfte für das Deutsche der wichtigere sein. Auf deutschen Schulhöfen seit den 1990er-Jahren etabliert und von der Kiezdeutsch-Forschung seit den 2000er-Jahren als grammatikalisierter Diskursmarker beschrieben.",
+      "firstAttested": "1990er-Jahre"
+    }
+  },
+  "spaeti": {
+    "definitions": [
+      { "text": "Der spätabends geöffnete Eckladen – Bier, Zigaretten, Chips, ein am Tresen angeketteter Flaschenöffner und oft ein paar Stühle davor. Eine Berliner Institution und der Grund, warum die Straßentrinkkultur der Stadt funktioniert." },
+      { "text": "Berliner und brandenburgischer Sprachgebrauch. Andere Städte haben die Läden, aber nicht das Wort: Kiosk im Ruhrgebiet und in Köln, Büdchen in Düsseldorf und Mainz, Trinkhalle im Ruhrgebiet, Spätkauf als die ungekürzte Berliner Ausgangsform." }
+    ],
+    "origin": {
+      "etymology": "Verkürzt aus Spätverkaufsstelle, der Einrichtung der DDR, die offen blieb, wenn alles andere schloss – der Späti ist also tatsächlich ein DDR-Erbe, weshalb er sich in den östlichen Bezirken ballt. Spätkauf ist die Form nach 1990 und Späti deren liebevolle Verkürzung.",
+      "firstAttested": "DDR-Zeit als Spätverkauf; Späti seit den 1990er-Jahren"
+    }
+  },
+  "handy": {
+    "definitions": [
+      { "text": "Ein Mobiltelefon. Das deutsche Standardwort – längst kein Slang mehr, es steht in Verträgen und in Nachrichtensendungen –, zugleich aber der berühmteste Scheinanglizismus des Landes, den englische Muttersprachler verlässlich falsch auffassen." },
+      { "text": "„Handy“ ist im Englischen ein Adjektiv und heißt praktisch. Kein englischsprachiges Land nennt ein Telefon so, was in deutsch-englischen Gesprächen immer wieder zu Verwirrung führt." }
+    ],
+    "origin": {
+      "etymology": "Anfang der 1990er-Jahre im deutschen Marketing aus dem englischen Adjektiv „handy“ geprägt, vermutlich mit Nachhilfe von Motorolas Kriegsgerät Handie-Talkie, dessen Name in der Branche bekannt war. Die vielfach wiederholte Geschichte von den Schwaben, die „Hän die kae Schnur?“ gefragt hätten, ist ein Witz und keine Etymologie – und wird auch als Witz erzählt.",
+      "firstAttested": "Anfang der 1990er-Jahre"
+    }
+  },
+  "beamer": {
+    "definitions": [
+      { "text": "Ein Videoprojektor – das Gerät an der Decke des Besprechungsraums. Ganz gewöhnliches Deutsch und für englische Muttersprachler vollkommen undurchsichtig, denn ein Beemer ist für sie ein BMW." },
+      { "text": "Das deutsche Wort für das Auto ist schlicht BMW. Die Überschneidung erwischt deutsche Sprecher im Ausland etwa so oft wie englische Sprecher in Deutschland." }
+    ],
+    "origin": {
+      "etymology": "Im Deutschen aus dem englischen Verb „beam“ plus Agenssuffix gebaut, in derselben Bürogeräte-Welle der 1990er-Jahre, die Handy hervorbrachte. Das Englische kennt kein solches Substantiv für einen Projektor – es ist also eine deutsche Erfindung aus englischen Bauteilen und keine Entlehnung.",
+      "firstAttested": "1990er-Jahre"
+    }
+  },
+  "shitstorm": {
+    "definitions": [
+      { "text": "Eine Welle öffentlicher Empörung, fast immer online – eine Firma, ein Politiker oder eine Influencerin „bekommt einen Shitstorm“. Enger als das englische Wort, das jede chaotische Katastrophe abdeckt." },
+      { "text": "Überraschend ist das Register: Deutsche Sprecher hören die Obszönität nicht. Das Wort wurde 2011 zum Anglizismus des Jahres gewählt, steht in den Schlagzeilen der Qualitätspresse, und Angela Merkel benutzte es 2012 bei einem öffentlichen Auftritt, ohne dass jemand die Wortwahl kommentiert hätte. Englischen Muttersprachlern im Raum fällt sie in der Regel auf." }
+    ],
+    "origin": {
+      "etymology": "Um 2010 aus dem Englischen entlehnt, aber sofort auf den Sinn der Online-Empörung verengt, den das Englische damals nicht hatte und erst später teilweise entwickelte. Die Verengung zusammen mit dem völligen Verlust der Vulgarität macht das Wort zum Lehrbuchfall dafür, was das Deutsche mit englischen Entlehnungen anstellt.",
+      "firstAttested": "um 2010"
+    }
+  },
+  "bock-haben": {
+    "definitions": [
+      { "text": "Lust auf etwas haben, zu etwas aufgelegt sein. „Hast du Bock auf Kino?“" },
+      { "text": "Weit häufiger im Negativ. „Keinen Bock“ ist der deutsche Standardausdruck für Unlust, und „null Bock“ diente die 1980er-Jahre hindurch als Generationenetikett für westdeutsche Jugendliche." },
+      { "text": "Auch mit Verb: „Ich hab keinen Bock, das nochmal zu machen.“" }
+    ],
+    "literalMeaning": "Einen Ziegenbock haben.",
+    "origin": {
+      "etymology": "Trotz Schreibung und einer hartnäckigen Volksetymologie über brünftige Tiere nicht der Ziegenbock. Es kommt vom Romani bokh, „Hunger“, das über das Rotwelsch ins Deutsche gelangte – derselbe Weg wie bei Kaff, Zaster und einem guten Teil des übrigen deutschen Slangs. Die Sprecher schrieben es dann als das bereits vorhandene Wort Bock, und der Ziegenbock übernahm erst danach die Vorstellung.",
+      "firstAttested": "19. Jahrhundert"
+    }
+  }
+}

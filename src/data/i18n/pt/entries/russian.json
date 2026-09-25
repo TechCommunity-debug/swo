@@ -1,0 +1,691 @@
+{
+  "blyad": {
+    "definitions": [
+      { "text": "Uma das quatro raízes do мат e, de longe, a mais frequente na fala. Como interjeição solta equivale a «porra» ou «merda» no sentido de «maldição» — surpresa, dor, saco cheio — e na fala masculina descuidada degrada-se em puro cacoete, jogado entre frases como se fosse uma vírgula." },
+      { "text": "Como substantivo, uma palavra extremamente chula para mulher, no nível de «puta» mas ainda mais áspera; é uma ofensa real e usada como tal. A forma reduzida бля funciona apenas como interjeição e nunca carrega esse sentido." },
+      {
+        "text": "Entenda a palavra, mas não a use. Um estrangeiro falando palavrão pesado em russo soa ou ameaçador ou ridículo, sem meio-termo.",
+        "note": "O uso em público é infração administrativa desde 2014 e sua transmissão em rádio e TV é proibida; por escrito, a raiz costuma aparecer como б***."
+      }
+    ],
+    "examples": {
+      "0": { "translation": "Merda, esqueci a chave dentro do carro.", "context": "O uso padrão: uma reação involuntária quando algo dá errado, dita para ninguém em especial." },
+      "1": { "translation": "Aí o cara chega, tipo, e fica calado.", "context": "Puro cacoete de fala. Ninguém está sendo xingado de nada; a partícula faz apenas o papel de «tipo» ou «sabe?»." }
+    },
+    "origin": {
+      "etymology": "Do eslavo eclesiástico antigo блѧдь «engano, conversa fiada», aparentado a блуд «fornicação» e a заблуждаться «enganar-se». Era vocabulário escrito comum até o século XVIII e só mais tarde tornou-se impublicável — o tabu é muito mais recente do que a palavra."
+    }
+  },
+  "pizdets": {
+    "definitions": [
+      { "text": "Catástrofe total; o fim da linha. O substantivo dá nome a uma situação sem salvação — «estamos completamente fodidos» comprimido numa palavra só." },
+      { "text": "Como interjeição, expressa espanto diante da proporção de algo, podendo ser tanto de admiração quanto de horror: пиздец как круто significa «bom pra caralho»." },
+      { "text": "Como intensificador antes de um adjetivo significa simplesmente «extremamente», sem nenhum desastre implícito — o uso mais comum da palavra na fala dos jovens." }
+    ],
+    "examples": {
+      "0": { "translation": "Pronto, já era, deu merda total." },
+      "1": { "translation": "Tem uma fila monstruosa lá.", "context": "Aqui funciona puramente como intensificador. Nada deu errado; a fila só é grande demais." }
+    },
+    "origin": {
+      "etymology": "De пизда (palavra-tabu para a vulva) mais o sufixo agentivo -ец, que em russo forma com facilidade substantivos de desfecho definitivo — compare com os eufemismos капец e кранты, construídos pelo mesmo molde."
+    }
+  },
+  "khuy": {
+    "definitions": [
+      { "text": "A palavra-tabu para o pênis e a raiz mais produtiva de todo o idioma: dezenas de palavras cotidianas são formadas a partir dela, a maioria sem nenhuma relação com anatomia." },
+      { "text": "Na expressão иди на хуй, é o jeito padrão de mandar alguém pastar, equivalente a «vai tomar no cu» ou «vai se foder», porém um grau mais agressivo. ни хуя significa «porra nenhuma», до хуя é «pra caramba / um monte», e хуйня é «porcaria, besteira»." },
+      {
+        "text": "Está listada aqui porque os derivados abaixo não podem ser explicados sem ela, e não porque quem estuda russo tenha qualquer motivo para dizê-la.",
+        "note": "A raiz costuma ser grafada х** ou substituída por хрен em qualquer situação em que o falante esteja medindo as palavras."
+      }
+    ],
+    "examples": {
+      "0": { "translation": "Ah, vai se foder.", "context": "Uma ofensa séria entre homens, não uma brincadeira. Espere que encerre a conversa ou comece uma briga." },
+      "1": { "translation": "Ele não fez absolutamente porra nenhuma." }
+    },
+    "origin": {
+      "etymology": "De origem eslava, muito provavelmente da mesma raiz de хвоя «agulha de pinheiro», através de um sentido antigo de broto pontiagudo. A história repetida à exaustão de que seria uma sigla ou um empréstimo tártaro é etimologia popular sem fundamento."
+    }
+  },
+  "okhuyet": {
+    "definitions": [
+      { "text": "Ficar completamente passado ou de queixo caído com algo. Como interjeição isolada, охуеть equivale a «puta que pariu» — e, tal como em português, serve tanto para o magnífico quanto para o medonho." },
+      { "text": "Na segunda pessoa é uma acusação: ты охуел? significa «você perdeu a noção? / ficou maluco?», dito a quem passou muito dos limites." },
+      { "text": "O adjetivo derivado охуенный é diretamente positivo — «foda demais, sensacional» —, o que pega de surpresa quem imagina que tudo o que vem dessa raiz seja necessariamente um insulto." }
+    ],
+    "examples": {
+      "0": { "translation": "Quase caí para trás quando vi a conta." },
+      "1": { "translation": "Você perdeu completamente o juízo?", "context": "Confrontacional. É a frase dita imediatamente antes de uma briga, não uma piada entre amigos." }
+    },
+    "origin": {
+      "etymology": "O prefixo о- (que indica mudança de estado, como em оглохнуть «ficar surdo») aplicado à raiz хуй. O padrão é regular: as raízes do мат recebem prefixos e sufixos russos normais e se comportam exatamente como qualquer outro verbo."
+    }
+  },
+  "pokhuy": {
+    "definitions": [
+      { "text": "Não estar nem aí; cagar e andar para algo. A construção é impessoal — мне похуй, «para mim tanto faz» — e expressa uma recusa ativa a se importar, mais do que simples indiferença." },
+      { "text": "Também define uma postura de vida, e não só uma reação: жить похуй descreve quem parou de ligar para o que os outros pensam, o que em certos círculos funciona como elogio." }
+    ],
+    "examples": {
+      "0": { "translation": "Tô cagando para o que eles pensam." },
+      "1": { "translation": "Ele não dá a mínima para nada.", "context": "A versão educada troca por пофиг ou всё равно, que é o que se diz na frente dos pais de qualquer pessoa." }
+    },
+    "origin": {
+      "etymology": "A preposição по mais a raiz do мат, seguindo o modelo de по барабану e по фигу — toda uma família de expressões de «para mim dá na mesma» formadas por uma preposição e um substantivo em escala decrescente de grosseria."
+    }
+  },
+  "zayebal": {
+    "definitions": [
+      { "text": "Você já me encheu o saco; não aguento mais você. Sempre no passado com quem incomoda como sujeito — ты заебал — e sempre referindo-se a uma irritação acumulada, não a um erro isolado." },
+      { "text": "O reflexivo заебался significa «estou morto de cansaço», sem nenhuma agressividade: um pedreiro dizendo я заебался no fim do expediente está falando das próprias costas, e não reclamando de alguém." }
+    ],
+    "examples": {
+      "0": { "translation": "Você já me torrou a paciência com essas perguntas." },
+      "1": { "translation": "Acabei o dia moído hoje, sem forças para nada.", "context": "Dito sobre si mesmo, expressa exaustão e não raiva — mas continua sendo мат e continua impublicável no ambiente de trabalho." }
+    },
+    "origin": {
+      "etymology": "O prefixo perfetivo за- sobre o verbo do мат ебать. O prefixo traz a ideia de uma ação levada até a exaustão, exatamente como no verbo perfeitamente polido заговорить «cansar alguém de tanto falar»."
+    }
+  },
+  "nayebat": {
+    "definitions": [
+      { "text": "Passar a perna; dar um golpe em alguém levando seu dinheiro ou descumprindo o combinado. Mais forte e mais revoltado do que кинуть, deixando claro que quem fala considera a trapaça deliberada e pessoal." },
+      { "text": "O verbo suavizado обмануть é o termo neutro, e o quase idêntico надуть («inflar») é o substituto publicável a que quase todo mundo recorre em ambientes mistos." }
+    ],
+    "examples": {
+      "0": { "translation": "Passaram a perna na gente em vinte mil lá." },
+      "1": { "translation": "A mim você não engana." }
+    },
+    "origin": {
+      "etymology": "Prefixo на- sobre ебать. A metáfora do sexo como trapaça é antiga e comum a várias línguas — o português «foder alguém» funciona da mesma maneira —, mas em russo a derivação é transparente para qualquer falante."
+    }
+  },
+  "mudak": {
+    "definitions": [
+      { "text": "Um babaca desprezível — muito próximo de «cuzão» ou «escroto» tanto no peso quanto no uso. A acusação não é tanto de burrice, mas de agir de forma mesquinha ou inconveniente sem nem perceber." },
+      { "text": "Tecnicamente não pertence às quatro raízes do мат, motivo pelo qual escapa em jornais e na TV onde пиздец jamais entraria, mas é inequivocamente um insulto e bate como tal." }
+    ],
+    "examples": {
+      "0": { "translation": "Nosso chefe é um babaca de marca maior." },
+      "1": { "translation": "Deixa de ser escroto e pede desculpa." }
+    },
+    "origin": {
+      "etymology": "De муде, palavra arcaica para os testículos, ainda viva em dialetos regionais. A versão frequentemente repetida de que viria de uma raiz sânscrita ou mongol é pura invenção."
+    }
+  },
+  "khernya": {
+    "definitions": [
+      { "text": "Porcaria; bobagem; coisa sem valor. Usado tanto para conversa fiada quanto para objetos que o falante não se dá ao trabalho de nomear — «essa tralha aí»." },
+      { "text": "É o substituto suavizado de хуйня, um degrau mais leve: херня é a palavra que alguém solta no escritório diante dos colegas, enquanto хуйня é a que sai depois que a porta se fecha." }
+    ],
+    "examples": {
+      "0": { "translation": "Nem perde tempo lendo isso, é pura besteira." },
+      "1": { "translation": "Que troço é esse aí dentro da sua bolsa?", "context": "Desdenhoso, mas sem hostilidade; usado o tempo todo para objetos cujo nome foge na hora." }
+    },
+    "origin": {
+      "etymology": "De хер, o antigo nome da letra cirílica Х, que virou um jeito polido de aludir à palavra do мат que começa com ela. Com o tempo, o próprio eufemismo endureceu até ficar bem próximo do que tentava evitar.",
+      "firstAttested": "século XIX"
+    }
+  },
+  "blin": {
+    "literalMeaning": "panqueca",
+    "definitions": [
+      { "text": "Droga; poxa vida; caramba. O palavrão leve mais comum do russo e aquele que estrangeiros podem usar sem medo — professoras dizem, avós dizem, aparece até em desenhos infantis." },
+      { "text": "Assim como a palavra-tabu que lhe deu origem, também funciona como muletilla solta no meio da frase, onde não significa nada além de marcar o tom como informal." }
+    ],
+    "examples": {
+      "0": { "translation": "Droga, esqueci o carregador de novo." },
+      "1": { "translation": "Bom, poxa, nem sei o que te dizer.", "context": "Uso como cacoete de fala. Colocar um блин por frase é o atalho mais rápido para soar coloquial em vez de livro didático." }
+    },
+    "origin": {
+      "etymology": "A palavra comum para panqueca (blini), escolhida porque começa com os mesmos dois sons de блядь — o mesmo princípio de substituição de «puxa» ou «quarta-feira» em português. O disfarce é óbvio para todo mundo e não incomoda ninguém."
+    }
+  },
+  "kapets": {
+    "definitions": [
+      { "text": "Desastre; já era, acabou tudo. O substituto publicável de пиздец, moldado com o mesmo formato sonoro para encaixar nas mesmas frases sem alterar o ritmo." },
+      { "text": "Também funciona como intensificador exatamente do mesmo jeito: капец как холодно quer dizer «um frio absurdo». Falantes mais jovens o preferem a пиздец em qualquer ambiente misto." }
+    ],
+    "examples": {
+      "0": { "translation": "Ferrou, quebrei a tela do celular." },
+      "1": { "translation": "As coisas lá são absurdamente caras." }
+    },
+    "origin": {
+      "etymology": "Formado sobre капут (do alemão kaputt) com a terminação -ец copiada de пиздец. Um eufemismo projetado sob medida para soar parecido com a palavra que substitui, princípio clássico dessa família de termos."
+    }
+  },
+  "ofiget": {
+    "definitions": [
+      { "text": "Ficar impressionado ou boquiaberto; como interjeição, «caramba» ou «não brinca». O paralelo limpo de охуеть, formado trocando a raiz do мат pela sílaba inofensiva фиг." },
+      { "text": "O adjetivo derivado офигенный significa «sensacional, incrível» e é a maneira corriqueira de elogiar algo com entusiasmo na frente de qualquer pessoa." }
+    ],
+    "examples": {
+      "0": { "translation": "Caramba, você construiu isso sozinho?" },
+      "1": { "translation": "O tempo está maravilhoso — vamos para o lago." }
+    },
+    "origin": {
+      "etymology": "A raiz фиг, uma sílaba inócua adotada especificamente para substituir a raiz do мат, somada ao mesmo prefixo о-. O russo fabrica eufemismos mantendo toda a estrutura morfológica e trocando apenas o radical ofensivo."
+    }
+  },
+  "zhest": {
+    "literalMeaning": "folha de flandres, lata",
+    "definitions": [
+      { "text": "Sinistro; pesado; barra-pesada. Dito de qualquer coisa dura o bastante para ser difícil de encarar — uma notícia trágica, um plantão exaustivo, um filme de terror." },
+      { "text": "Como reação de uma palavra só, significa «que tenso / que pesado», e entre falantes mais jovens também ganhou tom de admiração por qualquer coisa extrema, boa ou ruim." }
+    ],
+    "examples": {
+      "0": { "translation": "O vídeo do acidente é muito pesado." },
+      "1": { "translation": "Foi pedreira, claro, mas eles deram conta." }
+    },
+    "origin": {
+      "etymology": "O substantivo para folha de flandres ou chapa metálica, reinterpretado sob a influência de жёсткий «duro, severo». Espalhou-se pelos fóruns de internet do início dos anos 2000 antes de chegar à fala cotidiana.",
+      "firstAttested": "anos 2000"
+    }
+  },
+  "krinzh": {
+    "definitions": [
+      { "text": "Cringe; vergonha alheia — o constrangimento específico de assistir a alguém passando recibo ou se humilhando sem perceber. Emprestado diretamente do inglês da internet por volta de 2020." },
+      { "text": "Totalmente naturalizado na gramática russa: declina como substantivo normal e gera o adjetivo кринжовый e o verbo кринжевать. Qualquer pessoa acima dos trinta e cinco anos usando a palavra geralmente está imitando os filhos." }
+    ],
+    "examples": {
+      "0": { "translation": "Vi os stories dele — que vergonha alheia." },
+      "1": { "translation": "Não faz isso, é muito mico." }
+    },
+    "origin": {
+      "etymology": "Do inglês cringe, importado através de comentários do YouTube e do TikTok e não pelo inglês escrito, motivo pelo qual já chegou com o sentido de vergonha alheia da internet em vez do sentido físico de se encolher.",
+      "firstAttested": "por volta de 2019"
+    }
+  },
+  "bespredel": {
+    "literalMeaning": "sem limites",
+    "definitions": [
+      { "text": "Terra sem lei; abuso total sem freio de espécie alguma. Aplicado à polícia, a autoridades, a proprietários de imóveis ou a patrões — qualquer um que aja como se nenhuma regra valesse para ele." },
+      { "text": "Um dos exemplos mais claros do vocabulário dos campos prisionais entrando na língua geral: no submundo carcerário nomeava uma infração específica, a quebra do próprio código dos ladrões, e manteve esse tom de pacto rompido mais do que de lei estatal violada." }
+    ],
+    "examples": {
+      "0": { "translation": "Isso já não é fiscalização, é um abuso descarado." },
+      "1": { "translation": "Nos anos noventa isso aqui era terra sem lei.", "context": "Os anos 1990 são a década natal da palavra, e ela continua perfeitamente em casa ao descrevê-los." }
+    },
+    "origin": {
+      "etymology": "Gíria carcerária do sistema penal soviético, de без предела «sem limite». Passou para o russo cotidiano no fim dos anos 1980 e tornou-se uma das palavras definidoras da década seguinte.",
+      "firstAttested": "gíria dos campos soviéticos; uso geral desde o fim dos anos 1980"
+    }
+  },
+  "po-ponyatiyam": {
+    "literalMeaning": "pelos entendimentos",
+    "definitions": [
+      { "text": "Pelo código não escrito, e não pela lei formal. Dá nome ao sistema paralelo de obrigações — quem deve o quê a quem, o que conta como justo — pelo qual o submundo do crime se regia e que os russos adotaram para descrever regras informais em qualquer ambiente." },
+      { "text": "Hoje é usado meio em tom de brincadeira em escritórios e entre amigos para qualquer acordo resolvido no costume em vez do contrato, mas o peso original ainda é audível." }
+    ],
+    "examples": {
+      "0": { "translation": "Lá eles não resolvem nada pela lei, só pelas regras não escritas." },
+      "1": { "translation": "Assim não vale, a gente tinha combinado outra coisa.", "context": "Entre amigos soa brincalhão. Dito na companhia errada, é uma cobrança séria." }
+    },
+    "origin": {
+      "etymology": "Vocabulário central da фе́ня — o jargão dos campos soviéticos — onde понятия eram o código de honra obrigatório dos ladrões, explicitamente oposto à lei do Estado. A expressão entrou na fala geral nos anos 1990 junto com os homens que a aprenderam na prisão."
+    }
+  },
+  "ksiva": {
+    "definitions": [
+      { "text": "Documentos; carteira funcional ou credencial, especialmente uma oficial que abre portas ou livra você de uma abordagem. Dito com certa malícia — uma ксива é documento usado como carteirada, não como simples identificação." },
+      { "text": "Muito comum em meios policiais, militares e de segurança, e reconhecido na hora por qualquer pessoa graças a três décadas de séries policiais na TV." }
+    ],
+    "examples": {
+      "0": { "translation": "Ele puxou a credencial e deixaram a gente passar na hora." },
+      "1": { "translation": "Sem documento oficial você não entra lá." }
+    },
+    "origin": {
+      "etymology": "Do hebraico כתיבה ktiva «escrita», passando pelo iídiche até o jargão do submundo de Odessa que abasteceu a фе́ня. Boa parte da gíria criminal russa mais antiga percorreu exatamente esse caminho."
+    }
+  },
+  "frayer": {
+    "definitions": [
+      { "text": "Originalmente, no jargão dos campos, qualquer pessoa de fora do mundo do crime — um civil e, por extensão, uma presa fácil. Esse sentido sobrevive no provérbio жадность фраера сгубила, «a ganância foi a ruína do otário»." },
+      { "text": "Na fala geral de hoje significa um sujeito cheio de marra e pose que não é tão durão quanto pensa. Soa datado e é ouvido sobretudo de pessoas mais velhas ou como estilo de época deliberado." }
+    ],
+    "examples": {
+      "0": { "translation": "Anda cheio de marra como se fosse o tal, mas não garante nada." },
+      "1": { "translation": "A ganância foi a perdição do otário.", "context": "Um ditado fixo, usado muito além de qualquer contexto criminal — é o que se diz quando alguém cresce o olho demais e perde tudo." }
+    },
+    "origin": {
+      "etymology": "Do iídiche frayer, em última instância do alemão Freier «pretendente, homem livre», que na gíria carcerária passou a designar a pessoa em liberdade — isto é, quem não é detento — e, portanto, uma vítima em potencial."
+    }
+  },
+  "stukach": {
+    "definitions": [
+      { "text": "Um dedo-duro; um X-9; um informante. Uma das acusações mais pesadas do idioma, carregando nas costas todo o peso histórico do século soviético." },
+      { "text": "Aplica-se muito além da esfera policial — ao colega que entrega você para a chefia ou ao aluno que dedura a turma para o professor —, mas nunca de forma leviana e jamais como piada entre pessoas que não têm muita intimidade." }
+    ],
+    "examples": {
+      "0": { "translation": "Apareceu um X-9 no nosso setor." },
+      "1": { "translation": "Ele dedurava o próprio pessoal." }
+    },
+    "origin": {
+      "etymology": "De стучать «bater, dar batidinhas» — o delator bate na porta das autoridades. O verbo стучать на кого-то («dedurar alguém») é tão comum quanto o substantivo e igualmente condenatório."
+    }
+  },
+  "kosyak": {
+    "literalMeaning": "batente de porta",
+    "definitions": [
+      { "text": "Uma pisada de bola; uma mancada ou erro pelo qual alguém tem culpa. O verbo накосячить significa dar uma mancada, e косячить é viver fazendo besteira." },
+      { "text": "Separadamente e num sentido bem mais específico, um baseado de maconha — o contexto sempre deixa claro qual é qual, e os dois sentidos raramente se confundem." }
+    ],
+    "examples": {
+      "0": { "translation": "Essa falha foi minha, eu não conferi." },
+      "1": { "translation": "Ele fez besteira no relatório de novo." }
+    },
+    "origin": {
+      "etymology": "Jargão dos campos prisionais, onde допустить косяк significava cometer uma infração ao código. O uso cotidiano perdeu toda essa carga e significa simplesmente um erro que alguém precisa assumir."
+    }
+  },
+  "zashkvar": {
+    "definitions": [
+      { "text": "Algo vergonhoso, indigno, que queima o filme de quem chega perto. Na boca de adolescentes equivale a «que mico / que decadência» e aplica-se a roupas, músicas e opiniões." },
+      { "text": "A origem é genuinamente pesada e convém conhecê-la: na gíria das prisões, зашквариться significa ficar irremediavelmente contaminado pelo contato com a casta mais baixa de detentos. A maioria dos adolescentes que usa a palavra não faz ideia disso." }
+    ],
+    "examples": {
+      "0": { "translation": "Sair na rua vestindo isso é queimar o filme demais." },
+      "1": { "translation": "Não pega mal fazer bico para aquele pessoal?" }
+    },
+    "origin": {
+      "etymology": "Da gíria carcerária зашкварить, por sua vez de шкварка «torresmo, gordura queimada» — a imagem é a de se queimar e ficar marcado para sempre. Chegou à fala jovem geral através do rap e das batalhas de rima por volta de 2015.",
+      "firstAttested": "uso geral desde meados dos anos 2010"
+    }
+  },
+  "lokh": {
+    "definitions": [
+      { "text": "Um otário; um trouxa; alguém fácil de passar para trás e que nem percebe o golpe chegando. A ofensa aponta para a ingenuidade e a fraqueza social, mais do que para a falta de inteligência." },
+      { "text": "Uma palavra definidora dos anos 1990, quando o país inteiro estava levando calote em esquemas financeiros e ninguém queria ser o trouxa que caiu. Continua atual e continua ardendo." }
+    ],
+    "examples": {
+      "0": { "translation": "Que é isso, está achando que eu tenho cara de otário?" },
+      "1": { "translation": "Me enrolaram direitinho feito um trouxa." }
+    },
+    "origin": {
+      "etymology": "Do jargão de mascates itinerantes, em que лох era o camponês fácil de enganar; há também uma palavra dialetal do norte, лох, para o salmão após a desova, lerdo e fácil de pescar. Ambos alimentam a mesma imagem, de onde o jargão dos campos a recolheu."
+    }
+  },
+  "gopnik": {
+    "definitions": [
+      { "text": "Um jovem de conjunto habitacional periférico que anda de agasalho esportivo, fica de cócoras apoiado nos calcanhares e pede cigarro a quem passa num tom que não é exatamente uma pergunta." },
+      { "text": "Tanto um insulto de classe quanto uma descrição, é o arquétipo social russo mais famoso fora do país — embora o meme no exterior o tenha transformado em fantasia folclórica, enquanto na Rússia ainda nomeia alguém por quem você atravessaria a rua para evitar." }
+    ],
+    "examples": {
+      "0": { "translation": "Tem uns trombadinhas parados lá no pátio, não passa por ali." },
+      "1": { "translation": "Se arrumou igual a um mano de periferia indo para a balada." }
+    },
+    "origin": {
+      "etymology": "De forma mais convincente, da sigla ГОП da Petrogrado pós-revolucionária, um albergue estatal para indigentes cujos moradores deram origem ao termo; a derivação do verbo гопать é secundária. A associação com o agasalho da Adidas vem dos anos 1990 e não tem relação com a origem.",
+      "firstAttested": "anos 1920; sentido atual desde os anos 1980"
+    }
+  },
+  "ment": {
+    "definitions": [
+      { "text": "Um tira; um cana. É desrespeitoso, mas tão difundido que uma longeva série de TV sobre detetives honestos se chamava Менты — o que tirou boa parte do veneno da palavra sem apagá-lo de todo." },
+      { "text": "Dizer isso na cara de um policial é pedir para arrumar encrenca; dizer entre amigos não faz ninguém piscar. As palavras neutras são полицейский e, ainda por força do hábito soviético, милиционер." }
+    ],
+    "examples": {
+      "0": { "translation": "Os tiras pararam a gente na saída da cidade." },
+      "1": { "translation": "Fala baixo, tem polícia aqui do lado." }
+    },
+    "origin": {
+      "etymology": "Do jargão do oeste do Império Russo, onde mente designava a capa de estilo húngaro usada pela polícia austro-húngara; entrou na фе́ня através do polonês. As histórias de siglas que circulam na internet são invenções."
+    }
+  },
+  "fleksit": {
+    "definitions": [
+      { "text": "Ostentar; tirar onda — com dinheiro, roupa de marca ou viagem. Emprestado da gíria do rap americano e adaptado com infinitivo russo padrão, conjugando-se como qualquer verbo nativo: флексю, флексишь, флексил." },
+      { "text": "Um sentido secundário de «dançar, curtir o som solto» entrou ao mesmo tempo e sobrevive principalmente em letras de música." }
+    ],
+    "examples": {
+      "0": { "translation": "Lá vem ele ostentando o tênis novo de novo." },
+      "1": { "translation": "Para de tirar onda, todo mundo já entendeu." }
+    },
+    "origin": {
+      "etymology": "Do inglês to flex, chegado pelo hip-hop por volta de 2017 e imediatamente equipado com o sufixo -ить que o russo aplica a quase todo verbo importado — a mesma engrenagem que produziu гуглить e лайкнуть.",
+      "firstAttested": "final dos anos 2010"
+    }
+  },
+  "chuvak": {
+    "definitions": [
+      { "text": "Cara; bicho; maluco. Usado tanto para se referir a um homem quanto como vocativo entre amigos, tendo чувиха como equivalente feminino — embora чувиха soe mais rude e mais datado do que чувак." },
+      { "text": "Carrega um leve charme retrô em vez de soar como gíria adolescente atual; um russo de vinte anos tem muito mais chance de dizer бро ou братан." }
+    ],
+    "examples": {
+      "0": { "translation": "Cara, onde é que você se meteu?" },
+      "1": { "translation": "Um sujeito lá disse que o escritório estava fechado." }
+    },
+    "origin": {
+      "etymology": "Da subcultura стиляги dos anos 1950, provavelmente a partir de um termo dialetal para um animal castrado. O retroacrônimo «человек, уважающий великую американскую культуру» («pessoa que respeita a grande cultura americana») é uma piada famosa inventada décadas depois, e não uma etimologia.",
+      "firstAttested": "anos 1950"
+    }
+  },
+  "bratan": {
+    "definitions": [
+      { "text": "Mano; parceiro; irmão. Aumentativo de брат «irmão», usado para chamar um amigo próximo ou, de forma calculada, um desconhecido que você quer manter do seu lado." },
+      { "text": "O tom depende inteiramente de quem diz. Entre amigos é afetuoso; vindo de um estranho na rua à noite é uma tática de intimidação, e a associação com os mafiosos dos anos 1990 continua bem viva." }
+    ],
+    "examples": {
+      "0": { "translation": "Mano, quebra essa para mim e me dá uma carona até em casa." },
+      "1": { "translation": "Ô parceiro, não tem um cigarro aí?", "context": "Frase clássica de abertura de uma abordagem de rua. A falsa simpatia faz parte da técnica." }
+    },
+    "origin": {
+      "etymology": "брат mais o sufixo aumentativo -ан, um padrão produtivo no russo informal. Sua conotação ligada ao submundo vem do uso nos anos 1990 pelo crime organizado, onde братва dava nome à quadrilha."
+    }
+  },
+  "davay": {
+    "literalMeaning": "dá (imperativo de dar)",
+    "definitions": [
+      { "text": "A despedida informal padrão ao telefone: «então tá, falou, até mais». Muitas vezes duplicada — давай-давай — e quase sempre a última palavra antes de desligar." },
+      { "text": "Em outros contextos significa «vai lá, manda ver» ou «bora», e como давай + infinitivo forma a construção cotidiana de convite: давай посмотрим, «vamos dar uma olhada»." }
+    ],
+    "examples": {
+      "0": { "translation": "Então fechou, falou, até amanhã." },
+      "1": { "translation": "Vai lá, você consegue." }
+    },
+    "origin": {
+      "etymology": "O imperativo de давать «dar», esvaziado de seu sentido literal. O uso como despedida é uma peculiaridade russa que intriga estudantes estrangeiros, que escutam ali uma ordem para entregar alguma coisa."
+    }
+  },
+  "babki": {
+    "literalMeaning": "velhinhas; ossinhos de jogo",
+    "definitions": [
+      { "text": "Grana; bufunfa; dinheiro vivo. A gíria para dinheiro mais consolidada do russo, usada apenas no plural e neutra o suficiente para aparecer em conversas de negócios perfeitamente sérias." },
+      { "text": "Soa um pouco mais pesada e de uma geração anterior do que бабло, que os falantes mais jovens preferem." }
+    ],
+    "examples": {
+      "0": { "translation": "A grana na frente, o serviço depois." },
+      "1": { "translation": "Ele levantou uma boa grana com esse negócio." }
+    },
+    "origin": {
+      "etymology": "De бабки, os ossinhos de tornozelo de carneiro usados como peças e apostas num jogo infantil tradicional — a mesma rota pela qual bones e chips viraram dinheiro em inglês. A leitura «avós / velhinhas» é mera coincidência de homonímia."
+    }
+  },
+  "lave": {
+    "definitions": [
+      { "text": "Dinheiro, especialmente dinheiro na mão. Mais chamativo do que бабки e fortemente associado a letras de rap, comércio de rua e a quem quer exibir certa malandragem." },
+      { "text": "É indeclinável, o que o entrega imediatamente como estrangeirismo e mantém nele um ar levemente exótico até hoje." }
+    ],
+    "examples": {
+      "0": { "translation": "A gente está com grana — bora para um lugar decente." },
+      "1": { "translation": "Ele só pensa em dinheiro o dia inteiro." }
+    },
+    "origin": {
+      "etymology": "Do romani love «dinheiro», tendo entrado no russo pelo mesmo canal de comerciantes ambulantes e submundo que forneceu лох. É genuinamente um empréstimo cigano, ao contrário da maioria das palavras a que se atribui essa origem."
+    }
+  },
+  "khalyava": {
+    "definitions": [
+      { "text": "Boca-livre; algo conseguido de graça. на халяву significa «na faixa, sem ter precisado pagar ou suar por isso», e a expressão carrega uma simpatia nacional inconfundível — as piadas russas sobre халява são afetuosas, não moralistas." },
+      { "text": "O derivado халявщик designa o folgado que só aparece quando tem coisa de graça, e essa palavra, sim, é um insulto direto." }
+    ],
+    "examples": {
+      "0": { "translation": "De graça, até vinagre é doce.", "context": "Um ditado que todo russo conhece de cor, equivalente ao nosso «de graça até injeção na testa»." },
+      "1": { "translation": "Ele se acostumou a ganhar tudo de mão beijada." }
+    },
+    "origin": {
+      "etymology": "Provavelmente do hebraico חלב chalav «leite», em referência ao leite distribuído gratuitamente no sabá, embora a derivação de халява «cano largo de bota» — ótimo esconderijo para o que se leva sem pagar — seja pelo menos tão plausível quanto. Ambas são disputadas."
+    }
+  },
+  "bukhat": {
+    "definitions": [
+      { "text": "Encher a cara; beber pesado, por horas e com esse objetivo declarado. Não é a palavra para uma taça de vinho no jantar; бухать descreve uma noite cuja finalidade é a bebedeira." },
+      { "text": "Direto e cru, mas sem ser obsceno. Dito sobre si mesmo tem um tom levemente autodepreciativo; dito repetidamente sobre outra pessoa é uma acusação." }
+    ],
+    "examples": {
+      "0": { "translation": "Eles passaram a semana inteira enchendo a cara na dacha." },
+      "1": { "translation": "Chega de beber, amanhã você trabalha cedo." }
+    },
+    "origin": {
+      "etymology": "De бухать «dar um baque surdo, estrondar», pelo barulho da garrafa batendo na mesa ou do corpo caindo no chão. O substantivo бухло «goró» e o agente бухарик («beberrão») vêm da mesma raiz."
+    }
+  },
+  "bukhlo": {
+    "definitions": [
+      { "text": "Goró; birita; bebida alcoólica em geral. Um substantivo coletivo que abarca qualquer álcool que tenham trazido para a festa, sem o menor interesse pela qualidade ou pelo rótulo." },
+      { "text": "É a palavra padrão na hora de dividir quem leva o quê para uma resenha: ты за бухло, я за закуску («você cuida do goró, eu levo os tira-gostos»)." }
+    ],
+    "examples": {
+      "0": { "translation": "A gente passa e compra a bebida no caminho." },
+      "1": { "translation": "Comida tem de sobra, mas não tem nada para beber." }
+    },
+    "origin": {
+      "etymology": "De бухать com o sufixo coletivo -ло, a mesma formação de барахло «tralha,cacarecos». O sufixo traz embutida uma nota de desprezo bem-humorado pelo volume de coisas que nomeia."
+    }
+  },
+  "bodun": {
+    "definitions": [
+      { "text": "Ressaca brava, sempre usada na locução fixa с бодуна — «de ressaca». O substantivo comum похмелье é o termo neutro; бодун é o que de fato se diz na manhã seguinte." },
+      { "text": "Estritamente coloquial e com um toque meio cômico, razão pela qual sobrevive tão bem: permite admitir o estrago sem parecer que está fazendo drama." }
+    ],
+    "examples": {
+      "0": { "translation": "Hoje estou de ressaca brava, nem encosta em mim." },
+      "1": { "translation": "Com uma ressaca dessas é impossível trabalhar." }
+    },
+    "origin": {
+      "etymology": "De бодать «dar chifrada, marrar», imaginando a ressaca como um bicho que dá cabeçadas em você. A forma cristalizou-se no genitivo: ninguém usa o nominativo бодун isolado."
+    }
+  },
+  "tusa": {
+    "definitions": [
+      { "text": "Uma festa, uma resenha, um rolê — e também a galera que frequenta o lugar. тусовка significa além disso um meio social ou panelinha: театральная тусовка é o mundinho do teatro." },
+      { "text": "O verbo тусить significa dar rolê ou curtir junto, sem precisar necessariamente de festa: тусим дома é passar uma noite tranquila em casa com os amigos." }
+    ],
+    "examples": {
+      "0": { "translation": "Hoje à noite vai ter resenha na casa do Liokha, aparece lá." },
+      "1": { "translation": "Ficamos de bobeira no parque o dia inteiro." }
+    },
+    "origin": {
+      "etymology": "De тасовать «embaralhar cartas» — a festa vista como uma sala cheia de gente sendo misturada. Surgiu nos círculos jovens e musicais do fim da era soviética e continua atual há quarenta anos, uma longevidade rara para gíria de balada.",
+      "firstAttested": "anos 1980"
+    }
+  },
+  "chilit": {
+    "definitions": [
+      { "text": "Relaxar; ficar de boa sem fazer nada de forma deliberada e prazerosa. Conjuga-se por completo — чилю, чилишь, почилим — e praticamente desbancou отдыхать entre os menores de trinta anos no sentido de descansar." },
+      { "text": "Falantes mais velhos se irritam com a palavra justamente porque ela substitui um verbo nativo perfeitamente bom, que é a reclamação clássica contra toda essa safra de anglicismos." }
+    ],
+    "examples": {
+      "0": { "translation": "Passei o fim de semana inteiro só de boa em casa." },
+      "1": { "translation": "Vamos relaxar em algum lugar tranquilo." }
+    },
+    "origin": {
+      "etymology": "Do inglês to chill, adaptado com a desinência de infinitivo russa -ить. O russo absorve verbos estrangeiros por sufixação em vez de locuções, de modo que todo verbo importado já nasce totalmente conjugável — motivo pelo qual essa camada soa nativa em questão de meses.",
+      "firstAttested": "anos 2010"
+    }
+  },
+  "khavchik": {
+    "definitions": [
+      { "text": "Bóia; rango; comida rápida para matar a fome. Trata comida puramente como combustível — ninguém chama um jantar de restaurante de хавчик." },
+      { "text": "O verbo хавать significa comer com a mesma falta de cerimônia e, no sentido figurado, engolir qualquer conversa: хавает всё подряд quer dizer «acredita em qualquer lorota»." }
+    ],
+    "examples": {
+      "0": { "translation": "Tem algum rango aí para comer?" },
+      "1": { "translation": "Pegamos qualquer coisa para comer e caímos na estrada." }
+    },
+    "origin": {
+      "etymology": "Do jargão carcerário хавать «comer», por sua vez provavelmente de origem romani. O sufixo diminutivo -чик suaviza a palavra até deixá-la quase caseira, garantindo sua sobrevivência na fala estudantil e de escritório."
+    }
+  },
+  "krash": {
+    "definitions": [
+      { "text": "O crush; a pessoa por quem você tem uma queda — repare na mudança: em russo a palavra nomeia a pessoa desejada, e nunca o sentimento em si. мой краш significa «a pessoa de quem eu gosto»." },
+      { "text": "Vocabulário estritamente abaixo dos vinte e cinco anos, muito ligado a fandoms e ao TikTok. Usar isso acima dessa faixa etária já funciona por si só como piada." }
+    ],
+    "examples": {
+      "0": { "translation": "Ele é o meu crush desde a época da escola." },
+      "1": { "translation": "Ela ficou caidinha por ele em menos de uma semana.", "context": "O verbo derivado крашнуться existe, mas é mais raro e soa 100% internetês." }
+    },
+    "origin": {
+      "etymology": "Do inglês crush, emprestado via fandoms de K-pop e TikTok por volta de 2019, já trazendo a mudança de sentido de sentimento para pessoa pelo modo como fãs usam o termo para falar de celebridades.",
+      "firstAttested": "por volta de 2019"
+    }
+  },
+  "zamutit": {
+    "definitions": [
+      { "text": "Ficar ou desenrolar algo com alguém — começar um lance, geralmente casual. Constrói-se como замутить с кем-то, e o substantivo мутки dá nome ao rolo amoroso resultante." },
+      { "text": "Também usado fora de qualquer contexto romântico: замутить бизнес, замутить вечеринку — armar, organizar ou tirar um projeto do papel. A ideia comum é pôr algo para rodar de maneira informal e meio oportunista." }
+    ],
+    "examples": {
+      "0": { "translation": "Eles começaram um rolo lá no trabalho, todo mundo já sabe." },
+      "1": { "translation": "Vamos armar alguma coisa para o fim de semana." }
+    },
+    "origin": {
+      "etymology": "De мутить «turvar a água, agitar». A falta de nitidez é justamente a essência da metáfora — um замут é um esquema armado por fora dos canais formais, e o sentido romântico herda essa indefinição proposital."
+    }
+  },
+  "dinamit": {
+    "definitions": [
+      { "text": "Enrolar alguém sem nunca cumprir; marcar encontro atrás de encontro e dar bolo sempre. O substantivo динамо dá nome ao hábito e динамщица à mulher que faz disso esporte." },
+      { "text": "Vai além do terreno amoroso e aplica-se a qualquer pessoa que deixe você esperando em vão — um cliente, um locador, um amigo que deve dinheiro há um ano." }
+    ],
+    "examples": {
+      "0": { "translation": "Ela já está enrolando o cara faz um mês." },
+      "1": { "translation": "Para de dar perdido e fala logo a real." }
+    },
+    "origin": {
+      "etymology": "De динамо, o dínamo elétrico: a imagem é a de uma peça que gira sem parar, gasta energia e não entrega nada que você possa segurar na mão. O uso romântico vem do final do período soviético."
+    }
+  },
+  "izi": {
+    "definitions": [
+      { "text": "Fácil; moleza; resolvido sem esforço. Usado tanto como resposta de uma palavra só a um pedido quanto para tirar onda depois de terminar algo rapidinho." },
+      { "text": "Saído diretamente da cultura de jogos online e streaming, onde изи катка significa uma partida ganha no passeio. Indeclinável, como quase todos os empréstimos mais recentes." }
+    ],
+    "examples": {
+      "0": { "translation": "Termino isso hoje mesmo, tranquilo." },
+      "1": { "translation": "A prova foi mamão com açúcar." }
+    },
+    "origin": {
+      "etymology": "O inglês easy tal como usado no chat de jogos online, transliterado para o cirílico. Entrou pelo chat de voz e não pelo texto escrito, motivo pelo qual é grafado pela pronúncia e não pela ortografia inglesa.",
+      "firstAttested": "anos 2010"
+    }
+  },
+  "vayb": {
+    "definitions": [
+      { "text": "A vibe; o clima ou a energia de um lugar, de uma música ou de uma pessoa. Usado sozinho como elogio — вайб! — e no adjetivo вайбовый, «com uma vibe boa»." },
+      { "text": "O verbo вайбовать significa entrar no clima de algo, especialmente de uma música. Vocabulário firmemente abaixo dos trinta anos e que já começa a dar sinais de desgaste." }
+    ],
+    "examples": {
+      "0": { "translation": "Esse café tem uma vibe super gostosa." },
+      "1": { "translation": "Ficamos lá sentados curtindo a vibe de uns sons antigos." }
+    },
+    "origin": {
+      "etymology": "Do inglês vibe, importado por volta de 2018 através da música e das redes sociais. O russo já tinha атмосфера para isso, e o empréstimo sobrevive porque é mais curto e identifica quem fala como jovem.",
+      "firstAttested": "final dos anos 2010"
+    }
+  },
+  "guglit": {
+    "definitions": [
+      { "text": "Dar um Google; pesquisar na internet. Totalmente naturalizado: recebe prefixos russos comuns (загуглить para uma busca rápida, погуглить para pesquisar por um tempo) e ninguém mais o sente como palavra estrangeira." },
+      { "text": "É o molde de toda uma classe de verbos — лайкнуть, репостить, забанить, скинуть в личку — pela qual o russo engole o vocabulário tecnológico em inglês por inteiro e o conjuga normalmente." }
+    ],
+    "examples": {
+      "0": { "translation": "Dá um Google aí, acha em um segundo." },
+      "1": { "translation": "Passei a noite inteira pesquisando no Google como consertar isso." }
+    },
+    "origin": {
+      "etymology": "Google mais o sufixo de infinitivo -ить. O sistema de prefixos faz o resto: os pares de aspecto em russo formam-se automaticamente em torno de qualquer raiz nova, razão pela qual verbos emprestados se integram mais rápido do que substantivos.",
+      "firstAttested": "anos 2000"
+    }
+  },
+  "tachka": {
+    "literalMeaning": "carrinho de mão",
+    "definitions": [
+      { "text": "Um carro; uma caranga ou máquina. É a palavra informal padrão para automóvel, sem nenhuma implicação sobre o estado do veículo — uma тачка pode ser tanto um lata-velha quanto uma Mercedes zero-quilômetro." },
+      { "text": "No uso mais antigo também significava táxi, e поймать тачку («pegar um carro no braço») ainda é dito por quem lembra da época em que qualquer motorista particular parava na rua por uns trocados." }
+    ],
+    "examples": {
+      "0": { "translation": "Ele financiou um carro novo." },
+      "1": { "translation": "A gente chama um carro ali na rua, é pertinho." }
+    },
+    "origin": {
+      "etymology": "A palavra comum para carrinho de mão de obra, aplicada a automóveis com deliberada modéstia irônica. O sentido de táxi vem do período em que dar sinal para motoristas comuns na avenida era o jeito normal de se locomover."
+    }
+  },
+  "khata": {
+    "literalMeaning": "casebre camponês",
+    "definitions": [
+      { "text": "O apartamento ou casa de alguém, visto como ponto de encontro. хата свободна significa que os pais viajaram e a galera toda pode colar lá — a palavra é inseparável dessa situação." },
+      { "text": "Também muito comum no sentido de casa própria em geral: своя хата, «o meu próprio canto». O provérbio моя хата с краю significa «não tenho nada a ver com isso, me deixa fora dessa»." }
+    ],
+    "examples": {
+      "0": { "translation": "No sábado a casa está livre, vamos juntar todo mundo lá em casa." },
+      "1": { "translation": "Minha casa fica na ponta da vila, não sei de nada.", "context": "Uma expressão fixa e bem afiada: acusa quem a diz de lavar as mãos de propósito." }
+    },
+    "origin": {
+      "etymology": "A antiga palavra para a casa camponesa de barro e palha, compartilhada com o ucraniano e, em última análise, de origem iraniana através da estepe. Aplicá-la a um apartamento em Moscou começou como ironia carinhosa e há muito tempo desgastou-se até virar gíria neutra."
+    }
+  },
+  "zabit": {
+    "literalMeaning": "pregar a marteladas",
+    "definitions": [
+      { "text": "Largar de mão; desencanar de alguma coisa e seguir a vida. Sempre usado com a preposição на: забить на учёбу significa «chutar o balde nos estudos»." },
+      { "text": "É o equivalente limpo e cotidiano de забить хуй, do qual é a forma truncada — motivo pelo qual ainda soa um pouco cru aos ouvidos mais velhos, mesmo que o palavrão original tenha sumido da frase há tempos." }
+    ],
+    "examples": {
+      "0": { "translation": "Desencana disso, não vale o estresse.", "context": "O imperativo забей («deixa pra lá / desencana») é um dos conselhos mais ouvidos no russo coloquial." },
+      "1": { "translation": "Ele largou a faculdade de mão ainda em março." }
+    },
+    "origin": {
+      "etymology": "Truncamento da expressão do мат забить хуй на что-то, com a palavra-tabu simplesmente omitida. Metade da camada eufemística do russo funciona assim: não por substituição, mas por supressão silenciosa."
+    }
+  },
+  "koroche": {
+    "literalMeaning": "mais curto",
+    "definitions": [
+      { "text": "Enfim; resumindo a história. Anuncia que quem está falando vai direto ao ponto — e quase sempre vem seguido de mais vários minutos de rodeio." },
+      { "text": "A muletilla mais característica do russo falado. Qualquer estudante estrangeiro que encaixe um короче por história deixa imediatamente de soar como livro didático." }
+    ],
+    "examples": {
+      "0": { "translation": "Resumindo: a gente nem chegou lá." },
+      "1": { "translation": "Bom, enfim, acabei topando." }
+    },
+    "origin": {
+      "etymology": "O grau comparativo de короткий «curto», reduzido da expressão короче говоря «falando de modo mais breve». A locução completa hoje soa formal e livresca; a palavra solta tomou conta completamente."
+    }
+  },
+  "tipa": {
+    "literalMeaning": "do tipo de",
+    "definitions": [
+      { "text": "Tipo; meio que. Suaviza uma aproximação — типа того, «algo desse tipo» — e introduz discurso indireto exatamente como o «tipo assim» em português: он типа не знал." },
+      { "text": "Também marca ceticismo e ironia: он типа врач significa «ele diz que é médico / é supostamente médico», deixando claro que quem fala não põe a mão no fogo por isso." }
+    ],
+    "examples": {
+      "0": { "translation": "Ele disse que estava meio ocupado." },
+      "1": { "translation": "É, alguma coisa desse tipo." }
+    },
+    "origin": {
+      "etymology": "O caso genitivo de тип «tipo», originalmente uma preposição formal significando «da espécie de». Sua transformação em cacoete de fala aconteceu no fim do século XX e ainda irrita os puristas da língua."
+    }
+  },
+  "kak-by": {
+    "literalMeaning": "como se",
+    "definitions": [
+      { "text": "Meio que; por assim dizer. Um atenuante que amortece o que vem depois e que, em quem abusa dele, vira um tique verbal colado a cada duas frases." },
+      { "text": "Tem um sabor social diferente de типа: как бы é a muletilla da pessoa instruída e hesitante, enquanto типа é a do jovem despojado. Muitas vezes empilham-se os dois juntos: как бы типа." }
+    ],
+    "examples": {
+      "0": { "translation": "Eu meio que não tenho nada contra, mas..." },
+      "1": { "translation": "A gente meio que já tinha deixado isso combinado." }
+    },
+    "origin": {
+      "etymology": "Uma conjunção comparativa clássica («como se») que perdeu seu sentido literal pelo uso excessivo nos anos da perestroika. Sua explosão na fala foi notada e criticada na época, tornando-a uma das muletillas mais bem documentadas da história do russo.",
+      "firstAttested": "difundido desde o fim dos anos 1980"
+    }
+  },
+  "norm": {
+    "definitions": [
+      { "text": "De boa; tudo certo; bom o bastante. A resposta padrão de esforço mínimo para «como vão as coisas?» ou «o que você achou?», e genuinamente positiva — норм não é um elogio murcho." },
+      { "text": "Nasceu como abreviação digitada e hoje é dita em voz alta o tempo todo. É indeclinável, algo incomum para um adjetivo russo e que entrega sua origem no teclado." }
+    ],
+    "examples": {
+      "0": { "translation": "— E aí, como foi o filme? — Bom, valeu a pena." },
+      "1": { "translation": "Está tudo tranquilo, não esquenta." }
+    },
+    "origin": {
+      "etymology": "Encurtamento de нормально, abreviado para ganhar velocidade nos SMS e chats dos anos 2000 e depois levado de volta para a língua falada — o mesmo caminho de ida e volta que gerou спс para спасибо e пж para пожалуйста.",
+      "firstAttested": "anos 2000"
+    }
+  }
+}

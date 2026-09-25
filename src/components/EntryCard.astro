@@ -3,6 +3,7 @@ import type { Entry } from '../lib/urls';
 import TermName from './TermName.astro';
 import { PART_OF_SPEECH_LABEL, REGISTER_LABEL } from '../data/taxonomy';
 import { DEFAULT_LOCALE, type Locale } from '../data/locales';
+import { t } from '../i18n/ui';
 
 interface Props {
   entry: Entry;
@@ -30,13 +31,11 @@ const {
 } = Astro.props;
 const { term, romanization, register, partOfSpeech, usageWarning, pronunciation } = entry.data;
 
-const pos = partOfSpeech.map((p) => PART_OF_SPEECH_LABEL[locale][p]).join(', ');
+const pos = partOfSpeech.map((p) => PART_OF_SPEECH_LABEL(locale, p)).join(', ');
 
-const moreSenses =
-  locale === 'es'
-    ? `+${senseCount - 1} ${senseCount === 2 ? 'acepción más' : 'acepciones más'}`
-    : `+${senseCount - 1} more ${senseCount === 2 ? 'sense' : 'senses'}`;
-const careLabel = locale === 'es' ? 'Úsala con cuidado' : 'Use with care';
+const strings = t(locale);
+const moreSenses = strings.moreSenses(senseCount - 1);
+const careLabel = strings.useWithCare;
 ---
 
 <article class="masonry-item">
@@ -61,7 +60,7 @@ const careLabel = locale === 'es' ? 'Úsala con cuidado' : 'Use with care';
     </div>
 
     <p class="mt-1 text-caption text-mute">
-      {pos} · {REGISTER_LABEL[locale][register]}
+      {pos} · {REGISTER_LABEL(locale, register)}
       {pronunciation?.respelling && <> · {pronunciation.respelling}</>}
     </p>
 

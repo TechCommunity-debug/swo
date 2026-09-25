@@ -9,6 +9,7 @@ import { homePath } from '../../lib/urls';
 import { needsGloss } from '../../lib/localize';
 import { PART_OF_SPEECH_LABEL, REGISTER_LABEL, USAGE_WARNING_LABEL } from '../../data/taxonomy';
 import { t } from '../../i18n/ui';
+import { localeConfig } from '../../data/locales';
 import type { EntryPageProps } from '../../lib/routes';
 
 type Props = EntryPageProps;
@@ -42,7 +43,7 @@ const gloss = needsGloss(lang, locale);
 const seo = entrySeo(d, content.definitions[0].text, country, locale);
 const path = Astro.url.pathname;
 
-const dateLocale = locale === 'es' ? 'es-ES' : 'en-GB';
+const dateLocale = localeConfig(locale).dateLocale;
 const updated = d.updatedDate.toLocaleDateString(dateLocale, {
   day: 'numeric',
   month: 'long',
@@ -111,11 +112,11 @@ const sidebarLink =
             }
             {d.pronunciation?.ipa && <span class="font-mono">{d.pronunciation.ipa}</span>}
             <span class="italic">
-              {d.partOfSpeech.map((p) => PART_OF_SPEECH_LABEL[locale][p]).join(', ')}
+              {d.partOfSpeech.map((p) => PART_OF_SPEECH_LABEL(locale, p)).join(', ')}
             </span>
             <span
               class="rounded-full bg-surface-card px-2.5 py-1 text-caption font-medium text-charcoal not-italic"
-              >{REGISTER_LABEL[locale][d.register]}</span
+              >{REGISTER_LABEL(locale, d.register)}</span
             >
             {
               d.region && d.region !== 'General' && (
@@ -145,7 +146,7 @@ const sidebarLink =
               </h2>
               <ul class="mt-2 grid gap-1 text-body-sm">
                 {d.usageWarning.map((w) => (
-                  <li>{USAGE_WARNING_LABEL[locale][w]}</li>
+                  <li>{USAGE_WARNING_LABEL(locale, w)}</li>
                 ))}
               </ul>
             </aside>

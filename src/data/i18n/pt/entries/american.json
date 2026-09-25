@@ -1,0 +1,599 @@
+{
+  "bet": {
+    "definitions": [
+      { "text": "Beleza; entendido; fechado. Uma confirmação de uma palavra só." },
+      { "text": "Dito com entonação ascendente e desafiadora: “é mesmo? então prova”.", "note": "A mesma palavra, funções opostas. Toda a distinção está na entonação." }
+    ],
+    "examples": {
+      "0": { "translation": "“Me encontra às sete.” “Fechado.”" },
+      "1": { "translation": "“Eu terminava isso em uma hora.” “Então tá, prova.”" }
+    },
+    "origin": {
+      "etymology": "Do inglês afro-americano (AAVE), abreviação de “you bet” ou de uma aposta implícita. Chegou ao uso geral pelas redes sociais no fim da década de 2010."
+    }
+  },
+  "no-cap": {
+    "definitions": [
+      { "text": "Sem mentira; estou falando sério. Acrescentado a uma afirmação para garantir que ela é verdadeira." },
+      { "text": "Capping, sozinho, significa mentir: “you're capping” (você está mentindo)." }
+    ],
+    "examples": {
+      "0": { "translation": "Essa é a melhor pizza da cidade, sem exagero nenhum." },
+      "1": { "translation": "Ele está mentindo, nem estava lá." }
+    },
+    "origin": {
+      "etymology": "Do inglês afro-americano (AAVE), onde “to cap” significa se gabar ou exagerar desde pelo menos meados do século XX. O emoji do boné ajudou muito a espalhar a forma atual."
+    }
+  },
+  "deadass": {
+    "definitions": [
+      { "text": "Sério mesmo; de verdade. Serve tanto como intensificador quanto como contestação isolada: “deadass?” (é sério?)." }
+    ],
+    "examples": {
+      "0": { "translation": "Estou seriamente a ponto de pedir demissão." },
+      "1": { "translation": "“Cancelaram.” “Sério mesmo?”" }
+    },
+    "origin": {
+      "etymology": "Da cidade de Nova York, fortemente associada aos bairros periféricos. Espalhou-se pelo país inteiro pelas redes sociais, mas continua soando como palavra nova-iorquina."
+    }
+  },
+  "facts": {
+    "definitions": [
+      { "text": "Concordo; é exatamente isso. Um endosso de uma palavra só ao que acabou de ser dito." }
+    ],
+    "examples": {
+      "0": { "translation": "“O aluguel nesta cidade está fora de controle.” “Verdade.”" },
+      "1": { "translation": "Exato, eu estava pensando a mesma coisa." }
+    }
+  },
+  "word": {
+    "definitions": [
+      { "text": "Concordo; entendi. Um reconhecimento." },
+      { "text": "Como pergunta — “word?” — verifica se a pessoa está falando sério." }
+    ],
+    "examples": {
+      "0": { "translation": "“Vou sair mais cedo.” “Beleza.”" },
+      "1": { "translation": "“Ela conseguiu o emprego.” “Sério?”" }
+    },
+    "origin": {
+      "etymology": "Do inglês afro-americano (AAVE), originalmente na forma completa “word is bond” — uma afirmação garantida pela honra de quem fala. Está em uso geral desde os anos 1980 e hoje soa um pouco daquela época."
+    }
+  },
+  "say-less": {
+    "definitions": [
+      { "text": "Não precisa explicar mais, estou dentro. Sinaliza concordância imediata — o oposto de pedir que alguém fique quieto." }
+    ],
+    "examples": {
+      "0": { "translation": "“Tem comida de graça.” “Estou indo.”" },
+      "1": { "translation": "Nem precisa explicar, chego em dez minutos." }
+    }
+  },
+  "lowkey": {
+    "definitions": [
+      { "text": "Meio que; discretamente; um pouco. Suaviza uma confissão da qual quem fala tem um pouco de vergonha: “I lowkey want to leave” (eu meio que quero ir embora)." },
+      { "text": "Seu oposto, highkey, significa abertamente e com ênfase." }
+    ],
+    "examples": {
+      "0": { "translation": "Eu meio que sinto falta do escritório antigo." },
+      "1": { "translation": "Sem sombra de dúvida a melhor coisa que comi no ano todo." }
+    }
+  },
+  "highkey": {
+    "definitions": [
+      { "text": "Abertamente, muito, sem meias palavras. Criado de propósito como contrapartida de lowkey." }
+    ],
+    "examples": {
+      "0": { "translation": "Estou animadíssimo com isso e faço questão de demonstrar." },
+      "1": { "translation": "Essa série é superestimada, e não é pouco." }
+    }
+  },
+  "vibe": {
+    "definitions": [
+      { "text": "A sensação ou o clima de uma pessoa, um lugar ou uma coisa. “The vibe was off” (o clima estava estranho)." },
+      { "text": "To vibe: se dar bem com alguém, ou curtir algo. “We vibe” (a gente se entende), “I'm vibing with this album” (estou curtindo muito este álbum)." },
+      { "text": "Um vibe check é uma avaliação informal do humor de alguém ou do clima de uma situação." }
+    ],
+    "examples": {
+      "0": { "translation": "O clima daquele lugar é impecável." },
+      "1": { "translation": "A gente se entendeu na hora." }
+    },
+    "origin": {
+      "etymology": "Redução de “vibrations”, da contracultura dos anos 1960, retomada na década de 2010 com uma gramática muito mais ampla. Hoje funciona como substantivo, verbo e adjetivo."
+    }
+  },
+  "mid": {
+    "definitions": [
+      { "text": "Mediano; sem graça. Nem ruim o bastante para ser interessante — o desprezo está no dar de ombros." }
+    ],
+    "examples": {
+      "0": { "translation": "A continuação foi, sinceramente, mediana." },
+      "1": { "translation": "Caro e mediano." }
+    }
+  },
+  "hits-different": {
+    "definitions": [
+      { "text": "Atinge você de um jeito particular, mais intenso — em geral por causa do momento ou do contexto, não da coisa em si." }
+    ],
+    "examples": {
+      "0": { "translation": "Café tem outro gosto quando está chovendo." },
+      "1": { "translation": "Aquela música significa outra coisa para mim agora." }
+    }
+  },
+  "slaps": {
+    "definitions": [
+      { "text": "Dito de música: é excelente. “This track slaps” (essa faixa é sensacional). Estendeu-se à comida e, cada vez mais, a qualquer coisa boa." }
+    ],
+    "examples": {
+      "0": { "translation": "O álbum inteiro é excelente." },
+      "1": { "translation": "Este sanduíche é bom de verdade." }
+    }
+  },
+  "fire": {
+    "definitions": [
+      { "text": "Excelente, excepcional. “That's fire” (isso é sensacional)." }
+    ],
+    "examples": {
+      "0": { "translation": "Seu repertório estava excelente." },
+      "1": { "translation": "Estes tacos são excepcionais." }
+    }
+  },
+  "goat": {
+    "definitions": [
+      { "text": "Greatest Of All Time (o maior de todos os tempos). Uma sigla, normalmente de um atleta ou músico, e motivo de discussão sem fim." }
+    ],
+    "examples": {
+      "0": { "translation": "Ela é a maior de todos os tempos, nem tem discussão." },
+      "1": { "translation": "Valeu por cobrir meu turno, você é um monstro.", "context": "Uso enfraquecido, em minúscula — hoje é só um agradecimento forte." }
+    },
+    "origin": {
+      "etymology": "Popularizado pelo entorno de Muhammad Ali nos anos 1990 e espalhado pela imprensa esportiva. O emoji da cabra fez o resto.",
+      "firstAttested": "anos 1990"
+    }
+  },
+  "salty": {
+    "definitions": [
+      { "text": "Amargurado ou ressentido, normalmente por causa de algo pequeno, e normalmente de um jeito que quem fala acha engraçado." }
+    ],
+    "examples": {
+      "0": { "translation": "Ele continua ressentido por ter perdido aquele jogo." },
+      "1": { "translation": "Não fica ofendido, era brincadeira." }
+    },
+    "origin": {
+      "etymology": "Gíria naval para irritadiço — marinheiros “salgados” eram curtidos e mal-humorados. O sentido moderno veio pelo inglês afro-americano (AAVE) e depois pelos jogos on-line."
+    }
+  },
+  "pressed": {
+    "definitions": [
+      { "text": "Incomodado, alterado, envolvido demais com alguma coisa. “Why are you so pressed about it?” (por que você está tão nervoso com isso?)." }
+    ],
+    "examples": {
+      "0": { "translation": "Você parece muito nervoso por causa de um jogo em que nem entrou." },
+      "1": { "translation": "Não estou nem aí, faça o que quiser." }
+    }
+  },
+  "shade": {
+    "definitions": [
+      { "text": "Uma ofensa sutil e negável. Throwing shade é criticar alguém de forma indireta o bastante para que a pessoa não consiga reclamar." }
+    ],
+    "examples": {
+      "0": { "translation": "Ela mandou muita indireta naquele discurso." },
+      "1": { "translation": "Sem querer ofender, mas o primeiro rascunho era melhor." }
+    },
+    "origin": {
+      "etymology": "Da cultura ballroom negra e latina da Nova York dos anos 1980, documentada no filme Paris Is Burning. Shade se distingue de “reading” pela indireção — a arte está em poder negar.",
+      "firstAttested": "anos 1980"
+    }
+  },
+  "tea": {
+    "definitions": [
+      { "text": "Fofoca; a história por dentro. Spill the tea é contar tudo; what's the tea é pedir para saber." }
+    ],
+    "examples": {
+      "0": { "translation": "Beleza, desembucha, o que aconteceu?" },
+      "1": { "translation": "É essa a história toda e não falo mais nada." }
+    },
+    "origin": {
+      "etymology": "Também vem da cultura ballroom, onde o “T” era de truth (verdade). O caminho até o uso geral passou pela arte drag e depois pelas redes sociais."
+    }
+  },
+  "receipts": {
+    "definitions": [
+      { "text": "Prova documental de uma afirmação — prints, mensagens, gravações. “Post the receipts” (mostra as provas)." }
+    ],
+    "examples": {
+      "0": { "translation": "Se você vai acusar ele, traga provas." },
+      "1": { "translation": "Ela tinha provas documentadas de três anos atrás." }
+    }
+  },
+  "ghost": {
+    "definitions": [
+      { "text": "Cortar todo contato com alguém de repente e sem explicação. Começou no vocabulário dos relacionamentos e hoje também se usa com amigos, recrutadores e clientes." }
+    ],
+    "examples": {
+      "0": { "translation": "Tivemos três encontros ótimos e depois ele sumiu sem dar satisfação." },
+      "1": { "translation": "A empresa simplesmente parou de responder depois da segunda entrevista." }
+    }
+  },
+  "situationship": {
+    "definitions": [
+      { "text": "Um envolvimento amoroso que não foi definido e provavelmente não será — mais que amizade, menos que namoro, e normalmente entendido de maneiras diferentes pelas duas pessoas envolvidas." }
+    ],
+    "examples": {
+      "0": { "translation": "Não é um namoro, é um envolvimento sem definição." },
+      "1": { "translation": "Seis meses de envolvimento sem definição e ainda sem nenhuma resposta." }
+    },
+    "origin": {
+      "etymology": "Mistura de situation (situação) e relationship (relacionamento). Faz parte de um conjunto de invenções da década de 2010 sobre relacionamentos — ghosting, breadcrumbing, benching — que nomeiam comportamentos que os aplicativos tornaram comuns o bastante para precisarem de nome."
+    }
+  },
+  "bougie": {
+    "definitions": [
+      { "text": "Pretensiosamente chique; com ares de luxo. Usado para gostos, lugares e pessoas, normalmente com deboche afetuoso." }
+    ],
+    "examples": {
+      "0": { "translation": "Esse mercado é chiquérrimo." },
+      "1": { "translation": "Estou com vontade de luxo, vamos comprar o queijo bom." }
+    },
+    "origin": {
+      "etymology": "Redução de bourgeois (burguês). Dentro do inglês afro-americano (AAVE) carregava originalmente uma crítica de classe bem direta a pessoas negras vistas como quem se afasta das próprias origens; o uso geral achatou isso quase inteiramente em “chique”."
+    }
+  },
+  "basic": {
+    "definitions": [
+      { "text": "Sem originalidade; que só gosta do que é mainstream. Um desprezo pelo gosto da pessoa, não pelo caráter dela — e dirigido de forma desproporcional a mulheres jovens, o que vale notar." }
+    ],
+    "examples": {
+      "0": { "translation": "Sei que é óbvio, mas eu amo.", "context": "A autocrítica preventiva é hoje o uso mais comum." },
+      "1": { "translation": "Essa playlist é sem nenhuma originalidade." }
+    }
+  },
+  "extra": {
+    "definitions": [
+      { "text": "Exagerado; fazer muito mais do que a ocasião pede. Pode ser reclamação ou elogio." }
+    ],
+    "examples": {
+      "0": { "translation": "Um bolo de três andares numa terça-feira é exagero puro." },
+      "1": { "translation": "Ela é exagerada e a gente ama ela por isso." }
+    }
+  },
+  "doing-the-most": {
+    "definitions": [
+      { "text": "Exagerar; se esforçar muito além da conta. Sua contrapartida, doing the least, significa não fazer esforço nenhum." }
+    ],
+    "examples": {
+      "0": { "translation": "Três trocas de roupa? Você está exagerando." },
+      "1": { "translation": "Ele não faz nada e ainda leva o crédito." }
+    }
+  },
+  "sus": {
+    "definitions": [
+      { "text": "Suspeito; esquisito. De pessoas, afirmações e situações." }
+    ],
+    "examples": {
+      "0": { "translation": "Esse e-mail parece suspeito, não clica." },
+      "1": { "translation": "Tem alguma coisa na história dele que não fecha." }
+    },
+    "origin": {
+      "etymology": "Redução de “suspicious”, usada há muito tempo na gíria policial britânica e no inglês afro-americano (AAVE). Sua explosão no vocabulário adolescente do mundo inteiro veio do jogo Among Us, em 2020."
+    }
+  },
+  "sketchy": {
+    "definitions": [
+      { "text": "Perigoso, pouco confiável, de qualidade duvidosa. De bairros, sites, comida e pessoas." }
+    ],
+    "examples": {
+      "0": { "translation": "Aquela parte da cidade fica perigosa depois que escurece." },
+      "1": { "translation": "A fiação deste lugar não é confiável." }
+    }
+  },
+  "shady": {
+    "definitions": [
+      { "text": "Desonesto ou de integridade duvidosa. Enquanto sketchy fala de segurança, shady fala de caráter." }
+    ],
+    "examples": {
+      "0": { "translation": "Aquele negócio todo me pareceu desonesto." },
+      "1": { "translation": "Ele está agindo de forma suspeita a semana inteira." }
+    }
+  },
+  "bail": {
+    "definitions": [
+      { "text": "Ir embora de repente, ou desistir de um compromisso. “She bailed on dinner” (ela furou o jantar)." }
+    ],
+    "examples": {
+      "0": { "translation": "Vou indo, amanhã acordo cedo." },
+      "1": { "translation": "Duas pessoas desistiram em cima da hora." }
+    },
+    "origin": {
+      "etymology": "De saltar de paraquedas de um avião (bail out). O sentido de desistir de um compromisso veio depois e hoje é o mais frequente."
+    }
+  },
+  "dip": {
+    "definitions": [
+      { "text": "Ir embora, normalmente rápido e sem cerimônia. “Let's dip” (vamos vazar)." }
+    ],
+    "examples": {
+      "0": { "translation": "Esta festa está morta, vamos vazar." },
+      "1": { "translation": "Ele vazou antes que alguém percebesse." }
+    }
+  },
+  "flake": {
+    "definitions": [
+      { "text": "Cancelar planos em cima da hora, especialmente por hábito. A flake é quem faz isso sempre." }
+    ],
+    "examples": {
+      "0": { "translation": "Ele furou com a gente de novo." },
+      "1": { "translation": "Ela é totalmente irresponsável, não conta com isso." }
+    }
+  },
+  "hang": {
+    "definitions": [
+      { "text": "Passar um tempo sem programação com alguém. “Want to hang?” (bora sair?)." },
+      { "text": "Como substantivo: um encontro informal. “It's a low-key hang” (é uma reunião tranquila)." }
+    ],
+    "examples": {
+      "0": { "translation": "A gente devia sair junto qualquer dia." },
+      "1": { "translation": "É só uma reuniãozinha informal lá em casa." }
+    }
+  },
+  "kick-it": {
+    "definitions": [
+      { "text": "Relaxar e passar um tempo junto sem programação nenhuma." }
+    ],
+    "examples": {
+      "0": { "translation": "A gente só vai ficar de boa na casa dele." },
+      "1": { "translation": "Vem ficar com a gente no sábado." }
+    }
+  },
+  "yall": {
+    "definitions": [
+      { "text": "Vocês, no plural. Preenche uma lacuna real do inglês padrão, que perdeu a segunda pessoa do plural, e por isso mesmo se espalhou muito além do Sul." },
+      { "text": "All y'all intensifica, dirigindo-se a cada um dos membros de um grupo." }
+    ],
+    "examples": {
+      "0": { "translation": "Vocês vão todos no evento hoje à noite?" },
+      "1": { "translation": "Todos vocês, sem exceção, precisam ouvir isso." }
+    },
+    "origin": {
+      "etymology": "Do inglês do sul dos Estados Unidos, com contribuições tanto dos padrões de colonização escocês-irlandesa quanto do inglês afro-americano (AAVE). Foi adotado no país inteiro em parte por ser neutro quanto a gênero, ao contrário de “you guys”."
+    }
+  },
+  "fixin-to": {
+    "definitions": [
+      { "text": "A ponto de; prestes a. Marca uma intenção de futuro imediato e é uma construção gramatical de verdade, não só uma expressão pitoresca." }
+    ],
+    "examples": {
+      "0": { "translation": "Estou a ponto de sair." },
+      "1": { "translation": "A gente estava justamente prestes a te ligar." }
+    }
+  },
+  "bless-your-heart": {
+    "definitions": [
+      { "text": "Compaixão sincera pela desgraça de alguém." },
+      { "text": "Uma demonstração educada de desprezo ou pena, entregue com um sorriso. “He tried to fix it himself, bless his heart” (ele tentou consertar sozinho, coitado).", "note": "Quem é do Sul distingue os dois sentidos sem nenhum esforço. Quem é de fora perde o segundo com frequência e agradece a quem falou." }
+    ],
+    "examples": {
+      "0": { "translation": "Você está acordado desde as quatro? Coitadinho.", "context": "Sincero." },
+      "1": { "translation": "Ele achou que era uma boa ideia, o pobre coitado.", "context": "Nada sincero. O sorriso faz parte da entrega." }
+    }
+  },
+  "wicked": {
+    "definitions": [
+      { "text": "Muito, extremamente. Um intensificador da Nova Inglaterra: wicked good (muito bom), wicked cold (muito frio). Note que modifica adjetivos e não é adjetivo ele mesmo." }
+    ],
+    "examples": {
+      "0": { "translation": "Aquele chowder é muito bom mesmo." },
+      "1": { "translation": "Está um frio absurdo lá fora." }
+    }
+  },
+  "jawn": {
+    "definitions": [
+      { "text": "Um substituto universal de substantivo: qualquer pessoa, lugar, objeto ou evento. A palavra mais famosa da Filadélfia, e realmente notável — poucas línguas têm um substantivo tão sem restrição." }
+    ],
+    "examples": {
+      "0": { "translation": "Me passa aquele troço." },
+      "1": { "translation": "Aquele lugar estava lotado ontem à noite." }
+    },
+    "origin": {
+      "etymology": "Vem de “joint” no uso nova-iorquino, que chegou à Filadélfia nos anos 1970 e ali perdeu toda restrição semântica. Os linguistas a estudam justamente porque pode substituir quase qualquer substantivo.",
+      "firstAttested": "anos 1970"
+    }
+  },
+  "hella": {
+    "definitions": [
+      { "text": "Muito; um monte de. Do norte da Califórnia, e um marcador regional confiável — quem é da Bay Area usa o tempo todo, e quem é do sul da Califórnia praticamente não usa." }
+    ],
+    "examples": {
+      "0": { "translation": "É muito longe daqui." },
+      "1": { "translation": "Tinha um monte de gente no show." }
+    },
+    "origin": {
+      "etymology": "De “a hell of a”, documentado na Bay Area desde os anos 1970. Espalhou-se pelo país, mas continua fortemente associado ao norte da Califórnia."
+    }
+  },
+  "clutch": {
+    "definitions": [
+      { "text": "Que funciona exatamente na hora em que mais importa. De uma pessoa, uma jogada ou um objeto que salva a situação no momento crítico." }
+    ],
+    "examples": {
+      "0": { "translation": "Ter levado guarda-chuva foi providencial." },
+      "1": { "translation": "Ela resolve quando a coisa aperta." }
+    },
+    "origin": {
+      "etymology": "Do esporte — “in the clutch” é o momento decisivo de um jogo. A gíria americana recorre ao vocabulário esportivo do mesmo jeito que a australiana recorre ao do outback."
+    }
+  },
+  "sick": {
+    "definitions": [
+      { "text": "Excelente, impressionante. Saiu da cultura do skate e do surfe e hoje é de uso geral, embora soe um pouco mais datado que fire ou slaps." }
+    ],
+    "examples": {
+      "0": { "translation": "Essa guitarra é sensacional." },
+      "1": { "translation": "Ele mandou uma manobra impressionante." }
+    }
+  },
+  "bucks": {
+    "definitions": [
+      { "text": "Dólares. “Twenty bucks” (vinte pratas). Completamente corriqueiro, usado em contextos em que a palavra formal soaria dura demais." }
+    ],
+    "examples": {
+      "0": { "translation": "Custou só quinze dólares." },
+      "1": { "translation": "Você me empresta uns dólares?" }
+    },
+    "origin": {
+      "etymology": "De buckskin: o couro de veado era unidade corrente de troca na fronteira americana, usado como moeda antes de o dinheiro cunhado se generalizar.",
+      "firstAttested": "século XVIII"
+    }
+  },
+  "broke": {
+    "definitions": [
+      { "text": "Sem dinheiro nenhum. Dead broke e flat broke intensificam." }
+    ],
+    "examples": {
+      "0": { "translation": "Estou duro até sexta." },
+      "1": { "translation": "A gente passou aquele verão inteiro sem um centavo." }
+    }
+  },
+  "side-hustle": {
+    "definitions": [
+      { "text": "Uma segunda fonte de renda ao lado do trabalho principal. Apresentada como empreendedorismo, embora muitas vezes seja simplesmente um segundo emprego que os salários tornaram necessário." }
+    ],
+    "examples": {
+      "0": { "translation": "O trabalho paralelo dela rende mais que o emprego principal." },
+      "1": { "translation": "Todo mundo que eu conheço tem uma renda extra hoje em dia." }
+    }
+  },
+  "grind": {
+    "definitions": [
+      { "text": "Trabalho duro e implacável, sobretudo rumo a um objetivo. “Back on the grind” (de volta à batalha)." },
+      { "text": "The daily grind: o trabalho maçante e repetitivo — o sentido mais antigo e mais cético.", "note": "Os dois sentidos puxam para lados opostos: um celebra o trabalho, o outro reclama dele." }
+    ],
+    "examples": {
+      "0": { "translation": "De volta à batalha na segunda de manhã." },
+      "1": { "translation": "Cansado da mesmice do dia a dia." }
+    }
+  },
+  "chill": {
+    "definitions": [
+      { "text": "Tranquilo, de boa. De uma pessoa, um lugar ou um plano: “he's chill” (ele é tranquilo), “a chill evening” (uma noite tranquila)." },
+      { "text": "Relaxar: “we're just chilling” (a gente está só de boa)." },
+      { "text": "Como ordem: se acalme. “Chill.”" }
+    ],
+    "examples": {
+      "0": { "translation": "Os pais dela são bem tranquilos quanto a isso." },
+      "1": { "translation": "A gente vai só ficar de boa em casa hoje à noite." }
+    }
+  },
+  "dude": {
+    "definitions": [
+      { "text": "Um homem; um cara. Cada vez mais usado no vocativo independentemente de gênero." },
+      { "text": "Como interjeição, carregando todo o conteúdo emocional de uma frase — “Dude.” pode significar espanto, aviso, decepção ou alegria, conforme a entrega." }
+    ],
+    "examples": {
+      "0": { "translation": "Um cara esqueceu as chaves no bar." },
+      "1": { "translation": "Ei. Olha isso." },
+      "2": { "translation": "Caraaaa, não acredito.", "context": "Aqui quem faz todo o trabalho é o alongamento da vogal." }
+    },
+    "origin": {
+      "etymology": "Nos anos 1880, um dude era um almofadinha exageradamente arrumado — o sentido sobrevive em “dude ranch”, lugar onde os dudes da cidade brincavam de ser caubói. A cultura do surfe e da maconha o reformulou no termo neutro de hoje.",
+      "firstAttested": "anos 1880"
+    }
+  },
+  "bro": {
+    "definitions": [
+      { "text": "Irmão; um amigo homem, ou qualquer homem no vocativo." },
+      { "text": "Usado com sarcasmo com um desconhecido que está sendo condescendente — “okay, bro” não é amistoso." },
+      { "text": "Um tipo: o jovem de fraternidade, frequentador de academia e fã de esporte. “Bro culture” é sempre crítico.", "note": "Qual sentido vale é determinado pelo tom e por quem fala conhecer ou não a pessoa a quem se dirige." }
+    ],
+    "examples": {
+      "0": { "translation": "Valeu, mano, fico te devendo." },
+      "1": { "translation": "Tá, mano, o que você disser.", "context": "Desdenhoso. Inconfundível na fala." }
+    },
+    "origin": {
+      "etymology": "Redução de brother, com a difusão moderna devendo muito ao inglês afro-americano (AAVE). Desde então gerou uma família de formas — bruh, bruv, brah — cada uma com seu próprio sabor regional e social."
+    }
+  },
+  "shoot-the-breeze": {
+    "definitions": [
+      { "text": "Conversar à toa, sobre nada em particular." }
+    ],
+    "examples": {
+      "0": { "translation": "Ficamos uma hora sentados na varanda jogando conversa fora." },
+      "1": { "translation": "Só jogando conversa fora, nada importante." }
+    }
+  },
+  "ride-or-die": {
+    "definitions": [
+      { "text": "Alguém completamente leal, que fica com você aconteça o que acontecer. De um amigo ou de um parceiro." }
+    ],
+    "examples": {
+      "0": { "translation": "Ela é minha parceira inabalável desde o primeiro ano." },
+      "1": { "translation": "É uma amizade que sobrevive a qualquer coisa." }
+    },
+    "origin": {
+      "etymology": "Da cultura motociclística, via hip-hop dos anos 1990, onde a expressão descrevia quem ia junto na garupa independentemente do perigo.",
+      "firstAttested": "anos 1990"
+    }
+  },
+  "wild": {
+    "definitions": [
+      { "text": "Notável, absurdo, difícil de acreditar. Sozinho, como reação — “that's wild” — é a resposta americana padrão a qualquer história surpreendente." }
+    ],
+    "examples": {
+      "0": { "translation": "Eles dirigiram dezesseis horas seguidas? Isso é inacreditável." },
+      "1": { "translation": "É impressionante que ninguém tenha notado por uma semana." }
+    }
+  },
+  "cheugy": {
+    "definitions": [
+      { "text": "Fora de moda de um jeito específico: seguir com sinceridade tendências que passaram há alguns anos. Cunhado em 2013 e brevemente onipresente em 2021." }
+    ],
+    "examples": {
+      "0": { "translation": "Essa escolha de fonte está uns anos atrasada." },
+      "1": { "translation": "Usar a palavra cheugy já é, em si, coisa datada.", "context": "Incluído como exemplo honesto da rapidez com que a gíria de internet vence. O momento dela já passou." }
+    },
+    "origin": {
+      "etymology": "Cunhado por uma estudante de Beverly Hills em 2013 e espalhado pelo TikTok em 2021. A ascensão e a queda dentro de um único ano fazem dele um bom estudo de caso sobre o ciclo de vida da gíria.",
+      "firstAttested": "2013"
+    }
+  },
+  "spill": {
+    "definitions": [
+      { "text": "Contar uma informação que se estava segurando. Normalmente como imperativo de uma palavra só: “spill” (desembucha)." }
+    ],
+    "examples": {
+      "0": { "translation": "Beleza, desembucha — o que ela disse?" },
+      "1": { "translation": "Ele finalmente abriu o bico depois de duas doses." }
+    }
+  },
+  "canceled": {
+    "definitions": [
+      { "text": "Rejeitado publicamente depois de uma polêmica, com o objetivo de lhe retirar apoio e atenção. Um termo genuinamente disputado: o que conta como ser cancelado, e se isso chega mesmo a acontecer, é assunto politicamente carregado." },
+      { "text": "Usado de leve e na brincadeira entre amigos: “you're cancelled for that” (por essa você está cancelado)." }
+    ],
+    "examples": {
+      "0": { "translation": "Você botou abacaxi? Está cancelado.", "context": "Totalmente brincadeira, e hoje o uso mais comum na fala cotidiana." },
+      "1": { "translation": "A discussão sobre quem de fato é cancelado nunca termina." }
+    }
+  },
+  "ate": {
+    "definitions": [
+      { "text": "Executou ou performou alguma coisa brilhantemente. “She ate that” (ela arrasou). Muitas vezes estendido para “ate and left no crumbs”, para uma performance impecável." }
+    ],
+    "examples": {
+      "0": { "translation": "Ela arrasou naquela apresentação." },
+      "1": { "translation": "Fez com perfeição, sem deixar nada a criticar." }
+    },
+    "origin": {
+      "etymology": "Do vocabulário ballroom negro e LGBTQ+, espalhado amplamente pela arte drag e pelo vídeo curto."
+    }
+  },
+  "let-him-cook": {
+    "definitions": [
+      { "text": "Dê espaço para a pessoa trabalhar — o plano dela pode parecer estranho, mas vai dar certo. Às vezes sincero, às vezes sarcástico sobre algo que claramente está dando errado." }
+    ],
+    "examples": {
+      "0": { "translation": "Abertura estranha, mas deixa ele trabalhar." },
+      "1": { "translation": "Ele está mesmo sacando alguma coisa aqui." }
+    }
+  }
+}

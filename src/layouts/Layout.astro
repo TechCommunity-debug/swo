@@ -43,8 +43,8 @@ const strings = t(locale);
 // relationship between them is expressed with hreflang, not with canonical.
 const canonical = new URL(Astro.url.pathname, Astro.site).href;
 
-/** og:locale wants an underscore form. */
-const ogLocale = locale === 'es' ? 'es_ES' : 'en_US';
+/** og:locale wants an underscore form, so it is stored, not derived. */
+const ogLocale = config.ogLocale;
 ---
 
 <!doctype html>

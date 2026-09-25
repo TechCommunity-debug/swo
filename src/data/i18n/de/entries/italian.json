@@ -1,0 +1,509 @@
+{
+  "boh": {
+    "definitions": [
+      { "text": "Keine Ahnung; wer weiß; frag mich nicht. Eine vollständige Antwort für sich allein, meist begleitet von einem Achselzucken und heruntergezogenen Mundwinkeln." }
+    ],
+    "examples": {
+      "0": { "translation": "„Wann kommt der Zug?“ – „Keine Ahnung.“" },
+      "1": { "translation": "Wer weiß, vielleicht morgen, man weiß es nicht." }
+    },
+    "origin": {
+      "etymology": "Eher ein konventionalisierter Laut als ein Wort, und eines der Ersten, was Lernenden an echtem italienischem Gespräch auffällt. Es vermittelt nicht nur Unwissenheit, sondern die Weigerung, überhaupt zu spekulieren."
+    }
+  },
+  "mah": {
+    "definitions": [
+      { "text": "Hm; na ja. Signalisiert Zweifel, Skepsis oder resignierte Unsicherheit über das gerade Gesagte." }
+    ],
+    "examples": {
+      "0": { "translation": "Hm, da bin ich mir nicht so sicher." },
+      "1": { "translation": "Na ja, wir werden sehen." }
+    }
+  },
+  "vabbe": {
+    "definitions": [
+      { "text": "Na gut; meinetwegen; wie auch immer. Zusammengezogen aus va bene, verwendet, um etwas widerwillig zu akzeptieren oder ein Thema abzuschließen." }
+    ],
+    "examples": {
+      "0": { "translation": "Na gut, macht nichts, machen wir es morgen." },
+      "1": { "translation": "Komm schon, jetzt übertreib mal nicht." }
+    }
+  },
+  "dai": {
+    "literalMeaning": "Gib (Imperativ).",
+    "definitions": [
+      { "text": "Komm schon. Ermutigung, Ungeduld oder Unglauben – je nach Tonfall." },
+      { "text": "Ma dai! – „Das gibt's doch nicht!“ Drückt Überraschung aus." },
+      { "text": "Als Abschwächung am Satzende: andiamo, dai." }
+    ],
+    "examples": {
+      "0": { "translation": "Komm schon, du schaffst das!" },
+      "1": { "translation": "Ach was, das glaube ich nicht." },
+      "2": { "translation": "Komm, gehen wir, es ist spät." }
+    }
+  },
+  "magari": {
+    "definitions": [
+      { "text": "Wenn es doch so wäre! Das wäre schön. Allein stehend drückt es einen Wunsch aus, den der Sprecher für unwahrscheinlich hält." },
+      { "text": "Vielleicht, eventuell. Mitten im Satz ist es eine gewöhnliche Abschwächung." },
+      { "text": "Mit Konjunktiv: selbst wenn, angenommen dass.", "note": "Die alleinstehende „wenn es doch so wäre“-Bedeutung ist es, die Lernende überrascht – sie ist fast das Gegenteil von „vielleicht“." }
+    ],
+    "examples": {
+      "0": { "translation": "„Gewinnst du im Lotto?“ – „Wär's doch wahr!“" },
+      "1": { "translation": "Vielleicht sehen wir uns morgen." }
+    },
+    "origin": {
+      "etymology": "Vom griechischen makários, „selig, glücklich“ – eine byzantinische Entlehnung, die im Italienischen überlebt hat. Die Wunsch-Bedeutung steht dem Ursprung am nächsten."
+    }
+  },
+  "figo": {
+    "definitions": [
+      { "text": "Cool, toll. Che figo! – „wie cool!“" },
+      { "text": "Von einer Person: attraktiv. Un figo, una figa in diesem Sinn." },
+      { "text": "Ursprünglich norditalienisch; Mittel- und Süditalien sagen für dasselbe fico.", "note": "Zu beachten: Die weibliche Form figa hat zusätzlich eine vulgäre anatomische Bedeutung, weshalb das Maskulinum die sicherere Form ist." }
+    ],
+    "examples": {
+      "0": { "translation": "Deine Wohnung ist so cool!" },
+      "1": { "translation": "Das war wirklich ein tolles Konzert." }
+    }
+  },
+  "figata": {
+    "definitions": [
+      { "text": "Etwas Großartiges; eine tolle Sache. Che figata! – „wie geil ist das denn!“" }
+    ],
+    "examples": {
+      "0": { "translation": "Wie geil, hier hat eine Buchhandlung aufgemacht." },
+      "1": { "translation": "Das neue Album ist der Hammer." }
+    }
+  },
+  "spacca": {
+    "literalMeaning": "Es spaltet, es sprengt.",
+    "definitions": [
+      { "text": "Das ist der Wahnsinn; das ist herausragend. Questo pezzo spacca – „dieser Track ist ein Kracher“." }
+    ],
+    "examples": {
+      "0": { "translation": "Diese Band live ist der Wahnsinn." },
+      "1": { "translation": "Dein Projekt ist wirklich genial." }
+    }
+  },
+  "che-palle": {
+    "literalMeaning": "Was für Eier.",
+    "definitions": [
+      { "text": "Was für eine Nervensäge; wie öde. Eine extrem häufige Beschwerde über Langeweile, nicht über etwas wirklich Schlimmes." }
+    ],
+    "examples": {
+      "0": { "translation": "Noch eine Besprechung? Wie öde." },
+      "1": { "translation": "Dieser Regen nervt total." }
+    },
+    "origin": {
+      "etymology": "Ursprünglich anatomisch-vulgär, aber stark abgeschliffen – man hört es ständig, auch von Leuten, die sonst nicht fluchen würden. Rompere le palle, „auf die Nerven gehen“, kommt von derselben Wurzel."
+    }
+  },
+  "mannaggia": {
+    "definitions": [
+      { "text": "Verdammt; Mist. Ein milder Fluch der Frustration, oft erweitert zu mannaggia a te oder mannaggia la miseria." }
+    ],
+    "examples": {
+      "0": { "translation": "Verdammt, ich habe die Schlüssel vergessen." },
+      "1": { "translation": "Verflucht seist du mit deinen tollen Ideen." }
+    },
+    "origin": {
+      "etymology": "Vom neapolitanischen mal ne aggia, „möge Böses daraus entstehen“. Ursprünglich südlich, heute völlig landesweit verbreitet, wie ein guter Teil des italienischen Umgangswortschatzes."
+    }
+  },
+  "porca-miseria": {
+    "literalMeaning": "Dreckiges Elend.",
+    "definitions": [
+      { "text": "Verdammt noch mal; verflixt. Das gesellschaftlich unbedenkliche Mitglied einer großen Familie von porca...-Ausdrücken, deren andere Mitglieder blasphemisch und wirklich anstößig sind." }
+    ],
+    "examples": {
+      "0": { "translation": "Verdammt, es ist schon wieder kaputt." },
+      "1": { "translation": "Verflixt, ist das kalt!" }
+    },
+    "origin": {
+      "etymology": "Italienisches Fluchen teilt sich scharf zwischen bloß Vulgärem und den bestemmie – Blasphemien gegen Gott oder die Heiligen, die weiterhin ernsthaft tabu sind und bis vor Kurzem strafbar waren. porca miseria ersetzt das verbotene Wort durch ein abstraktes Substantiv."
+    }
+  },
+  "fregarsene": {
+    "definitions": [
+      { "text": "Sich überhaupt nicht kümmern. Me ne frego – „das ist mir völlig egal“. Chi se ne frega – „wen kümmert's“." }
+    ],
+    "examples": {
+      "0": { "translation": "Mir ist völlig egal, was die sagen." },
+      "1": { "translation": "Und wen interessiert's!" }
+    },
+    "origin": {
+      "etymology": "Wissenswert: me ne frego war in den 1920ern und 30ern ein faschistischer Slogan. Der Ausdruck ist viel älter als diese Verwendung und lebt danach weiter; heute ist er völlig neutral, doch Italiener erkennen die Assoziation nach wie vor."
+    }
+  },
+  "scocciare": {
+    "definitions": [
+      { "text": "Nerven, belästigen. Uno scocciatore ist ein Nervtöter." },
+      { "text": "Reflexiv, scocciarsi: die Nase voll haben." }
+    ],
+    "examples": {
+      "0": { "translation": "Hör auf, deine Schwester zu nerven." },
+      "1": { "translation": "Ich habe die Nase voll vom Warten." }
+    }
+  },
+  "rompiscatole": {
+    "literalMeaning": "Kistenbrecher.",
+    "definitions": [
+      { "text": "Eine Nervensäge; jemand, der einen nicht in Ruhe lässt. Die höfliche Version eines derberen Ausdrucks, der auf demselben Verb aufbaut." }
+    ],
+    "examples": {
+      "0": { "translation": "Dieser Typ ist eine echte Nervensäge." },
+      "1": { "translation": "Sei nicht so nervig." }
+    }
+  },
+  "in-bocca-al-lupo": {
+    "literalMeaning": "In den Rachen des Wolfs.",
+    "definitions": [
+      { "text": "Viel Glück. Die übliche Antwort lautet crepi il lupo („möge der Wolf sterben“) oder einfach crepi – mit grazie zu antworten gilt als Einladung für Pech." }
+    ],
+    "examples": {
+      "0": { "translation": "Viel Glück bei der Prüfung!" },
+      "1": { "translation": "„Viel Glück.“ – „Danke!“", "context": "Der Austausch ist feststehend. Mit „grazie“ zu antworten, entlarvt einen sofort als Ausländer." }
+    },
+    "origin": {
+      "etymology": "Die Logik ist dieselbe wie beim deutschen „Hals- und Beinbruch“: Direktes Glückwünschen gilt als bringt Unglück, also beschwört man stattdessen die Gefahr. Eine Minderheit argumentiert, der Rachen des Wolfs sei schützend, da eine Wölfin darin ihre Jungen trägt – dann wäre crepi il lupo ein Fehler. Italiener streiten darüber."
+    }
+  },
+  "ci-sta": {
+    "definitions": [
+      { "text": "Das passt; geht in Ordnung; das funktioniert. Drückt aus, dass etwas akzeptabel oder vernünftig ist." },
+      { "text": "Von einer Person: sie ist dabei. Ci sta bedeutet „ich bin dabei“." }
+    ],
+    "examples": {
+      "0": { "translation": "Ein Bier nach der Arbeit? Klingt gut." },
+      "1": { "translation": "Verständlich, dass er zu spät kommt, es ist Stau." }
+    }
+  },
+  "allora": {
+    "definitions": [
+      { "text": "Also; na dann; nun. Eröffnet einen Satz, füllt eine Pause, ruft einen Raum zur Ordnung oder leitet eine Schlussfolgerung ein. Lehrer beginnen Unterrichtsstunden damit, Kellner beginnen Bestellungen damit." },
+      { "text": "Zu jener Zeit, als gewöhnliches Adverb." }
+    ],
+    "examples": {
+      "0": { "translation": "Also, was machen wir heute Abend?" },
+      "1": { "translation": "So, Leute, jetzt seid mal still!" }
+    }
+  },
+  "cavolo": {
+    "literalMeaning": "Kohl.",
+    "definitions": [
+      { "text": "Ein Euphemismus für ein viel derberes Wort, verwendet sowohl als Ausruf als auch als Verstärkung: che cavolo vuoi? – „was zum Teufel willst du?“" },
+      { "text": "Non me ne importa un cavolo: das ist mir völlig egal." }
+    ],
+    "examples": {
+      "0": { "translation": "Was zum Teufel machst du da?" },
+      "1": { "translation": "Mensch, was für eine tolle Nachricht!" }
+    },
+    "origin": {
+      "etymology": "Ersetzt cazzo, dem es in Form und Klang ähnelt. Das Italienische verfügt über einen reichen Bestand solcher Gemüse-Ersatzwörter."
+    }
+  },
+  "sfigato": {
+    "definitions": [
+      { "text": "Ein Verlierer; jemand Erfolgloses und Uncooles. Sfiga, das zugehörige Substantiv, bedeutet Pech." }
+    ],
+    "examples": {
+      "0": { "translation": "So ein Pech, ich habe einen Platten.", "context": "sfiga allein bezieht sich auf Missgeschick und ist sehr harmlos." },
+      "1": { "translation": "Er fühlt sich wie ein Loser, wenn sie ihn ausschließen." }
+    }
+  },
+  "abbiocco": {
+    "definitions": [
+      { "text": "Die überwältigende Schläfrigkeit nach einer großen Mahlzeit. Römischen Ursprungs, heute landesweit verstanden, ohne einwortige deutsche Entsprechung." }
+    ],
+    "examples": {
+      "0": { "translation": "Nach dem Mittagessen werde ich immer schläfrig." },
+      "1": { "translation": "Ich bin wahnsinnig müde vom Essen." }
+    },
+    "origin": {
+      "etymology": "Aus dem römischen Dialekt, verwandt mit einem Verb für eine Henne, die sich auf ihre Eier setzt. Das Bild ist das von Einsinken und Sich-nicht-mehr-bewegen-Wollen."
+    }
+  },
+  "apericena": {
+    "definitions": [
+      { "text": "Ein Aperitivo mit so viel Essen, dass er das Abendessen ersetzt: man bezahlt ein Getränk, und das Buffet ist inklusive. Eine Mailänder Institution und eine Überlebensstrategie für Studierende." }
+    ],
+    "examples": {
+      "0": { "translation": "Machen wir statt Abendessen ein Apericena?" },
+      "1": { "translation": "Zehn Euro für das Apericena-Buffet, Getränk inklusive." }
+    },
+    "origin": {
+      "etymology": "Eine Wortkreuzung aus aperitivo und cena, geprägt in den 2000er-Jahren. Puristen wenden sich sowohl gegen das Wort als auch gegen die Praxis; beide Einwände haben nichts bewirkt.",
+      "firstAttested": "2000er-Jahre"
+    }
+  },
+  "spritz": {
+    "definitions": [
+      { "text": "Der orangefarbene Aperitivo aus Prosecco, Bitterlikör und Sodawasser. Einen zu bestellen ist der klassische Eröffnungszug eines italienischen Abends." }
+    ],
+    "examples": {
+      "0": { "translation": "Trinken wir einen Spritz auf der Piazza?" },
+      "1": { "translation": "Zwei Spritz, bitte." }
+    },
+    "origin": {
+      "etymology": "Vom deutschen „spritzen“ – österreichische Soldaten im Venetien des 19. Jahrhunderts verdünnten den lokalen Wein mit Wasser. Der Bitterlikör kam später hinzu.",
+      "firstAttested": "19. Jahrhundert"
+    }
+  },
+  "furbo": {
+    "definitions": [
+      { "text": "Gerissen, gewitzt, schnell darin, eine Chance zu wittern. Bewundernd und missbilligend zugleich – der furbo kommt mit Dingen durch, und Italiener sind zwiegespalten, ob das eine Tugend ist." },
+      { "text": "Fare il furbo: es drauf anlegen, das System austricksen." }
+    ],
+    "examples": {
+      "0": { "translation": "Versuch das nicht bei mir." },
+      "1": { "translation": "Er ist zu clever, um darauf hereinzufallen." }
+    },
+    "origin": {
+      "etymology": "furbizia – die Eigenschaft, furbo zu sein – ist ein wiederkehrendes Thema italienischer Selbstbeschreibung und Satire, meist als nationaler Makel, den insgeheim jeder bewundert."
+    }
+  },
+  "beccare": {
+    "literalMeaning": "Picken.",
+    "definitions": [
+      { "text": "Jemanden auf frischer Tat ertappen. Mi hanno beccato – „ich wurde erwischt“." },
+      { "text": "Beccarsi: sich treffen. Ci becchiamo domani – „bis morgen“." }
+    ],
+    "examples": {
+      "0": { "translation": "Sie haben ihn ohne Fahrkarte erwischt." },
+      "1": { "translation": "Wir sehen uns um acht." }
+    }
+  },
+  "ganzo": {
+    "definitions": [
+      { "text": "Cool, toll. Toskanisch, und ein zuverlässiger regionaler Marker – wer es hört, verortet den Sprecher zwischen Florenz und Livorno." }
+    ],
+    "examples": {
+      "0": { "translation": "Dieser Ort ist wirklich cool." },
+      "1": { "translation": "Wie geil ist das denn!" }
+    }
+  },
+  "ao": {
+    "definitions": [
+      { "text": "He; hey. Der römische Aufmerksamkeits-Ruf, verwendet um einen Satz zu eröffnen, einen Freund zu rufen oder Verärgerung auszudrücken. So römisch wie es nur geht." }
+    ],
+    "examples": {
+      "0": { "translation": "He, was machst du da?" },
+      "1": { "translation": "Hey, bis später.", "context": "Der römische Dialekt liefert auch ce für ci – die beiden treten meist gemeinsam auf." }
+    }
+  },
+  "sticazzi": {
+    "definitions": [
+      { "text": "Na und; wen kümmert's. Römisch, vulgär und außerhalb Roms häufig missverstanden – es drückt Gleichgültigkeit aus, keine Bewunderung, und Römer werden einen darauf hinweisen." }
+    ],
+    "examples": {
+      "0": { "translation": "„Er hat sich ein neues Auto gekauft.“ – „Na und.“" },
+      "1": { "translation": "Wen kümmert's, wo ist das Problem?" }
+    },
+    "origin": {
+      "etymology": "Zusammengezogen aus questi cazzi. Nicht-Römer verwenden es häufig fälschlich im Sinne von „wow, unglaublich“; das richtige Wort dafür ist das fast identische mecojoni."
+    }
+  },
+  "scialla": {
+    "definitions": [
+      { "text": "Entspann dich; immer mit der Ruhe; kein Stress. Jugendsprache, römischen Ursprungs und heute weithin verstanden." }
+    ],
+    "examples": {
+      "0": { "translation": "Entspann dich, wir kommen rechtzeitig an." },
+      "1": { "translation": "Bleib locker, ich kümmere mich darum." }
+    },
+    "origin": {
+      "etymology": "Vermutlich vom arabischen inshallah, über den Umweg eines allgemeinen mediterranen Fatalismus. Die Herleitung ist plausibel, aber nicht fest belegt."
+    }
+  },
+  "pazzesco": {
+    "definitions": [
+      { "text": "Verrückt, unglaublich – meist im positiven Sinn, aber für alles Extreme verwendbar." }
+    ],
+    "examples": {
+      "0": { "translation": "Die Aussicht von dort oben ist unglaublich." },
+      "1": { "translation": "Da war eine wahnsinnige Schlange." }
+    }
+  },
+  "assurdo": {
+    "definitions": [
+      { "text": "Absurd – aber viel lockerer verwendet als das deutsche Wort, als allgemeiner Marker für alles Bemerkenswerte, Nervige oder Extreme." }
+    ],
+    "examples": {
+      "0": { "translation": "Es ist unglaublich, wie viel Miete hier kostet." },
+      "1": { "translation": "Absurd, das kann ich nicht glauben." }
+    }
+  },
+  "macche": {
+    "definitions": [
+      { "text": "Auf keinen Fall; Quatsch; keine Chance. Eine flache, nachdrückliche Verneinung dessen, was gerade vorgeschlagen wurde." }
+    ],
+    "examples": {
+      "0": { "translation": "„Das muss teuer gewesen sein.“ – „Von wegen, ich hab's im Ausverkauf bekommen.“" },
+      "1": { "translation": "Müde? Von wegen, mir geht's blendend." }
+    }
+  },
+  "capito": {
+    "literalMeaning": "Verstanden?",
+    "definitions": [
+      { "text": "Verstehst du? Ein Anhängsel, das Aussagen angehängt wird, um zu prüfen, ob der Zuhörer folgt – ähnlich dem deutschen „weißt du“." },
+      { "text": "Hai capito! als Ausruf überraschter Bewunderung: „na so was“." }
+    ],
+    "examples": {
+      "0": { "translation": "Das ist eine heikle Sache, verstehst du?" },
+      "1": { "translation": "Na, was sagt man dazu!" }
+    }
+  },
+  "cioe": {
+    "literalMeaning": "Das heißt.",
+    "definitions": [
+      { "text": "Ich meine; also. Nominell ein Klarstellungswort, in der Praxis eines der häufigsten Füllwörter im gesprochenen Italienisch, besonders bei jüngeren Sprechern." }
+    ],
+    "examples": {
+      "0": { "translation": "Ich meine, es ist nicht so, dass ich nicht will, ich kann einfach nicht." },
+      "1": { "translation": "Es war, also, wirklich seltsam." }
+    }
+  },
+  "meno-male": {
+    "literalMeaning": "Weniger schlimm.",
+    "definitions": [
+      { "text": "Gott sei Dank; nur gut. Drückt Erleichterung aus, dass etwas Schlimmeres nicht passiert ist." }
+    ],
+    "examples": {
+      "0": { "translation": "Gott sei Dank hast du angerufen." },
+      "1": { "translation": "Was für eine Erleichterung, ich dachte schon, ich hätte es verloren." }
+    }
+  },
+  "tipo": {
+    "definitions": [
+      { "text": "So ungefähr; etwa. Eine Abschwächung und Annäherung: tipo alle sette, „so um sieben“." },
+      { "text": "Ein Typ, ein Kerl. Un tipo strano – „ein komischer Typ“." }
+    ],
+    "examples": {
+      "0": { "translation": "Treffen wir uns so um acht." },
+      "1": { "translation": "Da war ein Typ, der nach dir gefragt hat." }
+    }
+  },
+  "figurati": {
+    "definitions": [
+      { "text": "Keine Ursache; überhaupt nicht. Die Standardantwort auf Dank und auf eine Entschuldigung." },
+      { "text": "Stell dir vor; von wegen. Sarkastisch, um einen Vorschlag als offensichtlich unwahrscheinlich abzutun." }
+    ],
+    "examples": {
+      "0": { "translation": "„Vielen Dank!“ – „Keine Ursache.“" },
+      "1": { "translation": "Als ob der pünktlich käme." }
+    }
+  },
+  "prego": {
+    "literalMeaning": "Ich bitte.",
+    "definitions": [
+      { "text": "Bitte, gern geschehen." },
+      { "text": "Nach dir; bitte, nur zu. Eine Tür aufhalten, einen Platz anbieten." },
+      { "text": "Was darf's sein? Von einem Kellner oder Verkäufer ist es eine Aufforderung zur Bestellung." },
+      { "text": "Wie bitte? Mit steigender Intonation gesagt, bittet es um Wiederholung." }
+    ],
+    "examples": {
+      "0": { "translation": "„Danke.“ – „Bitte gern.“" },
+      "1": { "translation": "Bitte, nehmen Sie Platz." },
+      "2": { "translation": "Wie bitte? Ich habe nicht zugehört." }
+    }
+  },
+  "che-ne-so": {
+    "literalMeaning": "Was weiß ich davon.",
+    "definitions": [
+      { "text": "Woher soll ich das wissen? Wird auch mitten im Satz als Abschwächung verwendet, um ein wahllos gewähltes Beispiel einzuleiten: „ein Buch, weiß ich, oder eine Pflanze“." }
+    ],
+    "examples": {
+      "0": { "translation": "Bring ihm etwas mit, keine Ahnung, eine Flasche Wein." },
+      "1": { "translation": "Und woher soll ich das bitte wissen?" }
+    }
+  },
+  "sgamare": {
+    "definitions": [
+      { "text": "Jemanden durchschauen; herausfinden, was er wirklich im Schilde führt. Stärker als beccare – es impliziert, eine Täuschung zu durchschauen, nicht nur jemanden zu erwischen." }
+    ],
+    "examples": {
+      "0": { "translation": "Ich habe ihn sofort durchschaut, er hat gelogen." },
+      "1": { "translation": "Sie haben uns durchschaut." }
+    }
+  },
+  "sbattersi": {
+    "definitions": [
+      { "text": "Sich für etwas mächtig ins Zeug legen. Uno sbattimento ist eine Plackerei." }
+    ],
+    "examples": {
+      "0": { "translation": "Ich bin den ganzen Tag herumgerannt, um es zu finden." },
+      "1": { "translation": "Was für eine Plackerei, das alles zu organisieren." }
+    }
+  },
+  "raga": {
+    "definitions": [
+      { "text": "Leute, alle zusammen. Verkürzt aus ragazzi, verwendet, um eine Gruppe unabhängig vom Geschlecht anzusprechen." }
+    ],
+    "examples": {
+      "0": { "translation": "Leute, kommen wir in Bewegung?" },
+      "1": { "translation": "Tschüss zusammen, bis morgen." }
+    }
+  },
+  "sclerare": {
+    "definitions": [
+      { "text": "Durchdrehen; wegen Stress oder Frustration ausrasten." }
+    ],
+    "examples": {
+      "0": { "translation": "Ich drehe gleich durch wegen diesem Drucker." },
+      "1": { "translation": "Er ist mitten in der Besprechung ausgerastet." }
+    },
+    "origin": {
+      "etymology": "Von sclerosi, einem medizinischen Fachbegriff, der in die Umgangssprache übernommen wurde. Die italienische Jugendsprache entlehnt recht häufig aus dem klinischen Wortschatz."
+    }
+  },
+  "che-due-palle": {
+    "definitions": [
+      { "text": "Ein gesteigertes che palle – was für eine bodenlose Nervensäge." }
+    ],
+    "examples": {
+      "0": { "translation": "Diese Schlange ist der reinste Albtraum." },
+      "1": { "translation": "So ein Mist, ich muss alles noch mal machen." }
+    }
+  },
+  "andare-a-ruba": {
+    "literalMeaning": "Wie bei einem Raub weggehen.",
+    "definitions": [
+      { "text": "Sich blitzschnell verkaufen; weggehen wie warme Semmeln." }
+    ],
+    "examples": {
+      "0": { "translation": "Die Tickets waren sofort ausverkauft." },
+      "1": { "translation": "Dieses Modell geht weg wie warme Semmeln." }
+    }
+  },
+  "acqua-in-bocca": {
+    "literalMeaning": "Wasser im Mund.",
+    "definitions": [
+      { "text": "Behalt es für dich; kein Wort darüber. Das Bild ist das, einen Mund voll Wasser zu halten, sodass man physisch nicht sprechen kann." }
+    ],
+    "examples": {
+      "0": { "translation": "Es ist eine Überraschung, kein Sterbenswörtchen!" },
+      "1": { "translation": "Ich sag's dir, aber behalt es für dich." }
+    }
+  },
+  "non-ci-piove": {
+    "literalMeaning": "Es regnet nicht darauf.",
+    "definitions": [
+      { "text": "Daran gibt es keinen Zweifel. Wird an eine Aussage angehängt, um sie als unbestreitbar zu markieren." }
+    ],
+    "examples": {
+      "0": { "translation": "Er ist der Beste in der Gruppe, keine Frage." },
+      "1": { "translation": "Darüber gibt es nichts zu diskutieren." }
+    }
+  },
+  "avere-le-mani-in-pasta": {
+    "literalMeaning": "Die Hände im Teig haben.",
+    "definitions": [
+      { "text": "In etwas involviert sein, mit guten Verbindungen und Insiderwissen. Kann nützlichen Einfluss bedeuten oder etwas weniger Sauberes." }
+    ],
+    "examples": {
+      "0": { "translation": "Er hat in halber Stadt die Finger im Spiel." },
+      "1": { "translation": "Frag sie, sie kennt sich mit allem aus." }
+    }
+  }
+}

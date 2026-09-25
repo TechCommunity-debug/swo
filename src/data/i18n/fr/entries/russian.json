@@ -1,0 +1,691 @@
+{
+  "blyad": {
+    "definitions": [
+      { "text": "L'une des quatre racines du mat et, de très loin, la plus fréquente à l'oral. Employée seule en interjection, elle équivaut à « putain » ou « merde » — surprise, douleur, exaspération — et, dans le parler masculin relâché, elle se dégrade en simple ponctuation orale glissée entre deux propositions comme une virgule." },
+      { "text": "Comme nom, terme extrêmement cru pour désigner une femme, du registre de « pute » mais encore plus brutal ; c'est une véritable insulte et il s'emploie comme tel. La forme réduite бля ne sert que d'interjection et n'a jamais ce sens." },
+      {
+        "text": "Comprenez-le, ne l'utilisez pas. Un étranger qui jure en russe paraît soit menaçant soit ridicule, sans aucun juste milieu.",
+        "note": "Son emploi en public constitue une infraction administrative depuis 2014 et il est strictement interdit d'antenne ; à l'écrit, la racine est normalement masquée en б***."
+      }
+    ],
+    "examples": {
+      "0": { "translation": "Putain, j'ai laissé les clés dans la voiture.", "context": "L'emploi par défaut : réaction involontaire quand quelque chose tourne mal, lancée pour soi-même." },
+      "1": { "translation": "Et là le mec se pointe, genre, et il dit rien.", "context": "Pur tic de langage. On n'insulte personne ; la particule joue simplement le rôle de « genre » ou « quoi » en français." }
+    },
+    "origin": {
+      "etymology": "Du vieux slave d'Église блѧдь « tromperie, propos creux », apparenté à блуд « fornication » et à заблуждаться « se tromper, s'égarer ». Le mot appartenait au vocabulaire écrit ordinaire jusqu'au XVIIIe siècle et n'est devenu immonde que plus tard : le tabou est beaucoup plus récent que le mot."
+    }
+  },
+  "pizdets": {
+    "definitions": [
+      { "text": "Catastrophe totale ; la fin des haricots. Le nom désigne une situation irrécupérable — l'équivalent de « on est complètement foutus » condensé en un seul mot." },
+      { "text": "En interjection, exprime la sidération devant l'ampleur de quelque chose, en bien comme en mal : пиздец как круто veut dire « c'est une tuerie absolue »." },
+      { "text": "Comme intensif devant un adjectif, signifie simplement « à mort, ultra », sans la moindre idée de désastre — son emploi le plus courant chez les jeunes." }
+    ],
+    "examples": {
+      "0": { "translation": "C'est bon, c'est mort, la cata totale." },
+      "1": { "translation": "Il y a une queue de malade là-bas.", "context": "Pur intensif ici. Rien n'a mal tourné ; la file d'attente est simplement très longue." }
+    },
+    "origin": {
+      "etymology": "De пизда (terme tabou pour la vulve) suivi du suffixe -ец, qui forme volontiers en russe des noms marquant une issue fatale — comparez les euphémismes капец et кранты bâtis sur le même moule."
+    }
+  },
+  "khuy": {
+    "definitions": [
+      { "text": "Le mot tabou pour le pénis, et la racine la plus productive de toute la langue russe : des dizaines de mots usuels sont bâtis dessus, dont la plupart n'ont plus aucun rapport avec l'anatomie." },
+      { "text": "Dans la formule иди на хуй, c'est la façon standard d'envoyer promener quelqu'un — grosso modo « va te faire foutre », mais un cran plus violent. ни хуя signifie « que dalle », до хуя « une chiée, des tonnes », хуйня « des conneries, de la merde »." },
+      {
+        "text": "Figure ici parce que les dérivés qui suivent sont inexplicables sans lui, et non parce qu'un apprenant aurait la moindre raison de le prononcer.",
+        "note": "La racine s'écrit normalement х** ou se remplace par хрен (« raifort ») dès que le locuteur surveille son langage."
+      }
+    ],
+    "examples": {
+      "0": { "translation": "Mais va te faire foutre.", "context": "Une vraie insulte entre hommes, pas une vanne. Attendez-vous à ce qu'elle mette fin à la conversation ou déclenche une bagarre." },
+      "1": { "translation": "Il n'a strictement rien branlé." }
+    },
+    "origin": {
+      "etymology": "Slave, très vraisemblablement issu de la même racine que хвоя « aiguille de conifère », via un sens ancien de pousse pointue. La légende tenace qui en fait un acronyme ou un emprunt tatar relève de l'étymologie populaire sans le moindre fondement."
+    }
+  },
+  "okhuyet": {
+    "definitions": [
+      { "text": "Rester sur le cul, halluciner complètement. En interjection pure, охуеть correspond à « putain de merde / truc de fou » — et, comme en français, sert aussi bien devant le sublime que devant l'épouvantable." },
+      { "text": "À la deuxième personne, c'est une accusation : ты охуел? signifie « t'as complètement pété les plombs ? », lancé à quelqu'un qui a gravement dépassé les bornes." },
+      { "text": "L'adjectif dérivé охуенный est franchement positif — « putain de génial, mortel » —, ce qui piège les apprenants persuadés que tout mot issu de cette racine est forcément une insulte." }
+    ],
+    "examples": {
+      "0": { "translation": "J'ai failli tomber à la renverse en voyant l'addition." },
+      "1": { "translation": "Mais t'as complètement perdu la tête ?", "context": "Agressif. C'est la réplique juste avant qu'on en vienne aux mains, pas une blague entre amis." }
+    },
+    "origin": {
+      "etymology": "Le préfixe о- (qui marque le passage à un nouvel état, comme dans оглохнуть « devenir sourd ») greffé sur la racine хуй. Le mécanisme est parfaitement régulier : les racines du mat prennent les préfixes et suffixes russes ordinaires et se conjuguent comme n'importe quel verbe."
+    }
+  },
+  "pokhuy": {
+    "definitions": [
+      { "text": "S'en battre les couilles ; s'en foutre royalement. La tournure est impersonnelle — мне похуй, « à moi, c'est [ce mot] » — et exprime un refus actif de se laisser atteindre plutôt qu'une simple indifférence." },
+      { "text": "Désigne aussi une philosophie de vie plutôt qu'une réaction ponctuelle : жить похуй décrit quelqu'un qui se fiche éperdument du regard des autres, ce qui, dans certains milieux, est un compliment." }
+    ],
+    "examples": {
+      "0": { "translation": "Je m'en bats les couilles de ce qu'ils pensent." },
+      "1": { "translation": "Lui, il en a rien à foutre de rien.", "context": "La version polie remplace le mot par пофиг ou всё равно : c'est celle qu'on emploie devant les parents de qui que ce soit." }
+    },
+    "origin": {
+      "etymology": "La préposition по suivie de la racine du mat, sur le modèle de по барабану et по фигу — toute une famille d'expressions signifiant « ça m'est bien égal », construites avec une préposition et un nom de grossièreté décroissante."
+    }
+  },
+  "zayebal": {
+    "definitions": [
+      { "text": "Tu me gonfles ; j'en ai ras le bol de toi. Toujours au passé avec l'importun pour sujet — ты заебал — et toujours pour exprimer une exaspération accumulée plutôt qu'un grief isolé." },
+      { "text": "Le pronominal заебался signifie « je suis crevé, je suis rincé », sans la moindre agressivité : un ouvrier qui lâche я заебался à la fin de sa journée parle de ses jambes, il ne s'en prend à personne." }
+    ],
+    "examples": {
+      "0": { "translation": "Tu me les brises avec tes questions, à la fin." },
+      "1": { "translation": "Je suis complètement rincé aujourd'hui, j'ai plus de jus.", "context": "Dit de soi-même, exprime l'épuisement et non la colère — mais cela reste du mat, donc imprononçable au travail." }
+    },
+    "origin": {
+      "etymology": "Le préfixe perfectif за- greffé sur le verbe du mat ебать. Le préfixe apporte l'idée d'une action poussée jusqu'à l'épuisement, exactement comme dans le très poli заговорить « saouler quelqu'un de paroles »."
+    }
+  },
+  "nayebat": {
+    "definitions": [
+      { "text": "Entuber, baiser, escroquer quelqu'un de son argent ou de ce qui était convenu. Plus violent et plus furieux que кинуть, le verbe implique que la tromperie est vécue comme délibérée et personnelle." },
+      { "text": "Le verbe neutre est обмануть, et le quasi-calque надуть (« gonfler, rouler ») sert de substitut présentable dans toutes les conversations ordinaires." }
+    ],
+    "examples": {
+      "0": { "translation": "Ils nous ont entubés de vingt mille roubles là-bas." },
+      "1": { "translation": "Tu m'auras pas comme ça." }
+    },
+    "origin": {
+      "etymology": "Préfixe на- sur ебать. La métaphore sexuelle pour dire « escroquer » est vieille et universelle — le français « se faire baiser » ou l'anglais screwed over fonctionnent exactement pareil —, mais en russe la dérivation reste crûment transparente pour chaque locuteur."
+    }
+  },
+  "mudak": {
+    "definitions": [
+      { "text": "Un sombre connard — très proche de « connard » ou « trouduc » par la force comme par l'emploi. Le reproche vise moins la bêtise que le fait de se comporter comme un mufle sans même s'en rendre compte." },
+      { "text": "Techniquement, ce n'est pas l'une des quatre racines du mat, raison pour laquelle il se faufile parfois dans la presse ou à la télévision là où пиздец serait coupé, mais c'est bel et bien une insulte caractérisée." }
+    ],
+    "examples": {
+      "0": { "translation": "Notre patron est un connard de compétition." },
+      "1": { "translation": "Fais pas le con, excuse-toi." }
+    },
+    "origin": {
+      "etymology": "De муде, mot archaïque désignant les testicules, encore vivant dans certains dialectes. L'étymologie souvent répétée qui le rattache au sanskrit ou au mongol est une pure invention."
+    }
+  },
+  "khernya": {
+    "definitions": [
+      { "text": "Des conneries ; de la camelote ; un truc sans valeur. S'emploie aussi bien pour des propos absurdes que pour un objet qu'on ne prend pas la peine de nommer — « ce machin, cette merdouille »." },
+      { "text": "C'est le substitut adouci de хуйня, un cran en dessous : херня est le mot qu'un employé de bureau lâche devant ses collègues, хуйня celui qu'il emploie une fois la porte refermée." }
+    ],
+    "examples": {
+      "0": { "translation": "Lis pas ça, c'est des conneries du début à la fin." },
+      "1": { "translation": "C'est quoi ce machin dans ton sac ?", "context": "Dédaigneux mais sans hostilité ; s'emploie à tout bout de champ pour désigner un objet dont le nom échappe." }
+    },
+    "origin": {
+      "etymology": "De хер, l'ancien nom de la lettre cyrillique Х, devenu une manière polie de désigner le mot du mat commençant par cette lettre. Depuis, l'euphémisme s'est lui-même encanaillé jusqu'à devenir presque aussi cru que ce qu'il évitait.",
+      "firstAttested": "XIXe siècle"
+    }
+  },
+  "blin": {
+    "definitions": [
+      { "text": "Mince ; purée ; zut. Le juron doux le plus courant du russe, et le seul qu'un étranger puisse utiliser les yeux fermés : une institutrice le dit, une grand-mère le dit, on l'entend dans les dessins animés pour enfants." },
+      { "text": "Tout comme son modèle tabou, il sert aussi de simple cheville glissée au milieu d'une phrase, où il ne signifie rien d'autre que le registre familier." }
+    ],
+    "examples": {
+      "0": { "translation": "Purée, j'ai encore oublié mon chargeur." },
+      "1": { "translation": "Ben, enfin, je sais pas quoi te dire, moi.", "context": "Emploi comme ponctuation orale. Glisser un блин par phrase est le moyen le plus rapide de parler comme dans la vraie vie plutôt que comme un manuel." }
+    },
+    "literalMeaning": "crêpe, blini",
+    "origin": {
+      "etymology": "Le mot ordinaire pour une crêpe (blini), choisi parce qu'il commence par les deux mêmes sons que блядь — exactement le procédé de « mercredi » ou « purée » en français. Le camouflage est transparent pour tout le monde et ne choque personne."
+    }
+  },
+  "kapets": {
+    "definitions": [
+      { "text": "La cata ; c'est foutu, c'est mort. Le substitut publiable de пиздец, taillé sur le même gabarit syllabique pour pouvoir s'insérer dans les mêmes phrases sans en casser le rythme." },
+      { "text": "Sert aussi d'intensif exactement de la même manière : капец как холодно signifie « il fait un froid de gueux ». Les jeunes le préfèrent à пиздец dès que la compagnie est mixte." }
+    ],
+    "examples": {
+      "0": { "translation": "La poisse, j'ai explosé mon téléphone." },
+      "1": { "translation": "C'est hors de prix là-bas, un truc de fou." }
+    },
+    "origin": {
+      "etymology": "Bâti sur капут (de l'allemand kaputt) coiffé de la finale -ец calquée sur пиздец. Un euphémisme conçu sur mesure pour sonner comme le mot qu'il remplace, selon le principe habituel de toute cette série."
+    }
+  },
+  "ofiget": {
+    "definitions": [
+      { "text": "Halluciner, en revenir pas ; en interjection, « truc de dingue » ou « sans blague ». Le pendant propre d'охуеть, obtenu en remplaçant la racine du mat par l'inoffensif фиг." },
+      { "text": "L'adjectif dérivé офигенный signifie « génial, canon » : c'est la façon courante de complimenter quelque chose avec enthousiasme devant n'importe qui." }
+    ],
+    "examples": {
+      "0": { "translation": "Sans blague, t'as construit ça tout seul ?" },
+      "1": { "translation": "Il fait un temps magnifique, allons au lac." }
+    },
+    "origin": {
+      "etymology": "La racine фиг, syllabe anodine adoptée précisément pour tenir lieu de la racine taboue, précédée du même préfixe о-. Le russe fabrique ses euphémismes en gardant toute la charpente morphologique et en ne changeant que la racine obscène."
+    }
+  },
+  "zhest": {
+    "definitions": [
+      { "text": "Brutal ; chaud ; glauque. Se dit de tout ce qui est assez rude pour être difficile à regarder : un fait divers, une garde éprouvante, un film d'horreur." },
+      { "text": "En réaction d'un seul mot, équivaut à « c'est chaud / c'est violent », et chez les plus jeunes le sens a glissé vers l'admiration devant tout ce qui est extrême, en bien ou en mal." }
+    ],
+    "examples": {
+      "0": { "translation": "La vidéo de l'accident est vraiment violente." },
+      "1": { "translation": "C'était rude, clairement, mais ils s'en sont sortis." }
+    },
+    "literalMeaning": "fer-blanc, tôle",
+    "origin": {
+      "etymology": "Le nom désignant la tôle ou le fer-blanc, réinterprété sous l'influence de жёсткий « dur, rude ». Le terme s'est répandu sur les forums internet du début des années 2000 avant de gagner la langue de tous les jours.",
+      "firstAttested": "années 2000"
+    }
+  },
+  "krinzh": {
+    "definitions": [
+      { "text": "Le malaise, la gêne — cet embarras bien précis qu'on ressent en voyant quelqu'un se ridiculiser sans s'en rendre compte (« cringe »). Emprunté tel quel à l'anglais d'internet vers 2020." },
+      { "text": "Entièrement naturalisé sur le plan grammatical : il se décline comme un nom russe et donne l'adjectif кринжовый ainsi que le verbe кринжевать. Quiconque a plus de trente-cinq ans et l'emploie cite généralement ses enfants." }
+    ],
+    "examples": {
+      "0": { "translation": "J'ai regardé ses stories, quel malaise." },
+      "1": { "translation": "Fais pas ça, c'est trop gênant." }
+    },
+    "origin": {
+      "etymology": "De l'anglais cringe, importé par les commentaires YouTube et TikTok plutôt que par l'écrit, raison pour laquelle il est arrivé directement avec le sens internet de « malaisant » et non celui de recul physique.",
+      "firstAttested": "vers 2019"
+    }
+  },
+  "bespredel": {
+    "definitions": [
+      { "text": "L'arbitraire total, le non-droit ; un comportement affranchi de toute limite. S'emploie à propos de la police, de l'administration, d'un propriétaire ou d'un patron — quiconque agit comme si aucune règle ne s'appliquait à lui." },
+      { "text": "L'un des exemples les plus nets de vocabulaire des camps passé dans la langue commune : dans le monde carcéral, le mot désignait une faute précise — la violation du code d'honneur des voleurs eux-mêmes — et il a gardé cette nuance de pacte trahi plutôt que de simple infraction à la loi." }
+    ],
+    "examples": {
+      "0": { "translation": "Là c'est plus un contrôle, c'est du racket pur et simple." },
+      "1": { "translation": "Dans les années quatre-vingt-dix, c'était la loi de la jungle ici.", "context": "Les années 1990 sont la décennie fétiche du mot, et c'est encore pour les décrire qu'il tombe le plus juste." }
+    },
+    "literalMeaning": "sans limite",
+    "origin": {
+      "etymology": "Argot du système pénitentiaire soviétique, tiré de без предела « sans limite ». Passé dans le russe courant à la fin des années 1980, il est devenu l'un des mots-clés de la décennie suivante.",
+      "firstAttested": "argot des camps soviétiques ; langue courante dès la fin des années 1980"
+    }
+  },
+  "po-ponyatiyam": {
+    "definitions": [
+      { "text": "Selon le code d'honneur (non écrit) plutôt que selon la loi. Désigne le système parallèle d'obligations — qui doit quoi à qui, ce qui est réglo ou non — qui régissait le milieu criminel et que les Russes ordinaires ont emprunté pour décrire les règles informelles de n'importe quel milieu." },
+      { "text": "S'emploie aujourd'hui à moitié en plaisantant au bureau ou entre amis pour tout ce qui se règle à l'amiable ou à la coutume plutôt que par contrat, mais le poids d'origine reste perceptible." }
+    ],
+    "examples": {
+      "0": { "translation": "Là-bas, rien ne se règle par la loi, tout se règle selon les règles du milieu." },
+      "1": { "translation": "C'est pas réglo, ça, on avait un accord.", "context": "Entre amis, c'est dit sur le ton de la blague. En mauvaise compagnie, c'est une mise en accusation." }
+    },
+    "literalMeaning": "selon les notions / les ententes",
+    "origin": {
+      "etymology": "Cœur même de la фе́ня — l'argot des camps soviétiques — où les понятия désignaient le code impératif des voleurs, explicitement opposé à la loi de l'État. L'expression est entrée dans le langage général dans les années 1990 en même temps que les hommes qui l'avaient apprise."
+    }
+  },
+  "ksiva": {
+    "definitions": [
+      { "text": "Les papiers ; une carte professionnelle ou officielle, surtout celle qu'on dégaine pour passer un barrage. Le mot a un léger tranchant : une ксива, c'est un document utilisé comme coupe-file ou moyen de pression plutôt que comme simple pièce d'identité." },
+      { "text": "Courant dans la police, l'armée et les services de sécurité, et immédiatement compris de tout le monde grâce à trente ans de séries policières." }
+    ],
+    "examples": {
+      "0": { "translation": "Il a dégainé sa carte et on nous a laissé passer direct." },
+      "1": { "translation": "Sans accréditation, tu rentreras jamais là-dedans." }
+    },
+    "origin": {
+      "etymology": "De l'hébreu כתיבה ktiva « écrit, document », passé par le yiddish dans l'argot de la pègre d'Odessa qui a nourri la фе́ня. Une grande partie du plus vieil argot criminel russe a emprunté exactement cet itinéraire."
+    }
+  },
+  "frayer": {
+    "definitions": [
+      { "text": "À l'origine, dans l'argot des camps, toute personne étrangère au monde des voleurs professionnels — un « cave », un civil, et par extension une proie facile. Ce sens survit dans le proverbe жадность фраера сгубила, « la gourmandise a perdu le pigeon »." },
+      { "text": "Dans l'usage courant actuel, désigne un frimeur, un mec sapé qui fait le caïd sans avoir les épaules. Vieilli : on l'entend surtout chez les générations plus âgées ou comme clin d'œil rétro." }
+    ],
+    "examples": {
+      "0": { "translation": "Il fait le kéké, mais il est incapable de quoi que ce soit." },
+      "1": { "translation": "C'est la gourmandise qui a perdu le pigeon.", "context": "Dicton figé, employé bien au-delà de tout contexte criminel dès que quelqu'un a les yeux plus gros que le ventre et perd tout." }
+    },
+    "origin": {
+      "etymology": "Du yiddish frayer, lui-même de l'allemand Freier « prétendant, homme libre », devenu dans l'argot une personne libre — c'est-à-dire non détenue — et donc une victime potentielle."
+    }
+  },
+  "stukach": {
+    "definitions": [
+      { "text": "Une balance, un indic, un mouchard. L'une des accusations les plus lourdes de la langue russe, chargée de tout le poids du siècle soviétique." },
+      { "text": "S'applique bien au-delà de la police — au collègue qui va rapporter à la direction ou à l'élève qui cafarde au professeur —, mais jamais à la légère, et jamais pour rire entre personnes qui ne se connaissent pas intimement." }
+    ],
+    "examples": {
+      "0": { "translation": "Il y a une balance dans le service." },
+      "1": { "translation": "Il balançait ses propres camarades." }
+    },
+    "origin": {
+      "etymology": "De стучать « frapper, toquer » : le délateur toque à la porte des autorités. Le verbe стучать на кого-то (« balancer quelqu'un ») est aussi courant que le nom et tout aussi infamant."
+    }
+  },
+  "kosyak": {
+    "definitions": [
+      { "text": "Une bourde, une boulette ; une erreur dont quelqu'un porte la responsabilité. Le verbe накосячить signifie faire une boulette, et косячить les accumuler." },
+      { "text": "Par ailleurs, dans un sens beaucoup plus restreint, un joint de cannabis — le contexte lève toujours l'ambiguïté, et les deux sens sont si éloignés par le ton qu'on les confond rarement." }
+    ],
+    "examples": {
+      "0": { "translation": "C'est ma boulette, j'ai pas vérifié." },
+      "1": { "translation": "Il a encore merdé sur le rapport." }
+    },
+    "literalMeaning": "montant de porte",
+    "origin": {
+      "etymology": "Argot des camps, où допустить косяк signifiait commettre une entorse au code. L'usage quotidien a gommé tout cet arrière-plan pour ne garder que l'idée d'une erreur qu'il faut assumer."
+    }
+  },
+  "zashkvar": {
+    "definitions": [
+      { "text": "La honte absolue, la affiche ; quelque chose d'indigne qui salit quiconque y touche. Dans la bouche des ados, équivaut à « c'est la honte » et s'applique aux fringues, à la musique ou aux opinions." },
+      { "text": "L'origine est franchement sordide et mérite d'être connue : dans l'argot des prisons, зашквариться signifie devenir irréversiblement souillé (« intouchable ») par contact avec la caste la plus basse des détenus. La plupart des ados qui emploient le mot l'ignorent totalement." }
+    ],
+    "examples": {
+      "0": { "translation": "S'habiller comme ça, c'est la honte intégrale." },
+      "1": { "translation": "Ça craint pas un peu de bosser pour ces gens-là ?" }
+    },
+    "origin": {
+      "etymology": "De l'argot carcéral зашкварить, lui-même tiré de шкварка « gratton, graisse brûlée » — l'image est celle d'une brûlure qui marque à vie. Le mot a gagné l'argot des jeunes vers 2015 via le rap et les battles.",
+      "firstAttested": "usage général depuis le milieu des années 2010"
+    }
+  },
+  "lokh": {
+    "definitions": [
+      { "text": "Un pigeon, un gogo, un cave ; quelqu'un qu'on peut rouler dans la farine sans qu'il voie rien venir. L'insulte vise la naïveté et la faiblesse sociale plutôt que le manque d'intelligence." },
+      { "text": "Mot-symbole des années 1990, quand tout le pays se faisait escroquer et que personne ne voulait passer pour le dindon de la farce. Toujours courant, et toujours cuisante injure." }
+    ],
+    "examples": {
+      "0": { "translation": "Attends, tu me prends pour un pigeon ou quoi ?" },
+      "1": { "translation": "Ils m'ont plumé comme un bleu." }
+    },
+    "origin": {
+      "etymology": "De l'argot des colporteurs, où le лох désignait le paysan crédule bon à plumer ; il existe aussi dans les parlers du Nord un mot лох désignant le saumon épuisé après le frai, facile à attraper à la main. Les deux images se rejoignent et sont passées de là dans l'argot des camps."
+    }
+  },
+  "gopnik": {
+    "definitions": [
+      { "text": "Jeune de cité ou de banlieue rude qui traîne en survêtement, s'accroupit les talons posés à plat et demande une clope aux passants sur un ton qui n'a rien d'une vraie question." },
+      { "text": "Autant insulte de classe que description sociologique, c'est le type social russe le plus célèbre à l'étranger — même si les mèmes occidentaux l'ont réduit à un déguisement folklorique, alors qu'en Russie le mot désigne toujours quelqu'un pour qui l'on change de trottoir." }
+    ],
+    "examples": {
+      "0": { "translation": "Y a des racailles qui traînent dans la cour, passe pas par là." },
+      "1": { "translation": "Il s'est sapé comme un lascar pour aller en boîte." }
+    },
+    "origin": {
+      "etymology": "Très vraisemblablement issu du sigle ГОП (Городское общество призора), foyer municipal pour indigents et jeunes errants du Petrograd post-révolutionnaire, dont les pensionnaires ont donné le nom ; la dérivation par le verbe гопать est secondaire. L'association avec le survêtement date des années 1990 et n'a rien à voir avec l'origine.",
+      "firstAttested": "années 1920 ; sens actuel depuis les années 1980"
+    }
+  },
+  "ment": {
+    "definitions": [
+      { "text": "Un flic, un keuf. Irrespectueux mais si courant qu'une célèbre série télévisée mettant en scène d'honnêtes inspecteurs s'est intitulée Менты — ce qui a émoussé une bonne partie du venin sans l'effacer tout à fait." },
+      { "text": "Le dire en face à un policier, c'est chercher les ennuis ; le dire entre amis ne fait sourciller personne. Les termes neutres sont полицейский et, par habitude tenace, милиционер." }
+    ],
+    "examples": {
+      "0": { "translation": "Les flics nous ont arrêtés à la sortie de la ville." },
+      "1": { "translation": "Parle moins fort, y a les keufs juste à côté." }
+    },
+    "origin": {
+      "etymology": "De l'argot de l'ouest de l'Empire russe, où mente désignait la pèlerine à la hongroise portée par la police austro-hongroise ; passé dans la фе́ня par l'intermédiaire du polonais. Les histoires d'acronymes qui circulent sur internet sont de pures inventions."
+    }
+  },
+  "fleksit": {
+    "definitions": [
+      { "text": "Frimer, étaler — son fric, ses fringues, ses vacances. Emprunté à l'argot du rap américain (to flex) et coiffé d'un infinitif russe standard, si bien qu'il se conjugue comme n'importe quel verbe du cru : флексю, флексишь, флексил." },
+      { "text": "Un sens secondaire de « danser, bouger sur le son » est entré en même temps et survit surtout dans les paroles de chansons." }
+    ],
+    "examples": {
+      "0": { "translation": "Il est encore en train de frimer avec ses nouvelles baskets." },
+      "1": { "translation": "Arrête de te la péter, tout le monde a compris." }
+    },
+    "origin": {
+      "etymology": "De l'anglais to flex, arrivé par le hip-hop vers 2017 et aussitôt doté du suffixe -ить que le russe colle à presque tous les verbes importés — la même mécanique qui a produit гуглить et лайкнуть.",
+      "firstAttested": "fin des années 2010"
+    }
+  },
+  "chuvak": {
+    "definitions": [
+      { "text": "Mec, gars, pote. Sert aussi bien à désigner un homme qu'à interpeller un ami, avec чувиха pour pendant féminin — même si чувиха sonne plus rustre et plus daté que чувак." },
+      { "text": "Dégage un léger charme rétro plutôt qu'un air d'argot jeune actuel ; un Russe de vingt ans dira plus volontiers бро ou братан." }
+    ],
+    "examples": {
+      "0": { "translation": "Mec, mais t'es passé où ?" },
+      "1": { "translation": "Un gars là-bas a dit que le bureau était fermé." }
+    },
+    "origin": {
+      "etymology": "Issu de la sous-culture des стиляги (les « zazous » soviétiques) des années 1950, probablement d'un mot dialectal désignant un animal châtré. Le rétro-acronyme « человек, уважающий великую американскую культуру » (« homme respectant la grande culture américaine ») est une blague inventée des décennies plus tard, pas une étymologie.",
+      "firstAttested": "années 1950"
+    }
+  },
+  "bratan": {
+    "definitions": [
+      { "text": "Frérot, gros. Augmentatif de брат (« frère »), employé pour s'adresser à un ami ou, de façon appuyée, à un inconnu qu'on cherche à amadouer." },
+      { "text": "Le registre dépend entièrement de qui le prononce. Entre amis, c'est chaleureux ; dans la bouche d'un inconnu la nuit dans la rue, c'est un coup de pression, et le parfum de racketteur des années 1990 n'a pas disparu." }
+    ],
+    "examples": {
+      "0": { "translation": "Frérot, dépanne-moi, dépose-moi chez moi." },
+      "1": { "translation": "Dis donc, l'ami, t'aurais pas une clope ?", "context": "Phrase d'accroche classique avant un dépouillement en règle. La fausse familiarité fait partie intégrante de la technique." }
+    },
+    "origin": {
+      "etymology": "брат suivi du suffixe augmentatif -ан, procédé très productif en russe familier. Sa connotation mafieuse vient des années 1990, où братва désignait les bandes du crime organisé."
+    }
+  },
+  "davay": {
+    "definitions": [
+      { "text": "La formule standard pour raccrocher au téléphone entre proches : « allez, salut, à plus ». Souvent redoublée — давай-давай — et presque toujours le dernier mot avant de couper." },
+      { "text": "Dans les autres contextes, signifie « allez, vas-y » ou « chiche », et suivi de l'infinitif ou du futur, forme l'équivalent ordinaire de notre impératif à la première personne du pluriel : давай посмотрим, « voyons voir / regardons »." }
+    ],
+    "examples": {
+      "0": { "translation": "Bon ben allez, à demain." },
+      "1": { "translation": "Allez, vas-y, tu vas y arriver." }
+    },
+    "literalMeaning": "donne",
+    "origin": {
+      "etymology": "Impératif de давать « donner », vidé de son sens propre. Son emploi pour dire au revoir est une curiosité russe qui déroute toujours les débutants, qui ont l'impression qu'on leur ordonne de tendre quelque chose."
+    }
+  },
+  "babki": {
+    "definitions": [
+      { "text": "Le fric, le blé, les sous. Le mot d'argot le plus installé en russe pour désigner l'argent, toujours au pluriel, et assez neutre pour surgir au milieu de conversations d'affaires par ailleurs très tenues." },
+      { "text": "Sonne légèrement plus lourd et plus « génération précédente » que бабло, que les plus jeunes lui préfèrent." }
+    ],
+    "examples": {
+      "0": { "translation": "Le fric d'abord, le boulot ensuite." },
+      "1": { "translation": "Il s'est fait un joli billet sur cette affaire." }
+    },
+    "literalMeaning": "grands-mères ; osselets",
+    "origin": {
+      "etymology": "De бабки, les osselets de mouton qui servaient de jetons et de mises dans un jeu d'enfants traditionnel — exactement le chemin par lequel bones et chips ont fini par désigner l'argent en anglais. Le sens de « grands-mères » n'est qu'une coïncidence d'homonymes."
+    }
+  },
+  "lave": {
+    "definitions": [
+      { "text": "La maille, l'oseille, le liquide. Plus tape-à-l'œil que бабки et fortement associé aux textes de rap, au business de rue et à tous ceux qui veulent afficher une certaine dégaine." },
+      { "text": "Indéclinable, ce qui le trahit immédiatement comme emprunt et lui garde aujourd'hui encore un petit air exotique." }
+    ],
+    "examples": {
+      "0": { "translation": "On a de la maille, allons dans un endroit correct." },
+      "1": { "translation": "Il ne pense qu'à l'oseille." }
+    },
+    "origin": {
+      "etymology": "Du romani love « argent », entré en russe par le même réseau de marchands ambulants et de pègre qui a fourni лох. C'est un authentique emprunt tsigane, contrairement à la plupart des mots à qui l'on prête cette origine."
+    }
+  },
+  "khalyava": {
+    "definitions": [
+      { "text": "Un bon plan gratuit ; quelque chose qu'on a à l'œil. на халяву signifie « gratuitement, aux frais de la princesse », et la tournure s'accompagne d'une vraie tendresse nationale : les blagues russes sur la халява sont complices, jamais moralisatrices." },
+      { "text": "Le dérivé халявщик désigne le pique-assiette qui ne se montre que quand c'est gratuit, et ce mot-là, en revanche, est une insulte sans ambiguïté." }
+    ],
+    "examples": {
+      "0": { "translation": "Quand c'est gratuit, même le vinaigre est sucré.", "context": "Un proverbe que tout le monde connaît, et le résumé le plus concis possible de l'état d'esprit." },
+      "1": { "translation": "Il a pris l'habitude d'avoir tout à l'œil." }
+    },
+    "origin": {
+      "etymology": "Probablement de l'hébreu חלב chalav « lait », en référence au lait distribué gratuitement aux pauvres pour le shabbat, même si la dérivation par халява « tige large d'une botte » — où l'on glissait ce qu'on chapardait sans payer — est au moins aussi convaincante. Les deux pistes restent discutées."
+    }
+  },
+  "bukhat": {
+    "definitions": [
+      { "text": "Picoler, tiser — sérieusement, longtemps et avec l'intention de se mettre minable. Ce n'est pas le mot pour un verre de vin à table : бухать décrit une soirée dont le but avoué est de boire." },
+      { "text": "Direct mais pas obscène. Dit de soi-même, il comporte une pointe d'autodérision ; répété à propos d'un tiers, c'est un constat d'alcoolisme." }
+    ],
+    "examples": {
+      "0": { "translation": "Ils ont picolé toute la semaine à la datcha." },
+      "1": { "translation": "Arrête de picoler, tu bosses demain." }
+    },
+    "origin": {
+      "etymology": "De бухать « faire un bruit sourd, cogner », par allusion au bruit de la bouteille qu'on pose lourdement sur la table ou du corps qui s'affale. Le nom бухло « la picole » et le dérivé бухарик « poivrot » viennent de la même racine."
+    }
+  },
+  "bukhlo": {
+    "definitions": [
+      { "text": "La picole, la tise. Nom collectif désignant tout l'alcool rapporté pour une soirée, sans le moindre intérêt pour la marque ou le cru." },
+      { "text": "C'est le mot consacré quand on se répartit les courses avant une fête : ты за бухло, я за закуску (« tu gères la tise, je gère la bouffe »)." }
+    ],
+    "examples": {
+      "0": { "translation": "On prendra à boire en chemin." },
+      "1": { "translation": "On a de quoi manger, mais zéro tise." }
+    },
+    "origin": {
+      "etymology": "De бухать coiffé du suffixe collectif -ло, exactement sur le modèle de барахло « le fourbi, la camelote ». Le suffixe porte en lui-même une nuance de dédain amusé pour le tas de choses qu'il désigne."
+    }
+  },
+  "bodun": {
+    "definitions": [
+      { "text": "La gueule de bois, toujours dans la locution figée с бодуна — « avec la gueule de bois ». Le nom neutre est похмелье ; бодун est ce qu'on dit vraiment le lendemain matin." },
+      { "text": "Strictement familier et d'un ton légèrement comique, raison pour laquelle il résiste si bien : il permet d'avouer son état sans avoir l'air de s'apitoyer sur son sort." }
+    ],
+    "examples": {
+      "0": { "translation": "J'ai la gueule de bois aujourd'hui, me touche pas." },
+      "1": { "translation": "Impossible de bosser avec une gueule de bois pareille." }
+    },
+    "origin": {
+      "etymology": "De бодать « donner des coups de corne » : la gueule de bois imaginée comme une bête qui vous cogne le crâne. La forme est figée au génitif après с ; personne n'emploie бодун tout seul au nominatif."
+    }
+  },
+  "tusa": {
+    "definitions": [
+      { "text": "Une soirée, une fête, une virée — mais aussi la bande qui s'y retrouve. La variante longue тусовка désigne en outre un milieu ou un microcosme : театральная тусовка, c'est « le milieu du théâtre »." },
+      { "text": "Le verbe тусить signifie traîner ensemble, passer du bon temps, sans qu'il y ait forcément de fête : тусим дома décrit une soirée tranquille entre potes à la maison." }
+    ],
+    "examples": {
+      "0": { "translation": "Y a une soirée chez Liokha ce soir, passe." },
+      "1": { "translation": "On a traîné toute la journée au parc." }
+    },
+    "origin": {
+      "etymology": "De тасовать « battre les cartes » — une fête vue comme une pièce où les gens se mélangent. Né dans les milieux jeunes et musicaux de la fin de l'URSS, le mot est resté vivant depuis quarante ans, une longévité rare pour de l'argot festif.",
+      "firstAttested": "années 1980"
+    }
+  },
+  "chilit": {
+    "definitions": [
+      { "text": "Chiller, se poser ; ne rien faire de façon délibérée et agréable. Se conjugue à toutes les personnes — чилю, чилишь, почилим — et a largement détrôné отдыхать chez les moins de trente ans pour dire « se détendre »." },
+      { "text": "Agace les locuteurs plus âgés précisément parce qu'il remplace un verbe russe parfaitement courant, reproche classique adressé à toute cette vague d'anglicismes." }
+    ],
+    "examples": {
+      "0": { "translation": "J'ai chillé à la maison tout le week-end." },
+      "1": { "translation": "Viens, on va se poser quelque part." }
+    },
+    "origin": {
+      "etymology": "De l'anglais to chill muni de la terminaison d'infinitif russe -ить. Le russe digère les verbes étrangers par suffixation directe plutôt que par périphrase, si bien que chaque verbe emprunté arrive immédiatement conjugable — d'où l'impression qu'il fait partie des meubles au bout de quelques mois.",
+      "firstAttested": "années 2010"
+    }
+  },
+  "khavchik": {
+    "definitions": [
+      { "text": "La graille, la bouffe ; un truc à se mettre sous la dent. Purement utilitaire : personne n'irait qualifier un repas au restaurant de хавчик." },
+      { "text": "Le verbe хавать signifie bouffer sans façons et, au figuré, gober tout ce qu'on vous raconte : пипл хавает (« le public gobe tout »)." }
+    ],
+    "examples": {
+      "0": { "translation": "Y a un truc à grailler ?" },
+      "1": { "translation": "On a pris à bouffer et on a filé." }
+    },
+    "origin": {
+      "etymology": "De l'argot des camps хавать « manger », lui-même probablement emprunté au romani. Le diminutif -чик l'adoucit jusqu'à le rendre presque affectueux, ce qui lui a permis de s'installer dans l'argot étudiant et de bureau."
+    }
+  },
+  "krash": {
+    "definitions": [
+      { "text": "Le crush, la personne sur qui l'on craque — attention au glissement : en russe, le mot désigne toujours la personne convoitée, jamais le sentiment lui-même. мой краш veut dire « la personne qui me plaît »." },
+      { "text": "Vocabulaire strictement réservé aux moins de vingt-cinq ans, très marqué fandom et TikTok. L'utiliser passé cet âge est en soi du second degré." }
+    ],
+    "examples": {
+      "0": { "translation": "C'est mon crush depuis le lycée." },
+      "1": { "translation": "Elle a complètement craqué sur lui en une semaine.", "context": "Le verbe dérivé крашнуться existe, mais il est plus rare et sonne très internet." }
+    },
+    "origin": {
+      "etymology": "De l'anglais crush, emprunté vers 2019 via les communautés de fans de K-pop et TikTok, avec le glissement de sens du sentiment vers la personne déjà opéré par l'usage des fans anglophones parlant de célébrités.",
+      "firstAttested": "vers 2019"
+    }
+  },
+  "zamutit": {
+    "definitions": [
+      { "text": "Se mettre avec quelqu'un, pécho, entamer une histoire — généralement sans engagement. Se construit avec с (замутить с кем-то), et le nom pluriel мутки désigne les histoires de cœur un peu floues qui en découlent." },
+      { "text": "S'emploie tout autant hors de tout contexte amoureux : замутить бизнес, замутить вечеринку — monter un coup, organiser une fête, lancer un projet. L'idée commune est de bricoler quelque chose de façon informelle et un brin opportuniste." }
+    ],
+    "examples": {
+      "0": { "translation": "Ils ont fricoté ensemble au boulot, tout le monde est au courant." },
+      "1": { "translation": "Viens, on organise un truc pour ce week-end." }
+    },
+    "origin": {
+      "etymology": "De мутить « troubler l'eau, brasser ». Le flou fait tout le sel du mot : un замут est une combine montée hors des circuits officiels, et le sens amoureux hérite de cette ambiguïté voulue."
+    }
+  },
+  "dinamit": {
+    "definitions": [
+      { "text": "Balader quelqu'un, lui poser lapin sur lapin ; dire oui à chaque rendez-vous sans jamais venir. Le nom динамо désigne la manœuvre et динамщица celle qui en fait une habitude." },
+      { "text": "Déborde largement le cadre amoureux pour s'appliquer à quiconque vous mène en bateau : un client, un propriétaire, ou un ami qui vous doit de l'argent depuis un an." }
+    ],
+    "examples": {
+      "0": { "translation": "Ça fait un mois qu'elle le balade." },
+      "1": { "translation": "Arrête de me mener en bateau, dis-le franchement." }
+    },
+    "origin": {
+      "etymology": "De динамо, la dynamo électrique : l'image est celle d'une machine qui tourne à vide à toute vitesse sans jamais rien livrer de concret. Le sens amoureux remonte à la fin de l'époque soviétique."
+    }
+  },
+  "izi": {
+    "definitions": [
+      { "text": "Facile, les doigts dans le nez, sans forcer. S'emploie en réponse d'un seul mot à une demande ou pour fanfaronner après avoir bouclé quelque chose en deux temps trois mouvements." },
+      { "text": "Sorti tout droit de la culture du jeu vidéo et du streaming, où изи катка désigne une partie gagnée d'avance. Indéclinable, comme la plupart des emprunts les plus récents." }
+    ],
+    "examples": {
+      "0": { "translation": "Je te fais ça aujourd'hui, tranquille." },
+      "1": { "translation": "L'examen est passé crème." }
+    },
+    "origin": {
+      "etymology": "De l'anglais easy tel qu'on l'entend dans les salons de jeux en ligne, transcrit phonétiquement. Le mot est entré par le chat vocal plutôt que par l'écrit, d'où son orthographe purement phonétique.",
+      "firstAttested": "années 2010"
+    }
+  },
+  "vayb": {
+    "definitions": [
+      { "text": "La vibe, l'ambiance, ce que dégage un lieu, un morceau ou une personne. S'emploie seul en guise d'approbation — вайб! — ainsi que dans l'adjectif вайбовый « qui a une bonne ambiance »." },
+      { "text": "Le verbe вайбовать signifie se laisser porter par l'ambiance, typiquement en écoutant de la musique. Vocabulaire résolument moins de trente ans, qui commence déjà à sentir un peu l'usure." }
+    ],
+    "examples": {
+      "0": { "translation": "Il y a une super ambiance dans ce café." },
+      "1": { "translation": "On était posés à planer sur des vieux sons." }
+    },
+    "origin": {
+      "etymology": "De l'anglais vibe, importé vers 2018 via la musique et les réseaux sociaux. Le russe avait déjà атмосфера pour dire cela ; l'emprunt survit parce qu'il tient en une syllabe et affiche l'âge du locuteur.",
+      "firstAttested": "fin des années 2010"
+    }
+  },
+  "guglit": {
+    "definitions": [
+      { "text": "Googler, chercher sur Google. Complètement naturalisé : il prend les préfixes aspectuels ordinaires (загуглить pour une recherche ponctuelle, погуглить pour fouiner un moment) et plus personne ne le ressent comme un mot étranger." },
+      { "text": "Modèle de toute une classe de verbes — лайкнуть, репостить, забанить, скинуть в личку — grâce auxquels le russe avale tout rond le vocabulaire technologique anglais et le conjugue." }
+    ],
+    "examples": {
+      "0": { "translation": "Regarde sur Google, ça se trouve en deux secondes." },
+      "1": { "translation": "J'ai passé toute la soirée sur Google à chercher comment réparer ça." }
+    },
+    "origin": {
+      "etymology": "Google suivi du suffixe d'infinitif -ить. Le système des préfixes fait le reste : les couples aspectuels russes se forment automatiquement autour de n'importe quel radical neuf, raison pour laquelle les verbes empruntés s'intègrent plus vite que les noms.",
+      "firstAttested": "années 2000"
+    }
+  },
+  "tachka": {
+    "definitions": [
+      { "text": "Une caisse, une bagnole. Le mot familier par défaut pour une voiture, sans aucun sous-entendu sur l'état de l'engin : une тачка peut être une épave ou une Mercedes neuve." },
+      { "text": "Dans un usage plus ancien, désignait aussi un taxi, et поймать тачку (« héler une voiture ») se dit encore chez ceux qui ont connu l'époque où n'importe quel automobiliste s'arrêtait au bord du trottoir contre quelques billets." }
+    ],
+    "examples": {
+      "0": { "translation": "Il s'est payé une nouvelle caisse à crédit." },
+      "1": { "translation": "On va choper une voiture, c'est pas loin." }
+    },
+    "literalMeaning": "brouette",
+    "origin": {
+      "etymology": "Le mot courant pour une brouette ou une charrette à bras, appliqué aux automobiles par litote ironique. Le sens de « taxi » vient de l'époque où faire signe aux conducteurs particuliers était la façon normale de se déplacer en ville."
+    }
+  },
+  "khata": {
+    "definitions": [
+      { "text": "L'appart, la piaule — envisagé comme lieu de rassemblement. хата свободна signifie que les parents ne sont pas là et que tout le monde peut débarquer : le mot est indissociable de cette configuration." },
+      { "text": "Très courant aussi au sens de « chez-soi » en général : своя хата, « son propre toit ». Le proverbe моя хата с краю (« ma cabane est au bout du village ») signifie « ça ne me regarde pas, ne m'en mêlez pas »." }
+    ],
+    "examples": {
+      "0": { "translation": "Samedi l'appart est libre, on se retrouve tous chez moi." },
+      "1": { "translation": "Moi je suis au bout du village, je ne sais rien de cette histoire.", "context": "Expression figée, et plutôt mordante : elle reproche à celui qui se défile son égoïsme délibéré." }
+    },
+    "literalMeaning": "isba, chaumière paysanne",
+    "origin": {
+      "etymology": "Le vieux mot désignant la maison paysanne blanchie à la chaux, partagé avec l'ukrainien et d'origine iranienne ancienne via la steppe. L'appliquer à un appartement moscovite relevait d'une ironie affectueuse qui s'est depuis longtemps fondue dans l'argot courant."
+    }
+  },
+  "zabit": {
+    "definitions": [
+      { "text": "Laisser béton, lâcher l'affaire ; cesser de se faire du souci pour quelque chose et passer à autre chose. Toujours construit avec на : забить на учёбу, « lâcher ses études »." },
+      { "text": "C'est la version propre et quotidienne de забить хуй, dont il n'est que la forme tronquée — raison pour laquelle il sonne encore un peu sec aux oreilles des plus âgés, même si le mot obscène a disparu depuis longtemps." }
+    ],
+    "examples": {
+      "0": { "translation": "Laisse béton, ça vaut pas le coup de se prendre la tête.", "context": "L'impératif забей (« laisse tomber ») est l'un des conseils les plus fréquents du russe parlé." },
+      "1": { "translation": "Il a lâché la fac dès le mois de mars." }
+    },
+    "literalMeaning": "enfoncer au marteau, clouer",
+    "origin": {
+      "etymology": "Troncation de l'expression du mat забить хуй на что-то, dont le nom tabou a été purement et simplement effacé. La moitié du registre euphémique russe fonctionne ainsi : non par substitution, mais par ellipse silencieuse."
+    }
+  },
+  "koroche": {
+    "definitions": [
+      { "text": "Bref ; enfin bref. Annonce que le locuteur va droit au but — et précède très souvent plusieurs minutes supplémentaires de digressions." },
+      { "text": "Le tic de langage le plus caractéristique du russe parlé. Un apprenant qui glisse un короче par anecdote cesse instantanément de parler comme un livre." }
+    ],
+    "examples": {
+      "0": { "translation": "Bref, on n'est même pas arrivés jusque là-bas." },
+      "1": { "translation": "Enfin bref, j'ai dit oui." }
+    },
+    "literalMeaning": "plus court",
+    "origin": {
+      "etymology": "Comparatif de короткий « court », issu de la locution короче говоря « pour faire court ». Aujourd'hui, c'est la formule complète qui paraît livresque et appuyée ; le mot seul a pris toute la place."
+    }
+  },
+  "tipa": {
+    "definitions": [
+      { "text": "Genre ; style. Atténue une approximation — типа того, « un truc du genre » — et introduit le discours rapporté exactement comme « genre » en français : он типа не знал (« il faisait genre il savait pas »)." },
+      { "text": "Marque aussi le scepticisme : он типа врач signifie « il est censé être médecin », le locuteur refusant d'en mettre sa main à couper." }
+    ],
+    "examples": {
+      "0": { "translation": "Il était soi-disant occupé." },
+      "1": { "translation": "Ouais, un truc du genre." }
+    },
+    "literalMeaning": "du type de",
+    "origin": {
+      "etymology": "Génitif de тип « type », à l'origine une préposition tout à fait régulière signifiant « du genre de ». Sa mue en tic de langage date de la fin du XXe siècle et continue d'horripiler les puristes."
+    }
+  },
+  "kak-by": {
+    "definitions": [
+      { "text": "En quelque sorte ; disons ; genre. Atténuateur qui émousse tout ce qui suit et qui, chez les gros consommateurs, devient un tic accroché à une phrase sur deux." },
+      { "text": "D'une couleur bien distincte de типа : как бы est la précaution oratoire des gens instruits et des anxieux, типа celle des jeunes et des décontractés. Les deux s'empilent d'ailleurs souvent : как бы типа." }
+    ],
+    "examples": {
+      "0": { "translation": "Moi, disons que je suis pas contre, mais bon..." },
+      "1": { "translation": "On s'était plus ou moins déjà mis d'accord." }
+    },
+    "literalMeaning": "comme si",
+    "origin": {
+      "etymology": "Véritable conjonction comparative (« comme si ») qui s'est vidée de son sens à force d'être répétée pendant les années de la perestroïka. Son invasion a été remarquée et déplorée en direct à l'époque, ce qui en fait l'un des tics de langage les mieux documentés de l'histoire du russe.",
+      "firstAttested": "répandu dès la fin des années 1980"
+    }
+  },
+  "norm": {
+    "definitions": [
+      { "text": "Ça va ; nickel ; correct. La réponse à moindre effort aux questions « comment ça va ? » ou « t'en as pensé quoi ? », et une appréciation franchement positive — норм n'est pas un compliment du bout des lèvres." },
+      { "text": "Né comme abréviation écrite avant de passer à l'oral. Indéclinable, ce qui est inhabituel pour un adjectif russe et trahit son origine clavier." }
+    ],
+    "examples": {
+      "0": { "translation": "— Il était comment, le film ? — Sympa." },
+      "1": { "translation": "Tout roule, t'inquiète pas." }
+    },
+    "origin": {
+      "etymology": "Troncation de нормально, abrégé pour gagner du temps dans les SMS et les messageries des années 2000 avant de remonter dans la langue parlée — le même aller-retour qui a donné спс pour спасибо et пж pour пожалуйста.",
+      "firstAttested": "années 2000"
+    }
+  }
+}

@@ -1,0 +1,729 @@
+{
+  "bacano": {
+    "definitions": [
+      { "text": "Klasse, cool, richtig angenehm. Das sichere Allzweck-Lob im kolumbianischen Spanisch – man kann es vor den Schwiegereltern sagen, und genau das unterscheidet es von chimba." },
+      { "text": "Von einer Person: umgänglich, anständig, gute Gesellschaft. „Es muy bacano“ ist ein Urteil über den Charakter, nicht über den Stil." }
+    ],
+    "examples": {
+      "0": { "translation": "Der Plan klingt klasse, ich bin dabei." },
+      "1": { "translation": "Ich habe Lauras Vater kennengelernt, ein richtig anständiger Typ.", "context": "Die Bedeutung „guter Kerl“ – mit Modebewusstsein hat das nichts zu tun." },
+      "2": { "translation": "Schön, dass du gekommen bist." }
+    },
+    "origin": {
+      "etymology": "Verwandt mit bacán, das Anfang des 20. Jahrhunderts am Río de la Plata kursierte und dort einen Mann bezeichnete, der eine Frau aushält; von dort wird es meist auf genuesisch bacan, „Herr des Hauses“, zurückgeführt. Der Weg nach Kolumbien ist nicht belegt, und der Bedeutungssprung zu „angenehm“ fand vor Ort statt. Jede Herkunftsgeschichte, die sich auf eine einzige Quelle festlegt, ist Spekulation.",
+      "firstAttested": "Mitte des 20. Jahrhunderts"
+    }
+  },
+  "chimba": {
+    "definitions": [
+      { "text": "Hervorragend, grandios. „¡Qué chimba!“ ist der stärkste alltägliche Begeisterungsausdruck, den Kolumbianer haben, und „una chimba de carro“ ist ein fantastisches Auto." },
+      { "text": "Mit de genau das Gegenteil: „de la chimba“ heißt gefälscht, schrottig oder findet gar nicht erst statt. Kontext und Präposition tragen die gesamte Bedeutung." },
+      { "text": "Vulgäres Wort für die Vulva. Diese Bedeutung ist der Grund, warum das Wort nicht neutral ist und warum ältere oder konservativere Sprecher zusammenzucken." }
+    ],
+    "examples": {
+      "0": { "translation": "Was für ein geiles Konzert, Alter!" },
+      "1": { "translation": "Die Uhr ist eine Fälschung, die hat er an der Ampel gekauft.", "context": "Die negative Bedeutung. Dasselbe Wort, das umgekehrte Urteil." },
+      "2": { "translation": "Er hat das Stipendium bekommen. – Krass, wie geil!" }
+    },
+    "origin": {
+      "etymology": "Herkunft wirklich unklar. Im antioquischen parlache bezeichnete das Wort auch eine selbstgebaute Pistole, und die anatomische Bedeutung ist landesweit belegt; was zuerst da war, ist ungeklärt. Die oft wiederholte Herleitung aus dem Quechua hat keine belastbare Grundlage."
+    }
+  },
+  "berraco": {
+    "definitions": [
+      { "text": "Zäh, mit Schneid, beeindruckend gut in einer Sache. „Es un berraco“ ist hohes Lob für jemanden, der unermüdlich arbeitet oder etwas Schweres durchgestanden hat." },
+      { "text": "Von einer Aufgabe oder Lage: brutal schwierig. „Está berraco el examen“ heißt, die Prüfung ist ein Monster." },
+      { "text": "Stinksauer. Estar berraco heißt vor Wut kochen, und emberracarse heißt, die Beherrschung verlieren." }
+    ],
+    "examples": {
+      "0": { "translation": "Der Typ ist eine Maschine, er hat die Firma ganz allein aufgebaut." },
+      "1": { "translation": "Bei dem Arzt einen Termin zu bekommen, ist ein Albtraum." },
+      "2": { "translation": "Sprich ihn jetzt nicht an, er ist stinksauer.", "context": "Drei Bedeutungen, die am Ton und am Verb hängen: „ser berraco“ lobt, „estar berraco“ beschwert sich." }
+    },
+    "literalMeaning": "Eber – ein nicht kastriertes Zuchtschwein.",
+    "origin": {
+      "etymology": "Von verraco, dem standardspanischen Wort für einen Zuchteber. Die sture Kraft des Tiers wurde zum Lob, sein schlechtes Temperament zur Wut-Bedeutung. Beide Schreibweisen sind in Umlauf; die Form mit b ist im kolumbianischen Schriftgebrauch deutlich häufiger, auch wenn die Wörterbücher v bevorzugen. Berraquera, das abstrakte Substantiv, ist eine nationale Stolzvokabel, besonders in Antioquia."
+    }
+  },
+  "teso": {
+    "definitions": [
+      { "text": "Extrem gut in einer Sache; ein Könner. „Un teso del Excel“ ist der, den das ganze Büro fragt." },
+      { "text": "Von einer Sache oder Lage: hart, heftig, zäh. „Está teso el tráfico“ – der Verkehr ist die Hölle." }
+    ],
+    "examples": {
+      "0": { "translation": "Ruf Andrés an, der ist ein Genie, wenn es um Motorräder geht." },
+      "1": { "translation": "Hier in der Gegend eine Wohnung zu finden, ist zäh." }
+    },
+    "origin": {
+      "etymology": "Vom standardspanischen teso, „straff, gespannt“. Dahinter steckt dieselbe Metapher wie im englischen hard: Schwierigkeit und Können teilen sich ein Wort, und nur die Syntax hält sie auseinander."
+    }
+  },
+  "mera": {
+    "definitions": [
+      { "text": "Verstärker vor dem Substantiv, im Sinne von „absolut“ oder „total“: mera nota, mera chimba, mera vaina. Klar als Sprache des Valle del Cauca und der Pazifikküste markiert." },
+      { "text": "Allein stehend als Ausruf des Staunens – „¡Mera!“ – etwa „nicht zu fassen“." }
+    ],
+    "examples": {
+      "0": { "translation": "Was für eine Party gestern Nacht, Mann!" },
+      "1": { "translation": "Er hat sich einen Wahnsinnspickup gekauft." }
+    },
+    "origin": {
+      "etymology": "Von mero/mera, „bloß, rein“, das in mehreren amerikanischen Varietäten von einschränkend zu verstärkend kippte. Der kolumbianische Gebrauch konzentriert sich auf Cali, Buenaventura und die Pazifikküste; wer in Bogotá so redet, zitiert, statt zu sprechen."
+    }
+  },
+  "parcero": {
+    "definitions": [
+      { "text": "Kumpel, Alter. Sowohl Anrede als auch Substantiv für einen Freund. Die Kurzform parce ist im Gespräch viel häufiger als das ganze Wort." },
+      { "text": "Als Anrede an Fremde ungefähr des eigenen Alters und Milieus, wie „Alter“ im Deutschen – herzlich, aber anmaßend, wenn man damit jemanden deutlich Älteren anspricht." }
+    ],
+    "examples": {
+      "0": { "translation": "Sag mal, weißt du, wann die aufmachen?" },
+      "1": { "translation": "Ich gehe mit ein paar Kollegen von der Arbeit hin." },
+      "2": { "translation": "Hey Alter, lange nicht gesehen!" }
+    },
+    "origin": {
+      "etymology": "Von aparcero, „Teilpächter, Partner“, verwandt mit portugiesisch parceiro – beide aus lateinisch partiarius, „einer, der teilt“. Aus dem parlache von Medellín verbreitete es sich in den 1990er Jahren über Musik und Fernsehen im ganzen Land. Die verbreitete Behauptung, der Drogenhandel habe es aus Brasilien mitgebracht, wird ständig wiederholt und ist nirgends belegt.",
+      "firstAttested": "1980er Jahre in Medellín, landesweit ab den 2000ern"
+    }
+  },
+  "quiubo": {
+    "definitions": [
+      { "text": "Hi, na. Die übliche informelle Begrüßung in ganz Kolumbien, meist am Satzanfang und meist gefolgt von einem Namen oder von parce." },
+      { "text": "Mit steigender Intonation und ohne Grußfunktion: „und, was ist nun?“ – man drängt jemanden zu einer Antwort, die er schuldig ist." }
+    ],
+    "examples": {
+      "0": { "translation": "Hey Alter! Wie läuft's?" },
+      "1": { "translation": "Und, was ist nun, gehen wir oder nicht?", "context": "Die ungeduldige Lesart – gefragt bei jemandem, der der Antwort ausweicht." }
+    },
+    "literalMeaning": "Was war da? – ein abgeschliffenes ¿qué hubo?",
+    "origin": {
+      "etymology": "Lautliche Verkürzung von ¿qué hubo?, wörtlich „was hat es gegeben?“. Die Schreibung ist nicht festgelegt – quiubo, qué hubo und die Lautschreibung q'hubo kommen alle vor, und eine Boulevardzeitung aus Bogotá ist nach der letzten benannt."
+    }
+  },
+  "que-mas": {
+    "definitions": [
+      { "text": "Wie geht's? – eine Begrüßung, keine Frage nach irgendetwas Zusätzlichem. Daran erkennt man Ausländer am zuverlässigsten: Wer wörtlich antwortet, erzeugt auf beiden Seiten Ratlosigkeit." },
+      { "text": "In Antioquia oft erweitert zu ¿qué más pues?, wo das pues nicht Zierde, sondern Pflicht ist." }
+    ],
+    "examples": {
+      "0": { "translation": "Hey Juli, wie ist es dir ergangen?" },
+      "1": { "translation": "Na, wie geht's, meine Liebe?", "context": "Paisa-Form. Das pues trägt hier überhaupt keine Bedeutung." }
+    },
+    "literalMeaning": "Was sonst noch?",
+    "origin": {
+      "etymology": "Eine elliptische Grußformel von der Art, wie das Spanische sie leicht hervorbringt – vergleiche ¿qué tal?. In anderen Varietäten ist die wörtliche Lesart noch lebendig, und genau deshalb bringt der Satz Spanier und Mexikaner auf Besuch durcheinander."
+    }
+  },
+  "bien-o-que": {
+    "definitions": [
+      { "text": "Hallo, wie läuft's. Ein Paisa-Gruß, der sich unter den unter Vierzigjährigen im ganzen Land verbreitet hat und eher als Feststellung denn als echte Erkundigung gesprochen wird." },
+      { "text": "Um jemanden anzuschieben, der herumtrödelt: „na, machen wir das jetzt oder nicht?“" }
+    ],
+    "examples": {
+      "0": { "translation": "Hey, wie läuft's, Alter!" },
+      "1": { "translation": "Na, wie sieht's aus – gehen wir jetzt?" }
+    },
+    "literalMeaning": "Gut, oder was?",
+    "origin": {
+      "etymology": "Eine Zusammenziehung des Paars aus Frage und Rückfrage ¿bien? / ¿o qué?. Das Anhängsel o qué ist im kolumbianischen Sprachgebrauch allgemein produktiv – ¿estudia o qué?, ¿comemos o qué? – und dient als Schubs Richtung Entscheidung."
+    }
+  },
+  "sumerce": {
+    "definitions": [
+      { "text": "Ein Pronomen der zweiten Person und eine Anredeform, gebräuchlich in Boyacá, Cundinamarca und Teilen von Bogotá. Es ist ehrerbietig und zärtlich zugleich, wofür es im Deutschen keine Entsprechung gibt." },
+      { "text": "Entscheidend ist, dass es in beide Richtungen läuft: Großeltern sagen es zu Enkeln, Ehepartner zueinander. Wer darin nur Ehrerbietung sieht, hat es nicht verstanden." }
+    ],
+    "examples": {
+      "0": { "translation": "Haben Sie schon zu Mittag gegessen?" },
+      "1": { "translation": "Komm her, mein Schatz, setz dich hierhin.", "context": "Eine ältere Frau zu einem Kind – Zuneigung, nicht Respekt." }
+    },
+    "literalMeaning": "Euer Gnaden – aus su merced.",
+    "origin": {
+      "etymology": "Ein abgeschliffenes su merced, die koloniale Höflichkeitsanrede, aus der auch usted hervorging. Im Andenhochland hielt es sich, nachdem es anderswo ausgestorben war. Weil es mit dem ländlichen Boyacá assoziiert wird, benutzen Stadtbewohner es manchmal spöttisch – was den Leuten auf dem Land nicht entgeht.",
+      "firstAttested": "Kolonialzeit"
+    }
+  },
+  "ome": {
+    "definitions": [
+      { "text": "Mann, Alter – eine Anrede an der Karibikküste, häufiger ans Ende von Sätzen gehängt als an den Anfang." },
+      { "text": "Für sich allein als Ausruf des Protests oder Unglaubens, nah an „ach komm“." }
+    ],
+    "examples": {
+      "0": { "translation": "Ach komm, Mann, sei nicht so!" },
+      "1": { "translation": "Warte da auf mich, Alter." }
+    },
+    "origin": {
+      "etymology": "Eine Verkürzung von hombre, mit dem küstentypischen Wegfall des behauchten h- und des auslautenden -r. Geschrieben wird ome, hombe oder ombe, je nach Schreiber; eine feste Orthografie gibt es nicht, weil es eine reine Sprechform ist."
+    }
+  },
+  "gomelo": {
+    "definitions": [
+      { "text": "Ein reicher, aufgebrezelter junger Mensch – Privatschule, Markenklamotten, ein bestimmter gedehnter Akzent, eine Postleitzahl im Norden Bogotás. Leicht abfällig, aber keine Beleidigung, für die man eine Faust kassiert." },
+      { "text": "Als Adjektiv von Kleidung, Bars oder Vierteln: schick auf eine leicht bemühte Art." }
+    ],
+    "examples": {
+      "0": { "translation": "Die Bar ist viel zu nobel für meinen Geldbeutel." },
+      "1": { "translation": "Eine Truppe reicher Söhnchen rollte in SUVs an." }
+    },
+    "origin": {
+      "etymology": "Am plausibelsten von gomoso, einem kolumbianischen Wort des 19. Jahrhunderts für einen Geck. Die verschiedenen Geschichten, die es an eine bestimmte Familie oder ein Geschäft in Bogotá binden, sind Volksetymologie und widersprechen einander.",
+      "firstAttested": "1970er Jahre in der heutigen Bedeutung"
+    }
+  },
+  "nero": {
+    "definitions": [
+      { "text": "Jemand, den man als arm, rau und straßenerfahren liest, oder alles, was damit assoziiert wird – Kleidung, Musik, Manieren. Das Wort ist Klassenverachtung in einer Silbe, und so kommt es auch an." },
+      { "text": "Unter Freunden aus demselben Milieu kann es neutral oder sogar warm gemeint sein, wie ähnliche Wörter anderswo auch. Über eine Klassengrenze hinweg nach unten gesagt, ist es eine Beleidigung." }
+    ],
+    "examples": {
+      "0": { "translation": "Benimm dich nicht wie ein Prolet, iss mit Besteck.", "context": "Innerhalb der Familie ist das eine Ermahnung; einem Fremden gesagt, ist es eine Klassenbeleidigung." },
+      "1": { "translation": "Der Vallenato ist echt unterste Schublade, mach was anderes an." }
+    },
+    "origin": {
+      "etymology": "Kopfverkürzung von compañero – derselbe Weg, der parcero seine Wärme gab. Nur hängte sich die Kurzform hier an die Straßen- und Gefängnissprache von Bogotá, und das Wort übernahm das Stigma seiner Sprecher statt ihrer Solidarität."
+    }
+  },
+  "pelado": {
+    "definitions": [
+      { "text": "Ein Kind, ein junger Mensch. Deckt je nach Alter des Sprechers ungefähr fünf bis fünfundzwanzig ab." },
+      { "text": "Im Mund von Eltern schlicht „meine Kinder“: mis pelaos." },
+      { "text": "Ein junger Mann oder eine junge Frau, mit der man etwas hat – „el pelado con el que sale“ ist der Typ, mit dem sie geht." }
+    ],
+    "examples": {
+      "0": { "translation": "Die Kinder sind im Park." },
+      "1": { "translation": "Der Junge ist gerade mal siebzehn." },
+      "2": { "translation": "Und wer ist die da?", "context": "In dieser Form leicht abschätzig – die Arbeit macht das „esa“, nicht das Substantiv." }
+    },
+    "literalMeaning": "Geschält, kahl.",
+    "origin": {
+      "etymology": "Von pelar, „schälen“. Neugeborene sind haarlos, also bezeichnete pelado zunächst einen Säugling und weitete sich dann nach oben aus. Achtung, falscher Freund: In Mexiko ist ein pelado ein ungehobelter Kerl, in Spanien heißt es „pleite“."
+    }
+  },
+  "man": {
+    "definitions": [
+      { "text": "Ein Typ, ein Kerl – grammatisch aber kolumbianisch, nicht englisch: Es nimmt einen spanischen Artikel und steht fast immer als el man, für einen bestimmten Mann, der schon im Blick ist." },
+      { "text": "La man, mit weiblichem Artikel und unverändertem Substantiv, ist eine Frau. Das ist der Teil, der Englischsprachige überrascht, und hier völlig gewöhnlich." },
+      { "text": "Anders als das englische man ist es keine Anrede. Man redet über el man; man nennt niemanden man." }
+    ],
+    "examples": {
+      "0": { "translation": "Der Typ vom Kiosk hat mich anschreiben lassen." },
+      "1": { "translation": "Die Frau ist einfach gegangen, ohne ein Wort.", "context": "Weiblicher Artikel, unverändertes Substantiv – normal, wenn auch im Ton etwas distanziert." },
+      "2": { "translation": "Und was macht der Typ hier?" }
+    },
+    "origin": {
+      "etymology": "Aus dem Englischen entlehnt, vermutlich über die Karibikküste und über synchronisiertes Fernsehen, und dann vollständig eingebürgert: Der Plural lautet los manes, und flektiert wird der Artikel, nicht der Stamm.",
+      "firstAttested": "spätes 20. Jahrhundert"
+    }
+  },
+  "sapo": {
+    "definitions": [
+      { "text": "Ein Verräter – jemand, der einen bei den Behörden, beim Chef oder bei den Eltern anschwärzt. In manchen Kontexten ist das der gefährlichste Vorwurf der Sprache, und Kolumbianer gehen vorsichtig damit um." },
+      { "text": "Milder und weit häufiger: neugierig, ein Schnüffler, oder ein schamloser Schleimer. „No sea sapo“ heißt meist einfach: Kümmere dich um deinen eigenen Kram." },
+      { "text": "Als Verb, sapear: jemanden verpfeifen." }
+    ],
+    "examples": {
+      "0": { "translation": "Sei nicht so neugierig, das geht dich nichts an." },
+      "1": { "translation": "Jemand hat die Party verpfiffen und wir sind aufgeflogen." },
+      "2": { "translation": "Er schleimt sich beim Chef ein und hängt ihm den ganzen Tag hinterher.", "context": "Die Schleimer-Bedeutung; hier wird niemand verraten." }
+    },
+    "literalMeaning": "Kröte.",
+    "origin": {
+      "etymology": "Von sapo, „Kröte“. Die Metapher geht über die hervorquellenden Augen und das breite Maul des Tiers – es sieht alles und es macht den Mund auf. In weiten Teilen der Anden geläufig, aber die Verräter-Bedeutung hat in Kolumbien ein Gewicht, das sie anderswo nicht hat, aus Gründen, die die jüngere Geschichte des Landes offensichtlich macht."
+    }
+  },
+  "cucho": {
+    "definitions": [
+      { "text": "Ein alter Mensch, oder jeder, der eine Generation älter ist als der Sprecher. Nicht höflich, aber auch nicht grausam – ungefähr auf der Höhe von „der Alte“." },
+      { "text": "Mis cuchos: meine Eltern. Das ist unter jungen Leuten mit Abstand der häufigste Gebrauch, und er ist liebevoll." },
+      { "text": "In der Schule: ein Lehrer. „El cucho de mate“ ist der Mathelehrer." }
+    ],
+    "examples": {
+      "0": { "translation": "Ich muss meine Alten um Erlaubnis fragen." },
+      "1": { "translation": "Meine Mutter hat mir Ajiaco gemacht." },
+      "2": { "translation": "Der Sozialkundelehrer hat Hausaufgaben bis Montag aufgegeben." }
+    },
+    "origin": {
+      "etymology": "Vermutlich von cucho im Sinne von „gebeugt, krumm“, das in mehreren amerikanischen Varietäten belegt ist. Zu den Eltern kam es auf dem üblichen Weg: Junge Leute benennen Erwachsene nach dem sichtbarsten Zeichen des Alters und schleifen das Wort dann durch ständigen liebevollen Gebrauch weich."
+    }
+  },
+  "lobo": {
+    "definitions": [
+      { "text": "Geschmacklos, protzig, billig wirkend. Wird auf Kleidung, Einrichtung, Autos, Hochzeiten und Menschen angewandt und zielt fast immer auf das Zuviel statt auf das Billige – zu viel Gold, zu eng, zu laut." },
+      { "text": "Von einer Person: jemand, dessen Geschmack ihn abstempelt, was in der Praxis heißt, dass das Urteil ebenso sehr über Klasse wie über Ästhetik fällt. Gut zu wissen, bevor man es benutzt." }
+    ],
+    "examples": {
+      "0": { "translation": "Das Hemd ist echt geschmacklos, Mann." },
+      "1": { "translation": "Die Hochzeit war unfassbar kitschig – Pferdekutsche und alles." }
+    },
+    "literalMeaning": "Wolf.",
+    "origin": {
+      "etymology": "Nicht direkt vom Tier. Der wahrscheinlichste Weg führt über das koloniale Kastenvokabular, in dem lobo eine Kategorie gemischter Herkunft bezeichnete; zurück blieb ein Wort, dessen Beiklang von „niedrigem Stand“ das System überlebte, das es geprägt hatte. Heutigen Sprechern ist diese Geschichte unsichtbar, aber sie erklärt, warum das Urteil immer in dieselbe Richtung kippt."
+    }
+  },
+  "gonorrea": {
+    "definitions": [
+      { "text": "Ein verachtenswerter Mensch. Mit voller Wucht gesagt ist das nahe an der stärksten Beleidigung des kolumbianischen Spanisch und hat schon Schlägereien ausgelöst." },
+      { "text": "Unter engen männlichen Freunden in Medellín eine zärtliche Anrede – „¡quiubo, gonorrea!“ – genau parallel dazu, wie Freunde sich mit Wörtern begrüßen, die sie von einem Fremden nie hinnehmen würden." },
+      { "text": "Als Verstärker für alles Unerträgliche: „un frío gonorrea“, eine Scheißkälte." }
+    ],
+    "examples": {
+      "0": { "translation": "Der Typ ist ein mieses Stück, leih ihm kein Geld." },
+      "1": { "translation": "Hey, du altes Schwein, wo hast du gesteckt!", "context": "Funktioniert nur zwischen Männern, die wirklich eng sind, und eigentlich nur in Medellín. Wer als Ausländer das versucht, wird missverstanden." },
+      "2": { "translation": "Es ist eine Scheißhitze." }
+    },
+    "literalMeaning": "Gonorrhö.",
+    "origin": {
+      "etymology": "Der Krankheitsname, in den 1980er und 1990er Jahren vom parlache in Medellín aufgegriffen und über Fernsehen und Musik landesweit verbreitet. Krankheit als Schimpfwort ist im Spanischen ein altes Muster, aber die freundschaftliche Anrede ist spezifisch antioquisch und der Teil, den Außenstehende falsch machen.",
+      "firstAttested": "1980er Jahre"
+    }
+  },
+  "malparido": {
+    "definitions": [
+      { "text": "Mistkerl, Hurensohn. Eine Beleidigung der obersten Stufe: Sie greift implizit die Mutter des Angesprochenen an, und daher kommt ihre Wucht." },
+      { "text": "Als Verstärker hinter einem Substantiv, der äußerste Gereiztheit markiert: „este trancón malparido“, dieser verdammte Scheißstau." }
+    ],
+    "examples": {
+      "0": { "translation": "Sie haben mir das Fahrrad geklaut, die Mistkerle." },
+      "1": { "translation": "Diese verfluchte Kälte lässt mich nicht schlafen.", "context": "Verstärkende Verwendung – gerichtet gegen das Wetter, nicht gegen eine Person, aber trotzdem nichts, was man vor der Großmutter sagt." }
+    },
+    "literalMeaning": "Schlecht geboren – aus mal + parir, „gebären“.",
+    "origin": {
+      "etymology": "Durchsichtig zusammengesetzt: mal parido, „schlecht entbunden“. Anders als hijueputa hat es sich nicht zum Füllwort abgeschliffen und behält in jeder Region fast seine volle Ladung."
+    }
+  },
+  "guevon": {
+    "definitions": [
+      { "text": "Idiot, Trottel. „No sea güevón“ – sei kein Idiot – ist die Alltagsform und richtet sich häufiger an Freunde als an Feinde." },
+      { "text": "Ein neutrales „Alter“ unter jungen Männern, wo es fast zum Füllwort abgeschliffen ist. Die kolumbianische Variante ist milder als das chilenische huevón, aber längst nicht so ausgebleicht wie das mexikanische güey." },
+      { "text": "Als Adjektiv, von Dingen: eine Nervensache, ein blöder Kram. „Qué güevonada“ heißt etwa „so ein Mist“." }
+    ],
+    "examples": {
+      "0": { "translation": "Sei kein Idiot, das geht kaputt." },
+      "1": { "translation": "Der Depp ist im Bus eingeschlafen und hat seine Haltestelle verpasst." },
+      "2": { "translation": "So ein Mist, dass man den ganzen Weg dahin muss." }
+    },
+    "origin": {
+      "etymology": "Von huevón, Augmentativ zu huevo – „Ei“ und seit Langem euphemistisch „Hoden“. Das Bild ist ein Mann, der zu schwer ist, um sich zu bewegen. Das geschriebene g- gibt die kolumbianische Aussprache von anlautendem hue- wieder, und die anatomische Bedeutung ist noch lebendig genug, dass das Wort im Büro nichts zu suchen hat."
+    }
+  },
+  "mamera": {
+    "definitions": [
+      { "text": "Eine Zumutung, eine Ödnis, etwas, wozu man sich nicht aufraffen kann. „¡Qué mamera!“ ist das kolumbianische Standardstöhnen bei einer unerwünschten Aufgabe." },
+      { "text": "Der Zustand, keine Lust mehr zu haben: „me da mamera“ heißt „ich hab keinen Bock“." }
+    ],
+    "examples": {
+      "0": { "translation": "Was für eine Zumutung, samstags früh aufzustehen!" },
+      "1": { "translation": "Ich hab echt keinen Bock, das noch mal zu erklären." }
+    },
+    "origin": {
+      "etymology": "Von mamar, das in der kolumbianischen Idiomatik einer ganzen Familie von Erschöpfungswörtern zugrunde liegt – estar mamado, „fertig sein“, und mamar gallo, „herumalbern, hinhalten“. Wörtlich heißt mamar „saugen“; die derbe Lesart existiert, spielt hier aber keine Rolle, und mamera wird ungeniert vor den Eltern gesagt. Jartera ist die antioquische Entsprechung."
+    }
+  },
+  "lucas": {
+    "definitions": [
+      { "text": "Tausender Pesos. Una luca ist 1.000, veinte lucas sind 20.000. Weil kolumbianische Preise in Tausendern laufen, werden Alltagsbeträge tatsächlich so gesprochen." },
+      { "text": "Lose auch Geld allgemein: „no tengo lucas“ heißt, ich bin blank." }
+    ],
+    "examples": {
+      "0": { "translation": "Das Mittagessen kostet fünfzehntausend Pesos." },
+      "1": { "translation": "Ich bin bis Freitag pleite." },
+      "2": { "translation": "Leih mir zwei Riesen für den Bus.", "context": "Genannt ohne „pesos“ – die Währung dazuzusagen klingt seltsam förmlich." }
+    },
+    "origin": {
+      "etymology": "Herkunft ungeklärt. Dasselbe Wort für 1.000 Einheiten wird in Chile und Argentinien verwendet, die Ableitung ist also vermutlich gemeinsam und älter als der kolumbianische Gebrauch; Erklärungen mit einer Person namens Lucas sind unbelegt. Eine Million ist un palo, und das ist immerhin durchsichtig."
+    }
+  },
+  "camello": {
+    "definitions": [
+      { "text": "Ein Job, oder Arbeit allgemein. „Conseguir camello“ heißt Arbeit finden, „estoy sin camello“ heißt arbeitslos sein." },
+      { "text": "Eine Schinderei – jede Aufgabe, die mehr Mühe kostet, als sie sollte. „Ese trámite es un camello.“" },
+      { "text": "Als Verb, camellar: ackern, lange Schichten schieben." }
+    ],
+    "examples": {
+      "0": { "translation": "Endlich habe ich einen Job in einer Agentur bekommen." },
+      "1": { "translation": "Ich ackere seit sechs Uhr." },
+      "2": { "translation": "Umziehen ist eine echte Schinderei." }
+    },
+    "literalMeaning": "Kamel.",
+    "origin": {
+      "etymology": "Vom Lasttier – dem Vieh, das Lasten klaglos über weite Strecken trägt. Auch in Ecuador und Peru gebräuchlich. Es enthält keine Geringschätzung der Arbeit; ein Anwalt und ein Maurer sagen beide camello."
+    }
+  },
+  "vaca": {
+    "definitions": [
+      { "text": "Zusammenlegen; zu gleichen Teilen für eine gemeinsame Anschaffung einzahlen, typischerweise für Getränke, ein Grillen oder ein Abschiedsgeschenk." },
+      { "text": "La vaca ist der Topf selbst, und „poner para la vaca“ heißt, seinen Anteil beizusteuern." }
+    ],
+    "examples": {
+      "0": { "translation": "Lasst uns für den Aguardiente zusammenlegen." },
+      "1": { "translation": "Hast du deinen Anteil schon eingezahlt?" }
+    },
+    "literalMeaning": "Eine Kuh machen.",
+    "origin": {
+      "etymology": "In ganz Südamerika verbreitet. Das Bild ist ein gemeinsam gehaltenes Tier: Mehrere kaufen die Kuh zusammen und teilen, was sie abwirft. Es ist eher eine soziale Einrichtung als eine Redensart – wer sich weigert mitzumachen, fällt auf."
+    }
+  },
+  "rebusque": {
+    "definitions": [
+      { "text": "Informelles Geldverdienen: Süßigkeiten im Bus verkaufen, Lieferungen fahren, weiterverkaufen, was heute eben zahlt. Kein Euphemismus für Kriminalität, und Kolumbianer sind in dieser Unterscheidung genau." },
+      { "text": "Als Verb, rebuscarse: sich durchschlagen, indem man improvisiert. „Uno se rebusca“ wird mit einem Achselzucken gesagt, das halb Klage und halb Stolz ist." }
+    ],
+    "examples": {
+      "0": { "translation": "Sonntags verdient er sich mit Kaffeeverkauf etwas dazu." },
+      "1": { "translation": "Hier muss man sich durchschlagen.", "context": "Eine nationale Redensart über die informelle Wirtschaft, gesagt mit Resignation, nicht mit Scham." }
+    },
+    "origin": {
+      "etymology": "Von rebuscar, „noch einmal suchen, Nachlese halten“ – ursprünglich das Einsammeln dessen, was nach der Ernte auf dem Feld liegen blieb. Das Wort ist älter als seine heutige wirtschaftliche Bedeutung, die mit Kolumbiens großem informellem Sektor in der zweiten Hälfte des 20. Jahrhunderts wuchs."
+    }
+  },
+  "guaro": {
+    "definitions": [
+      { "text": "Aguardiente – die nach Anis schmeckende Zuckerrohrspirituose, das kolumbianische Standardgetränk auf Partys, in kleinen Shots direkt aus der Flasche auf dem Tisch getrunken." },
+      { "text": "Erweitert auf jede harte Spirituose auf einer Feier." }
+    ],
+    "examples": {
+      "0": { "translation": "Lasst uns eine halbe Flasche Aguardiente holen." },
+      "1": { "translation": "Der Kater kommt von purem Aguardiente." }
+    },
+    "origin": {
+      "etymology": "Kurzform von aguardiente. Jedes Departamento hat seine eigene staatliche Marke – Antioqueño, Néctar, Blanco del Valle – und welche man trinkt, ist eine regionale Loyalität, keine Geschmacksfrage."
+    }
+  },
+  "pola": {
+    "definitions": [
+      { "text": "Ein Bier. „Unas polas“ ist die übliche Einladung in die Kneipe, und es ist das lockerste der verfügbaren Wörter für Bier." }
+    ],
+    "examples": {
+      "0": { "translation": "Sollen wir ein paar Bier trinken gehen?" },
+      "1": { "translation": "Bring noch ein schön kaltes Bier." }
+    },
+    "origin": {
+      "etymology": "Von La Pola, dem Spitznamen von Policarpa Salavarrieta, der 1817 hingerichteten Heldin der Unabhängigkeitszeit. Die Brauerei Bavaria vertrieb Anfang des 20. Jahrhunderts ein Bier unter diesem Namen; die Marke verschwand, das Gattungswort blieb.",
+      "firstAttested": "frühes 20. Jahrhundert"
+    }
+  },
+  "tinto": {
+    "definitions": [
+      { "text": "Ein kleiner schwarzer Kaffee, meist dünn, meist schon gesüßt, von Straßenverkäufern aus Thermoskannen ausgeschenkt und jedem Besucher in jedem Büro des Landes angeboten." },
+      { "text": "Das Angebot ist ein soziales Ritual, kein Getränkegeschäft. „¿Le provoca un tintico?“ eröffnet Besprechungen, Verhandlungen und Beileidsbesuche gleichermaßen." }
+    ],
+    "examples": {
+      "0": { "translation": "Hätten Sie Lust auf einen Kaffee?", "context": "Die Verkleinerungsform ist praktisch Pflicht. Bloßes tinto klingt schroff." },
+      "1": { "translation": "Ich trinke drei schwarze Kaffee vor dem Mittag." }
+    },
+    "literalMeaning": "Gefärbt, getönt.",
+    "origin": {
+      "etymology": "Von vino tinto, „Rotwein“, über die Farbe: eine dunkle Flüssigkeit in einem kleinen Glas. Der falsche Freund ist perfekt – bestellen Sie in Spanien un tinto, bekommen Sie Wein."
+    }
+  },
+  "mecato": {
+    "definitions": [
+      { "text": "Knabberkram – Chips, Süßigkeiten, Kekse, alles, was zwischen den Mahlzeiten gegessen wird. Ein Massennomen: Man kauft mecato, nicht ein mecato." },
+      { "text": "Auch die Warengruppe im Tante-Emma-Laden selbst. „Una tienda de mecato“ ist ein Süßwarenladen." }
+    ],
+    "examples": {
+      "0": { "translation": "Ich habe Knabberkram für die Fahrt gekauft." },
+      "1": { "translation": "Hör auf, vor dem Essen Süßkram zu futtern." }
+    },
+    "origin": {
+      "etymology": "Kolumbianisch und venezolanisch, Herkunft unsicher; eine Verbindung zum Nahuatl mecatl, „Schnur“, wurde vorgeschlagen und nie nachgewiesen. Am stärksten in Antioquia und im Landesinneren, wo die Alltagsform mecatico lautet."
+    }
+  },
+  "rumbear": {
+    "definitions": [
+      { "text": "Ausgehen, tanzen und trinken. La rumba ist der Abend selbst, und gemeint ist der ganze Abend, nicht ein Lokal." },
+      { "text": "Als Adjektiv, rumbero: jemand, der ständig ausgeht – anerkennend gesagt." }
+    ],
+    "examples": {
+      "0": { "translation": "Gestern waren wir bis fünf Uhr unterwegs." },
+      "1": { "translation": "Wie war der Abend?" },
+      "2": { "translation": "Meine Tante geht öfter aus als ich." }
+    },
+    "origin": {
+      "etymology": "Von rumba, dem kubanischen Musik- und Tanzkomplex, das in der nördlichen Hälfte Südamerikas zum allgemeinen Wort für „Party“ wurde. Vorsicht an der Grenze: In Venezuela heißt rumbear auch knutschen, in Kolumbien nicht."
+    }
+  },
+  "parche": {
+    "definitions": [
+      { "text": "Die Clique, mit der man gewöhnlich abhängt. „Mi parche del colegio“ ist meine Schulclique." },
+      { "text": "Der Plan: „¿cuál es el parche?“ heißt, was machen wir heute Abend." },
+      { "text": "Als Verb, parchar: irgendwo ohne besonderen Zweck herumhängen. „Estamos parchados en el parque.“" }
+    ],
+    "examples": {
+      "0": { "translation": "Was ist der Plan für Freitag?" },
+      "1": { "translation": "Ich bin mit der ganzen Truppe aufgekreuzt." },
+      "2": { "translation": "Wir hängen bei Juan ab.", "context": "Parchados heißt, man hat es sich bequem gemacht und geht nirgendwo mehr hin – nicht auf dem Weg zu etwas anderem." }
+    },
+    "literalMeaning": "Flicken.",
+    "origin": {
+      "etymology": "Von parche, „Flicken“. Die Bedeutung einer festen Gruppe an einem festen Ort entstand in den 1980er und 1990er Jahren in der Jugendsprache von Bogotá und Medellín und hat inzwischen jede Verbindung zum Straßenmilieu verloren; heute organisieren Firmenteams parches.",
+      "firstAttested": "1980er Jahre"
+    }
+  },
+  "prendido": {
+    "definitions": [
+      { "text": "Angeheitert – angenehm betrunken, gesprächig, noch funktionsfähig. Die genaue Stufe zählt: Das Kolumbianische hat eine abgestufte Leiter, und prendido ist die gute Sprosse darauf." },
+      { "text": "Weiter oben auf der Leiter kommen tomado, jincho und am Ende der Zustand, der einen guayabo erzeugt. Wer prendido sagt und jincho meint, untertreibt so, dass es jeder merkt." }
+    ],
+    "examples": {
+      "0": { "translation": "Ich bin schon angeheitert, ich fahre lieber nicht." },
+      "1": { "translation": "Nach zwei Bier war sie angeheitert." }
+    },
+    "literalMeaning": "Angeschaltet, angezündet.",
+    "origin": {
+      "etymology": "Von prender, „anzünden, einschalten“ – dieselbe Metapher wie im englischen lit, unabhängig davon und viel früher entstanden."
+    }
+  },
+  "guayabo": {
+    "definitions": [
+      { "text": "Ein Kater. Das mit Abstand nützlichste kolumbianische Wort für Besucher, denn resaca – das Wort, das man im Unterricht lernt – sagt hier niemand." },
+      { "text": "Übertragen auf seelische Nachwirkungen: guayabo moral ist das flaue, schuldige Gefühl nach einer schlechten Nacht, guayabo amoroso ist Liebeskummer." }
+    ],
+    "examples": {
+      "0": { "translation": "Ich habe einen fürchterlichen Kater." },
+      "1": { "translation": "Sonntag bin ich mit Kater aufgewacht." },
+      "2": { "translation": "Er hat einen moralischen Kater wegen dem, was er gesagt hat.", "context": "Kein Alkohol nötig – nur Reue." }
+    },
+    "literalMeaning": "Guavenbaum.",
+    "origin": {
+      "etymology": "Von guayabo, dem Guavenbaum. Die ältere kolumbianische Bedeutung ist „Sehnsucht, Wehmut“ – die Melancholie des Sich-Erinnerns – und die alkoholbezogene Bedeutung wuchs daraus hervor, nicht umgekehrt. Die Erklärungen mit unreifen Guaven sind nachträglich erfunden."
+    }
+  },
+  "tusa": {
+    "definitions": [
+      { "text": "Das spezifische Elend nach einer frischen Trennung: Liebeskummer mit Soundtrack, mit Dauer und mit der Erwartung, dass die Freunde einen ausführen. Nicht Trauer im Allgemeinen." },
+      { "text": "Estar entusado heißt, in diesem Zustand zu sein; die Verbform ist genauso häufig wie das Substantiv." }
+    ],
+    "examples": {
+      "0": { "translation": "Seit sie ihn verlassen hat, ist er völlig am Boden." },
+      "1": { "translation": "Ich habe sie zum Tanzen ausgeführt, damit sie über die Trennung wegkommt." }
+    },
+    "literalMeaning": "Der abgeerntete Maiskolben ohne Körner.",
+    "origin": {
+      "etymology": "Von tusa, dem nackten Kolben, wenn die Körner weg sind – entblößt von dem, was ihn wertvoll machte. Der kolumbianische Gebrauch ist alt; Karol Gs Hit von 2019 stellte das Wort einem weltweiten Publikum vor, erfand es aber nicht, und ältere Kolumbianer benutzen es ihr Leben lang."
+    }
+  },
+  "tragado": {
+    "definitions": [
+      { "text": "Bis über beide Ohren verliebt, verknallt. Estar tragado de alguien heißt, es schlimm erwischt zu haben, und die passive Konstruktion ist der Punkt – es passiert einem." },
+      { "text": "La traga ist die Schwärmerei selbst und kann sowohl das Gefühl als auch die Person meinen: „es mi traga del colegio“." }
+    ],
+    "examples": {
+      "0": { "translation": "Der Typ ist seit Jahren total in sie verschossen." },
+      "1": { "translation": "Man sieht die Verknalltheit meilenweit." }
+    },
+    "literalMeaning": "Verschluckt.",
+    "origin": {
+      "etymology": "Von tragar, „schlucken“. Man wird vom Gefühl verschluckt, statt es zu haben – das Spanische bevorzugt diese Rahmung für die Liebe generell, und die kolumbianische Form ist nur darin ungewöhnlich, wie alltäglich sie ist."
+    }
+  },
+  "cuadrar": {
+    "definitions": [
+      { "text": "Mit jemandem zusammenkommen; ein Paar werden. „Se cuadraron en diciembre“ heißt, sie sind im Dezember zusammengekommen." },
+      { "text": "El cuadre ist die Beziehung in dem Stadium, bevor irgendjemand sie Beziehung nennt – die kolumbianische Antwort auf „es ist kompliziert“, und zugleich die Person selbst." },
+      { "text": "In der gewöhnlichen Bedeutung: etwas ausmachen oder abstimmen, „cuadremos la hora“. Beide Bedeutungen sind lebendig, und die Doppeldeutigkeit wird bewusst genutzt." }
+    ],
+    "examples": {
+      "0": { "translation": "Ist er am Ende mit ihr zusammengekommen?" },
+      "1": { "translation": "Sie ist nicht meine Freundin, es ist eher so eine Sache.", "context": "Bewusst vage – das ist die ganze Funktion des Wortes." },
+      "2": { "translation": "Lass uns die Sache mit dem Auto morgen klären." }
+    },
+    "literalMeaning": "Ins Rechteck bringen, passend machen.",
+    "origin": {
+      "etymology": "Von cuadrar, „aufgehen, stimmen“. Die romantische Bedeutung kommt aus der buchhalterischen: zwei Dinge, die zueinander passen. Der nüchterne Ton bleibt erhalten, und das ist mit ein Grund, warum es großen Wörtern vorgezogen wird."
+    }
+  },
+  "que-pena": {
+    "definitions": [
+      { "text": "Entschuldigung; Verzeihung. Die übliche kolumbianische Entschuldigung für kleine Vergehen, vom Anrempeln bis zum Zuspätkommen. „Qué pena con usted“ ist die volle höfliche Form." },
+      { "text": "Wie peinlich. Das kolumbianische pena ist Verlegenheit, nicht Mitleid, was die Bedeutung der Wendung gegenüber Spanien umkehrt, wo qué pena „wie schade“ heißt." },
+      { "text": "Auf sich selbst bezogen: dar pena heißt, zu schüchtern für etwas zu sein. „Me da pena preguntar“ – ich traue mich nicht zu fragen." }
+    ],
+    "examples": {
+      "0": { "translation": "Tut mir sehr leid, ich habe Sie nicht gesehen." },
+      "1": { "translation": "Ich traue mich nicht, vor so vielen Leuten zu tanzen." },
+      "2": { "translation": "Entschuldigung, könnte ich einen Kaffee bekommen?", "context": "Eröffnet eine Bitte an Fremde. Beachten Sie regalar für einen ganz normalen Kauf – noch eine kolumbianische Gewohnheit, die Besucher verblüfft." }
+    },
+    "literalMeaning": "Was für eine Schande – „pena“ heißt hier allerdings Verlegenheit, nicht Kummer.",
+    "origin": {
+      "etymology": "Der Unterschied steckt in pena selbst: Das kolumbianische Spanisch behielt die ältere Bedeutung „Verlegenheit, Scheu“, während das Spanisch Spaniens zu „Mitleid, Traurigkeit“ wanderte. Erfunden wurde nichts; die beiden Varietäten trieben von einem gemeinsamen Wort aus einfach in verschiedene Richtungen."
+    }
+  },
+  "ave-maria": {
+    "definitions": [
+      { "text": "Ein Paisa-Ausruf, der Überraschung, Bewunderung, Genervtheit und milde Empörung abdeckt – entschieden wird das allein über die Vokallänge. Der Form nach religiös und im Gebrauch kein bisschen." },
+      { "text": "Das pues gehört fest dazu; ein Paisa, der die Wendung ohne es sagt, klingt, als würde er tatsächlich beten." }
+    ],
+    "examples": {
+      "0": { "translation": "Meine Güte, was für eine Eleganz!" },
+      "1": { "translation": "Ach du meine Güte, Kind, was ist denn mit dem Gesicht los?" }
+    },
+    "literalMeaning": "Gegrüßet seist du, Maria – also.",
+    "origin": {
+      "etymology": "Vom Anfang des Ave Maria, in einer Region, in der katholische Formeln einen großen Teil der Alltagsausrufe stellten. Es ist das am unmittelbarsten erkennbare Merkmal antioquischer Sprache und wird vom Rest des Landes nachgeahmt, liebevoll und weniger liebevoll."
+    }
+  },
+  "no-joda": {
+    "definitions": [
+      { "text": "Der Allzweckausruf der Küste: Verblüffung, Freude, Empörung oder schlichte Betonung. Barranquilla und Cartagena laufen damit." },
+      { "text": "Auch in der wörtlichen Bedeutung, um jemandem zu sagen, er solle aufhören zu nerven – „no joda más“." },
+      { "text": "Das Register ist regional geeicht. An der Küste ist es im normalen Gespräch unauffällig; in Bogotá klingt dieselbe Wendung merklich derber." }
+    ],
+    "examples": {
+      "0": { "translation": "Heilige Scheiße, wir haben gewonnen!" },
+      "1": { "translation": "Herrgott noch mal, Mann, lass mich in Ruhe." }
+    },
+    "literalMeaning": "Mach keinen Blödsinn.",
+    "origin": {
+      "etymology": "Von joder, das in Spanien eindeutig derb ist und an der kolumbianischen Küste durch schiere Häufigkeit erheblich abgeschliffen wurde. Die verneinte Imperativform erstarrte zum Ausruf, sodass niemand sie mehr als Befehl liest."
+    }
+  },
+  "eche": {
+    "definitions": [
+      { "text": "Küstenausruf der Überraschung, des Unglaubens oder der Klage – „wow“, „niemals“, „ach komm“, je nach Vortrag. Konzentriert auf Barranquilla und das Departamento Atlántico." },
+      { "text": "Oft in Kombination: „¡eche, no joda!“ ist die vollständige Barranquillero-Reaktion auf so gut wie alles." }
+    ],
+    "examples": {
+      "0": { "translation": "Hey, wann bist du denn angekommen!" },
+      "1": { "translation": "Mann, jetzt ist der Kühlschrank schon wieder kaputt." }
+    },
+    "origin": {
+      "etymology": "Herkunft unklar. Die übliche Vermutung ist eine beschönigende Verkürzung eines derberen Wortes, nach dem Muster, das im Spanischen miércoles für mierda liefert, aber belegt ist keine Herleitung. Es ist rein mündlich und wird außerhalb von Dialogen fast nie geschrieben."
+    }
+  },
+  "que-boleta": {
+    "definitions": [
+      { "text": "Wie peinlich; was für eine Blamage. Gesagt über eine öffentliche Bloßstellung, die eigene oder die eines anderen – der Akzent liegt darauf, gesehen zu werden." },
+      { "text": "Als Adjektiv über eine Person: jemand, der sich zum Gespött macht. „Es muy boleta“ ist eine milde, aber echte Beleidigung." },
+      { "text": "Dar boleta ist das Verb: sich in der Öffentlichkeit blamieren." }
+    ],
+    "examples": {
+      "0": { "translation": "Wie peinlich, er ist vor allen Leuten hingefallen!" },
+      "1": { "translation": "Mach keine Szene, Mann, beruhig dich." }
+    },
+    "literalMeaning": "Was für ein Zettel.",
+    "origin": {
+      "etymology": "Von boleta, „Zettel, Aushang“. Die Vorstellung ist die eines öffentlichen Anschlags – etwas, das jeder lesen kann. Am stärksten in Bogotá und landesweit bei jüngeren Sprechern; Paisas greifen für dasselbe Gefühl eher zu qué oso."
+    }
+  },
+  "pues": {
+    "definitions": [
+      { "text": "Die Paisa-Satzpartikel, ans Ende von Sätzen gehängt und völlig bedeutungsleer: „quiubo pues“, „venga pues“, „sí pues“, „entonces qué pues“. Lässt man sie weg, ändert sich nichts außer dem Akzent." },
+      { "text": "Zu unterscheiden vom standardspanischen pues im Sinne von „also“ oder „da“, das Kolumbianer ganz normal auch verwenden. Die Paisa-Partikel ist positionsgebunden: Sie steht am Ende, und sie steht ständig da." },
+      { "text": "Auswärtige übertreiben es damit. Zwei oder drei pues in einem Satz liest ein Paisa als Verspottung – was oft genau so gemeint ist, wenn Nicht-Paisas es tun." }
+    ],
+    "examples": {
+      "0": { "translation": "Komm schon, komm rein." },
+      "1": { "translation": "Und, wie sieht's aus, gehen wir?" },
+      "2": { "translation": "Ja, schon gut, ich sag dir Bescheid.", "context": "Unverbindlich. Das pues leistet die Abmilderung, die die Worte nicht leisten." }
+    },
+    "origin": {
+      "etymology": "Dasselbe pues wie überall im Spanischen, in Antioquia aber umgedeutet zur satzfinalen Partikel statt zum Bindewort. Das Muster ist alt genug, um als prägendes Merkmal des Dialekts zu gelten, und ist das Erste, was in jedem kolumbianischen Comedy-Sketch über Medellín nachgeäfft wird."
+    }
+  },
+  "de-una": {
+    "definitions": [
+      { "text": "Unbedingt; ich bin dabei; auf geht's. Das übliche begeisterte Ja auf eine Einladung und einer der häufigsten Zweiwortwechsel im kolumbianischen Spanisch." },
+      { "text": "Sofort, ohne zu zögern: „me dijo que no de una“ – er hat sofort nein gesagt." }
+    ],
+    "examples": {
+      "0": { "translation": "Sollen wir ein paar Bier holen? – Auf jeden Fall!" },
+      "1": { "translation": "Er kam an und fing sofort an zu kochen." }
+    },
+    "literalMeaning": "In einem – Kurzform von de una vez.",
+    "origin": {
+      "etymology": "Verkürzt aus de una vez, „auf einmal, in einem Rutsch“. Erst die Verkürzung macht es zum Slang; die volle Wendung ist überall normales Spanisch."
+    }
+  },
+  "listo": {
+    "definitions": [
+      { "text": "Okay; abgemacht; verstanden. Das kolumbianische Arbeitstier im Gespräch – es nimmt einen Vorschlag an, quittiert Anweisungen, beendet ein Telefonat und füllt eine Pause, oft mehrmals im selben Austausch." },
+      { "text": "„¿Listo?“ fragt nach Zustimmung, nicht nach Bereitschaft: „okay?“, nicht „bist du fertig?“." },
+      { "text": "Die Wörterbuchbedeutungen – clever und fertig – sind beide lebendig, sodass das Wort drei unverbundene Aufgaben hat und der Ton entscheidet." }
+    ],
+    "examples": {
+      "0": { "translation": "Wir sehen uns um acht. – Alles klar." },
+      "1": { "translation": "Ja, ja, ich komme schon." },
+      "2": { "translation": "Ich gebe Ihnen den Bericht am Dienstag, okay?", "context": "Im Beruf völlig akzeptabel – dieses Wort bleibt nicht auf die Straße beschränkt." }
+    },
+    "origin": {
+      "etymology": "Standardspanisch listo, „bereit“. Kolumbianisch sind die Häufigkeit und die Gesprächsfunktion: Es ist zum fast automatischen Bestätigungssignal geworden, vergleichbar dem brasilianischen beleza."
+    }
+  },
+  "como-asi": {
+    "definitions": [
+      { "text": "Wie meinst du das? – gefragt, wenn etwas nicht aufgeht. Die häufigste Nachfrage im kolumbianischen Spanisch und ein unverkennbares nationales Erkennungszeichen." },
+      { "text": "Mit flacherer Intonation ist es gar keine Frage, sondern ein Einspruch: „Moment mal, das stimmt so nicht.“ Wenn es von einem Beamten kommt, haben Sie ein Problem." }
+    ],
+    "examples": {
+      "0": { "translation": "Wie, es ist kein Platz mehr frei?" },
+      "1": { "translation": "Moment mal – du kommst also nicht?", "context": "Einspruch, keine Nachfrage. Der Sprecher hat sehr gut verstanden." }
+    },
+    "literalMeaning": "Wie denn so?",
+    "origin": {
+      "etymology": "Aus ganz gewöhnlichen Bestandteilen gebaut, aber die feste Wendung in dieser Funktion ist typisch kolumbianisch; andere Varietäten greifen zu ¿en qué sentido? oder ¿cómo que...?. Es ist die eine Wendung, von der Kolumbianern im Ausland gesagt wird, sie benutzten sie zu oft."
+    }
+  },
+  "dar-papaya": {
+    "definitions": [
+      { "text": "Sich angreifbar machen – sich ausrauben, übervorteilen oder ausnutzen lassen, indem man auf der Straße mit dem Handy hantiert, die Tasche auf einem Stuhl liegen lässt oder der falschen Person sein Gehalt verrät." },
+      { "text": "Das vollständige Sprichwort lautet „a papaya puesta, papaya partida“: hingelegte Papaya ist aufgeschnittene Papaya. Die Verantwortung liegt bei dem, der die Gelegenheit gegeben hat, nicht nur bei dem, der sie genutzt hat – und diese Annahme durchzieht das gesellschaftliche Leben in Kolumbien." },
+      { "text": "Über Kriminalität hinaus deckt es jede selbstverschuldete Blöße ab: dem Gegner eine Lücke lassen, im Streit, im Spiel oder im Büro." }
+    ],
+    "examples": {
+      "0": { "translation": "Wedel auf der Straße nicht mit deinem Handy herum." },
+      "1": { "translation": "Er hat den Laptop im Auto gelassen – da ist er selbst schuld." },
+      "2": { "translation": "Ich habe ihnen im Meeting eine Lücke gelassen, und sie haben sie genutzt.", "context": "Kein Diebstahl im Spiel. Die Metapher deckt jede offene Flanke ab." }
+    },
+    "literalMeaning": "Papaya geben.",
+    "origin": {
+      "etymology": "Von der Frucht: Eine hingelegte Papaya ist eine Papaya, an der sich jemand bedienen wird. Die Wendung ist kolumbianisch, und die Haltung dahinter – dass sichtbare Gelegenheit schon selbst ein Fehler ist – finden Besucher am ehesten ernüchternd, weil sie einen Teil der Schuld beim Opfer ablädt."
+    }
+  },
+  "vaina": {
+    "definitions": [
+      { "text": "Ding, Dingsda – der Universalplatzhalter für jeden Gegenstand, dessen Namen einem gerade nicht einfällt. „Páseme esa vaina.“" },
+      { "text": "Eine Angelegenheit, meist eine lästige: „qué vaina tan complicada“, „la vaina es que no hay plata“." },
+      { "text": "„¡Qué vaina!“ für sich heißt „wie schade“ oder „wie ärgerlich“ und ist die übliche mitfühlende Reaktion auf schlechte Nachrichten." }
+    ],
+    "examples": {
+      "0": { "translation": "Gib mir mal das Ding da rüber." },
+      "1": { "translation": "Die Sache ist die: Die Bank macht um vier zu." },
+      "2": { "translation": "Sein Auto ist liegen geblieben. – Ach, so ein Pech!" }
+    },
+    "literalMeaning": "Hülse, Scheide.",
+    "origin": {
+      "etymology": "Von vaina, „Hülse, Schwertscheide“. In der ganzen Karibik geläufig, aber das Register nicht: In der Dominikanischen Republik und in Venezuela ist es derber, während es in Kolumbien – besonders an der Küste, wo es am häufigsten ist – kaum markiert ist und von Sprechern jeder Art zu hören ist."
+    }
+  },
+  "embolatar": {
+    "definitions": [
+      { "text": "Etwas verlegen, oder: etwas geht im Durcheinander verloren statt durch Diebstahl – „se me embolató el recibo“." },
+      { "text": "Estar embolatado: zugeschüttet sein, in Dingen verheddert, nicht erreichbar. Das ist die häufigere Form und die Standardausrede dafür, niemandem geantwortet zu haben." },
+      { "text": "Jemanden mit Verzögerungen abspeisen – eine Behörde, die deine Unterlagen embolata, verschlampt sie mit Absicht." }
+    ],
+    "examples": {
+      "0": { "translation": "Meine Schlüssel sind irgendwo abhandengekommen." },
+      "1": { "translation": "Sorry, ich war völlig im Umzugsstress untergegangen." },
+      "2": { "translation": "Seit einem Jahr vertrösten sie mich auf die Antwort.", "context": "Die behördliche Bedeutung – absichtlich, nicht nachlässig." }
+    },
+    "origin": {
+      "etymology": "Kolumbianisch, Ableitung unsicher; bolate, „Aufregung, Durcheinander“, ist im selben Sprachraum belegt und die wahrscheinlichste Grundlage. Außerhalb Kolumbiens fast unbekannt, was es zu einem zuverlässigen Erkennungszeichen macht."
+    }
+  },
+  "paila": {
+    "definitions": [
+      { "text": "Erledigt; nichts zu machen; Pech gehabt. „Quedé paila“ heißt, ich stecke in Schwierigkeiten oder ich bin geliefert, und ein bloßes „¡Paila!“ ist das Urteil, dass etwas gescheitert ist und nichts mehr zu retten." },
+      { "text": "Auch als knappe Absage oder als Achselzucken über das Pech eines anderen, und dann ist es ausgesprochen unbarmherzig – näher an „selber schuld“ als an „wie schade“." }
+    ],
+    "examples": {
+      "0": { "translation": "Die Karten sind ausverkauft. – Tja, dann war's das." },
+      "1": { "translation": "Wenn du es heute nicht abgibst, bist du geliefert." }
+    },
+    "literalMeaning": "Eine flache Pfanne.",
+    "origin": {
+      "etymology": "Von paila, einer breiten flachen Pfanne. Der Weg zu „ruiniert“ ist nicht belegt, und die Verbindung könnte eher über den Klang als über den Sinn laufen. Ab den 2000er Jahren stieg es unter den unter Dreißigjährigen stark an und wirkt weiterhin jung; ein Sechzigjähriger, der es benutzt, macht Spaß.",
+      "firstAttested": "2000er Jahre in der heutigen Bedeutung"
+    }
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "mexican": {
+    "name": "Messico",
+    "adjective": "messicano",
+    "languageName": "spagnolo messicano",
+    "intro": "Lo spagnolo del Messico si porta dietro quello che è probabilmente il vocabolario informale più fitto di tutto il mondo ispanofono, e la prima cosa da capirne è il registro. La stessa parola può essere un insulto, un vezzeggiativo o una semplice zeppa a seconda del tono e di chi c’è in stanza. Sbagliare qui è l’errore classico di chi impara: il vocabolario si attacca in fretta e si usa male con la stessa rapidità.\n\nLa seconda caratteristica è il doppio fondo. Molti termini hanno un significato innocuo in superficie e un secondo, ben più crudo, sotto: è la base dell’albur, la tradizione messicana del gioco di parole a doppio senso. Quando una scheda ha quel secondo strato, lo segnaliamo.",
+    "metaDescription": "Lo slang messicano spiegato in italiano: 50 parole ed espressioni dello spagnolo del Messico con significati, pronuncia, frasi di esempio tradotte e avvisi di registro."
+  },
+  "spanish": {
+    "name": "Spagna",
+    "adjective": "spagnolo",
+    "languageName": "spagnolo peninsulare",
+    "intro": "Lo spagnolo di Spagna è parecchio più diretto della maggior parte delle varietà latinoamericane. Parole che a Bogotá o a Lima risulterebbero scandalose a Madrid sono arredamento ordinario della conversazione, e i parlanti dicono parolacce spesso e volentieri, senza alcuna intenzione di offendere. Per chi arriva da un corso di spagnolo latinoamericano è di solito l’adattamento più duro.\n\nLe schede segnalano con chiarezza quando un termine è solo peninsulare, perché buona parte dello slang spagnolo non è trasportabile: usarlo in Messico o in Argentina ti procura, nella migliore delle ipotesi, una faccia perplessa.",
+    "metaDescription": "Lo slang spagnolo di Spagna spiegato: 50 parole ed espressioni dello spagnolo peninsulare con significati, pronuncia, frasi di esempio e traduzioni in italiano."
+  },
+  "american": {
+    "name": "Stati Uniti",
+    "adjective": "americano",
+    "languageName": "inglese americano",
+    "intro": "Lo slang americano è il vocabolario informale più esportato del pianeta, ed è proprio questo a renderlo difficile da fissare. Un termine può essere in voga ad Atlanta, già stanco a Los Angeles e appena arrivato a Londra, tutto nello stesso mese.\n\nBuona parte di ciò che il resto del mondo sente come slang “americano” generico è nato nell’inglese vernacolare afroamericano ed è arrivato al parlato di tutti attraverso la musica, lo sport e, più di recente, i social. Vale la pena saperlo: spiega perché tanti termini si portino dietro una storia che chi li usa di solito ignora.\n\nLe schede qui sotto privilegiano il vocabolario che ha una certa tenuta rispetto a quello che sta al suo picco questa settimana. Quando un termine ha una casa regionale precisa, o un’origine precisa che ne cambia l’effetto, lo diciamo.",
+    "metaDescription": "Lo slang americano spiegato in italiano: 50 parole ed espressioni dell’inglese degli Stati Uniti con significati, pronuncia, esempi tradotti e note sull’uso reale."
+  },
+  "british": {
+    "name": "Regno Unito",
+    "adjective": "britannico",
+    "languageName": "inglese britannico",
+    "intro": "Lo slang britannico è stratificato in modo insolito. Classe sociale, regione ed età ci lasciano tutte le loro impronte, e una parola che a Newcastle suona calorosa nel Surrey può suonare sarcastica. Il paese è abbastanza piccolo perché i parlanti conoscano a grandi linee il vocabolario degli altri e abbastanza grande perché quasi non lo usino: quasi ogni britannico riconosce molto più slang di quanto ne direbbe mai ad alta voce.\n\nUna trappola ricorrente per chi arriva da fuori è l’understatement. Buona parte del parlato informale britannico significa parecchio di più, o parecchio di meno, di quello che dice alla lettera, e diverse schede qui sotto esistono soprattutto per segnalare quello scarto.",
+    "metaDescription": "Lo slang britannico spiegato in italiano: 50 parole ed espressioni dell’inglese del Regno Unito con significati, pronuncia, esempi tradotti e note su regione, classe e tono."
+  },
+  "australian": {
+    "name": "Australia",
+    "adjective": "australiano",
+    "languageName": "inglese australiano",
+    "intro": "Lo slang australiano gira su due motori: l’accorciamento e l’ironia. Quasi ogni parola può essere tagliata e chiusa in -o o in -ie, e i risultati sono produttivi più che fissi: i parlanti ne coniano di nuovi sul momento e si aspettano di essere capiti. Il secondo motore è l’abitudine di chiamare le cose con il loro contrario, ed è il motivo per cui la persona più alta della stanza può ritrovarsi a essere Shorty.\n\nGli australiani usano poi un piccolo gruppo di termini molto più spesso di quanto chi viene da fuori si aspetti, e un gruppo più ampio molto meno di quanto i film lascino intendere. Quando una parola appartiene decisamente al secondo gruppo, la scheda lo dice invece di far finta di niente.",
+    "metaDescription": "Lo slang australiano spiegato in italiano: 50 parole ed espressioni dell’inglese d’Australia con significati, pronuncia, esempi tradotti e note su quali si dicano davvero."
+  },
+  "canadian": {
+    "name": "Canada",
+    "adjective": "canadese",
+    "languageName": "inglese canadese",
+    "intro": "Lo slang canadese viene spesso descritto come una variante blanda di quello americano, il che lo svaluta. Il Canada ha un suo vocabolario istituzionale — termini della sua moneta, della sua scuola, dei suoi inverni e delle sue catene di caffè — più due varietà regionali forti che non si somigliano per niente: lo slang giovanile multiculturale di Toronto, molto segnato dal parlato caraibico e somalo, e il lessico più antico del Canada atlantico.\n\nAnche il bilinguismo lascia il segno: diverse parole quotidiane dell’inglese canadese sono prestiti diretti dal francese del Québec, usati da parlanti che della loro origine non sanno nulla.",
+    "metaDescription": "Lo slang canadese spiegato in italiano: 50 parole ed espressioni dell’inglese del Canada con significati, pronuncia, esempi tradotti e note su Toronto, le Praterie e l’Atlantico."
+  },
+  "italian": {
+    "name": "Italia",
+    "adjective": "italiano",
+    "languageName": "italiano",
+    "intro": "L’Italia ha unificato la propria lingua relativamente tardi, e lo slang mostra ancora le cuciture. Molto di ciò che passa per slang italiano è dialetto che è uscito dalla sua città: le parole romane e napoletane, in particolare, hanno fatto il giro del paese attraverso il cinema e la televisione senza perdere il timbro locale, e quasi tutti le riconoscono anche dove nessuno le direbbe.\n\nL’altra cosa che conta è quanto lavoro facciano il gesto e l’intonazione. Diverse schede qui sotto riguardano parole il cui significato sta quasi tutto nella resa: dette in un modo sono un complimento, dette in un altro una stroncatura. Quando è così, le note d’uso contano più della definizione.\n\nLe schede segnalano inoltre quali termini sono regionali, quali sono ormai da genitori e quali sono più pesanti di come suonano — le tre cose che un dizionario di slang sbaglia più facilmente.",
+    "metaDescription": "Lo slang italiano spiegato: 50 parole ed espressioni dell’italiano colloquiale con significati, pronuncia, frasi di esempio e note su regione e registro."
+  },
+  "french": {
+    "name": "Francia",
+    "adjective": "francese",
+    "languageName": "francese",
+    "intro": "Lo slang francese ha una stranezza strutturale che nessun’altra lingua di questo sito condivide: il verlan, cioè l’abitudine di invertire le sillabe di una parola per farne una nuova. Fête diventa teuf, femme diventa meuf, e qualche parola in verlan è stata invertita una seconda volta. È un meccanismo produttivo e generazionale, e vuol dire che sapere il francese standard ti porta solo a metà strada.\n\nL’altra grande fonte è l’argot di Parigi e di Marsiglia, più un flusso costante di prestiti dall’arabo arrivati attraverso le banlieue. Le schede indicano da quale corrente viene ogni parola, perché è l’informazione che dice di più su chi la usa.",
+    "metaDescription": "Lo slang francese spiegato in italiano: 50 parole ed espressioni del francese con significati, pronuncia, origini in verlan e frasi di esempio tradotte."
+  },
+  "japanese": {
+    "name": "Giappone",
+    "adjective": "giapponese",
+    "languageName": "giapponese",
+    "intro": "Lo slang giapponese è modellato da una caratteristica che questa lingua ha e quasi nessun’altra: un sistema di cortesia obbligatorio. Ogni frase codifica già come chi parla si colloca rispetto a chi ascolta, quindi in giapponese lo slang non è quasi mai solo una scelta di parole: è la dichiarazione che il registro formale è stato spento, e usarlo con la persona sbagliata è un errore sociale prima che lessicale.\n\nI meccanismi produttivi meritano di essere imparati a parte. I sostantivi diventano verbi con la terminazione -ru (Google dà ググる), gli aggettivi si contraggono nel parlato (すごい dà すげー) e i composti lunghi si accorciano a quattro sillabe (コストパフォーマンス dà コスパ). Imparati quei tre schemi, molto di ciò che sembra slang nuovo si rivela una parola che già conoscevi, con addosso un cappotto più corto.\n\nOgni scheda qui sotto riporta il termine in scrittura giapponese con la romanizzazione Hepburn, perché una parola che non sai digitare è una parola che non sai cercare.",
+    "metaDescription": "Lo slang giapponese spiegato in italiano: parole in kanji e kana con romanizzazione, significati, frasi di esempio tradotte e note su quando risultano scortesi."
+  },
+  "korean": {
+    "name": "Corea del Sud",
+    "adjective": "coreano",
+    "languageName": "coreano",
+    "intro": "Lo slang coreano si rinnova più in fretta di quello di qualsiasi altra lingua di questo sito, e lo fa con un meccanismo dominante: l’abbreviazione. Si prende la prima sillaba di ogni parola di un’espressione, si incollano insieme ed è nato un termine nuovo: 치킨 più 맥주 dà 치맥, 멘탈 più 붕괴 dà 멘붕. Intere frasi si comprimono così in quattro lettere, ed è il motivo per cui i messaggi di un coreano di vent’anni possono risultare illeggibili ai suoi stessi genitori.\n\nLa seconda cosa da capire è che in coreano gli appellativi non sono un ornamento facoltativo. Oppa, unni, sunbae e gli altri si usano di continuo e trasmettono informazioni reali su età, genere e gerarchia; diverse delle schede qui sotto riguardano appellativi e non vocabolario, perché sbagliarli è il primo errore che fa uno straniero, e il più frequente.\n\nLe schede riportano il termine in hangul con la lettura in romanizzazione riveduta, e segnalano quando una parola è solo da internet e non qualcosa che si direbbe ad alta voce.",
+    "metaDescription": "Lo slang coreano spiegato in italiano: parole in hangul con romanizzazione, significati, esempi tradotti e note su età, gerarchia e quando è meglio non usarle."
+  },
+  "colombian": {
+    "name": "Colombia",
+    "adjective": "colombiano",
+    "languageName": "spagnolo colombiano",
+    "intro": "In Colombia non esiste un solo slang. La cordigliera ha spezzato il paese in comunità linguistiche cresciute in larga parte senza sentirsi tra loro, e la differenza si coglie già nella prima frase: un paisa di Medellín appende un pues in fondo a ogni proposizione, un bogotano dà del usted ai propri figli e un costeño di Barranquilla si mangia le consonanti a un ritmo che all’interno del paese si fatica a seguire. Circa un terzo delle schede qui sotto porta un’indicazione regionale, perché usarle fuori dalla loro zona sarebbe un travestimento più che una frase.\n\nLo strato che è andato più lontano è il parlache, il lessico cresciuto nei quartieri collinari di Medellín negli anni peggiori del conflitto e poi diffuso in tutto il paese dalla musica e dalla televisione. Parce, parche e gonorrea vengono da lì, e non sono arrivati neutri: le prime due hanno perso del tutto le loro associazioni, la terza no. È la trappola generale di questo paese: lo slang colombiano è caloroso e sembra facile, e buona parte di esso si porta dietro una carica di classe o di regione che i madrelingua sentono all’istante e i visitatori no. Quando una scheda ce l’ha, lo diciamo.",
+    "metaDescription": "Lo slang colombiano spiegato: 50 parole dello spagnolo di Colombia con significati, pronuncia, note regionali da Medellín alla costa ed esempi tradotti."
+  },
+  "cuban": {
+    "name": "Cuba",
+    "adjective": "cubano",
+    "languageName": "spagnolo cubano",
+    "intro": "Lo spagnolo di Cuba è stato modellato da tre forze che nessun’altra varietà mette insieme. La prima è il sostrato afrocubano: parole arrivate con le lingue rituali della santería e delle società abakuá — asere, aché, bembé, ambia — che dall’uso religioso e di strada sono passate al parlato comune, alcune soltanto negli ultimi quarant’anni. La seconda è la Rivoluzione e il crollo economico che l’ha seguita, che hanno prodotto un intero vocabolario di lavoro per la scarsità: resolver, luchar, por la izquierda, sociolismo, el paquete. Non sono espressioni pittoresche incollate alla lingua: sono i verbi con cui un cubano racconta che cosa ha fatto stamattina. La terza è la diaspora, che ha portato a Miami un’istantanea del parlato dell’isola degli anni Sessanta e ha continuato a svilupparla per conto proprio, tanto che alcune parole di questa lista sono vive in entrambi i posti e qualcuna — gusano più di tutte — significa cose opposte a seconda della sponda dello stretto di Florida su cui ti trovi.\n\nQuello che spiazza chi arriva da fuori è il registro e la politica, più che il vocabolario. Il parlato cubano è foneticamente veloce e molto tagliato — cadono consonanti finali e sillabe intere — ed è parecchio più crudo in compagnia ordinaria di quello messicano o colombiano, quindi chi si è tarato su quelle varietà sbaglierà sistematicamente il peso di una parola. Diverse delle schede qui sotto hanno inoltre una carica politica: chivatón, gusano e pincho non sono descrizioni neutre, e usarle con leggerezza dirà a un cubano qualcosa su di te che forse non intendevi dire. Quando un termine è solo dell’isola, solo della diaspora o rischioso da ripetere, lo diciamo.",
+    "metaDescription": "Lo slang cubano spiegato: 50 parole del parlato dell’Avana, del Periodo Speciale e della diaspora di Miami, con significati, esempi e avvisi di registro."
+  },
+  "dominican": {
+    "name": "Repubblica Dominicana",
+    "adjective": "dominicano",
+    "languageName": "spagnolo dominicano",
+    "intro": "Lo spagnolo dominicano si parla veloce e ridotto all’osso, e ciò che lo rende difficile da seguire è la fonetica più che il lessico. La /s/ a fine sillaba si aspira o sparisce del tutto — do' cerveza' fría', lo' muchacho' — così il plurale sopravvive solo nell’articolo, e la /d/ di tutti i participi in -ado cade: guillao, desacatao, prendío. Nella valle del Cibao, attorno a Santiago, la /l/ e la /r/ a fine sillaba diventano una i: porque passa a poique e verdad a veidá. Una volta che senti quelle tre regole, buona parte di ciò che sembrava slang sconosciuto si rivela spagnolo ordinario consumato dall’uso.\n\nIl lessico vero e proprio ha tre strati che conviene tenere distinti. C’è il vecchio vocabolario di strada della capitale, costruito attorno al tíguere e al suo rovescio, il pariguayo. C’è lo strato newyorkese, portato avanti e indietro da una diaspora abbastanza grande perché janguear e dominicanyork siano di casa a Washington Heights quanto a Santo Domingo. E c’è lo strato del dembow dell’ultimo decennio — teteo, desacatao, viejevo — che la musica in spagnolo ha spinto ben oltre l’isola e che ha già fatto arrivare parole come bonche alla generazione dei genitori. Le schede qui sotto dicono a quale strato appartiene ogni termine e segnalano quali sono datati, quali regionali e quali più pesanti di come sembrano.",
+    "metaDescription": "Lo slang dominicano spiegato: 50 parole dello spagnolo della Repubblica Dominicana con significati, pronuncia, esempi e note su Santo Domingo, il Cibao e il dembow."
+  },
+  "irish": {
+    "name": "Irlanda",
+    "adjective": "irlandese",
+    "languageName": "inglese irlandese",
+    "intro": "L’inglese d’Irlanda non è inglese standard con quattro parole locali sopra. La grammatica del gaelico è passata insieme ai parlanti che hanno cambiato lingua, e buona parte è ancora al lavoro: “I'm after eating” è il passato immediato irlandese costruito con pezzi inglesi, “he does be working late” è un tempo abituale che l’inglese altrimenti non ha, e “giving out” è la traduzione parola per parola di un modo di dire irlandese che con il dare non c’entra niente. Chi le usa non le sente come slang, ed è esattamente per questo che spiazzano il visitatore: il vocabolario lo puoi cercare, la grammatica no.\n\nLe differenze regionali sono reali, non decorative. Cork ha langer e il boy in fondo alla frase, il nord ha wee e melter per via dello scozzese dell’Ulster, e Dublino fornisce quasi tutto ciò che il resto del paese sente in televisione. Vale poi la pena dire due cose senza giri di parole: le parole che il turista arriva aspettandosi — begorrah, top o' the morning — qui non le dice assolutamente nessuno, e diverse che sulla carta sembrano solo pittoresche, pronunciate sono davvero volgari. Le schede qui sotto dicono quale è quale.",
+    "metaDescription": "Lo slang irlandese spiegato: 50 parole ed espressioni dell’inglese d’Irlanda con significati, pronuncia, esempi tradotti e note su regione, registro e grammatica."
+  },
+  "german": {
+    "name": "Germania",
+    "adjective": "tedesco",
+    "languageName": "tedesco",
+    "intro": "Lo slang tedesco è stratificato geograficamente a un livello che sorprende chi ha imparato la lingua sui manuali. Un panino è una Schrippe a Berlino, una Semmel a Monaco, un Weck a Stoccarda e un Rundstück ad Amburgo; la codina interrogativa a fine frase è ne al nord, gell al sud e wa a Berlino. Accanto a questo c’è un secondo asse: le particelle piccole — halt, eben, na, doch — che non portano alcuna informazione e fanno quasi tutto il lavoro di suonare come un madrelingua. Nessuno le insegna, e chi le omette viene capito perfettamente e suona comunque sbagliato.\n\nAltri due strati mettono in difficoltà chi arriva da fuori. Il primo è il Kiezdeutsch, il parlato giovanile urbano costruito su prestiti turchi e arabi — wallah, yalla, Digga — oggi diffuso tra gli adolescenti tedeschi di qualsiasi provenienza ma ridicolo in bocca a un adulto. Il secondo è l’inglese che inglese non è: un Handy è un cellulare, un Beamer è un proiettore, Homeoffice è il lavoro da casa e Shitstorm è una parola abbastanza pulita per un telegiornale. Le schede qui sotto dicono a quale strato appartiene ogni parola e, per il lessico giovanile, se la gente la dica davvero o se abbia soltanto vinto un premio.",
+    "metaDescription": "Lo slang tedesco spiegato in italiano: 50 parole ed espressioni del tedesco colloquiale con significati, pronuncia, note regionali e frasi di esempio tradotte."
+  },
+  "russian": {
+    "name": "Russia",
+    "adjective": "russo",
+    "languageName": "russo",
+    "intro": "Lo slang russo è organizzato attorno a una cosa più che a ogni altra: il мат, l’insieme chiuso di quattro radici tabù — хуй, пизда, ебать e блядь — da cui la lingua costruisce un vocabolario enorme e pienamente grammaticale. Non si tratta di imprecare nel senso italiano, con una mezza dozzina di parole d’urto. Le radici prendono i normali prefissi e suffissi russi e generano verbi, aggettivi, avverbi e sostantivi astratti che coprono significati in cui non c’è nulla di volgare: охуеть è restare sbalorditi, заебался è essere a pezzi, наебать è truffare, похуй è non importarsene nulla. Un parlante può reggere un racconto intero sul mat ed essere preciso dall’inizio alla fine. Di fronte a questo c’è uno strato eufemistico altrettanto elaborato, costruito conservando la forma intera della parola e sostituendo solo la radice che offende: блин per блядь, капец per пиздец, офигеть per охуеть, забить con il sostantivo tabù semplicemente cancellato. Sapere quale grado di una parola stai sentendo è quasi tutto ciò che in russo significa registro.\n\nLe altre due forze sono una storica e una recente. Decenni di sistema penitenziario sovietico hanno spinto l’argot dei campi — la фе́ня — dentro il parlato comune, così che parole come беспредел, косяк, ксива e по понятиям oggi le dice gente che non ha mai visto una prigione, quasi sempre senza sapere da dove vengano; зашквар, che adesso è una parola da adolescenti per tutto ciò che è vergognoso, ha un’origine carceraria che sbalordirebbe la maggior parte di chi la usa. Nel frattempo il молодёжный сленг assorbe l’inglese in blocco e lo russifica al contatto: un verbo prestato arriva con la desinenza -ить già attaccata, quindi чилить, флексить e гуглить si coniugano e prendono i prefissi di aspetto come qualsiasi verbo nativo, ed è per questo che questo strato suona domestico nel giro di mesi e non di decenni. La trappola per lo straniero non è capire, ma calibrare. Il mat in pubblico è un illecito amministrativo e non si trasmette in radio né in televisione, e uno straniero che lo sfodera — soprattutto se l’ha imparato dai testi delle canzoni — suona minaccioso oppure ridicolo. Capisci l’intero sistema; parla con gli eufemismi.",
+    "metaDescription": "Lo slang russo spiegato in italiano: il mat e i suoi eufemismi, il lessico carcerario di uso quotidiano e l’inglese russificato, con termini in cirillico e romanizzazione."
+  }
+}

@@ -1,0 +1,516 @@
+{
+  "meuf": {
+    "definitions": [
+      {
+        "text": "Une femme ; une fille. Aussi « ma copine » : ma meuf."
+      }
+    ],
+    "origin": {
+      "etymology": "Verlan de femme : fe-mme inversé en me-fe, puis comprimé en meuf. L'un des mots de verlan les plus anciens et les mieux installés — il figure dans les dictionnaires et beaucoup de locuteurs ne le perçoivent plus du tout comme une inversion.",
+      "firstAttested": "années 1970"
+    }
+  },
+  "keum": {
+    "definitions": [
+      {
+        "text": "Un mec, un type. Aussi « mon copain » : mon keum."
+      }
+    ],
+    "origin": {
+      "etymology": "Verlan de mec (« type »), déjà familier en soi. Le verlan prend souvent pour matière première de l'argot plutôt que du vocabulaire standard, ce qui ajoute une seconde couche de camouflage."
+    }
+  },
+  "mec": {
+    "definitions": [
+      {
+        "text": "Un type, un gars. Le mot de tous les jours pour un homme dont on ne donne pas le nom."
+      },
+      {
+        "text": "Sert à interpeller un ami : « mec, arrête »."
+      },
+      {
+        "text": "Un petit ami : mon mec."
+      }
+    ]
+  },
+  "gars": {
+    "definitions": [
+      {
+        "text": "Un gars, un type. Un peu plus doux et plus campagnard que mec. Les gars sert à s'adresser à un groupe."
+      }
+    ]
+  },
+  "pote": {
+    "definitions": [
+      {
+        "text": "Un ami, un camarade. Plus chaleureux que copain et réservé aux proches."
+      }
+    ]
+  },
+  "frere": {
+    "definitions": [
+      {
+        "text": "Frangin. Terme d'adresse entre amis masculins, très courant dans le parler jeune."
+      }
+    ]
+  },
+  "verlan": {
+    "definitions": [
+      {
+        "text": "Procédé français consistant à inverser les syllabes d'un mot pour en tirer une forme argotique. Pas un mot isolé mais un système productif à part entière, et le trait le plus caractéristique de l'argot français."
+      }
+    ],
+    "origin": {
+      "etymology": "Le nom est lui-même du verlan : l'envers devient verlan. Certains mots ont été inversés deux fois — beur, verlan d'arabe, a été reverlanisé en rebeu une fois que beur est passé dans l'usage général. Cette double inversion est un mécanisme de défense : le verlan existe pour garder une longueur d'avance sur ceux du dehors.",
+      "firstAttested": "attesté dès le XIXe siècle ; répandu à partir des années 1970"
+    }
+  },
+  "relou": {
+    "definitions": [
+      {
+        "text": "Pénible, fatigant, casse-pieds. Se dit aussi bien des personnes que des situations."
+      }
+    ],
+    "origin": {
+      "etymology": "Verlan de lourd, qui signifie déjà « pénible » quand on l'applique à quelqu'un."
+    }
+  },
+  "chelou": {
+    "definitions": [
+      {
+        "text": "Bizarre, pas net, qui inspire la méfiance. Des personnes, des lieux et des situations qui ne sentent pas bon."
+      }
+    ],
+    "origin": {
+      "etymology": "Verlan de louche, qui signifie déjà « suspect ». Comme pour relou, la forme verlanisée a largement supplanté l'originale dans la langue parlée."
+    }
+  },
+  "louche": {
+    "definitions": [
+      {
+        "text": "Suspect, douteux, pas clair. Le mot de registre courant que chelou inverse."
+      }
+    ]
+  },
+  "wesh": {
+    "definitions": [
+      {
+        "text": "Salut ; hé. Une salutation, mais aussi un appel : wesh, tu fais quoi ?"
+      },
+      {
+        "text": "Employé seul, marque la surprise ou l'indignation."
+      }
+    ],
+    "origin": {
+      "etymology": "De l'arabe algérien wešnu / weš rak, « comment vas-tu ». L'un des nombreux emprunts maghrébins entrés en français par les banlieues, puis diffusés dans tout le pays par le rap. Le mot est fortement marqué : l'employer hors de son registre d'origine s'entend immédiatement comme une imitation."
+    }
+  },
+  "kiffer": {
+    "definitions": [
+      {
+        "text": "Aimer, adorer. Je kiffe ce morceau."
+      },
+      {
+        "text": "Avoir un faible pour quelqu'un : je la kiffe grave."
+      }
+    ],
+    "origin": {
+      "etymology": "De l'arabe kayf, « plaisir, état de bien-être » — la même racine que le kif. Arrivé par le français maghrébin, le verbe est aujourd'hui tout à fait courant et employé sans gêne par des locuteurs de tous horizons."
+    }
+  },
+  "seum": {
+    "definitions": [
+      {
+        "text": "Amertume, rage, la morsure d'une défaite. Avoir le seum, c'est être dégoûté et furieux à la fois — aucun mot unique ne recouvre les deux."
+      }
+    ],
+    "origin": {
+      "etymology": "De l'arabe sèmm, « poison ». La métaphore est exacte : l'amertume comme un toxique qu'on a avalé."
+    }
+  },
+  "degoute": {
+    "literalMeaning": "Qui éprouve du dégoût, de la répugnance.",
+    "definitions": [
+      {
+        "text": "Très déçu, amer, abattu par une déconvenue. Aucune idée de répugnance dans cet emploi : c'est la déception qui serre la gorge."
+      }
+    ]
+  },
+  "grave": {
+    "literalMeaning": "Sérieux, lourd de conséquences.",
+    "definitions": [
+      {
+        "text": "Très, vraiment. Intensificateur : c'est grave bien."
+      },
+      {
+        "text": "Employé seul : complètement, tout à fait. Marque un accord appuyé."
+      }
+    ]
+  },
+  "trop": {
+    "literalMeaning": "Au-delà de la mesure, excessivement.",
+    "definitions": [
+      {
+        "text": "Vraiment, tellement. Dans la langue familière, trop a perdu son idée d'excès et ne fait plus qu'intensifier : c'est trop bien veut dire « c'est génial », et non « c'est bien au-delà du souhaitable »."
+      }
+    ]
+  },
+  "carrement": {
+    "definitions": [
+      {
+        "text": "Complètement, franchement, absolument."
+      },
+      {
+        "text": "Employé seul en réponse : tout à fait, et comment."
+      }
+    ]
+  },
+  "bof": {
+    "definitions": [
+      {
+        "text": "Marque l'indifférence ou une appréciation tiède, et se suffit à lui-même comme réponse."
+      }
+    ],
+    "origin": {
+      "etymology": "Plus un son conventionnalisé qu'un mot, généralement accompagné d'un haussement d'épaules et d'une moue. Avec ce haussement d'épaules, c'est l'un des gestes les plus reconnaissables de la conversation française."
+    }
+  },
+  "bref": {
+    "definitions": [
+      {
+        "text": "Pour résumer, en deux mots. Sert à couper court à une digression et à revenir au sujet, ou à clore une histoire qui s'enlise."
+      }
+    ]
+  },
+  "du-coup": {
+    "definitions": [
+      {
+        "text": "Donc, par conséquent. Causal sur le papier, c'est en pratique un connecteur passe-partout que certains locuteurs placent plusieurs fois par phrase."
+      }
+    ],
+    "origin": {
+      "etymology": "Son explosion depuis les années 2000 est l'un des changements les plus dénoncés du français contemporain. Les chroniqueurs de langue protestent depuis vingt ans sans le moindre effet visible."
+    }
+  },
+  "genre": {
+    "literalMeaning": "Sorte, espèce, catégorie.",
+    "definitions": [
+      {
+        "text": "Marqueur de citation et d'approximation, exactement parallèle au like anglais : il a fait genre « je sais pas »."
+      },
+      {
+        "text": "Faire genre : faire semblant, se donner un air."
+      }
+    ]
+  },
+  "voila": {
+    "definitions": [
+      {
+        "text": "Accompagne la remise d'un objet, ou confirme que l'interlocuteur a bien compris."
+      },
+      {
+        "text": "Clôt un énoncé quand il n'y a rien à ajouter — souvent laissé en suspens : et voilà, quoi."
+      }
+    ]
+  },
+  "quoi": {
+    "literalMeaning": "Quoi, le pronom interrogatif.",
+    "definitions": [
+      {
+        "text": "Particule de fin de phrase sans contenu traduisible, à peu près la fonction de « tu vois » : elle présente l'énoncé comme évident ou déjà partagé."
+      }
+    ]
+  },
+  "boulot": {
+    "definitions": [
+      {
+        "text": "Le travail ; un emploi. Métro, boulot, dodo est le résumé consacré d'une routine morne."
+      }
+    ]
+  },
+  "bosser": {
+    "definitions": [
+      {
+        "text": "Travailler, et en particulier travailler dur. Bosser dur, c'est trimer."
+      }
+    ]
+  },
+  "glander": {
+    "definitions": [
+      {
+        "text": "Ne rien faire, traîner sans but précis. Un glandeur est un fainéant."
+      }
+    ],
+    "examples": {
+      "1": {
+        "context": "Dans une question, le verbe prend le sens de « qu'est-ce que tu fabriques », et le ton est impatient."
+      }
+    }
+  },
+  "thune": {
+    "definitions": [
+      {
+        "text": "De l'argent, des sous."
+      }
+    ],
+    "origin": {
+      "etymology": "À l'origine, une pièce de cinq francs dans l'argot du XIXe siècle. La pièce a disparu depuis longtemps ; le mot lui a survécu, comme presque toujours en matière d'argot de l'argent."
+    }
+  },
+  "ble": {
+    "literalMeaning": "Le blé, la céréale.",
+    "definitions": [
+      {
+        "text": "De l'argent. L'un des mots de nourriture employés en français pour les espèces, avec oseille et fric."
+      }
+    ],
+    "origin": {
+      "etymology": "Le grain comme métaphore de la richesse est presque universel — dough en anglais, pasta en espagnol, grana en italien. Les denrées de base servent partout de mesure de la valeur dans l'argot."
+    }
+  },
+  "fauche": {
+    "literalMeaning": "Coupé à la faux, moissonné.",
+    "definitions": [
+      {
+        "text": "Sans un sou, à sec. Souvent renforcé : fauché comme les blés, c'est-à-dire coupé à ras."
+      }
+    ]
+  },
+  "galere": {
+    "literalMeaning": "La galère, le navire à rames.",
+    "definitions": [
+      {
+        "text": "Un cauchemar, une corvée sans fin. Quelle galère !"
+      },
+      {
+        "text": "Sous la forme verbale, galérer : peiner, en baver."
+      }
+    ],
+    "origin": {
+      "etymology": "Des galères que ramaient les condamnés — la peine des galères était la plus dure après la mort. Le « que diable allait-il faire dans cette galère ? » de Molière a maintenu l'image vivante."
+    }
+  },
+  "truc": {
+    "definitions": [
+      {
+        "text": "Une chose, un objet. Le mot passe-partout pour ce dont le nom vous échappe."
+      },
+      {
+        "text": "Une astuce, un tour de main : il y a un truc pour l'ouvrir."
+      },
+      {
+        "text": "Ce qui est ou n'est pas votre genre : c'est pas mon truc."
+      }
+    ]
+  },
+  "machin": {
+    "definitions": [
+      {
+        "text": "Un objet quelconque, mais aussi une personne dont on a oublié le nom. Monsieur Machin est l'anonyme par excellence."
+      }
+    ]
+  },
+  "bidule": {
+    "definitions": [
+      {
+        "text": "Un engin, un gadget — mot passe-partout pour un petit objet, généralement doté d'un mécanisme."
+      }
+    ]
+  },
+  "bouffer": {
+    "definitions": [
+      {
+        "text": "Manger, sans façons et sans élégance. Le substantif correspondant est la bouffe."
+      }
+    ]
+  },
+  "apero": {
+    "definitions": [
+      {
+        "text": "L'apéritif accompagné de quelque chose à grignoter. Plus une institution sociale qu'un repas, et prendre l'apéro vaut invitation à soi seul."
+      }
+    ],
+    "origin": {
+      "etymology": "Apocope d'apéritif. Le procédé français de tronquer la fin du mot — apéro, resto, ado, dico, ordi — correspond aux mots en -o de l'anglais australien et se révèle tout aussi productif."
+    }
+  },
+  "picoler": {
+    "definitions": [
+      {
+        "text": "Boire de l'alcool, en général avec excès. Suppose une habitude plutôt qu'une occasion."
+      }
+    ]
+  },
+  "bourre": {
+    "literalMeaning": "Rempli, garni jusqu'au bord.",
+    "definitions": [
+      {
+        "text": "Ivre. Le mot courant pour le dire, et pas particulièrement grossier."
+      },
+      {
+        "text": "D'un lieu : plein à craquer. Le métro était bourré."
+      }
+    ]
+  },
+  "gueule-de-bois": {
+    "literalMeaning": "Une gueule en bois.",
+    "definitions": [
+      {
+        "text": "Le malaise du lendemain de cuite. L'image est celle d'une bouche si sèche qu'on la croirait taillée dans le bois."
+      }
+    ]
+  },
+  "teuf": {
+    "definitions": [
+      {
+        "text": "Une fête. Verlan de fête."
+      }
+    ]
+  },
+  "ouf": {
+    "definitions": [
+      {
+        "text": "Fou, dingue, incroyable. Verlan de fou. Un truc de ouf, c'est quelque chose de dément, en général admiratif."
+      },
+      {
+        "text": "À part, comme interjection : le soupir du soulagement. Les deux emplois n'ont aucun rapport et se distinguent par la place du mot."
+      }
+    ]
+  },
+  "nul": {
+    "definitions": [
+      {
+        "text": "Mauvais, raté, sans intérêt. Des choses : c'est nul. Des personnes : je suis nul en maths."
+      }
+    ]
+  },
+  "naze": {
+    "definitions": [
+      {
+        "text": "Mauvais ; hors d'usage ; épuisé. Se dit des objets qui ne marchent plus comme des gens à bout de forces."
+      }
+    ]
+  },
+  "souler": {
+    "literalMeaning": "Enivrer, rendre ivre.",
+    "definitions": [
+      {
+        "text": "Exaspérer ; épuiser quelqu'un à force de paroles. Tu me soûles."
+      }
+    ]
+  },
+  "embrouille": {
+    "definitions": [
+      {
+        "text": "Des ennuis ; une brouille ; une situation confuse. Chercher les embrouilles, c'est chercher la bagarre."
+      }
+    ]
+  },
+  "deconner": {
+    "definitions": [
+      {
+        "text": "Faire n'importe quoi ; raconter des bêtises. Tu déconnes ?"
+      },
+      {
+        "text": "D'un appareil : se dérégler, ne plus fonctionner correctement. Mon ordi déconne."
+      },
+      {
+        "text": "Sans déconner : sérieusement, sans blague."
+      }
+    ],
+    "origin": {
+      "etymology": "Formé sur une racine vulgaire, même si le mot lui-même est très répandu et reste plus proche de « faire l'imbécile » que de quoi que ce soit de plus fort."
+    }
+  },
+  "putain": {
+    "definitions": [
+      {
+        "text": "Le juron le plus courant du français, du registre vulgaire : il exprime aussi bien l'émerveillement que la fureur."
+      },
+      {
+        "text": "Comme intensificateur devant un nom : putain de voiture."
+      },
+      {
+        "text": "Dans le Midi, et à Marseille en particulier, putain sert de ponctuation quasi continue et n'a presque plus aucune force.",
+        "note": "Son sens propre est une injure désignant une prostituée, ce qu'il vaut mieux savoir même si presque aucun locuteur ne le vise."
+      }
+    ]
+  },
+  "merde": {
+    "definitions": [
+      {
+        "text": "Juron de dépit, à tout usage."
+      },
+      {
+        "text": "Bonne chance — se dit à un artiste avant son entrée en scène. Répondre merci est censé rompre le charme."
+      }
+    ],
+    "examples": {
+      "1": {
+        "context": "Entièrement sincère et bienveillant. L'origine théâtrale tient à une superstition du temps des fiacres : plus il y avait de crottin devant la salle, plus le public était nombreux."
+      }
+    }
+  },
+  "ca-marche": {
+    "literalMeaning": "Cela marche, cela fonctionne.",
+    "definitions": [
+      {
+        "text": "D'accord, entendu, ça me va. Marque l'accord sur un projet, et c'est la confirmation type du serveur qui prend la commande."
+      }
+    ]
+  },
+  "chiant": {
+    "definitions": [
+      {
+        "text": "Profondément agaçant ; ennuyeux au point d'en souffrir. Plus fort que relou, et nettement plus grossier."
+      }
+    ]
+  },
+  "ambiance": {
+    "definitions": [
+      {
+        "text": "L'atmosphère d'un lieu ou d'un moment. Le français y recourt bien plus souvent que l'anglais n'emploie le mot qu'il lui a emprunté — il y a de l'ambiance veut dire que ça vit, et « bonne ambiance » est un vrai compliment pour une soirée."
+      }
+    ]
+  },
+  "chouette": {
+    "literalMeaning": "La chouette, l'oiseau.",
+    "definitions": [
+      {
+        "text": "Agréable, plaisant, réussi. Légèrement daté — chaleureux, un peu vieille France, le genre de mot qu'un grand-parent emploie pour approuver."
+      }
+    ]
+  },
+  "sympa": {
+    "definitions": [
+      {
+        "text": "Agréable, aimable. Des personnes avant tout, mais aussi des lieux et des projets. L'un des adjectifs les plus employés du français parlé."
+      }
+    ],
+    "origin": {
+      "etymology": "Apocope de sympathique. La troncation est si bien installée que la forme complète sonne guindée à l'oral."
+    }
+  },
+  "ras-le-bol": {
+    "literalMeaning": "Au ras du bol.",
+    "definitions": [
+      {
+        "text": "Le fait d'en avoir assez, d'être excédé. J'en ai ras-le-bol. Le substantif s'emploie aussi dans le commentaire politique pour désigner l'exaspération d'une population."
+      }
+    ],
+    "origin": {
+      "etymology": "L'image est celle d'un bol rempli jusqu'au bord — une goutte de plus et il déborde. C'est la même idée que la goutte d'eau qui fait déborder le vase."
+    }
+  },
+  "cest-pas-faux": {
+    "literalMeaning": "Ce n'est pas faux.",
+    "definitions": [
+      {
+        "text": "Concession du bout des lèvres : l'interlocuteur a raison et on le reconnaît sans enthousiasme."
+      }
+    ],
+    "origin": {
+      "etymology": "La série télévisée Kaamelott lui a donné une seconde vie : un personnage l'emploie pour masquer qu'il n'a rien compris à ce qu'on lui dit. Beaucoup de locuteurs l'utilisent aujourd'hui avec cette plaisanterie en tête."
+    }
+  }
+}

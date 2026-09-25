@@ -86,7 +86,7 @@ const schema = [
         {country.name} · {country.languageName}
       </p>
       <h1 class="mt-2 text-display-lg text-ink">
-        {locale === 'es' ? `Argot ${country.adjective}` : `${country.adjective} Slang`}
+        {strings.countrySlangHeading(country.adjective)}
       </h1>
       <div class="mt-6 grid gap-4">
         {introParagraphs.map((p) => <p class="text-body-md text-body">{p}</p>)}

@@ -1,0 +1,10 @@
+---
+import EntryPage from "../../../../components/pages/EntryPage.astro";
+import { buildEntryRoutes, type EntryPageProps } from "../../../../lib/routes";
+
+export const getStaticPaths = () => buildEntryRoutes("de");
+
+type Props = EntryPageProps;
+---
+
+<EntryPage {...Astro.props} />

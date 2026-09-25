@@ -1,0 +1,10 @@
+---
+import CountryCategoryPage from "../../../../components/pages/CountryCategoryPage.astro";
+import { buildCategoryRoutes, type CountryCategoryPageProps } from "../../../../lib/routes";
+
+export const getStaticPaths = () => buildCategoryRoutes("pt");
+
+type Props = CountryCategoryPageProps;
+---
+
+<CountryCategoryPage {...Astro.props} />

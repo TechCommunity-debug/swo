@@ -1,0 +1,67 @@
+import type { SeoStrings } from './types';
+import { head, SITE_NAME, titleCase, truncate } from './helpers';
+
+/**
+ * German titles and meta descriptions.
+ *
+ * `country.adjective` arrives as the strong nominative masculine form
+ * ("Amerikanischer"), so every template below keeps it directly in front of
+ * "Slang" and nowhere else — see `../ui/de.ts` for the full frame.
+ */
+export const de: SeoStrings = {
+  tagline: 'Der weltweite Wegweiser durch Slang und informelle Ausdrücke',
+
+  home: () => ({
+    title: `${SITE_NAME} – Der weltweite Wegweiser durch Slang und informelle Ausdrücke`,
+    description: truncate(
+      'Slangwörterbuch auf Deutsch: echte Bedeutungen, Aussprache und Beispielsätze zu jedem Begriff, Land für Land.',
+    ),
+  }),
+
+  country: (country, count) => ({
+    title: `${country.adjective} Slang: ${count} Wörter und Wendungen erklärt | ${SITE_NAME}`,
+    description: country.metaDescription,
+  }),
+
+  countryCategory: (country, category, count) => ({
+    title: `${country.adjective} Slang zum Thema ${category.topic}: ${count} Begriffe | ${SITE_NAME}`,
+    description: truncate(
+      `${country.adjective} Slang zum Thema ${category.topic}: ${count} Wörter, jeweils mit Bedeutung, Aussprache und einem Beispiel aus dem echten Gebrauch.`,
+    ),
+  }),
+
+  entry: (entry, firstDefinition, country) => {
+    const parts = ['Bedeutung'];
+    if (entry.pronunciation?.respelling) parts.push('Aussprache');
+    parts.push('Beispiele');
+    return {
+      title: `${titleCase(head(entry))} – ${parts.join(', ')} | ${country.adjective} Slang`,
+      description: truncate(
+        `${titleCase(head(entry))} – ${country.adjective} Slang: ${firstDefinition}`,
+      ),
+    };
+  },
+
+  browse: (count, countries) => ({
+    title: `Alle Slangbegriffe von A bis Z | ${SITE_NAME}`,
+    description: `Alphabetisches Register aller ${count} Slangbegriffe auf ${SITE_NAME}, aus ${countries} Ländern.`,
+  }),
+
+  search: {
+    title: `Slangbegriffe suchen | ${SITE_NAME}`,
+    description:
+      'Durchsuche das gesamte Wörterbuch von Slang Words Online nach Begriff, Bedeutung oder Land.',
+  },
+
+  about: {
+    title: `Woher unsere Definitionen kommen und wie wir sie prüfen | ${SITE_NAME}`,
+    description:
+      'Unsere redaktionelle Arbeitsweise: woher diese Definitionen stammen, wie Register und Gebrauchshinweise entschieden werden und was wir tun, wenn die Herkunft eines Wortes wirklich unbekannt ist.',
+  },
+
+  notFound: {
+    title: `Seite nicht gefunden | ${SITE_NAME}`,
+    description:
+      'Diese Seite existiert nicht. Durchsuche das Wörterbuch oder wähle ein Land aus.',
+  },
+};

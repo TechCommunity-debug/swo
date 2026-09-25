@@ -24,7 +24,7 @@ const ENTRIES_DIR = path.join(ROOT, 'src/data/entries');
 const I18N_DIR = path.join(ROOT, 'src/data/i18n');
 
 /** Kept in step with src/data/locales.ts. */
-const LOCALE_PREFIXES = new Set(['es']);
+const LOCALE_PREFIXES = new Set(['es', 'pt', 'fr', 'de', 'it', 'ru', 'ja', 'ko']);
 
 const errors = [];
 const warnings = [];

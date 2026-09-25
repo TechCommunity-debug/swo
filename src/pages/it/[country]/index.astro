@@ -1,0 +1,10 @@
+---
+import CountryPage from "../../../components/pages/CountryPage.astro";
+import { buildCountryRoutes, type CountryPageProps } from "../../../lib/routes";
+
+export const getStaticPaths = () => buildCountryRoutes("it");
+
+type Props = CountryPageProps;
+---
+
+<CountryPage {...Astro.props} />

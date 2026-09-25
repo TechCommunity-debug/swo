@@ -1,0 +1,114 @@
+{
+  "american": {
+    "name": "Estados Unidos",
+    "adjective": "americana",
+    "languageName": "inglês americano",
+    "intro": "A gíria americana é o vocabulário informal mais exportado do planeta, e é exatamente isso que torna difícil fixá-la. Um termo pode estar em alta em Atlanta, já cansado em Los Angeles e mal chegando a Londres, tudo no mesmo mês. Boa parte do que o resto do mundo ouve como gíria “americana” genérica nasceu no inglês vernáculo afro-americano e chegou à fala majoritária pela música, pelo esporte e, mais recentemente, pelas redes — um percurso que vale conhecer, porque explica por que tantos termos carregam uma história que quem os usa desconhece.\n\nAs entradas abaixo preferem o vocabulário que se sustenta ao que estiver no pico desta semana. Quando um termo tem uma casa regional específica, ou uma origem específica que muda o efeito que ele causa, dizemos isso.",
+    "metaDescription": "Gíria americana explicada em português: 50 palavras e expressões dos EUA com significados, pronúncia, frases de exemplo e notas sobre onde cada termo é usado de verdade."
+  },
+  "british": {
+    "name": "Reino Unido",
+    "adjective": "britânica",
+    "languageName": "inglês britânico",
+    "intro": "A gíria britânica é estratificada de um jeito incomum. Classe, região e idade deixam impressões digitais nela, e uma palavra que soa calorosa em Newcastle pode soar sarcástica em Surrey. O país é pequeno o bastante para que os falantes conheçam em linhas gerais o vocabulário uns dos outros e grande o bastante para que raramente o usem: a maioria dos britânicos reconhece muito mais gíria do que jamais diria em voz alta.\n\nUma armadilha recorrente para quem chega de fora é o eufemismo por subtração. Boa parte da fala informal britânica significa bem mais, ou bem menos, do que diz literalmente, e várias entradas abaixo existem sobretudo para apontar essa distância.",
+    "metaDescription": "Gíria britânica explicada em português: 50 palavras e expressões do Reino Unido com significados, pronúncia, exemplos reais e notas sobre região, classe e tom."
+  },
+  "australian": {
+    "name": "Austrália",
+    "adjective": "australiana",
+    "languageName": "inglês australiano",
+    "intro": "A gíria australiana funciona com dois motores: o encurtamento e a ironia. Quase qualquer palavra pode ser cortada e ganhar uma terminação em -o ou -ie, e o resultado é produtivo, não fixo: os falantes inventam formas novas na hora e esperam ser entendidos. O segundo motor é o hábito de nomear as coisas pelo contrário, que é por que a pessoa mais alta da sala pode ser chamada de Shorty.\n\nOs australianos também usam um punhado de termos muito mais do que os de fora imaginam, e um conjunto bem maior muito menos do que os filmes sugerem. Quando uma palavra pertence firmemente ao segundo grupo, a entrada diz isso em vez de fingir o contrário.",
+    "metaDescription": "Gíria australiana explicada em português: 50 palavras e expressões do inglês da Austrália com significados, pronúncia, exemplos e notas honestas sobre quais os locais realmente dizem."
+  },
+  "canadian": {
+    "name": "Canadá",
+    "adjective": "canadense",
+    "languageName": "inglês canadense",
+    "intro": "A gíria canadense costuma ser descrita como uma variante branda da americana, o que a subestima. O Canadá tem o seu próprio vocabulário institucional — termos da moeda, do sistema escolar, dos invernos e das redes de cafeteria — além de duas variedades regionais fortes que não se parecem em nada: a gíria jovem e multicultural de Toronto, muito influenciada pela fala caribenha e somali, e o vocabulário mais antigo do Canadá Atlântico.\n\nO bilinguismo também deixa marcas. Várias palavras corriqueiras do inglês canadense são empréstimos diretos do francês do Quebec, usados por falantes que não fazem ideia da origem delas.",
+    "metaDescription": "Gíria canadense explicada em português: 50 palavras e expressões do inglês do Canadá com significados, pronúncia, exemplos e notas sobre o uso em Toronto, nas Pradarias e no Atlântico."
+  },
+  "mexican": {
+    "name": "México",
+    "adjective": "mexicana",
+    "languageName": "espanhol mexicano",
+    "intro": "O espanhol do México carrega provavelmente o vocabulário de gíria mais denso de todo o mundo hispanofalante, e a primeira coisa a entender sobre ele é o registro. A mesma palavra pode ser um insulto, um apelido carinhoso ou uma simples partícula de enchimento, dependendo do tom e de quem está na sala. Errar aí é o erro clássico de quem aprende: o vocabulário gruda rápido e é mal usado com a mesma rapidez.\n\nA segunda característica é o fundo duplo. Muitos termos têm um sentido inocente na superfície e outro bem mais cru embaixo — é a base do albur, a tradição mexicana do jogo de palavras de duplo sentido. Quando uma entrada abaixo tem essa segunda camada, nós sinalizamos.",
+    "metaDescription": "Gíria mexicana explicada em português: 50 palavras e expressões do espanhol do México com significados, pronúncia, exemplos traduzidos e avisos de registro."
+  },
+  "spanish": {
+    "name": "Espanha",
+    "adjective": "espanhola",
+    "languageName": "espanhol peninsular",
+    "intro": "O espanhol da Espanha é bem mais direto do que a maioria das variedades latino-americanas. Palavras que seriam escandalosas em Bogotá ou Lima são mobília corriqueira de conversa em Madri, e os falantes soltam palavrão com frequência e sem nenhuma intenção de ofender. Quem aprendeu o idioma numa sala de aula latino-americana costuma achar esse o ajuste mais difícil.\n\nAs entradas abaixo marcam com clareza quando um termo é só peninsular, porque boa parte da gíria da Espanha não é portátil de verdade: usá-la no México ou na Argentina rende, na melhor das hipóteses, uma cara de espanto.",
+    "metaDescription": "Gíria espanhola da Espanha explicada em português: 50 palavras e expressões do espanhol peninsular com significados, pronúncia, exemplos e traduções."
+  },
+  "italian": {
+    "name": "Itália",
+    "adjective": "italiana",
+    "languageName": "italiano",
+    "intro": "A Itália unificou a sua língua há relativamente pouco tempo, e a gíria ainda mostra as costuras. Boa parte do que passa por gíria italiana é dialeto regional que escapou da cidade de origem: as palavras romanas e napolitanas, em especial, se espalharam pelo país inteiro pelo cinema e pela televisão sem perder um sabor local audível.\n\nO italiano também se apoia muito no gesto e na entonação, e várias entradas abaixo são palavras cujo significado é carregado quase inteiramente pela entrega. Quando é esse o caso, as notas de uso importam mais que a definição.",
+    "metaDescription": "Gíria italiana explicada em português: 50 palavras e expressões do italiano com significados, pronúncia, exemplos traduzidos e notas regionais."
+  },
+  "french": {
+    "name": "França",
+    "adjective": "francesa",
+    "languageName": "francês",
+    "intro": "A gíria francesa tem uma esquisitice estrutural que nenhum outro idioma deste site compartilha: o verlan, a prática de inverter as sílabas de uma palavra para criar outra. Fête vira teuf, femme vira meuf, e algumas palavras em verlan já foram invertidas uma segunda vez. É produtivo, é geracional, e significa que saber francês padrão leva você só até certo ponto.\n\nA outra grande fonte é o argot de Paris e de Marselha, mais um fluxo constante de empréstimos do árabe chegados pelas banlieues. As entradas abaixo indicam de qual corrente vem cada palavra, porque isso diz muito sobre quem a usa.",
+    "metaDescription": "Gíria francesa explicada em português: 50 palavras e expressões do francês com significados, pronúncia, origens em verlan, exemplos e traduções."
+  },
+  "japanese": {
+    "name": "Japão",
+    "adjective": "japonesa",
+    "languageName": "japonês",
+    "intro": "A gíria japonesa é moldada por um traço que a língua tem e a maioria das outras não: um sistema de cortesia obrigatório. Toda frase já codifica como quem fala se posiciona em relação a quem ouve, então gíria em japonês raramente é só uma escolha de palavras: é a declaração de que o registro formal foi desligado, e usá-la com a pessoa errada é um erro social antes de ser um erro de vocabulário.\n\nA maquinaria produtiva vale ser aprendida à parte. Substantivos viram verbos com a terminação -ru (Google vira ググる), adjetivos se contraem na fala (すごい vira すげー) e compostos longos encolhem para quatro sílabas (コストパフォーマンス vira コスパ). Aprenda esses três padrões e boa parte do que parece gíria nova acaba sendo uma palavra que você já conhece, vestindo um casaco mais curto.\n\nToda entrada abaixo aparece em escrita japonesa com romanização Hepburn, porque uma palavra que você não consegue digitar é uma palavra que você não consegue procurar.",
+    "metaDescription": "Gíria japonesa explicada em português: palavras e expressões em kanji e kana com romanização, significados, exemplos traduzidos e notas sobre quando cada uma é grosseira."
+  },
+  "korean": {
+    "name": "Coreia do Sul",
+    "adjective": "coreana",
+    "languageName": "coreano",
+    "intro": "A gíria coreana se renova mais rápido que a de qualquer outro idioma deste site, e faz isso por um mecanismo dominante: a abreviação. Pegue a primeira sílaba de cada palavra de uma expressão, cole-as e você tem um termo novo: 치킨 mais 맥주 dá 치맥, 멘탈 mais 붕괴 dá 멘붕. Frases inteiras se comprimem assim em quatro letras, e é por isso que as mensagens de um coreano de vinte anos podem ser ilegíveis para os próprios pais.\n\nA segunda coisa a entender é que os termos de tratamento coreanos não são enfeite opcional. Oppa, unni, sunbae e companhia são usados o tempo todo e carregam informação real sobre idade, gênero e hierarquia; várias das entradas abaixo são termos de tratamento, não vocabulário, porque errar neles é o primeiro erro que um estrangeiro comete, e o mais repetido.\n\nAs entradas aparecem em hangul com a leitura em romanização revisada, e indicam quando um termo é só de internet e não algo que se diria em voz alta.",
+    "metaDescription": "Gíria coreana explicada em português: palavras e expressões em hangul com romanização, significados, exemplos traduzidos e notas sobre idade, hierarquia e quando não usá-las."
+  },
+  "colombian": {
+    "name": "Colômbia",
+    "adjective": "colombiana",
+    "languageName": "espanhol colombiano",
+    "intro": "A Colômbia não tem uma gíria só. As montanhas partiram o país em comunidades de fala que se desenvolveram em boa medida sem se ouvirem, e a diferença se nota na primeira frase: um paisa de Medellín pendura um pues no fim de cada oração, um bogotano trata os próprios filhos por usted, e um costeño de Barranquilla come consoantes num ritmo que o interior tem dificuldade de acompanhar. Cerca de um terço das entradas abaixo tem marca regional, porque usá-las fora da região seria uma fantasia, não uma frase.\n\nA camada que viajou mais longe é o parlache, o vocabulário que cresceu nas comunas de encosta de Medellín durante os piores anos do conflito e depois se espalhou pelo país pela música e pela televisão. Parce, parche e gonorrea vieram de lá, e não chegaram neutras: as duas primeiras perderam por completo as associações, a terceira não. Essa é a armadilha geral aqui: a gíria colombiana é calorosa e soa fácil, e boa parte dela carrega uma carga de classe ou de região que falantes nativos ouvem na hora e visitantes não. Quando uma entrada tem essa carga, dizemos isso.",
+    "metaDescription": "Gíria colombiana explicada em português: 50 palavras e expressões do espanhol da Colômbia com significados, pronúncia, notas regionais de Medellín à costa e exemplos."
+  },
+  "cuban": {
+    "name": "Cuba",
+    "adjective": "cubana",
+    "languageName": "espanhol cubano",
+    "intro": "O espanhol de Cuba foi moldado por três forças que nenhuma outra variedade combina. A primeira é o substrato afro-cubano: palavras trazidas nas línguas rituais da santería e das sociedades abakuá — asere, aché, bembé, ambia — que saíram do uso religioso e de rua para a fala comum, algumas delas só nos últimos quarenta anos. A segunda é a Revolução e o colapso econômico que veio depois, que geraram um vocabulário inteiro de trabalho para a escassez: resolver, luchar, por la izquierda, sociolismo, el paquete. Não são expressões pitorescas aparafusadas na língua; são os verbos com que um cubano conta o que fez hoje de manhã. A terceira é a diáspora, que levou para Miami um instantâneo da fala da ilha nos anos 1960 e seguiu desenvolvendo-o por conta própria, de modo que algumas palavras desta lista vivem nos dois lugares e umas poucas — gusano acima de todas — significam coisas opostas conforme o lado do estreito da Flórida em que você estiver.\n\nO que derruba quem é de fora é mais o registro e a política do que o vocabulário. A fala cubana é foneticamente rápida e muito cortada — consoantes finais e sílabas inteiras somem — e é bem mais crua em companhia corriqueira do que o espanhol mexicano ou o colombiano, então quem chega calibrado por essas variedades vai errar sistematicamente a força de uma palavra. Várias das entradas abaixo têm ainda peso político: chivatón, gusano e pincho não são descrições neutras, e usá-las de leve vai dizer a um cubano algo sobre você que talvez não fosse a sua intenção dizer. Quando um termo é só da ilha, só da diáspora ou perigoso de repetir, dizemos isso.",
+    "metaDescription": "Gíria cubana explicada em português: 50 palavras da fala de Havana, do Período Especial e da diáspora de Miami, com significados, exemplos e notas de registro."
+  },
+  "dominican": {
+    "name": "República Dominicana",
+    "adjective": "dominicana",
+    "languageName": "espanhol dominicano",
+    "intro": "O espanhol dominicano é falado rápido e enxuto, e o que mais dificulta acompanhá-lo é a fonologia, não o vocabulário. O /s/ em fim de sílaba é aspirado ou some de vez — do' cerveza' fría', lo' muchacho' —, de modo que o plural só sobrevive no artigo, e o /d/ de todo particípio em -ado desaparece: guillao, desacatao, prendío. No vale do Cibao, em torno de Santiago, /l/ e /r/ em fim de sílaba viram i: porque vira poique e verdad vira veidá. Assim que você passa a ouvir essas três regras, boa parte do que soava como gíria desconhecida se revela espanhol comum gasto pelo uso.\n\nO léxico em si tem três camadas que vale separar. Há o velho vocabulário de rua da capital, organizado em torno do tíguere e do seu oposto, o pariguayo. Há a camada nova-iorquina, levada e trazida por uma diáspora grande o bastante para que janguear e dominicanyork estejam tão em casa em Washington Heights quanto em Santo Domingo. E há a camada do dembow da última década — teteo, desacatao, viejevo —, que se espalhou pela música em espanhol muito além da ilha e já empurrou palavras como bonche para a geração dos pais. As entradas abaixo dizem a que camada pertence cada termo e sinalizam as que são antiquadas, regionais ou mais pesadas do que parecem.",
+    "metaDescription": "Gíria dominicana explicada em português: 50 palavras e expressões do espanhol dominicano com significados, pronúncia, exemplos e notas sobre Santo Domingo, o Cibao e o dembow."
+  },
+  "irish": {
+    "name": "Irlanda",
+    "adjective": "irlandesa",
+    "languageName": "hiberno-inglês",
+    "intro": "O hiberno-inglês não é inglês padrão com quatro palavras locais jogadas por cima. A gramática do irlandês atravessou junto com os falantes que trocaram de língua, e boa parte dela continua funcionando: “I'm after eating” é o passado imediato irlandês montado com peças inglesas, “he does be working late” é um tempo habitual que o inglês não tem, e “giving out” é a tradução palavra por palavra de uma expressão irlandesa que nada tem a ver com dar. Nada disso é sentido como gíria por quem usa, e é justamente por isso que pega o visitante desprevenido: o vocabulário dá para consultar, a gramática não.\n\nAs divisões regionais são reais, não decorativas. Cork tem langer e o boy no fim da frase, o norte tem wee e melter pela via do escocês do Ulster, e Dublin fornece quase tudo o que o resto do país ouve na televisão. Vale dizer mais duas coisas sem rodeios: as palavras que o turista chega esperando — begorrah, top o' the morning — não são ditas aqui por absolutamente ninguém, e várias que no papel parecem só pitorescas são de fato grosseiras na boca. As entradas abaixo deixam claro qual é qual.",
+    "metaDescription": "Gíria irlandesa explicada em português: 50 palavras e expressões do hiberno-inglês com significados, pronúncia, exemplos reais e notas honestas de região, registro e gramática."
+  },
+  "german": {
+    "name": "Alemanha",
+    "adjective": "alemã",
+    "languageName": "alemão",
+    "intro": "A gíria alemã é estratificada pela geografia num grau que surpreende quem aprendeu o idioma por livro didático. Um pãozinho é Schrippe em Berlim, Semmel em Munique, Weck em Stuttgart e Rundstück em Hamburgo; a partícula de fim de frase é ne no norte, gell no sul e wa em Berlim. Ao lado disso há um segundo eixo: as partículas pequenas — halt, eben, na, doch — que não carregam informação nenhuma e fazem quase todo o trabalho de soar nativo. Ninguém as ensina, e quem aprende e as omite é entendido perfeitamente e mesmo assim soa errado.\n\nOutras duas camadas derrubam quem é de fora. A primeira é o Kiezdeutsch, a fala jovem urbana construída sobre empréstimos turcos e árabes — wallah, yalla, Digga —, hoje geral entre adolescentes alemães de qualquer origem, mas ridícula na boca de um adulto. A segunda é o inglês que não é inglês: Handy é celular, Beamer é projetor, Homeoffice é trabalho remoto e Shitstorm é uma palavra fina o bastante para um apresentador de telejornal. As entradas abaixo dizem a que camada pertence cada palavra e, no vocabulário jovem, se as pessoas de fato a dizem ou se ela apenas ganhou um prêmio.",
+    "metaDescription": "Gíria alemã explicada em português: 50 palavras e expressões do alemão coloquial com significados, pronúncia, notas regionais e exemplos traduzidos."
+  },
+  "russian": {
+    "name": "Rússia",
+    "adjective": "russa",
+    "languageName": "russo",
+    "intro": "A gíria russa se organiza acima de tudo em torno de uma coisa: o мат, o conjunto fechado de quatro raízes tabu — хуй, пизда, ебать e блядь — a partir das quais a língua constrói um vocabulário enorme e plenamente gramatical. Não se trata de xingar no sentido de meia dúzia de palavras de choque. As raízes tomam os prefixos e sufixos russos comuns e geram verbos, adjetivos, advérbios e substantivos abstratos que cobrem significados sem nada de grosseiro: охуеть é ficar pasmo, заебался é estar acabado, наебать é passar a perna, похуй é não estar nem aí. Um falante consegue sustentar uma narrativa inteira em mat e ser preciso do começo ao fim. Diante disso há uma camada eufemística igualmente elaborada, feita preservando o formato inteiro da palavra e trocando só a raiz que ofende: блин no lugar de блядь, капец no de пиздец, офигеть no de охуеть, забить com o substantivo tabu simplesmente apagado. Saber que grau de uma palavra você está ouvindo é quase tudo o que registro significa em russo.\n\nAs outras duas forças são uma histórica e outra recente. Décadas de sistema penitenciário soviético empurraram o argot dos campos — a фе́ня — para a fala comum, de modo que palavras como беспредел, косяк, ксива e по понятиям são hoje ditas por gente que nunca chegou perto de uma cadeia, quase sempre sem saber de onde vêm; зашквар, hoje palavra adolescente para tudo que é vergonhoso, tem uma origem carcerária que espantaria a maioria de quem a usa. Enquanto isso, o молодёжный сленг absorve o inglês em bloco e o russifica no contato: um verbo emprestado chega com a terminação -ить já colada, então чилить, флексить e гуглить se conjugam e aceitam prefixos de aspecto como qualquer verbo nativo, e é por isso que essa camada soa doméstica em meses, não em décadas. A armadilha para o estrangeiro não é a compreensão, é a calibragem. O mat é infração administrativa em público e não vai ao ar, e um estrangeiro que o solta — ainda mais um que o aprendeu em letra de música — soa ameaçador ou ridículo. Entenda o sistema inteiro; fale pelos eufemismos.",
+    "metaDescription": "Gíria russa explicada em português: o mat e seus eufemismos, o vocabulário carcerário de uso diário e o inglês russificado, com termos em cirílico, romanização e exemplos."
+  }
+}

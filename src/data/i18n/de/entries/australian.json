@@ -1,0 +1,950 @@
+{
+  "arvo": {
+    "definitions": [
+      {
+        "text": "Nachmittag. Eine der meistgebrauchten Kurzformen im australischen Englisch – wirklich alltäglich, keine Spielerei."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Ich rufe dich heute Nachmittag an."
+      },
+      "1": {
+        "translation": "Wir fahren Samstagnachmittag runter."
+      }
+    },
+    "origin": {
+      "etymology": "„Afternoon“, gekürzt und mit der Endung -o versehen – eine der beiden produktiven Verkleinerungsendungen im australischen Englisch (die andere ist -ie). Das Muster ist produktiv: Man bildet spontan neue Formen und geht davon aus, verstanden zu werden."
+    }
+  },
+  "brekkie": {
+    "definitions": [
+      {
+        "text": "Frühstück."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Iss noch was zum Frühstück, bevor wir losfahren."
+      },
+      "1": {
+        "translation": "In dem Café gibt es ein hervorragendes Frühstück."
+      }
+    }
+  },
+  "servo": {
+    "definitions": [
+      {
+        "text": "Eine Tankstelle. Von „service station“, und das normale Wort dafür, nicht das witzige."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Fahr an der Tankstelle ran, wir sind fast leer."
+      },
+      "1": {
+        "translation": "Um diese Uhrzeit hat nur die Tankstelle auf."
+      }
+    }
+  },
+  "bottle-o": {
+    "definitions": [
+      {
+        "text": "Ein Spirituosenladen. In Großbritannien off-licence, in den USA liquor store."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Halt unterwegs am Getränkeladen."
+      },
+      "1": {
+        "translation": "Der Getränkeladen macht um zehn zu."
+      }
+    }
+  },
+  "ambo": {
+    "definitions": [
+      {
+        "text": "Ein Rettungssanitäter; auch der Rettungswagen selbst. Gehört zu einer großen Familie von Berufsbezeichnungen auf -o: firie, garbo, journo, muso, pollie."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Ruft mal jemand den Rettungsdienst."
+      },
+      "1": {
+        "translation": "Meine Schwester ist Rettungssanitäterin in Brisbane."
+      }
+    }
+  },
+  "tradie": {
+    "definitions": [
+      {
+        "text": "Ein Handwerker – Elektriker, Klempner, Tischler und so weiter. Neutral und extrem gebräuchlich."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Am Donnerstag kommt ein Handwerker vorbei."
+      },
+      "1": {
+        "translation": "Ab sieben ist das Café voller Handwerker."
+      }
+    }
+  },
+  "sunnies": {
+    "definitions": [
+      {
+        "text": "Sonnenbrille."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Hast du meine Sonnenbrille gesehen?"
+      },
+      "1": {
+        "translation": "Nimm eine Sonnenbrille mit, draußen blendet es fürchterlich."
+      }
+    }
+  },
+  "mozzie": {
+    "definitions": [
+      {
+        "text": "Eine Mücke."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Die Mücken sind hier in der Dämmerung furchtbar."
+      },
+      "1": {
+        "translation": "Pack Mückenspray in die Tasche."
+      }
+    }
+  },
+  "barbie": {
+    "definitions": [
+      {
+        "text": "Ein Barbecue – sowohl das Gerät als auch die gesellige Gelegenheit."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Wir grillen am Sonntag, komm doch vorbei."
+      },
+      "1": {
+        "translation": "Wirf die Würste auf den Grill."
+      }
+    },
+    "origin": {
+      "etymology": "Der Satz „throw another shrimp on the barbie“ stammt aus einer Tourismuskampagne der 1980er für den amerikanischen Markt und wird von Australiern nicht gesagt – schon deshalb nicht, weil sie prawn sagen und nicht shrimp. Das Wort barbie selbst ist völlig echt."
+    }
+  },
+  "esky": {
+    "definitions": [
+      {
+        "text": "Eine tragbare Kühlbox, in der Getränke kalt bleiben."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Pack die Kühlbox ein, wir fahren in zehn Minuten."
+      },
+      "1": {
+        "translation": "In der Kühlbox sind noch ein paar kalte Bier."
+      }
+    },
+    "origin": {
+      "etymology": "Ursprünglich ein Markenname – die Marke Esky, benannt nach „Eskimo“ –, der in Australien zum Gattungsbegriff wurde, so wie „Tempo“ im Deutschen. Weil es aus einem Markennamen kommt, hat es anderswo kein Gegenstück."
+    }
+  },
+  "thongs": {
+    "definitions": [
+      {
+        "text": "Flip-Flops; Gummisandalen, die von einem Riemen zwischen den Zehen gehalten werden. Keine Unterwäsche – ein Missverständnis, das Besuchern verlässlich peinlich wird."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Du kannst nicht in Flip-Flops ins Büro."
+      },
+      "1": {
+        "translation": "Mir ist ein Flip-Flop gerissen, warte kurz."
+      }
+    }
+  },
+  "ute": {
+    "definitions": [
+      {
+        "text": "Ein Nutzfahrzeug: ein Pick-up auf Pkw-Basis mit offener Ladefläche. Nah am amerikanischen Pick-up, aber auf einem Personenwagen-Fahrgestell."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Wirf es hinten auf die Ladefläche."
+      },
+      "1": {
+        "translation": "Jeder Handwerker auf der Baustelle fährt einen Pick-up."
+      }
+    },
+    "origin": {
+      "etymology": "Gekürzt aus „coupé utility“. Der Fahrzeugtyp ist eine australische Erfindung der 1930er, das Wort kam also mit der Sache selbst.",
+      "firstAttested": "1940er"
+    }
+  },
+  "dunny": {
+    "definitions": [
+      {
+        "text": "Eine Toilette, ursprünglich eine draußen. Leicht ländlich und leicht altmodisch, aber überall verstanden."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Das Klo ist hinten rum."
+      },
+      "1": {
+        "translation": "Ein Beispiel für die ausufernden Vergleiche, die das australische Englisch um ganz gewöhnliche Wörter herum baut.",
+        "context": "Ausgebaute komische Vergleiche sind im australischen Sprachgebrauch eine eigene Gattung."
+      }
+    },
+    "origin": {
+      "etymology": "Aus dem britischen Dialektwort dunnekin für ein Plumpsklo. In Australien überlebte es lange, nachdem es in Großbritannien ausgestorben war."
+    }
+  },
+  "bogan": {
+    "definitions": [
+      {
+        "text": "Jemand, der als ungebildet und proletarisch gilt, erkennbar an Kleidung, Geschmack und Akzent. Ungefähr der britische chav oder der amerikanische redneck – und mit derselben Klassenverachtung."
+      },
+      {
+        "text": "Wird mitunter selbstbewusst angeeignet und mit Stolz getragen, besonders in der Verbindung „cashed-up bogan“.",
+        "note": "Ob es verletzt, hängt vollständig davon ab, wer es über wen sagt."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Ist eher eine Proll-Kneipe, aber das Schnitzel ist gut."
+      },
+      "1": {
+        "translation": "Ich bin ein bogan, und das gern.",
+        "context": "Auf sich selbst gemünzt und liebevoll."
+      }
+    },
+    "origin": {
+      "etymology": "Kam in den 1980ern auf, populär gemacht durch Fernsehkomödien. Der Zusammenhang mit dem Bogan River in New South Wales wird oft behauptet, ist aber nie belegt worden.",
+      "firstAttested": "1980er"
+    }
+  },
+  "yobbo": {
+    "definitions": [
+      {
+        "text": "Ein lauter, flegelhafter, meist betrunkener Mann. Zielt aufs Benehmen, während bogan auf die Klasse zielt."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Ein paar Randalierer haben im hinteren Schankraum angefangen."
+      },
+      "1": {
+        "translation": "Benimm dich nicht so daneben und setz dich hin."
+      }
+    },
+    "origin": {
+      "etymology": "Vom britischen yob, also „boy“ rückwärts geschrieben – eine Wortbildung des 19. Jahrhunderts aus der Rückwärtssprache. Australien hängte das -o an."
+    }
+  },
+  "larrikin": {
+    "definitions": [
+      {
+        "text": "Ein schelmischer, respektloser Mensch, der sich um Konventionen nicht schert – und genau dafür gemocht wird. Im heutigen australischen Gebrauch fast immer ein Kompliment."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Er ist ein ziemlicher Schlingel, aber harmlos."
+      },
+      "1": {
+        "translation": "Dieser respektlose Zug zieht sich durch die ganze Kultur."
+      }
+    },
+    "origin": {
+      "etymology": "Im 19. Jahrhundert war ein larrikin ein Straßenrowdy und das Wort schlicht feindselig. Dass es sich zu einem liebevollen nationalen Selbstbild gewandelt hat, ist eines der deutlicheren Beispiele dafür, wie eine Kultur ihr eigenes Vokabular umschreibt.",
+      "firstAttested": "1860er"
+    }
+  },
+  "drongo": {
+    "definitions": [
+      {
+        "text": "Ein Idiot. Angestaubt, aber noch in Gebrauch, und selten aggressiv gemeint."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Irgendein Idiot hat das Tor offen gelassen."
+      },
+      "1": {
+        "translation": "Sei kein Depp, schau vorher nach."
+      }
+    },
+    "origin": {
+      "etymology": "Nach Drongo, einem Rennpferd der 1920er, das 37-mal startete und kein einziges Mal gewann. Das Pferd war nach dem Drongo-Vogel benannt; die Beleidigung ist nach dem Pferd benannt.",
+      "firstAttested": "1940er"
+    }
+  },
+  "galah": {
+    "definitions": [
+      {
+        "text": "Ein Dummkopf; jemand, der sich laut und albern aufführt."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Hört auf, euch wie ein Haufen Idioten aufzuführen."
+      },
+      "1": {
+        "translation": "So ein Depp, er ist rückwärts in den Zaun gefahren."
+      }
+    },
+    "origin": {
+      "etymology": "Nach dem rosa-grauen Kakadu, einem Vogel, der sich in lauten, chaotischen Schwärmen sammelt und dafür bekannt ist, offenbar aus Spaß kopfüber an Stromleitungen zu hängen. Das Wort stammt aus dem Yuwaalaraay, einer Aborigine-Sprache in New South Wales."
+    }
+  },
+  "dag": {
+    "definitions": [
+      {
+        "text": "Ein unmodischer, sozial unbeholfener, aber sympathischer Mensch. Liebevoll gemeint – näher an „Trottel im Guten“ als an „Versager“."
+      },
+      {
+        "text": "Ein lustiger, unterhaltsamer Mensch. „A bit of a dag“ kann je nach Tonfall beides heißen."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Er ist so ein Trottel, aber alle mögen ihn."
+      },
+      "1": {
+        "translation": "Du bist echt ein Original, weißt du das?"
+      }
+    },
+    "origin": {
+      "etymology": "Ein dag ist wörtlich die verfilzte, mit Kot verklebte Wolle am Hinterteil eines Schafs. Dass daraus ein Kosewort wurde, fasst den australischen Humor ganz gut zusammen."
+    }
+  },
+  "ripper": {
+    "definitions": [
+      {
+        "text": "Hervorragend, super. Oft als „you little ripper!“ – ein Freudenruf."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Das war ein grandioses Wochenende."
+      },
+      "1": {
+        "translation": "Wahnsinn! Wir haben das Haus bekommen."
+      }
+    }
+  },
+  "you-beauty": {
+    "definitions": [
+      {
+        "text": "Ein Ausruf des Triumphs oder der Freude. Häufig als „ya beauty“ und in die Länge gezogen."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Klasse, der Regen hat aufgehört!"
+      },
+      "1": {
+        "translation": "Ganz großartig, wir haben gewonnen."
+      }
+    }
+  },
+  "fair-dinkum": {
+    "definitions": [
+      {
+        "text": "Echt, wahr, das Original. Ein fair dinkum offer ist ein ernst gemeintes Angebot."
+      },
+      {
+        "text": "Als Frage: wirklich? Im Ernst?"
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Stimmt das wirklich oder verkohlst du mich?"
+      },
+      "1": {
+        "translation": "Er ist ein grundehrlicher Typ, ohne jede Fassade."
+      }
+    },
+    "origin": {
+      "etymology": "Dinkum kommt wahrscheinlich von einem Dialektwort aus Lincolnshire für den gerechten Anteil an der Arbeit. Die Wendung ist alt genug und wird so oft zitiert, dass Australier sie heute leicht selbstbewusst gebrauchen – ernsthaft in der Politik, halb ironisch sonst.",
+      "firstAttested": "1890er"
+    }
+  },
+  "deadset": {
+    "definitions": [
+      {
+        "text": "Echt; wirklich. Deadset legend, deadset the best thing I've eaten."
+      },
+      {
+        "text": "Allein stehend als Frage oder Ausruf: Ist das dein Ernst? / Ich meine es ernst."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Ehrlich, so etwas habe ich noch nie gesehen."
+      },
+      "1": {
+        "translation": "„Sie haben die ganze Sache abgesagt.“ – „Im Ernst?“"
+      }
+    }
+  },
+  "mate": {
+    "definitions": [
+      {
+        "text": "Ein Freund – und die normale Anrede für so ziemlich jeden Mann, zunehmend für jede Person, ganz gleich, ob man sich kennt."
+      },
+      {
+        "text": "Flach und knapp ausgesprochen signalisiert es, dass der Sprecher nicht begeistert ist und es gleich Ärger geben könnte.",
+        "note": "Australier erkennen den Unterschied mühelos und allein am Tonfall; Besucher oft nicht."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Tag, Kumpel, wie läuft's?"
+      },
+      "1": {
+        "translation": "Er ist ein guter Freund von mir aus der Uni."
+      },
+      "2": {
+        "translation": "Hey. Beruhig dich.",
+        "context": "Eine Warnung, kein Gruß."
+      }
+    },
+    "origin": {
+      "etymology": "Aus dem britischen Englisch übernommen, in Australien aber weit stärker aufgeladen: Mateship gilt dort als nationaler Wert mit eigener politischer Rhetorik."
+    }
+  },
+  "bloody-oath": {
+    "definitions": [
+      {
+        "text": "Absolut; und ob. Eine nachdrückliche Zustimmung."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "„Sollen wir früher los?“ – „Und ob.“"
+      },
+      "1": {
+        "translation": "Es ist wirklich verdammt heiß."
+      }
+    }
+  },
+  "too-right": {
+    "definitions": [
+      {
+        "text": "Absolut; ganz meine Meinung. Die saubere Variante von bloody oath."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "„Die Fahrt hat sich gelohnt.“ – „Und wie.“"
+      },
+      "1": {
+        "translation": "Absolut, Kumpel."
+      }
+    }
+  },
+  "no-worries": {
+    "definitions": [
+      {
+        "text": "Gern geschehen; kein Problem; nicht der Rede wert. Dient gleichermaßen als Antwort auf Dank, auf eine Entschuldigung und auf eine Bitte."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "„Danke fürs Warten.“ – „Kein Problem.“"
+      },
+      "1": {
+        "translation": "Mach dir keinen Kopf, ich kümmere mich darum."
+      }
+    },
+    "origin": {
+      "etymology": "Seit den 1960ern belegt und heute weltweit exportiert. In Australien ist die Bandbreite größer als anderswo – es leistet „gern geschehen“, „passt schon“ und „selbstverständlich“ auf einmal."
+    }
+  },
+  "shell-be-right": {
+    "definitions": [
+      {
+        "text": "Das wird schon; das renkt sich ein. Ein Ausdruck gelassenen Optimismus – manchmal berechtigt, manchmal eine Ausrede dafür, nicht richtig nachgesehen zu haben."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Mach dir keinen Stress, das wird schon."
+      },
+      "1": {
+        "translation": "Das ganze Dach hielt nur durch Optimismus statt durch saubere Arbeit.",
+        "context": "Attributiv gebraucht, und kritisch. „She'll-be-right attitude“ ist ein Standardvorwurf."
+      }
+    },
+    "origin": {
+      "etymology": "Das „she“ ist unpersönlich, wie in „she's a beauty“ – ein altes Merkmal des australischen und neuseeländischen Englisch, bei dem eine unbestimmte Lage ein weibliches Pronomen bekommt."
+    }
+  },
+  "heaps": {
+    "definitions": [
+      {
+        "text": "Viel; sehr. Funktioniert sowohl als Mengenangabe als auch als Verstärker: heaps of people, heaps good."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Tausend Dank, das hilft wirklich."
+      },
+      "1": {
+        "translation": "Auf dem Markt waren jede Menge Leute."
+      }
+    }
+  },
+  "keen": {
+    "definitions": [
+      {
+        "text": "Auf einen Plan erpicht; mit dabei. Absolut gebraucht, ohne Ergänzung: „You keen?“ – „Yeah, keen.“"
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Wir gehen surfen, hast du Lust?"
+      },
+      "1": {
+        "translation": "Total gern, sag einfach wann.",
+        "context": "„Keen as“ ohne Fortsetzung ist eine typisch australisch-neuseeländische Konstruktion – der Vergleich bleibt absichtlich unvollendet."
+      }
+    }
+  },
+  "crook": {
+    "definitions": [
+      {
+        "text": "Krank, unwohl. Feeling crook."
+      },
+      {
+        "text": "Kaputt oder nicht richtig funktionierend: ein crook knee, eine crook alternator."
+      },
+      {
+        "text": "Go crook at someone: jemanden wütend zusammenstauchen."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Mir geht es seit Dienstag nicht so gut."
+      },
+      "1": {
+        "translation": "Der alte Kühlschrank ist schon wieder hinüber."
+      },
+      "2": {
+        "translation": "Mama hat mich deswegen zusammengestaucht."
+      }
+    }
+  },
+  "chunder": {
+    "definitions": [
+      {
+        "text": "Sich übergeben, typischerweise nach zu viel Alkohol."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Er hat sich auf dem Heimweg im Taxi übergeben."
+      },
+      "1": {
+        "translation": "Noch einen davon und ich kotze."
+      }
+    },
+    "origin": {
+      "etymology": "Herkunft umstritten. Die verbreitete Geschichte leitet es von einem Warnruf auf Schiffen ab – „watch under“ –, was einprägsam, aber unbelegt ist. Ein weltweites Publikum erreichte es 1981 durch „Down Under“ von Men at Work."
+    }
+  },
+  "goon": {
+    "definitions": [
+      {
+        "text": "Billiger Wein aus dem Karton – genauer gesagt der silberne Folienbeutel darin. Aus der australischen Studentenkultur nicht wegzudenken."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "In dem Jahr konnten wir uns nur Tetrapak-Wein leisten."
+      },
+      "1": {
+        "translation": "Irgendwer hat den Kartonwein ins Gefrierfach gelegt."
+      }
+    },
+    "origin": {
+      "etymology": "Wahrscheinlich aus flagon, gekürzt und umgeformt. Der beutelförmige Behälter hat ein ganzes eigenes Vokabular hervorgebracht, darunter goon sack und goon of fortune."
+    }
+  },
+  "stubby": {
+    "definitions": [
+      {
+        "text": "Eine kurze, gedrungene 375-ml-Bierflasche. Ein stubby holder ist die isolierende Hülle, die sie kalt hält – ein Gegenstand von echter kultureller Bedeutung."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Hol mir mal ein Bier aus der Kühlbox."
+      },
+      "1": {
+        "translation": "In jedem Haushalt liegen ungefähr vierzig Bierkühlhüllen herum."
+      }
+    }
+  },
+  "tinnie": {
+    "definitions": [
+      {
+        "text": "Eine Dose Bier."
+      },
+      {
+        "text": "Ein kleines Aluminiumboot. Damit nicht verwandt, und allein durch den Zusammenhang unterschieden."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Mach eine Dose Bier auf, das Spiel fängt an."
+      },
+      "1": {
+        "translation": "Wir sind mit dem kleinen Aluboot auf den Fluss raus."
+      }
+    }
+  },
+  "schooner": {
+    "definitions": [
+      {
+        "text": "Ein Glas Bier, in den meisten Teilen Australiens 425 ml. Größen von Biergläsern und ihre Namen unterscheiden sich von Bundesstaat zu Bundesstaat, was auch Australier selbst zuverlässig durcheinanderbringt."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Zwei große Gläser vom Pale Ale, bitte."
+      },
+      "1": {
+        "translation": "In South Australia meint dasselbe Wort ein kleineres Glas.",
+        "context": "In South Australia hat ein schooner 285 ml – tatsächlich dasselbe Wort für ein anderes Maß."
+      }
+    }
+  },
+  "maccas": {
+    "definitions": [
+      {
+        "text": "McDonald's. In Australien so allgemein üblich, dass das Unternehmen den Namen selbst schon auf seine Schilder geschrieben hat."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Sollen wir einfach bei McDonald's halten?"
+      },
+      "1": {
+        "translation": "Ein Mitternachtsabstecher zu McDonald's geht nie gut aus."
+      }
+    }
+  },
+  "sanga": {
+    "definitions": [
+      {
+        "text": "Ein Sandwich. Ein sausage sanga – eine Bratwurst in einer Scheibe Weißbrot mit Zwiebeln und Soße – ist das Standardangebot bei Benefizveranstaltungen in der Nachbarschaft."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Mach uns für die Fahrt schnell ein paar Sandwiches."
+      },
+      "1": {
+        "translation": "Ein Wurstbrot mit Zwiebeln, bitte."
+      }
+    }
+  },
+  "snag": {
+    "definitions": [
+      {
+        "text": "Eine Wurst."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Wie viele Würste brauchen wir für zwölf Leute?"
+      },
+      "1": {
+        "translation": "Die Würste sind fertig, kommt und nehmt euch."
+      }
+    }
+  },
+  "chook": {
+    "definitions": [
+      {
+        "text": "Ein Huhn – das lebende wie das gegarte. Eine chook raffle, die Hühnchen-Tombola, gehört fest zum australischen Kneipenleben."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Wir haben hinten sechs Hühner."
+      },
+      "1": {
+        "translation": "Hol auf dem Heimweg ein Grillhähnchen."
+      }
+    }
+  },
+  "bickie": {
+    "definitions": [
+      {
+        "text": "Ein Keks, ein Plätzchen."
+      },
+      {
+        "text": "Big bickies: eine Menge Geld. „That job pays big bickies.“"
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Tasse Tee und einen Keks?"
+      },
+      "1": {
+        "translation": "Diese Karten haben ein Vermögen gekostet."
+      }
+    }
+  },
+  "bludger": {
+    "definitions": [
+      {
+        "text": "Jemand, der sich vor Arbeit drückt und von der Mühe anderer lebt. Das Verb bludge heißt sich drücken oder schnorren."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Er ist ein Drückeberger, macht nie seinen Teil."
+      },
+      "1": {
+        "translation": "Kann ich bei dir mitfahren?",
+        "context": "Das Verb ist weit harmloser als das Substantiv und wird oft gut gelaunt über sich selbst gesagt."
+      }
+    },
+    "origin": {
+      "etymology": "Von bludgeoner, im Gaunerjargon des 19. Jahrhunderts ein Zuhälter, der vom Verdienst einer Frau lebte. Die Bedeutung verengte sich auf jeden, der von der Arbeit anderer lebt. „Dole bludger“ ist ein politisch aufgeladener Begriff mit langer Geschichte in der australischen Debatte."
+    }
+  },
+  "whinge": {
+    "definitions": [
+      {
+        "text": "Beharrlich und auf nervige Weise jammern. Unterscheidet sich von einer berechtigten Beschwerde – etwas ein whinge zu nennen, wischt es beiseite."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Hör auf zu jammern und hilf mir mal."
+      },
+      "1": {
+        "translation": "Er hat sich ausgiebig über die Parkplätze ausgelassen."
+      }
+    },
+    "origin": {
+      "etymology": "Vom altenglischen hwinsian, „winseln“. Es überlebte im Schottischen und in nordenglischen Dialekten und wurde zu einem zentralen australischen Wort – „whingeing Pom“ ist mindestens seit den 1960ern die australische Standardbeschwerde über die Engländer."
+    }
+  },
+  "sook": {
+    "definitions": [
+      {
+        "text": "Jemand, der schnell schmollt oder weint; eine Mimose. Oft liebevoll gemeint, besonders über Kinder und Haustiere."
+      },
+      {
+        "text": "Schmollen. „He's off sooking in his room.“"
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Stell dich nicht so an, das ist nur ein Kratzer."
+      },
+      "1": {
+        "translation": "Bei Gewitter ist der Hund die totale Mimose."
+      }
+    }
+  },
+  "dob": {
+    "definitions": [
+      {
+        "text": "Jemanden verpetzen. Meist als dob someone in. Ein dobber ist, wer das tut, und das Tabu darauf wird von der Grundschule an ernst genommen."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Wer hat mich verpetzt?"
+      },
+      "1": {
+        "translation": "Petzen mag niemand."
+      }
+    }
+  },
+  "spit-the-dummy": {
+    "literalMeaning": "Den Schnuller ausspucken.",
+    "definitions": [
+      {
+        "text": "Auf unverhältnismäßige, kindische Weise die Beherrschung verlieren."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Er hat einen Riesenaufstand gemacht, als der Dienstplan geändert wurde."
+      },
+      "1": {
+        "translation": "Deswegen braucht man doch keinen Anfall zu kriegen."
+      }
+    },
+    "origin": {
+      "etymology": "Ein dummy ist ein Schnuller. Das Bild sitzt genau: ein Säugling, der ihn vor Wut aus dem Kinderwagen schleudert. Die Wendung unterstellt immer, dass die Reaktion überzogen war."
+    }
+  },
+  "chuck-a-sickie": {
+    "definitions": [
+      {
+        "text": "Sich krankmelden und einen Tag freinehmen, obwohl man kerngesund ist."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Am Tag nach dem Finale hat sich das halbe Büro krankgemeldet."
+      },
+      "1": {
+        "translation": "Ich bin versucht, mich morgen krankzumelden."
+      }
+    },
+    "origin": {
+      "etymology": "Chuck dient im australischen Englisch als Allzweckverb – chuck a U-turn, chuck a wobbly, chuck a sickie –, wo andere Varietäten ein genaueres Verb nehmen würden."
+    }
+  },
+  "cark-it": {
+    "definitions": [
+      {
+        "text": "Von einer Maschine: endgültig den Geist aufgeben."
+      },
+      {
+        "text": "Von einem Menschen oder Tier: sterben. Direkt und respektlos, aber nicht bösartig – für eine Beileidskarte trotzdem ungeeignet."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Der alte Rasenmäher hat endgültig den Geist aufgegeben."
+      },
+      "1": {
+        "translation": "Mein Handyakku hat mittendrin schlappgemacht."
+      }
+    }
+  },
+  "grouse": {
+    "definitions": [
+      {
+        "text": "Hervorragend, klasse. Angestaubt – wird mit einer älteren Generation verbunden und von Jüngeren heute meist augenzwinkernd nachgeahmt."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Das ist klasse, danke dir."
+      },
+      "1": {
+        "translation": "Wir hatten eine großartige Zeit an der Küste."
+      }
+    }
+  },
+  "stoked": {
+    "definitions": [
+      {
+        "text": "Begeistert, hocherfreut. Kommt aus der Surfkultur und ist heute allgemein üblich."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Ich freue mich riesig, dass du es geschafft hast."
+      },
+      "1": {
+        "translation": "Über das Ergebnis war sie überglücklich."
+      }
+    }
+  },
+  "reckon": {
+    "definitions": [
+      {
+        "text": "Denken oder meinen. Wo andere Varietäten „I think“ sagen, sagen Australier „I reckon“ – das ist der Normalfall, keine Zierde."
+      },
+      {
+        "text": "Allein stehend als nachdrückliche Zustimmung: „Reckon.“"
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Ich finde, wir sollten spätestens um sechs los."
+      },
+      "1": {
+        "translation": "„Das war das Beste davon.“ – „Genau.“"
+      }
+    }
+  },
+  "rack-off": {
+    "definitions": [
+      {
+        "text": "Hau ab; verzieh dich. Eine milde, etwas angestaubte Abfuhr."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Hau ab, ich versuche mich zu konzentrieren."
+      },
+      "1": {
+        "translation": "Ich habe ihm gesagt, er soll sich verziehen."
+      }
+    }
+  },
+  "rellies": {
+    "definitions": [
+      {
+        "text": "Verwandte – meist die entfernteren, die zu Weihnachten aufkreuzen."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Zu Weihnachten kommt die ganze Verwandtschaft runter."
+      },
+      "1": {
+        "translation": "Wir wohnen bei Verwandten in Perth."
+      }
+    }
+  },
+  "woop-woop": {
+    "definitions": [
+      {
+        "text": "Ein erfundener Ort, der für alles Abgelegene und Unpraktische steht. Out in woop woop heißt sehr weit weg von allem."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Der Veranstaltungsort liegt am Ende der Welt, wir brauchen ein Auto."
+      },
+      "1": {
+        "translation": "Sie sind in die Pampa gezogen, man braucht drei Stunden dorthin."
+      }
+    },
+    "origin": {
+      "etymology": "Ein Scherzname nach dem Muster australischer Ortsnamen, von denen einige tatsächlich verdoppelt sind – Wagga Wagga, Woy Woy. Der Witz funktioniert, weil es völlig plausibel klingt."
+    }
+  },
+  "dodgy": {
+    "definitions": [
+      {
+        "text": "Zweifelhaft, unzuverlässig, vermutlich nicht ganz sauber. Mit dem britischen Englisch geteilt und ebenso freizügig gebraucht."
+      }
+    ],
+    "examples": {
+      "0": {
+        "translation": "Die Elektrik in der Wohnung sah ziemlich unsicher aus."
+      },
+      "1": {
+        "translation": "Er hat es auf irgendeiner dubiosen Website gekauft."
+      }
+    }
+  }
+}

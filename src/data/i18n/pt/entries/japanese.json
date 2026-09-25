@@ -1,0 +1,918 @@
+{
+  "yabai": {
+    "definitions": [
+      { "text": "Originalmente: perigoso, suspeito, prestes a dar tudo errado. Ainda se usa assim — やばい、遅刻する é «droga, vou me atrasar»." },
+      { "text": "Entre os falantes mais jovens, um intensificador coringa sem polaridade fixa: incrível, terrível, avassalador, demais. O tom e o contexto carregam todo o significado, e os mais velhos genuinamente nem sempre conseguem distinguir qual dos dois está sendo usado." }
+    ],
+    "examples": {
+      "0": { "translation": "Ah não, esqueci a carteira.", "context": "O sentido original: algo deu errado." },
+      "1": { "translation": "Esse ramen está inacreditável, né?", "context": "O sentido mais novo. Dito de algo excelente, sem nenhuma leitura negativa." }
+    },
+    "origin": {
+      "etymology": "Da gíria dos ladrões do período Edo, em que 厄場 (yaba) designava uma cadeia ou posto de guarda — um lugar onde ninguém queria acabar. Continuou sendo gíria criminosa até bem entrado o século XX, entrou na fala jovem geral nos anos 1980 com o sentido de «arriscado» e, nos anos 1990, ganhou também usos positivos. Essa virada é a mudança mais discutida na gíria japonesa moderna.",
+      "firstAttested": "século XVIII em seu sentido criminoso"
+    }
+  },
+  "maji-de": {
+    "definitions": [
+      { "text": "Sério; de verdade. Como intensificador antes de um adjetivo ou verbo: マジで美味しい, «está mesmo uma delícia»." },
+      { "text": "Sozinho, com entonação ascendente: «Sério?» — a resposta padrão diante de uma notícia surpreendente." }
+    ],
+    "examples": {
+      "0": { "translation": "Estou mesmo exausto." },
+      "1": { "translation": "— Vou me mudar semana que vem. — Sério?" }
+    },
+    "origin": {
+      "etymology": "Um recorte de 真面目 (majime), «sério, honesto». Documentado na gíria de atores do período Edo e revivido como gíria juvenil nos anos 1980. A partícula で é o que o torna adverbial; マジ sozinho funciona como adjetivo puro."
+    }
+  },
+  "gachi": {
+    "definitions": [
+      { "text": "De verdade; sem brincadeira; feito a sério, não por cima. ガチで走る é correr de verdade, não fazer cooper." },
+      { "text": "Como modificador, marca alguém como praticante dedicado, não amador de fim de semana: ガチ勢, a turma que leva a sério." }
+    ],
+    "examples": {
+      "0": { "translation": "Aquele cara é forte de verdade — sem exagero." },
+      "1": { "translation": "Não é brincadeira, isso é coisa séria." }
+    },
+    "origin": {
+      "etymology": "Do sumô, onde ガチンコ (gachinko) descreve uma luta disputada com honestidade, ao contrário de uma combinada. A forma reduzida ガチ se espalhou pelos videogames e pelo esporte nos anos 2000 e hoje convive com マジで, com um matiz um pouco mais de comprometimento do que de surpresa.",
+      "firstAttested": "anos 1990 em uso geral"
+    }
+  },
+  "meccha": {
+    "definitions": [
+      { "text": "Muito, bastante, à beça — um intensificador geral e, na fala informal, muito mais comum que o とても dos livros didáticos." }
+    ],
+    "examples": {
+      "0": { "translation": "Esse lugar é muito bom mesmo.", "context": "A partícula final で entrega que o falante é de Kansai." },
+      "1": { "translation": "Quanto tempo, hein!" }
+    },
+    "origin": {
+      "etymology": "De origem kansaiense, de 目茶苦茶 (mechakucha), «absurdo, caótico». Escapou da região pela comédia de TV — os comediantes de Osaka dominam os programas de variedades japoneses — e hoje é usado em todo o país, embora ainda soe levemente informal e regional em Tóquio, não neutro."
+    }
+  },
+  "nanka": {
+    "definitions": [
+      { "text": "Tipo; meio que; sei lá. Um atenuante e uma muleta de pausa, encaixado onde um falante de português diria «tipo» ou «sei lá, meio que»." },
+      { "text": "Literalmente «algo assim», e ainda usado desse jeito na fala cuidada — o uso como muleta é a mesma palavra esvaziada de conteúdo." }
+    ],
+    "examples": {
+      "0": { "translation": "Tipo, não sei explicar direito, mas parece certo." },
+      "1": { "translation": "Não parece meio estranho isso?" }
+    },
+    "origin": {
+      "etymology": "Uma contração de 何か (nani ka), «algo». O uso como muleta é tão criticado pelos comentaristas da língua japonesa quanto o «tipo» é em português, e é igualmente imparável."
+    }
+  },
+  "toriaezu": {
+    "definitions": [
+      { "text": "Por enquanto; para começar; enfim. Marca uma decisão provisória tomada para parar de deliberar, não porque seja a certa." },
+      { "text": "Num bar, とりあえずビール é quase uma expressão fixa: «cerveja para começar», pedida antes mesmo de olhar o cardápio." }
+    ],
+    "examples": {
+      "0": { "translation": "Vamos começar com cerveja.", "context": "Dito ao garçom segundos depois de sentar. Pedir outra coisa primeiro surpreende um pouco." },
+      "1": { "translation": "Vamos só tentar e ver no que dá." }
+    }
+  },
+  "ichio": {
+    "definitions": [
+      { "text": "Mais ou menos; por via das dúvidas; tecnicamente falando. Anexa-se a uma afirmação para baixar sua confiança sem retirá-la." },
+      {
+        "text": "Muitas vezes um recurso de modéstia: 一応できます significa «eu sei fazer» dito por alguém que faz isso perfeitamente bem.",
+        "note": "Levar isso ao pé da letra é um erro clássico. Falantes de japonês costumam subestimar a própria competência com 一応."
+      }
+    ],
+    "examples": {
+      "0": { "translation": "Já fiz a reserva, só por precaução." },
+      "1": { "translation": "Eu falo japonês, mais ou menos.", "context": "Dito com frequência por alguém plenamente fluente." }
+    }
+  },
+  "bimyo": {
+    "literalMeaning": "Sutil; delicado; difícil de definir.",
+    "definitions": [
+      { "text": "Mais ou menos; não lá essas coisas; duvidoso. O jeito educado de dizer que algo é ruim sem dizer que é ruim, e todo mundo entende assim." },
+      { "text": "Também literalmente «no limite» — de um resultado, um horário ou uma chance que pode ir para qualquer lado." }
+    ],
+    "examples": {
+      "0": { "translation": "— Como foi o filme? — Hum... mais ou menos.", "context": "Como resposta a «como foi», isto é um veredito negativo, suavizado apenas na forma." },
+      "1": { "translation": "Se vamos chegar a tempo é incerto." }
+    },
+    "origin": {
+      "etymology": "O sentido literário é elogioso — 微妙な味わい é um sabor sutil. O sentido de gíria mantém a recusa em se posicionar e descarta a admiração, o que é exatamente o que faz funcionar como crítica que preserva as aparências."
+    }
+  },
+  "sore-na": {
+    "definitions": [
+      { "text": "Exatamente; isso mesmo; total. Uma concordância completa com o que acabou de ser dito, e nada mais — não acrescenta conteúdo próprio." }
+    ],
+    "examples": {
+      "0": { "translation": "— Segunda-feira precisa existir mesmo? — É isso aí." },
+      "1": { "translation": "Exatamente, eu estava pensando a mesma coisa." }
+    },
+    "origin": {
+      "etymology": "Literalmente «isso, né» — それ («isso») mais a partícula de concordância な. Falantes de Kansai diziam せやな havia décadas; それな é a versão em japonês padrão, que se espalhou nacionalmente pelo Twitter no começo dos anos 2010 e hoje marca claramente o falante como jovem.",
+      "firstAttested": "início dos anos 2010"
+    }
+  },
+  "wakarimi": {
+    "definitions": [
+      { "text": "O quanto algo é identificável; a qualidade de ser algo que te atinge fundo. Geralmente em わかりみが深い — «sinto isso na alma»." }
+    ],
+    "examples": {
+      "0": { "translation": "Esse mangá me representa demais." },
+      "1": { "translation": "É só identificação, mais nada." }
+    },
+    "origin": {
+      "etymology": "Construído por um padrão produtivo da gíria jovem: pega-se a raiz de um verbo ou adjetivo e acrescenta-se -み para forçá-lo a virar substantivo, como 尊い dá 尊み. Gramaticalmente irregular por design — a graça está em parte no fato de que não deveria ser um substantivo.",
+      "firstAttested": "meados dos anos 2010"
+    }
+  },
+  "donmai": {
+    "definitions": [
+      { "text": "Não esquenta; deixa pra lá. Dito a alguém que acabou de cometer um erro, para dispensar o assunto antes que a pessoa se desculpe." }
+    ],
+    "examples": {
+      "0": { "translation": "Relaxa, relaxa, próxima.", "context": "Padrão em campo esportivo depois de uma bola perdida ou um lance errado." },
+      "1": { "translation": "Mesmo se der errado, não tem problema." }
+    },
+    "origin": {
+      "etymology": "Do inglês don't mind, reinterpretado em japonês como um consolo, não como uma afirmação sobre os próprios sentimentos de quem fala. Um caso claro de empréstimo cujo sentido nenhum falante de inglês adivinharia e nenhum japonês acha estranho."
+    }
+  },
+  "sho-ga-nai": {
+    "definitions": [
+      { "text": "Não tem jeito; não há o que fazer. Encerra a reclamação sobre algo fora do controle de qualquer pessoa." },
+      { "text": "Também usado com indulgência sobre uma pessoa: しょうがないなあ, «ah, você não tem jeito mesmo» — entre a exasperação e o carinho." }
+    ],
+    "examples": {
+      "0": { "translation": "Está chovendo, então não tem jeito." },
+      "1": { "translation": "Ah, tudo bem então — mas só dessa vez." }
+    },
+    "origin": {
+      "etymology": "Uma contração de 仕様がない, «não há método». Comentaristas estrangeiros costumam lê-lo como fatalismo; falantes de japonês o usam de forma mais restrita, para marcar o ponto em que continuar a reclamar seria inútil, não para negar a capacidade de agir em geral."
+    }
+  },
+  "chotto": {
+    "definitions": [
+      { "text": "Um pouco; um pouquinho. O sentido literal de quantidade, que se aprende no primeiro dia." },
+      {
+        "text": "Deixado no ar ao final de uma frase, é uma recusa: それはちょっと… significa não. O que viria depois nunca é dito, e não precisa ser.",
+        "note": "A entrada mais consequente desta lista para quem visita o Japão. Um ちょっと suspenso é um não firme, não uma abertura para negociação."
+      },
+      { "text": "Como chamado de atenção: ちょっと！ — «ei», «com licença», «espera um pouco»." }
+    ],
+    "examples": {
+      "0": { "translation": "Espera um pouco." },
+      "1": { "translation": "Amanhã está... meio complicado.", "context": "Uma recusa completa e definitiva de um convite. Insistir soa rude." }
+    }
+  },
+  "daijobu": {
+    "definitions": [
+      { "text": "Tudo bem; certo; seguro. Perguntado a quem acabou de tropeçar, ou dito de um plano que vai se sustentar." },
+      {
+        "text": "Cada vez mais, uma recusa educada — «estou bem, obrigado». Ao ser oferecida uma sacola no caixa, 大丈夫です significa não.",
+        "note": "Esse uso mais novo é ambíguo até para nativos, e o pessoal da loja costuma fazer uma pergunta de confirmação para saber qual dos dois sentidos era."
+      }
+    ],
+    "examples": {
+      "0": { "translation": "Você está bem? Não se machucou?" },
+      "1": { "translation": "— Precisa de sacola? — Não, obrigado, está bem assim." }
+    },
+    "origin": {
+      "etymology": "Literalmente «grande marido» em sua origem chinesa — 丈夫 designava um homem feito e, por extensão, algo sólido e confiável. O sentido de recusa é um desenvolvimento do século XXI e uma fonte viva de reclamação entre falantes mais velhos."
+    }
+  },
+  "ukeru": {
+    "definitions": [
+      { "text": "Que hilário; estou morrendo de rir. Dito como reação, geralmente a algo que a outra pessoa acabou de dizer ou fazer." },
+      { "text": "De uma coisa, não de um momento: fazer sucesso com a plateia. あのネタはウケた, «aquela piada emplacou»." }
+    ],
+    "examples": {
+      "0": { "translation": "Que hilário, o que é isso?" },
+      "1": { "translation": "A piada do professor não fez a menor graça pra ninguém." }
+    },
+    "origin": {
+      "etymology": "De 受ける, «receber» — originalmente gíria de teatro e comédia para uma piada bem recebida pela plateia. O uso em primeira pessoa, em que quem fala é a própria plateia, veio depois."
+    }
+  },
+  "kusa": {
+    "literalMeaning": "Grama.",
+    "definitions": [
+      { "text": "Kkkk. Escrito no fim de uma mensagem, ou sozinho, para marcar que algo é engraçado." },
+      { "text": "草生える — literalmente «a grama cresce» — é a versão verbal: «isso me fez rir». 大草原 («campina imensa») é a forma enfática." }
+    ],
+    "examples": {
+      "0": { "translation": "Essa desculpa é hilária.", "context": "Digitado, não falado. Dizer 草 em voz alta é uma piada sobre a fala da internet." },
+      "1": { "translation": "Rio de mim mesmo comendo gyudon às duas da manhã." }
+    },
+    "origin": {
+      "etymology": "Uma cadeia de substituições. 笑い («riso») foi abreviado para 笑, depois para sua inicial w, e depois repetido para dar ênfase — wwwww. Uma fileira de w parece uma fileira de grama brotando, então a própria grama, 草, virou a palavra. A etimologia é inteiramente visual, por isso não tem forma falada.",
+      "firstAttested": "por volta de 2010"
+    }
+  },
+  "emoi": {
+    "definitions": [
+      { "text": "Comovente de um jeito nostálgico e melancólico. Cobre a sensação que uma foto antiga, um entardecer de verão ou uma música da adolescência provoca — nem tristeza nem exatamente alegria." }
+    ],
+    "examples": {
+      "0": { "translation": "Essa foto tem algo meio comovente." },
+      "1": { "translation": "Uma rua de comércio ao entardecer não tem uma coisa especial?" }
+    },
+    "origin": {
+      "etymology": "Do inglês emo, com a terminação adjetival japonesa -い para poder se conjugar como uma palavra nativa. Falantes costumam associá-la a 「もののあはれ」, a estética clássica da transitoriedade suave; seja etimologia ou lisonja, é assim que a palavra é sentida.",
+      "firstAttested": "anos 2010"
+    }
+  },
+  "pien": {
+    "definitions": [
+      {
+        "text": "Uma tristeza pequena e encenada — o equivalente falado da carinha 🥺. Usado para decepções que ninguém espera que você leve a sério: bolo esgotado, chuva no dia de folga.",
+        "note": "Teve seu pico por volta de 2020 e hoje soa meio datado, ou deliberadamente infantil. Usado a sério por um adulto, é meio constrangedor."
+      }
+    ],
+    "examples": {
+      "0": { "translation": "Não fui sorteada pro show do meu ídolo 🥺" },
+      "1": { "translation": "Esqueci a carteira, isso já passou de 🥺 e virou 😭", "context": "ぱおん, o barrito de um elefante, era a forma intensificada. Bem típico da época." }
+    },
+    "origin": {
+      "etymology": "Uma onomatopeia de choramingo, popularizada por adolescentes no TikTok e no Twitter por volta de 2019 e eleita uma das palavras do ano no Japão em 2020.",
+      "firstAttested": "2019"
+    }
+  },
+  "darui": {
+    "definitions": [
+      { "text": "Pesado, com o corpo mole, sem forças — a sensação física de uma febre chegando ou de quatro horas de sono." },
+      { "text": "De uma tarefa ou uma pessoa: um saco, algo que dá preguiça demais de encarar." }
+    ],
+    "examples": {
+      "0": { "translation": "Hoje meu corpo está pesado, sei lá." },
+      "1": { "translation": "A reunião de amanhã vai ser um saco." }
+    },
+    "origin": {
+      "etymology": "Do clássico 怠し (darushi), «lânguido». O sentido físico é japonês padrão; a extensão para «isso é chato» é o que torna o uso moderno gíria."
+    }
+  },
+  "mendoi": {
+    "definitions": [
+      { "text": "Trabalheira demais; não estou a fim. Aplicado a tarefas, trâmites e, sem muita piedade, a pessoas que exigem administração." }
+    ],
+    "examples": {
+      "0": { "translation": "Secar o cabelo dá uma preguiça enorme." },
+      "1": { "translation": "Ele tem um jeito meio trabalhoso de ser, na real.", "context": "Dito de uma pessoa, é uma crítica de verdade, ainda que soe suave." }
+    },
+    "origin": {
+      "etymology": "Um recorte de 面倒くさい, ele mesmo 面倒 («incômodo») mais o sufixo -くさい («que cheira a»). O japonês forma vários adjetivos assim: a leitura literal é «que fede a chateação»."
+    }
+  },
+  "shindoi": {
+    "definitions": [
+      { "text": "Exaustivo; puxado. Cobre tanto o cansaço físico quanto o desgaste emocional, e é a palavra padrão para uma fase da vida simplesmente difícil." },
+      {
+        "text": "Entre falantes mais jovens, também se usa para algo tão lindo que é avassalador — 顔がしんどい, «esse rosto é demais para mim».",
+        "note": "Uma inversão recente, paralela à de 尊い. Falantes mais velhos usam só o sentido de «exaustivo»."
+      }
+    ],
+    "examples": {
+      "0": { "translation": "Ultimamente as coisas andam meio pesadas." },
+      "1": { "translation": "Essa ladeira é brutal." }
+    },
+    "origin": {
+      "etymology": "Geralmente ligado a 心労 (shinrō), «desgaste mental», reformulado como adjetivo. É de origem kansaiense e continua mais comum lá, mas é compreendido e usado em todo o país."
+    }
+  },
+  "donbiki": {
+    "definitions": [
+      { "text": "O momento em que uma sala esfria porque alguém disse ou fez algo que repele. Nomeia tanto a reação quanto o clima que ela deixa." }
+    ],
+    "examples": {
+      "0": { "translation": "Aquele comentário deixou todo mundo gelado." },
+      "1": { "translation": "Ele começou a falar da ex e acabou com o clima na hora." }
+    },
+    "origin": {
+      "etymology": "Da produção de televisão: ドン é um prefixo intensificador e 引き é afastar a câmera para um plano geral. A imagem é a de a cena vista de repente à distância — que é exatamente o que a reação parece por dentro."
+    }
+  },
+  "gyakugire": {
+    "definitions": [
+      { "text": "Ficar com raiva de quem acabou de te pegar no erro — devolver uma reclamação justa contra quem a fez." }
+    ],
+    "examples": {
+      "0": { "translation": "Ele que chegou atrasado, e mesmo assim quem levou bronca fui eu." },
+      "1": { "translation": "Fiz a observação com educação e ele revidou." }
+    },
+    "origin": {
+      "etymology": "逆 («ao contrário») mais キレる, o verbo de gíria para explodir ou perder a paciência — que vem de 切れる, «se romper», como um fio que arrebenta."
+    }
+  },
+  "tsunda": {
+    "literalMeaning": "Xeque-mate (no shogi, ficar sem nenhum lance legal).",
+    "definitions": [
+      { "text": "Estou ferrado; não tem saída para isso. Dito de uma situação sem opções restantes, geralmente com mais teatro do que desespero." }
+    ],
+    "examples": {
+      "0": { "translation": "Sem carteira, sem celular. Estou acabado." },
+      "1": { "translation": "Esse trabalho ter que entregar até amanhã é simplesmente impossível." }
+    },
+    "origin": {
+      "etymology": "Do shogi, onde 詰み é a posição de xeque-mate. Chegou à fala cotidiana por meio de jogos e fóruns online nos anos 2000, e é um raro caso de jargão de jogo de tabuleiro virando gíria geral."
+    }
+  },
+  "saiko": {
+    "literalMeaning": "O mais alto; o máximo.",
+    "definitions": [
+      { "text": "O melhor; perfeito; impossível de melhorar. O veredito entusiasmado padrão sobre comida, clima, um passeio ou uma pessoa." }
+    ],
+    "examples": {
+      "0": { "translation": "O tempo hoje está maravilhoso." },
+      "1": { "translation": "Esse lugar é bom demais." }
+    }
+  },
+  "kami": {
+    "literalMeaning": "Deus; divindade.",
+    "definitions": [
+      { "text": "Usado como modificador: superlativo, impecável. 神対応 é um atendimento exemplar, 神回 é um episódio perfeito, 神アプリ é um aplicativo que faz exatamente o que você precisava." },
+      { "text": "De uma pessoa, alguém que acabou de te salvar: «você é um anjo»." }
+    ],
+    "examples": {
+      "0": { "translation": "Vai me emprestar o carregador? Você é um fenômeno." },
+      "1": { "translation": "O jeito como aquele atendente resolveu foi impecável." }
+    },
+    "origin": {
+      "etymology": "Não é sentido como blasfêmia: no xintoísmo, 神 abrange uma gama enorme de divindades locais e menores, então chamar um estranho prestativo assim é uma afirmação bem mais modesta do que a tradução sugere."
+    }
+  },
+  "hanpa-nai": {
+    "definitions": [
+      { "text": "Fora de escala; sem meio-termo. Intensificador de quantidade, qualidade ou intensidade, positivo ou negativo." }
+    ],
+    "examples": {
+      "0": { "translation": "O calor hoje está fora do normal." },
+      "1": { "translation": "A habilidade daquele jogador está em outro nível." }
+    },
+    "origin": {
+      "etymology": "Literalmente «não pela metade». A frase 半端ないって virou uma expressão nacional durante a Copa do Mundo de 2018, a partir de um elogio em lágrimas de um estudante ao jogador Ōsako Yūya, num vídeo antigo que ressurgiu."
+    }
+  },
+  "sugee": {
+    "definitions": [
+      {
+        "text": "Uau; incrível. A forma achatada e arrastada de すごい, e bem mais bruta — soa masculina e informal, embora mulheres jovens também usem.",
+        "note": "Não é uma palavra para usar com um cliente ou um professor. O すごい completo é neutro; すげー não é."
+      }
+    ],
+    "examples": {
+      "0": { "translation": "Uau, nunca vi nada assim." },
+      "1": { "translation": "Quanta gente aqui, nossa." }
+    },
+    "origin": {
+      "etymology": "Um exemplo de uma regra geral da fala informal: a terminação adjetival -ai ou -oi colapsa numa -ē longa. すごい → すげー, うるさい → うるせー, やばい → やべー. Aprender a regra destrava um registro inteiro de uma vez."
+    }
+  },
+  "totoi": {
+    "literalMeaning": "Precioso; sagrado; excelso.",
+    "definitions": [
+      { "text": "Tão maravilhoso que dói. Vocabulário de fandom, dito de um ídolo, um personagem ou um casal cuja existência o falante acha quase insuportavelmente boa." }
+    ],
+    "examples": {
+      "0": { "translation": "O show de hoje foi tão perfeito que chorei." },
+      "1": { "translation": "A relação entre esses dois é tudo." }
+    },
+    "origin": {
+      "etymology": "Uma palavra clássica para o sagrado, apropriada pelo fandom nos anos 2010 com a reverência intacta e a religião removida. O substantivo 尊み segue o mesmo padrão em -み de わかりみ.",
+      "firstAttested": "anos 2010 nesse sentido"
+    }
+  },
+  "baeru": {
+    "definitions": [
+      { "text": "Ficar bem em foto; render no feed. De um prato, um café, uma roupa ou uma paisagem escolhidos em parte porque vão render." }
+    ],
+    "examples": {
+      "0": { "translation": "Essa taça de parfait vai ficar linda na foto." },
+      "1": { "translation": "Viemos a esse café só pelas fotos." }
+    },
+    "origin": {
+      "etymology": "De インスタ映え («digno de Instagram»), palavra do ano no Japão em 2017, depois reduzida só ao verbo. O japonês padrão já tinha 映える (haeru), «brilhar, se destacar»; a forma de gíria sonoriza a consoante inicial e restringe o sentido às fotos.",
+      "firstAttested": "2017"
+    }
+  },
+  "uzai": {
+    "definitions": [
+      { "text": "Chato; irritante; que não te deixa em paz. De uma pessoa, um barulho, uma notificação ou uma regra." }
+    ],
+    "examples": {
+      "0": { "translation": "O barulho da obra do lado está me deixando louco." },
+      "1": { "translation": "Para com isso, você está me enchendo.", "context": "Direto. Dito na cara de alguém é um insulto de verdade, não uma brincadeira entre amigos." }
+    },
+    "origin": {
+      "etymology": "Um recorte de うざったい, de uma palavra regional de Tóquio para algo que enxameia ou insiste de forma incômoda. Se espalhou por todo o país pela fala jovem dos anos 1980."
+    }
+  },
+  "kimoi": {
+    "definitions": [
+      {
+        "text": "Nojento; arrepiante; de dar calafrio. Bem mais duro que «nojento» em português quando dirigido a uma pessoa — uma crueldade padrão de pátio de escola.",
+        "note": "Dirigido a alguém, é um insulto sério sobre seu corpo ou jeito de ser. Aplicado a um inseto ou uma textura, não tem nada de especial."
+      }
+    ],
+    "examples": {
+      "0": { "translation": "Esse inseto é nojento." },
+      "1": { "translation": "Falar desse jeito é meio nojento, sinceramente." }
+    },
+    "origin": {
+      "etymology": "Recortado de 気持ち悪い (kimochi warui), «sensação desagradável». A forma completa é neutra o suficiente para descrever um enjoo; a forma recortada é quase sempre um julgamento sobre uma pessoa."
+    }
+  },
+  "dasai": {
+    "definitions": [
+      { "text": "Brega; sem estilo; tentando e falhando. De roupas, um design, um nome, um gesto — qualquer coisa que erre o alvo esteticamente." }
+    ],
+    "examples": {
+      "0": { "translation": "Essa gravata é meio horrível, né?" },
+      "1": { "translation": "Dar desculpa é muito brega." }
+    },
+    "origin": {
+      "etymology": "Muito citado como vindo de 田舎 (inaka), «o interior», via uma leitura jocosa de 埼玉 como «da-saitama» — o desdém de Tóquio pela prefeitura vizinha. A derivação é repetida por toda parte e nunca foi bem comprovada; trate-a como uma boa história, não como um fato.",
+      "firstAttested": "anos 1970"
+    }
+  },
+  "busaiku": {
+    "definitions": [
+      {
+        "text": "Feio; malfeito. Usado sobretudo para rostos, e com uma franqueza cruel para os padrões da fala pública em português.",
+        "note": "Listado para compreensão. A TV de variedades japonesa o usa livremente sobre seus próprios apresentadores, o que engana bastante quem está aprendendo sobre como ele cai em privado."
+      }
+    ],
+    "examples": {
+      "0": { "translation": "Saí feio nessa foto.", "context": "Direcionado a si mesmo, que é onde a palavra é mais segura." },
+      "1": { "translation": "Não vai chamando as pessoas de feias." }
+    },
+    "origin": {
+      "etymology": "De 不細工, «não trabalhado com esmero» — originalmente dito de um trabalho manual malfeito, depois transferido para rostos. ブス é o parente mais curto e mais duro."
+    }
+  },
+  "otaku": {
+    "definitions": [
+      { "text": "Alguém com um hobby absorvente — anime e games por antonomásia, mas também trens, ídolos ou história militar. O empréstimo em português se restringiu a anime; a palavra japonesa não." },
+      {
+        "text": "Hoje é com frequência uma autodescrição e só levemente pejorativa, embora tenha mantido um tom bem desagradável até os anos 1990.",
+        "note": "O sufixo 〜オタ relacionado é totalmente neutro: 鉄オタ (fã de trens), 歴史オタ (fã de história)."
+      }
+    ],
+    "examples": {
+      "0": { "translation": "Eu sou completamente viciado em trens, admito." },
+      "1": { "translation": "Fui a um evento com meus amigos do fandom." }
+    },
+    "origin": {
+      "etymology": "De お宅, um pronome formal de segunda pessoa que significa literalmente «sua casa». Fãs em convenções dos anos 1980 se destacavam por se tratarem uns aos outros com essa palavra estranhamente distante, e o pronome virou o rótulo. O caso de assassinato de 1989 grudou um estigma duradouro que levou duas décadas para desaparecer.",
+      "firstAttested": "1983"
+    }
+  },
+  "riaju": {
+    "definitions": [
+      { "text": "Alguém cuja vida fora da internet vai bem — parceiro, amigos, planos no fim de semana. Dito com inveja por quem se considera o oposto." }
+    ],
+    "examples": {
+      "0": { "translation": "Postando foto de encontro de novo — olha só o senhor Vida Plena." },
+      "1": { "translation": "Que exploda todo casal feliz.", "context": "Uma fórmula fixa e inteiramente jocosa, especialmente no Natal, que no Japão é uma data de casais." }
+    },
+    "origin": {
+      "etymology": "リアル («real», ou seja, fora da internet) mais 充実 («plenitude»). Cunhado nos fóruns do 2ch por volta de 2005, em contraste explícito com uma vida vivida principalmente online.",
+      "firstAttested": "2005"
+    }
+  },
+  "botchi": {
+    "definitions": [
+      { "text": "Sozinho, com a insinuação de que você preferiria não estar. ぼっち飯 é comer sozinho na escola ou no trabalho, um pequeno pavor social no Japão." },
+      { "text": "Cada vez mais encarado com leveza, até com orgulho — o ソロ活 («atividades a sós») tornou respeitável comer e viajar sozinho." }
+    ],
+    "examples": {
+      "0": { "translation": "Hoje também almocei sozinho." },
+      "1": { "translation": "Ir ao cinema sozinho é surpreendentemente ótimo." }
+    },
+    "origin": {
+      "etymology": "Recortado de 独りぼっち, ele mesmo de 独り法師 — um monge sem templo, vagando sozinho."
+    }
+  },
+  "inkya": {
+    "definitions": [
+      { "text": "Um tipo sombra: quieto, caseiro, fora do grupo barulhento. Seu oposto, 陽キャ (yōkya), é o tipo ensolarado e sociável." },
+      {
+        "text": "Autoaplicado é uma piada; aplicado a outra pessoa é um insulto sobre sua posição social, e nas escolas é usado como tal.",
+        "note": "A dupla substituiu quase por completo os antigos ネクラ/ネアカ, que hoje soam bem anos 1980."
+      }
+    ],
+    "examples": {
+      "0": { "translation": "Eu sou totalmente caseiro, então festinha de trabalho não é comigo." },
+      "1": { "translation": "A turma barulhenta da classe está agitada de novo." }
+    },
+    "origin": {
+      "etymology": "陰 («sombra, yin») mais a primeira sílaba de キャラ («personagem»), a palavra que o japonês usa para a persona social de alguém. O pareamento yin-yang está fazendo trabalho de verdade: são tratados como dois tipos fixos, não como um espectro.",
+      "firstAttested": "anos 2010"
+    }
+  },
+  "yankii": {
+    "definitions": [
+      {
+        "text": "Um adolescente delinquente de um tipo bem japonês: cabelo pintado, uniforme escolar modificado, agachado na porta de uma loja de conveniência e, bem provavelmente, com uma scooter.",
+        "note": "Nada a ver com americanos, apesar do empréstimo sonoro. Um japonês chamando alguém de ヤンキー não está comentando sobre a nacionalidade da pessoa."
+      },
+      { "text": "Por extensão, um estilo — ヤンキー座り é o agachamento com os pés totalmente apoiados, e a estética é um gênero nostálgico reconhecido no cinema e no mangá." }
+    ],
+    "examples": {
+      "0": { "translation": "Aquele professor, dizem, era um delinquente e tanto na juventude." },
+      "1": { "translation": "Tem uns moleques rondando na frente da loja de conveniência." }
+    },
+    "origin": {
+      "etymology": "Do inglês Yankee, via a Osaka dos anos 1970, onde a roupa berrante de influência americana do bairro Amerikamura colou o nome nos jovens que a usavam. O sentido migrou inteiramente para o comportamento.",
+      "firstAttested": "anos 1970"
+    }
+  },
+  "ossan": {
+    "definitions": [
+      {
+        "text": "Um homem de meia-idade. Rude na cara dele — a palavra neutra é おじさん — mas comum em terceira pessoa e muito usada de forma autodepreciativa.",
+        "note": "A idade é o ferrão. Chamar um homem de trinta e cinco anos de おっさん é uma piada sobre o quanto ele já está acabado."
+      }
+    ],
+    "examples": {
+      "0": { "translation": "O sujeito do meu lado no trem estava roncando." },
+      "1": { "translation": "Já virei oficialmente um senhor de meia-idade." }
+    },
+    "origin": {
+      "etymology": "Uma contração de おじさん, «tio», que o japonês usa para qualquer homem dessa geração, parente ou não. Encurtar um termo de parentesco desse jeito retira toda a educação dele."
+    }
+  },
+  "tsundere": {
+    "definitions": [
+      { "text": "Alguém áspero por fora e mole por dentro, que demonstra afeto te insultando e depois te fazendo um favor sem dizer nada." },
+      { "text": "Originalmente um arquétipo de personagem em mangá e games; hoje usado para pessoas reais, animais de estimação e até lojas de donos rabugentos." }
+    ],
+    "examples": {
+      "0": { "translation": "Nosso gato é um tsundere de manual." },
+      "1": { "translation": "Ele é do tipo espinhoso, não espere um elogio direto." }
+    },
+    "origin": {
+      "etymology": "ツンツン (distante, com o nariz empinado) mais デレデレ (apaixonado, derretido). Cunhado no fandom japonês de games por volta de 2002 e exportado inteiro para o vocabulário de fandom em inglês.",
+      "firstAttested": "2002"
+    }
+  },
+  "ikemen": {
+    "definitions": [
+      { "text": "Um homem bonito. Neutro, extremamente comum e publicável — revistas e televisão usam sem ironia." }
+    ],
+    "examples": {
+      "0": { "translation": "Parece que o professor novo é bonito pra caramba." },
+      "1": { "translation": "Não é só bonito por fora, é gente boa por dentro também.", "context": "中身がイケメン — «bonito por dentro» — é uma extensão fixa." }
+    },
+    "origin": {
+      "etymology": "イケてる («que está bem») mais メン, que funciona tanto como o inglês men quanto como 面 (men), «rosto». O trocadilho é parte do motivo de ter pegado.",
+      "firstAttested": "por volta de 2000"
+    }
+  },
+  "charai": {
+    "definitions": [
+      { "text": "Vistoso e pouco confiável; um pegador. De um homem cuja roupa, lábia e histórico de relacionamentos sugerem, todos ao mesmo tempo, que não se deve confiar nele." }
+    ],
+    "examples": {
+      "0": { "translation": "Parece um pegador de manual, mas na verdade é gente boa." },
+      "1": { "translation": "Fica longe de um cara desses." }
+    },
+    "origin": {
+      "etymology": "De チャラチャラ, onomatopeia do tilintar de bijuterias — o som de quem usa joias demais, aplicado ao caráter por trás disso."
+    }
+  },
+  "oshi": {
+    "definitions": [
+      { "text": "Seu favorito: o integrante do grupo, o personagem ou o artista que você apoia e promove pessoalmente." },
+      { "text": "推し活 é toda a atividade construída em torno disso: ir aos shows, comprar produtos, organizar a agenda em torno dos lançamentos dele." }
+    ],
+    "examples": {
+      "0": { "translation": "Hoje é aniversário do meu favorito." },
+      "1": { "translation": "Basicamente trabalho para financiar meu fandom." }
+    },
+    "origin": {
+      "etymology": "De 推す, «empurrar, recomendar, apoiar um candidato». Vocabulário de fandom de ídolos dos anos 2000 que se tornou completamente mainstream — o romance 推し、燃ゆ ganhou o Prêmio Akutagawa em 2021 e colocou a palavra em toda vitrine de livraria."
+    }
+  },
+  "kuki-yomenai": {
+    "literalMeaning": "Não sabe ler o ar.",
+    "definitions": [
+      { "text": "Incapaz de sentir o clima de uma sala — quem continua discutindo depois que todo mundo já seguiu em frente, ou levanta um assunto no pior momento possível." },
+      {
+        "text": "Abreviado KY, das iniciais latinas de kūki yomenai. A abreviação foi uma moda de 2007 e hoje soa meio datada, enquanto a expressão completa não.",
+        "note": "Ouvir 空気読め («leia o ambiente») é uma repreensão seca, e no trabalho, uma séria."
+      }
+    ],
+    "examples": {
+      "0": { "translation": "Aquele comentário não leu o ambiente de jeito nenhum." },
+      "1": { "translation": "Li o clima e fiquei calado." }
+    }
+  },
+  "shachiku": {
+    "literalMeaning": "Gado da empresa.",
+    "definitions": [
+      { "text": "Um escravo corporativo: alguém cuja vida foi completamente absorvida pelo empregador. Quase sempre dito de si mesmo, com humor negro." }
+    ],
+    "examples": {
+      "0": { "translation": "Último trem de novo. Já sou gado de empresa." },
+      "1": { "translation": "Férias remuneradas são algo que não acontece com gente como eu." }
+    },
+    "origin": {
+      "etymology": "会社 («empresa») fundido com 家畜 («gado»), cunhado no fim dos anos 1980 no auge da bolha econômica. Continua sendo uma das palavras mais cruas que o japonês tem sobre sua própria cultura de trabalho.",
+      "firstAttested": "fim dos anos 1980"
+    }
+  },
+  "burakku-kigyo": {
+    "definitions": [
+      { "text": "Um empregador explorador: horas extras não pagas, metas impossíveis, assédio e funcionários que saem antes de completar um ano. Uma categoria reconhecida no debate público, não uma piada privada." }
+    ],
+    "examples": {
+      "0": { "translation": "Aquele lugar era exploração pura e simples, então saí." },
+      "1": { "translation": "É preciso saber distinguir se uma vaga é decente ou não.", "context": "ホワイト企業 é o oposto: um empregador correto." }
+    },
+    "origin": {
+      "etymology": "Cunhado online no início dos anos 2000 por trabalhadores de TI e levado à política nacional pelas campanhas contra o 過労死 (karōshi), morte por excesso de trabalho. O Ministério da Saúde hoje publica uma lista de empresas infratoras, o que é o mais institucional que uma gíria pode chegar a ser.",
+      "firstAttested": "início dos anos 2000"
+    }
+  },
+  "baito": {
+    "definitions": [
+      { "text": "Um trabalho de meio período, e o turno que você faz nele. A palavra padrão para trabalho de estudante e trabalho eventual, tão usada em anúncios de emprego quanto na conversa." }
+    ],
+    "examples": {
+      "0": { "translation": "Hoje tenho turno, então não posso ir." },
+      "1": { "translation": "Trabalho meio período numa loja de conveniência." }
+    },
+    "origin": {
+      "etymology": "Recortado de アルバイト, emprestado do alemão Arbeit («trabalho») por estudantes do século XIX — um dos poucos empréstimos do alemão no japonês que vieram pela universidade. Significa só trabalho de meio período; um emprego integral é 仕事."
+    }
+  },
+  "kosupa": {
+    "definitions": [
+      { "text": "Custo-benefício. コスパがいい é que vale a pena; コスパが悪い é uma roubada." },
+      { "text": "O padrão se espalhou: タイパ (タイムパフォーマンス) é o mesmo julgamento aplicado ao tempo, e hoje é a queixa mais comum entre os mais jovens." }
+    ],
+    "examples": {
+      "0": { "translation": "Esse lugar tem um custo-benefício imbatível." },
+      "1": { "translation": "Assistir a filmes em velocidade dupla é, ao que parece, sobre aproveitar bem o tempo." }
+    },
+    "origin": {
+      "etymology": "Um recorte de quatro sílabas de コストパフォーマンス, do inglês cost performance. O japonês comprime empréstimos longos em quatro moras como regra — パソコン, リモコン, スマホ — e コスパ é um caso de manual."
+    }
+  },
+  "warikan": {
+    "definitions": [
+      {
+        "text": "Dividir a conta igualmente — total dividido pelo número de pessoas, não pelo que cada uma consumiu. O padrão entre amigos e colegas de posição semelhante.",
+        "note": "A hierarquia se sobrepõe a isso: um chefe ou um participante mais velho costuma pagar mais, ou tudo, sem discussão."
+      }
+    ],
+    "examples": {
+      "0": { "translation": "Hoje dividimos igualzinho?" },
+      "1": { "translation": "O colega mais experiente cobriu a parte maior." }
+    },
+    "origin": {
+      "etymology": "割る («dividir») mais 勘定 («a conta»). Às vezes atribuído ao artista do período Edo Sakai Hōitsu, que segundo dizem insistia nesse método; a atribuição é tradicional, não documentada."
+    }
+  },
+  "saboru": {
+    "definitions": [
+      { "text": "Matar aula ou trabalho; furar uma aula ou um turno, ou levar de qualquer jeito um trabalho que deveria estar fazendo." }
+    ],
+    "examples": {
+      "0": { "translation": "Ontem matei aula." },
+      "1": { "translation": "Você está enrolando na limpeza, né?" }
+    },
+    "origin": {
+      "etymology": "Do francês sabotage, recortado para サボ e com a terminação verbal japonesa -る. A mesma maquinaria produz ググる (googlar) e メモる (anotar); é o padrão de gíria mais produtivo da língua.",
+      "firstAttested": "anos 1920"
+    }
+  },
+  "guguru": {
+    "definitions": [
+      { "text": "Googlar. Totalmente naturalizado: se conjuga como qualquer verbo japonês — ググった, ググれば, ググっとく." }
+    ],
+    "examples": {
+      "0": { "translation": "Se não sabe, googla." },
+      "1": { "translation": "Googlei e não achei nada." }
+    },
+    "origin": {
+      "etymology": "グーグル encurtado para グ グ e equipado com a terminação verbal -る. O mesmo padrão deu タクる (pegar um táxi), パニクる (entrar em pânico) e ディスる (desrespeitar)."
+    }
+  },
+  "bazuru": {
+    "definitions": [
+      { "text": "Viralizar. De uma postagem, um vídeo ou uma loja que de repente tem fila na porta por causa disso." },
+      { "text": "炎上する (enjō suru), «pegar fogo», é a contrapartida negativa: viralizar pelos motivos errados." }
+    ],
+    "examples": {
+      "0": { "translation": "Aquele vídeo está em todo lugar." },
+      "1": { "translation": "Viralizou e depois veio o linchamento público." }
+    },
+    "origin": {
+      "etymology": "Do inglês buzz mais a terminação verbal -る, a mesma maquinaria de ググる e サボる.",
+      "firstAttested": "anos 2010"
+    }
+  },
+  "pakuru": {
+    "definitions": [
+      { "text": "Roubar descaradamente — pegar a ideia, o design ou a piada de outra pessoa e vender como se fosse sua." },
+      { "text": "Também simplesmente roubar e, na gíria criminosa antiga, ser preso." }
+    ],
+    "examples": {
+      "0": { "translation": "Essa ideia é um plágio na cara dura." },
+      "1": { "translation": "Roubaram meu design." }
+    },
+    "origin": {
+      "etymology": "Da onomatopeia パクパク, o som de uma boca abrindo e fechando — abocanhar algo de uma vez. O substantivo パクリ é como se chama a própria cópia."
+    }
+  },
+  "dotakyan": {
+    "definitions": [
+      { "text": "Um cancelamento de última hora — desistir no mesmo dia, ou uma hora antes. Usado como substantivo e como verbo: ドタキャンされた, «me deixaram na mão»." }
+    ],
+    "examples": {
+      "0": { "translation": "Me cancelaram de novo, em cima da hora." },
+      "1": { "translation": "Desculpa, posso desmarcar hoje?" }
+    },
+    "origin": {
+      "etymology": "土壇場 (dotanba), «a última hora» — originalmente o local de execução, o último lugar onde alguém ficava de pé — mais キャンセル. Jargão de salões de festa e eventos dos anos 1990 que virou uso geral.",
+      "firstAttested": "anos 1990"
+    }
+  },
+  "numa": {
+    "literalMeaning": "Um brejo ou pântano.",
+    "definitions": [
+      { "text": "Um hobby, fandom ou buraco no qual você afundou e do qual não consegue sair. 沼にハマる é cair dentro; 沼落ち é o momento em que isso acontece." }
+    ],
+    "examples": {
+      "0": { "translation": "Caí de cabeça no k-pop e não tem mais volta." },
+      "1": { "translation": "Fotografia é um poço sem fundo, cuidado." }
+    },
+    "origin": {
+      "etymology": "Vocabulário de fandom dos anos 2010. A imagem é precisa: um pântano não é um precipício de onde se cai, mas algo em que se entra voluntariamente e do qual depois não se consegue sair."
+    }
+  },
+  "nomikai": {
+    "definitions": [
+      { "text": "Uma festa de bebidas: mesa reservada, cardápio fechado, horário de início definido e, no trabalho, lista de presença." },
+      {
+        "text": "飲みニケーション — 飲み mais «comunicação» — nomeia a crença de que o trabalho de verdade acontece aqui, não no escritório.",
+        "note": "Em declínio, mas não morta. Funcionários mais jovens recusam cada vez mais, o que colegas mais velhos leem como distanciamento."
+      }
+    ],
+    "examples": {
+      "0": { "translation": "Sexta tem happy hour do departamento." },
+      "1": { "translation": "Happy hour de trabalho não é muito a minha praia." }
+    }
+  },
+  "nijikai": {
+    "literalMeaning": "Segunda reunião.",
+    "definitions": [
+      { "text": "O segundo lugar da noite, para onde se vai em grupo quando a primeira parte termina. Karaokê, um bar, um restaurante menor." },
+      { "text": "A sequência continua — 三次会, 四次会 — e a numeração é levada a sério o bastante para que as pessoas anunciem em qual etapa vão embora." }
+    ],
+    "examples": {
+      "0": { "translation": "Quem topa karaokê pra segunda rodada?" },
+      "1": { "translation": "Tenho que pegar o último trem, então vou passar a segunda rodada." }
+    }
+  },
+  "nomihodai": {
+    "definitions": [
+      { "text": "Bebida liberada, por um preço fechado e — sempre — um tempo fechado, normalmente noventa ou cento e vinte minutos com aviso de última rodada." },
+      { "text": "食べ放題 é o equivalente para comida, e os dois costumam ser vendidos juntos no mesmo menu." }
+    ],
+    "examples": {
+      "0": { "translation": "Três mil ienes por duas horas de bebida liberada." },
+      "1": { "translation": "Vamos pedir mais uma antes da última rodada." }
+    },
+    "origin": {
+      "etymology": "放題 é um sufixo que significa «sem limite» e pode ser grudado em quase qualquer raiz verbal: 言いたい放題 (dizer o que quiser), 使い放題 (uso ilimitado)."
+    }
+  },
+  "harapeko": {
+    "definitions": [
+      { "text": "Faminto; estômago completamente vazio. Tem um ar infantil e é usado com carinho por adultos." }
+    ],
+    "examples": {
+      "0": { "translation": "Já estou morrendo de fome." },
+      "1": { "translation": "Estou faminto, então qualquer coisa serve." }
+    },
+    "origin": {
+      "etymology": "腹 («barriga») mais ペコペコ, a onomatopeia de algo afundando — o vocabulário sonoro-simbólico que o japonês usa de forma muito mais sistemática que o português."
+    }
+  },
+  "gattsuri": {
+    "definitions": [
+      { "text": "Com gosto; caprichado; uma quantidade séria. De comida acima de tudo — ガッツリ系 é todo um gênero de pratos grandes, carnudos e sem meias-medidas." },
+      { "text": "Também de esforço ou envolvimento: ガッツリ働く, trabalhar pra valer." }
+    ],
+    "examples": {
+      "0": { "translation": "Hoje quero comer carne com gosto." },
+      "1": { "translation": "Dormi a noite toda de uma vez, então estou disposto." }
+    },
+    "origin": {
+      "etymology": "Uma criação sonoro-simbólica sobre がっちり («firmemente, solidamente»), que se espalhou pela escrita gastronômica e pela cultura do ramen nos anos 2000."
+    }
+  },
+  "otsukare": {
+    "literalMeaning": "Você está cansado.",
+    "definitions": [
+      { "text": "A saudação coringa do trabalho: oi, tchau, bom trabalho, obrigado pelo esforço. Dito ao chegar, ao sair, nos corredores e no fim de qualquer coisa." },
+      {
+        "text": "Casual ou de cima para baixo apenas em sua forma curta. Para um superior exige-se o お疲れ様です completo, e 乙 — escrito com o kanji de «segundo» porque se lê otsu — é exclusivo da internet.",
+        "note": "ご苦労様 parece um sinônimo e não é: é dito de cima para baixo, e usá-lo com um superior é uma gafe memorável."
+      }
+    ],
+    "examples": {
+      "0": { "translation": "Obrigado pelo trabalho de hoje. Vou sair primeiro, com licença.", "context": "A fórmula padrão para sair do escritório antes dos colegas." },
+      "1": { "translation": "Até mais, boa noite, nos vemos amanhã." }
+    }
+  },
+  "ossu": {
+    "definitions": [
+      {
+        "text": "E aí. Uma saudação masculina e seca, padrão em clubes de artes marciais e times esportivos, e usada casualmente entre amigos homens.",
+        "note": "Marcadamente masculina e marcadamente informal. Uma mulher que a usa está fazendo uma piada deliberada; um caloura ou calouro que a diga a um veterano fora do esporte fica malvisto."
+      }
+    ],
+    "examples": {
+      "0": { "translation": "E aí, quanto tempo." },
+      "1": { "translation": "Beleza, já vou indo." }
+    },
+    "origin": {
+      "etymology": "Geralmente explicado como uma compressão de おはようございます. A grafia marcial 押忍 («empurrar e aguentar») é uma reinterpretação posterior, inventada para dar às sílabas uma leitura moral."
+    }
+  },
+  "faito": {
+    "definitions": [
+      {
+        "text": "Vai que dá; força aí. Gritado para alguém que vai fazer uma prova, correr uma corrida ou entrar numa reunião difícil — incentivo, nunca uma ordem de brigar.",
+        "note": "O coreano 화이팅 é o mesmo empréstimo com o mesmo sentido, e as histórias das duas palavras estão entrelaçadas."
+      }
+    ],
+    "examples": {
+      "0": { "translation": "Amanhã tem prova, né? Força!" },
+      "1": { "translation": "Mais um esforço!", "context": "Um slogan de bebida energética dos anos 1960 tão famoso que ainda é citado como expressão fixa." }
+    },
+    "origin": {
+      "etymology": "Do inglês fight, restrito em japonês a puro incentivo. 頑張って é o equivalente nativo e é mais comum; ファイト é mais luminoso e mais esportivo."
+    }
+  },
+  "gokon": {
+    "definitions": [
+      { "text": "Um encontro às cegas em grupo: alguns amigos de um gênero se encontram com o mesmo número do outro num restaurante, com uma pessoa organizando de cada lado." },
+      { "text": "Uma instituição reconhecida entre estudantes e jovens trabalhadores, com suas próprias convenções sobre quem senta onde, quem paga e como a noite termina." }
+    ],
+    "examples": {
+      "0": { "translation": "Topa um encontro em grupo esse fim de semana?" },
+      "1": { "translation": "Parece que ela conheceu o namorado num desses encontros em grupo." }
+    },
+    "origin": {
+      "etymology": "合同コンパ, «reunião conjunta», sendo コンパ um velho recorte estudantil do inglês company."
+    }
+  },
+  "kokuru": {
+    "definitions": [
+      {
+        "text": "Se declarar: confessar o que sente e pedir formalmente para namorar alguém. No Japão isso é um evento concreto com uma resposta de sim ou não, não uma deriva gradual até o namoro.",
+        "note": "O ponto estrutural que quem está aprendendo costuma deixar passar: sem o 告白, duas pessoas que saem repetidamente ainda não são consideradas um casal."
+      }
+    ],
+    "examples": {
+      "0": { "translation": "Amanhã pretendo dizer o que sinto." },
+      "1": { "translation": "Me declarei e levei um fora." }
+    },
+    "origin": {
+      "etymology": "告白 («confissão») recortado para 告 e com a terminação verbal -る, o mesmo padrão de サボる e ググる."
+    }
+  },
+  "motokano": {
+    "definitions": [
+      { "text": "Uma ex-namorada. 元カレ é o equivalente masculino, e os dois são usados de forma simétrica." }
+    ],
+    "examples": {
+      "0": { "translation": "Melhor não puxar o assunto da sua ex." },
+      "1": { "translation": "Não tenho mais contato com meu ex." }
+    },
+    "origin": {
+      "etymology": "元 («anterior») mais カノ, de 彼女 («ela, namorada»). Recortar assim o pronome é o que faz dele gíria em vez de descrição neutra."
+    }
+  },
+  "shio-taio": {
+    "literalMeaning": "Tratamento de sal.",
+    "definitions": [
+      { "text": "Um atendimento frio: tecnicamente correto, emocionalmente plano. De um ídolo que assina um autógrafo sem levantar os olhos, ou um colega que responde só com monossílabos." },
+      { "text": "Seu oposto é o 神対応, a versão calorosa e impecável." }
+    ],
+    "examples": {
+      "0": { "translation": "O atendente de ontem foi bem seco." },
+      "1": { "translation": "Tem gente que até prefere o tratamento distante." }
+    },
+    "origin": {
+      "etymology": "Do fandom de ídolos por volta de 2014, contrapondo o sal — seco e nu — a 神 («deus»), o oposto exemplar. O sal também tem no Japão uma associação com purificação e com afastar coisas ruins, com a qual a imagem brinca.",
+      "firstAttested": "por volta de 2014"
+    }
+  }
+}
