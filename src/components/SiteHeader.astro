@@ -50,6 +50,37 @@ const isCurrent = (href: string) => (current.startsWith(href) ? 'page' : undefin
         class="focus-ring rounded-md px-3 py-2 text-body-sm font-semibold text-ink aria-[current=page]:text-primary hover:bg-surface-card"
         >{strings.browse}</a
       >
+      <button
+        type="button"
+        class="theme-toggle focus-ring flex size-9 shrink-0 items-center justify-center rounded-full text-ink hover:bg-surface-card"
+        aria-pressed="false"
+      >
+        <svg
+          viewBox="0 0 24 24"
+          class="size-5 [[data-theme=dark]_&]:hidden"
+          data-icon="sun"
+          fill="none"
+          stroke="currentColor"
+          stroke-width="2"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          aria-hidden="true"
+        >
+          <circle cx="12" cy="12" r="4"></circle>
+          <path
+            d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M6.34 17.66l-1.41 1.41M19.07 4.93l-1.41 1.41"
+          ></path>
+        </svg>
+        <svg
+          viewBox="0 0 24 24"
+          class="hidden size-5 [[data-theme=dark]_&]:block"
+          data-icon="moon"
+          fill="currentColor"
+          aria-hidden="true"
+        >
+          <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+        </svg>
+      </button>
       <LocaleSwitcher locale={locale} alternates={alternates} />
     </nav>
 
@@ -115,6 +146,39 @@ const isCurrent = (href: string) => (current.startsWith(href) ? 'page' : undefin
                 >{strings.browse}</a
               >
             </li>
+            <li>
+              <button
+                type="button"
+                class="theme-toggle focus-ring flex items-center gap-2 rounded-md px-2 py-2 text-body-sm font-semibold text-ink"
+                aria-pressed="false"
+              >
+                <svg
+                  viewBox="0 0 24 24"
+                  class="size-4 [[data-theme=dark]_&]:hidden"
+                  data-icon="sun"
+                  fill="none"
+                  stroke="currentColor"
+                  stroke-width="2"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  aria-hidden="true"
+                >
+                  <circle cx="12" cy="12" r="4"></circle>
+                  <path
+                    d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M6.34 17.66l-1.41 1.41M19.07 4.93l-1.41 1.41"
+                  ></path>
+                </svg>
+                <svg
+                  viewBox="0 0 24 24"
+                  class="hidden size-4 [[data-theme=dark]_&]:block"
+                  data-icon="moon"
+                  fill="currentColor"
+                  aria-hidden="true"
+                >
+                  <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                </svg>
+              </button>
+            </li>
           </ul>
         </nav>
         <div class="mt-6 border-t border-hairline pt-4">
@@ -133,7 +197,7 @@ const isCurrent = (href: string) => (current.startsWith(href) ? 'page' : undefin
           <a
             href={c.href}
             aria-current={isCurrent(c.href)}
-            class="focus-ring rounded-full bg-surface-card px-3 py-1.5 text-body-sm text-charcoal aria-[current=page]:bg-ink aria-[current=page]:text-on-dark hover:bg-surface-sunk"
+            class="focus-ring rounded-full bg-surface-card px-3 py-1.5 text-body-sm text-charcoal aria-[current=page]:bg-ink aria-[current=page]:text-canvas hover:bg-surface-sunk"
           >
             {c.adjective}
           </a>
@@ -142,3 +206,31 @@ const isCurrent = (href: string) => (current.startsWith(href) ? 'page' : undefin
     </div>
   </div>
 </header>
+
+<script is:inline>
+  (function () {
+    function isDark() {
+      return document.documentElement.getAttribute('data-theme') === 'dark';
+    }
+
+    function updatePressed() {
+      var pressed = isDark() ? 'true' : 'false';
+      document.querySelectorAll('.theme-toggle').forEach(function (btn) {
+        btn.setAttribute('aria-pressed', pressed);
+      });
+    }
+
+    document.querySelectorAll('.theme-toggle').forEach(function (btn) {
+      btn.addEventListener('click', function () {
+        var next = isDark() ? 'light' : 'dark';
+        document.documentElement.setAttribute('data-theme', next);
+        try {
+          localStorage.setItem('theme', next);
+        } catch (e) {}
+        updatePressed();
+      });
+    });
+
+    updatePressed();
+  })();
+</script>
