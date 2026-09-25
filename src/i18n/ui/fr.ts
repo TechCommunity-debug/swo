@@ -10,7 +10,6 @@ export const fr: Strings = {
   breadcrumb: 'Fil d’Ariane',
   home: 'Accueil',
   browse: 'Index A–Z',
-  about: 'À propos',
   search: 'Rechercher',
   language: 'Langue',
   jumpToLetter: 'Aller à une lettre',
@@ -38,8 +37,6 @@ export const fr: Strings = {
   editorialH2: 'Chaque fiche est écrite, pas générée',
   editorialBody:
     'Un dictionnaire d’argot ne vaut quelque chose que s’il vous dit ce qu’une appli de traduction ne peut pas dire : si un mot est affectueux ou hostile, à qui vous pouvez l’adresser, et si l’histoire d’origine que tout le monde répète tient debout. Quand un point est contesté, nous disons qu’il est contesté. Quand un mot est une insulte discriminatoire, nous le disons aussi, et nous le référençons quand même, parce qu’il faut bien le comprendre quand on l’entend.',
-  howWeSource: 'Comment nous établissons les définitions',
-
   startHere: 'Commencez par ceux-là',
   startHereLead:
     'Les termes ci-dessous sont ceux qui portent le plus de détail d’usage : registre, origine et les situations où ils dérapent. Ce sont ceux qu’il vaut la peine de lire en entier avant le reste.',

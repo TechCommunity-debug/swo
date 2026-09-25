@@ -46,12 +46,6 @@ export const pt: SeoStrings = {
       'Busque em todo o dicionário do Slang Words Online por termo, significado ou país.',
   },
 
-  about: {
-    title: `Como apuramos e revisamos as definições | ${SITE_NAME}`,
-    description:
-      'Nosso método editorial: de onde saem estas definições, como se decide o registro e os avisos de uso, e o que fazemos quando a origem de uma palavra é mesmo desconhecida.',
-  },
-
   notFound: {
     title: `Página não encontrada | ${SITE_NAME}`,
     description: 'Esta página não existe. Busque no dicionário ou escolha um país.',

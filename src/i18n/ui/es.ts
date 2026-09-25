@@ -10,7 +10,6 @@ export const es: Strings = {
   breadcrumb: 'Ruta de navegación',
   home: 'Inicio',
   browse: 'Índice A–Z',
-  about: 'Quiénes somos',
   search: 'Buscar',
   language: 'Idioma',
   jumpToLetter: 'Ir a una letra',
@@ -38,8 +37,6 @@ export const es: Strings = {
   editorialH2: 'Cada entrada está escrita, no generada',
   editorialBody:
     'Un diccionario de argot solo vale algo si te cuenta lo que un traductor automático no puede: si una palabra es cariñosa u hostil, a quién se la puedes decir y si la historia sobre su origen que todo el mundo repite es cierta. Cuando algo está en disputa, lo decimos. Cuando una palabra es un insulto discriminatorio, también lo decimos, y la incluimos igualmente, porque necesitas entenderla cuando la oigas.',
-  howWeSource: 'Cómo documentamos las definiciones',
-
   startHere: 'Empieza por estas',
   startHereLead:
     'Los términos de abajo son los que llevan más detalle de uso: registro, origen y las situaciones en las que se tuercen. Conviene leerlos enteros antes que el resto.',

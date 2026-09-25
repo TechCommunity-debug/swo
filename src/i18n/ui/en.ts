@@ -18,7 +18,6 @@ export const en = {
   breadcrumb: 'Breadcrumb',
   home: 'Home',
   browse: 'Browse A–Z',
-  about: 'About',
   search: 'Search',
   language: 'Language',
   jumpToLetter: 'Jump to letter',
@@ -46,7 +45,6 @@ export const en = {
   editorialH2: 'Every entry is written, not generated',
   editorialBody:
     'A slang dictionary is only worth anything if it tells you the things a translation app cannot: whether a word is affectionate or hostile, who you can say it to, and whether the origin story everyone repeats is actually true. Where something is disputed, we say it is disputed. Where a word is a slur, we say that too, and list it anyway — because you still need to understand it when you hear it.',
-  howWeSource: 'How we source definitions',
 
   // --------------------------------------------------------------- country
   startHere: 'Start with these',

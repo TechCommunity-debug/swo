@@ -21,7 +21,6 @@ export const de: Strings = {
   breadcrumb: 'Brotkrumennavigation',
   home: 'Startseite',
   browse: 'Register A–Z',
-  about: 'Über uns',
   search: 'Suche',
   language: 'Sprache',
   jumpToLetter: 'Zu einem Buchstaben springen',
@@ -49,8 +48,6 @@ export const de: Strings = {
   editorialH2: 'Jeder Eintrag ist geschrieben, nicht generiert',
   editorialBody:
     'Ein Slangwörterbuch taugt nur dann etwas, wenn es die Dinge sagt, die eine Übersetzungs-App nicht sagen kann: ob ein Wort liebevoll oder feindselig gemeint ist, zu wem man es sagen darf und ob die Herkunftsgeschichte, die alle nacherzählen, überhaupt stimmt. Wo etwas umstritten ist, schreiben wir, dass es umstritten ist. Wo ein Wort eine Beleidigung ist, schreiben wir auch das – und führen es trotzdem auf, weil man es immer noch verstehen muss, wenn man es hört.',
-  howWeSource: 'Woher unsere Definitionen kommen',
-
   startHere: 'Fang mit diesen an',
   startHereLead:
     'Die folgenden Begriffe tragen die meisten Angaben zum Gebrauch: Register, Herkunft und die Situationen, in denen sie schiefgehen. Sie lohnen sich als Erstes und in voller Länge.',

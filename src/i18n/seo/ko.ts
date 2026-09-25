@@ -50,12 +50,6 @@ export const ko: SeoStrings = {
     description: '단어와 뜻, 나라로 Slang Words Online 사전 전체를 검색합니다.',
   },
 
-  about: {
-    title: `뜻풀이를 만들고 검토하는 방법 | ${SITE_NAME}`,
-    description:
-      '이 사전의 편집 원칙: 뜻풀이가 어디에서 오는지, 문체와 사용 주의 표시를 어떻게 정하는지, 어원을 정말로 알 수 없을 때 무엇을 하는지 밝힙니다.',
-  },
-
   notFound: {
     title: `페이지를 찾을 수 없습니다 | ${SITE_NAME}`,
     description: '이 페이지는 존재하지 않습니다. 사전을 검색하거나 나라를 골라 살펴보세요.',

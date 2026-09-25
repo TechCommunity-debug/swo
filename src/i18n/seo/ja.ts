@@ -55,12 +55,6 @@ export const ja: SeoStrings = {
       'Slang Words Online の辞典全体を、語・意味・国から検索できます。',
   },
 
-  about: {
-    title: `定義をどう調べ、どう確認しているか | ${SITE_NAME}`,
-    description:
-      '編集方針です。これらの定義がどこから来ているか、語調や使用上の注意をどう決めているか、そして語源が本当に分からないときに何をしているか。',
-  },
-
   notFound: {
     title: `ページが見つかりません | ${SITE_NAME}`,
     description: 'このページはありません。辞典を検索するか、国を選んでご覧ください。',

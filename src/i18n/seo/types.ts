@@ -34,6 +34,5 @@ export interface SeoStrings {
   entry: (entry: EntryHead, firstDefinition: string, country: LocalizedCountry) => Seo;
   browse: (count: number, countries: number) => Seo;
   search: Seo;
-  about: Seo;
   notFound: Seo;
 }

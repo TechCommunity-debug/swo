@@ -47,12 +47,6 @@ export const en: SeoStrings = {
     description: 'Search the full Slang Words Online dictionary by term, meaning or country.',
   },
 
-  about: {
-    title: `How We Source and Review Definitions | ${SITE_NAME}`,
-    description:
-      'Our editorial approach: where these definitions come from, how register and usage warnings are decided, and what we do when the origin of a word is genuinely unknown.',
-  },
-
   notFound: {
     title: `Page not found | ${SITE_NAME}`,
     description: "That page doesn't exist. Search the dictionary or pick a country to browse.",

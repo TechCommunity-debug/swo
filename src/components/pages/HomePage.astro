@@ -22,7 +22,6 @@ import {
 } from '../../lib/site';
 import { localizeCountry, translatedEntry } from '../../lib/localize';
 import { localizeCategory, regionGroupName, REGION_GROUPS } from '../../data/taxonomy';
-import { aboutPath } from '../../lib/urls';
 import { homeSeo, SITE_NAME, SITE_TAGLINE, SITE_URL } from '../../lib/seo';
 import { DEFAULT_LOCALE, localeConfig, type Locale } from '../../data/locales';
 import { depth } from '../../lib/routes';
@@ -270,11 +269,6 @@ const schema = [
         <h2 id="editorial" class="text-heading-xl text-ink">{strings.editorialH2}</h2>
         <p class="mt-4 text-body-md text-body">{strings.editorialBody}</p>
       </div>
-      <a
-        href={aboutPath(locale)}
-        class="focus-ring inline-flex h-10 w-fit items-center rounded-md bg-primary px-4 text-body-sm font-bold text-on-primary hover:bg-primary-pressed"
-        >{strings.howWeSource}</a
-      >
     </section>
   </div>
 </Layout>

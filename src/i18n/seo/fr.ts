@@ -46,12 +46,6 @@ export const fr: SeoStrings = {
       'Cherchez dans tout le dictionnaire Slang Words Online par terme, par sens ou par pays.',
   },
 
-  about: {
-    title: `Comment nous établissons et relisons les définitions | ${SITE_NAME}`,
-    description:
-      'Notre méthode éditoriale : d’où viennent ces définitions, comment se décident le registre et les avertissements d’usage, et ce que nous faisons quand l’origine d’un mot est vraiment inconnue.',
-  },
-
   notFound: {
     title: `Page introuvable | ${SITE_NAME}`,
     description:

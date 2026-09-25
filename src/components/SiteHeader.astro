@@ -2,7 +2,7 @@
 import SearchBox from './SearchBox.astro';
 import LocaleSwitcher from './LocaleSwitcher.astro';
 import Flag from './Flag.astro';
-import { aboutPath, browsePath, countryPath, homePath } from '../lib/urls';
+import { browsePath, countryPath, homePath } from '../lib/urls';
 import { countriesFor, loadSite, type Alternate } from '../lib/site';
 import { localizeCountry } from '../lib/localize';
 import { DEFAULT_LOCALE, type Locale } from '../data/locales';
@@ -49,12 +49,6 @@ const isCurrent = (href: string) => (current.startsWith(href) ? 'page' : undefin
         aria-current={isCurrent(browsePath(locale))}
         class="focus-ring rounded-md px-3 py-2 text-body-sm font-semibold text-ink aria-[current=page]:text-primary hover:bg-surface-card"
         >{strings.browse}</a
-      >
-      <a
-        href={aboutPath(locale)}
-        aria-current={isCurrent(aboutPath(locale))}
-        class="focus-ring rounded-md px-3 py-2 text-body-sm font-semibold text-ink aria-[current=page]:text-primary hover:bg-surface-card"
-        >{strings.about}</a
       >
       <LocaleSwitcher locale={locale} alternates={alternates} />
     </nav>
@@ -119,13 +113,6 @@ const isCurrent = (href: string) => (current.startsWith(href) ? 'page' : undefin
                 href={browsePath(locale)}
                 class="focus-ring block rounded-md px-2 py-2 text-body-sm font-semibold text-ink"
                 >{strings.browse}</a
-              >
-            </li>
-            <li>
-              <a
-                href={aboutPath(locale)}
-                class="focus-ring block rounded-md px-2 py-2 text-body-sm font-semibold text-ink"
-                >{strings.about}</a
               >
             </li>
           </ul>

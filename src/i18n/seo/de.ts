@@ -53,12 +53,6 @@ export const de: SeoStrings = {
       'Durchsuche das gesamte Wörterbuch von Slang Words Online nach Begriff, Bedeutung oder Land.',
   },
 
-  about: {
-    title: `Woher unsere Definitionen kommen und wie wir sie prüfen | ${SITE_NAME}`,
-    description:
-      'Unsere redaktionelle Arbeitsweise: woher diese Definitionen stammen, wie Register und Gebrauchshinweise entschieden werden und was wir tun, wenn die Herkunft eines Wortes wirklich unbekannt ist.',
-  },
-
   notFound: {
     title: `Seite nicht gefunden | ${SITE_NAME}`,
     description:

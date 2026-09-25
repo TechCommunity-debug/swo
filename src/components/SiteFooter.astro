@@ -1,5 +1,5 @@
 ---
-import { aboutPath, browsePath, categoryPath, countryPath, searchPath } from '../lib/urls';
+import { browsePath, categoryPath, countryPath, searchPath } from '../lib/urls';
 import { categoriesFor, countriesFor, entriesFor, loadSite } from '../lib/site';
 import { localizeCountry } from '../lib/localize';
 import { localizeCategory } from '../data/taxonomy';
@@ -95,7 +95,6 @@ const linkClass =
       <nav aria-labelledby="footer-site">
         <h2 id="footer-site" class="text-body-sm font-bold text-ink">{strings.thisSite}</h2>
         <ul class="mt-3 grid gap-2">
-          <li><a href={aboutPath(locale)} class={linkClass}>{strings.howWeSource}</a></li>
           <li><a href={browsePath(locale)} class={linkClass}>{strings.browse}</a></li>
           <li><a href={searchPath(locale)} class={linkClass}>{strings.search}</a></li>
         </ul>

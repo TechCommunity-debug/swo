@@ -51,7 +51,6 @@ export const entryPath = (
 ) => join(locale, countryUrlSlug, categoryUrlSlug, termSlug);
 
 export const browsePath = (locale: Locale = DEFAULT_LOCALE) => join(locale, 'browse');
-export const aboutPath = (locale: Locale = DEFAULT_LOCALE) => join(locale, 'about');
 export const searchPath = (locale: Locale = DEFAULT_LOCALE) => join(locale, 'search');
 
 /**

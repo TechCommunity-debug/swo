@@ -10,7 +10,6 @@ export const it: Strings = {
   breadcrumb: 'Percorso di navigazione',
   home: 'Home',
   browse: 'Indice A–Z',
-  about: 'Chi siamo',
   search: 'Cerca',
   language: 'Lingua',
   jumpToLetter: 'Vai a una lettera',
@@ -38,8 +37,6 @@ export const it: Strings = {
   editorialH2: 'Ogni scheda è scritta, non generata',
   editorialBody:
     'Un dizionario di slang vale qualcosa solo se ti dice quello che un traduttore automatico non può dirti: se una parola è affettuosa o ostile, a chi puoi rivolgerla e se la storia sulla sua origine che ripetono tutti sia poi vera. Quando una cosa è controversa, lo scriviamo. Quando una parola è un insulto discriminatorio, scriviamo anche quello, e la includiamo lo stesso, perché devi comunque capirla quando la senti.',
-  howWeSource: 'Come documentiamo le definizioni',
-
   startHere: 'Parti da questi',
   startHereLead:
     'I termini qui sotto sono quelli con più dettagli d’uso: registro, origine e le situazioni in cui vanno storti. Conviene leggerli per intero prima di tutti gli altri.',

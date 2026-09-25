@@ -67,6 +67,4 @@ export const browseSeo = (count: number, countries: number, locale: Locale): Seo
 
 export const searchSeo = (locale: Locale): Seo => SEO[locale].search;
 
-export const aboutSeo = (locale: Locale): Seo => SEO[locale].about;
-
 export const notFoundSeo = (locale: Locale): Seo => SEO[locale].notFound;

@@ -10,7 +10,6 @@ export const pt: Strings = {
   breadcrumb: 'Trilha de navegação',
   home: 'Início',
   browse: 'Índice A–Z',
-  about: 'Sobre',
   search: 'Buscar',
   language: 'Idioma',
   jumpToLetter: 'Ir para uma letra',
@@ -38,8 +37,6 @@ export const pt: Strings = {
   editorialH2: 'Toda entrada é escrita, não gerada',
   editorialBody:
     'Um dicionário de gíria só vale alguma coisa se contar o que um tradutor automático não consegue contar: se uma palavra é carinhosa ou hostil, para quem dá para dizê-la e se a história de origem que todo mundo repete é verdadeira. Quando algo é contestado, dizemos que é contestado. Quando uma palavra é um xingamento discriminatório, dizemos isso também, e a listamos assim mesmo — porque você continua precisando entendê-la quando ouvir.',
-  howWeSource: 'Como apuramos as definições',
-
   startHere: 'Comece por estes',
   startHereLead:
     'Os termos abaixo são os que trazem mais detalhe de uso: registro, origem e as situações em que saem pela culatra. São os que vale a pena ler por inteiro antes do resto.',
