@@ -67,4 +67,8 @@ export const it: SeoStrings = {
     title: `Informativa sulla privacy | ${SITE_NAME}`,
     description: 'Leggi l\'informativa sulla privacy di Slang Words Online. Scopri come gestiamo dati, cookie e la riservatezza degli utenti nel nostro dizionario.',
   },
+  terms: {
+    title: `Termini e Condizioni | ${SITE_NAME}`,
+    description: 'Leggi i Termini e Condizioni d’uso di Slang Words Online. Linee guida per gli utenti, avvertenze linguistiche, uso didattico e diritti di proprietà intellettuale.',
+  },
 };

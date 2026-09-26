@@ -281,5 +281,71 @@ export const en = {
   privacyContactEmailLabel: 'Email:',
 
   privacyPolicy: 'Privacy Policy',
+  // ---------------------------------------------------------------- terms & conditions
+  termsKicker: 'Terms of Service',
+  termsLastUpdated: 'Last Updated: September 2026',
+  termsIntro:
+    'Welcome to Slang Words Online (<a href="/" class="text-primary hover:underline">slangwordsonline.com</a>). By visiting, browsing, or referencing content on our website, you signify your agreement to these Terms & Conditions. Please review them carefully.',
+  termsSummaryHeading: 'Important Summary',
+  termsSummaryP1Title: 'Descriptive Linguistic Purpose:',
+  termsSummaryP1Body:
+    'We document how people actually speak. Inclusion of coarse, offensive, or controversial slang is strictly lexicographical and does not indicate endorsement.',
+  termsSummaryP2Title: 'Educational Fair Use:',
+  termsSummaryP2Body:
+    'Content is free to read and cite for personal learning, scholarship, and cultural study. Automated mass scraping and commercial replication are prohibited.',
+  termsSummaryP3Title: 'Informational “As Is” Basis:',
+  termsSummaryP3Body:
+    'Language changes rapidly across regions and generations. Always exercise social judgment when using informal terms.',
+  termsSection1Heading: '1. Acceptance of Terms',
+  termsSection1Body:
+    'By accessing or using Slang Words Online (the “Service” or “Site”), you acknowledge that you have read, understood, and agreed to be legally bound by these Terms and our Privacy Policy. If you do not agree to these terms, please do not use the Site.',
+  termsSection2Heading: '2. Linguistic Disclaimer & Nature of Content',
+  termsSection2Lead:
+    'Slang is an organic, raw reflection of human culture and emotion. Consequently, our dictionary contains expressions that encompass:',
+  termsSection2B1: 'Mild, moderate, and vulgar profanities.',
+  termsSection2B2: 'Intimate, romantic, or sexually colloquial phrases.',
+  termsSection2B3: 'Insults, street banter, and provocative slang.',
+  termsSection2B4: 'Culturally sensitive, controversial, or reclaimed terminology.',
+  termsEditorialStanceLabel: 'Editorial Stance:',
+  termsEditorialStanceBody:
+    'Slang Words Online documents language descriptively rather than prescriptively. Listing a word does not mean we endorse hostility, prejudice, harassment, or derogatory behavior. We provide register guidance, literal translations, and contextual warnings so readers understand what words mean when encountered in dialogue, media, literature, or conversation.',
+  termsSection3Heading: '3. Intellectual Property Rights',
+  termsSection3Body:
+    'All original textual explanations, contextual annotations, pronunciation breakdowns, curated worked examples, site architecture, and distinctive design elements are the intellectual property of Slang Words Online.',
+  termsPermittedUseLabel: 'Permitted Use:',
+  termsPermittedUseBody:
+    'You are granted a limited, revocable license to access and read the site for personal, non-commercial, academic, and educational purposes. You may quote short definitions with clear attribution and a link back to the corresponding page on <code>slangwordsonline.com</code>.',
+  termsProhibitedReproLabel: 'Prohibited Reproduction:',
+  termsProhibitedReproBody:
+    'You may not systematically scrape, harvest, reproduce, clone, or mirror our dictionary database, entries, or search indexes for inclusion in competing databases, commercial services, or machine learning training sets without prior written authorization.',
+  termsSection4Heading: '4. Acceptable Use Policy',
+  termsSection4Lead: 'When using the Site, you agree not to:',
+  termsSection4B1:
+    'Engage in automated attacks, bot crawling that overburdens server capacity, or denial-of-service attempts.',
+  termsSection4B2:
+    'Probe, scan, or test the vulnerability of the system or network.',
+  termsSection4B3:
+    'Use the Site or its contact mechanisms to transmit unsolicited spam, advertising, or malicious payloads.',
+  termsSection4B4:
+    'Misrepresent your identity or impersonate our editorial team.',
+  termsSection5Heading: '5. Third-Party Links & External References',
+  termsSection5Body:
+    'Our website may occasionally link to external websites, academic sources, or language references for etymological attribution. We have no control over the content, security, or privacy policies of third-party platforms and assume no liability for them.',
+  termsSection6Heading: '6. Disclaimer of Warranties',
+  termsSection6Body1:
+    'The Service is provided strictly on an <strong>“AS IS”</strong> and <strong>“AS AVAILABLE”</strong> basis without warranties of any kind, whether express, implied, or statutory.',
+  termsSection6Body2:
+    'While our editorial team rigorously checks definitions against authentic native speech and historical records, language varies dramatically across towns, generations, social circles, and contexts. Slang Words Online makes no guarantee that using any colloquial term will be appropriate, polite, or well-received in any given social or professional setting.',
+  termsSection7Heading: '7. Limitation of Liability',
+  termsSection7Body:
+    'To the maximum extent permitted by applicable law, Slang Words Online, its creators, editors, and contributors shall not be liable for any direct, indirect, incidental, consequential, or punitive damages arising from your access to or inability to use the Service, or from any linguistic misunderstandings, social missteps, or errors contained within the dictionary.',
+  termsSection8Heading: '8. Modifications to Terms',
+  termsSection8Body:
+    'We reserve the right to revise or update these Terms & Conditions at our sole discretion. Any modifications will be posted to this page with an updated “Last Updated” date. Your continued use of the website constitutes acceptance of the modified Terms.',
+  termsSection9Heading: '9. Contact Information',
+  termsSection9Body:
+    'For legal inquiries, copyright notices, terms clarification, or general questions regarding these Terms & Conditions, please reach out to us at:',
+  termsContactEmailLabel: 'Email:',
+
   termsConditions: 'Terms & Conditions',
 };

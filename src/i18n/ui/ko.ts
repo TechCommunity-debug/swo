@@ -260,5 +260,71 @@ export const ko: Strings = {
   privacyContactEmailLabel: '이메일:',
 
   privacyPolicy: '개인정보처리방침',
+  // ---------------------------------------------------------------- terms & conditions
+  termsKicker: '이용약관',
+  termsLastUpdated: '최종 수정일: 2026년 9월',
+  termsIntro:
+    'Slang Words Online(<a href="/ko/" class="text-primary hover:underline">slangwordsonline.com</a>)에 오신 것을 환영합니다. 본 웹사이트를 방문, 탐색 또는 인용함으로써 귀하는 본 이용약관에 동의하게 됩니다. 내용을 주의 깊게 검토해 주시기 바랍니다.',
+  termsSummaryHeading: '핵심 요약',
+  termsSummaryP1Title: '기술적 언어 기록 원칙:',
+  termsSummaryP1Body:
+    '본 사전은 사람들이 실제 대화에서 사용하는 언어를 기록합니다. 거친 표현, 비속어, 논쟁적인 속어의 등재는 순수한 어휘학적 기록 목적이며 특정 행위를 조장하거나 옹호하지 않습니다.',
+  termsSummaryP2Title: '교육 목적의 공정 이용:',
+  termsSummaryP2Body:
+    '모든 자료는 개인 학습, 학술 연구, 문화 이해를 위해 자유롭게 열람하고 인용할 수 있습니다. 다만 자동화된 대량 수집(스크래핑) 및 상업적 복제는 금지됩니다.',
+  termsSummaryP3Title: '“있는 그대로” 정보 제공:',
+  termsSummaryP3Body:
+    '속어와 구어 표현은 지역과 세대에 따라 매우 빠르게 변합니다. 일상 어휘를 사용할 때는 항상 사회적 상황과 맥락을 신중히 고려하십시오.',
+  termsSection1Heading: '1. 약관의 수락',
+  termsSection1Body:
+    'Slang Words Online(이하 “서비스” 또는 “사이트”)에 접속하거나 이를 이용함으로써, 귀하는 본 약관과 개인정보 보호정책을 읽고 이해하였으며 이에 구속되는 데 법적으로 동의한 것으로 간주됩니다. 본 약관에 동의하지 않으실 경우 사이트 이용을 중단해 주십시오.',
+  termsSection2Heading: '2. 언어적 면책 고지 및 콘텐츠의 특성',
+  termsSection2Lead:
+    '속어는 인간의 문화와 정서를 있는 그대로 생생하게 보여주는 언어적 현상입니다. 따라서 본 사전에는 다음과 같은 표현이 포함되어 있습니다:',
+  termsSection2B1: '일상적 비속어, 경미하거나 강한 욕설 표현.',
+  termsSection2B2: '친밀한 관계나 연애, 애정을 나타내는 구어적 어휘.',
+  termsSection2B3: '거리의 재담, 도발적 농담 및 자극적인 유행어.',
+  termsSection2B4: '문화적으로 민감하거나 논쟁적이거나 재해석된 용어.',
+  termsEditorialStanceLabel: '편집 방향:',
+  termsEditorialStanceBody:
+    'Slang Words Online은 언어를 규범적으로 통제하는 것이 아니라 실제 쓰임을 관찰하여 기술(descriptive)합니다. 특정 단어가 수록되었다고 해서 차별, 혐오, 비하를 지지하는 것은 아닙니다. 영화, 음악, 대화에서 접한 단어의 참뜻을 올바르게 이해할 수 있도록 어감(레지스터), 직역, 맥락상 주의점을 함께 제공합니다.',
+  termsSection3Heading: '3. 지식재산권',
+  termsSection3Body:
+    '자체 제작된 어휘 해설, 맥락 설명, 발음 안내, 창작 예문, 웹사이트 구조 및 시각적 디자인 요소는 Slang Words Online의 고유한 지식재산입니다.',
+  termsPermittedUseLabel: '허용되는 이용 범위:',
+  termsPermittedUseBody:
+    '귀하는 비상업적 개인 학습, 학술 조사, 교육 목적으로 사이트를 열람할 수 있는 제한적이고 취소 가능한 권리를 갖습니다. 출처를 명확히 밝히고 <code>slangwordsonline.com</code> 해당 페이지 링크를 표기하는 조건으로 짧은 인용이 허용됩니다.',
+  termsProhibitedReproLabel: '금지되는 복제 행위:',
+  termsProhibitedReproBody:
+    '사전 서면 승인 없이 봇을 통한 자동 수집(스크래핑), 사전 데이터베이스나 검색 색인의 복제, 미러 사이트 구축, 경쟁 서비스 제작 또는 인공지능 모델 학습용 데이터셋으로 활용하는 행위는 엄격히 금지됩니다.',
+  termsSection4Heading: '4. 올바른 이용 정책',
+  termsSection4Lead: '귀하는 사이트를 이용할 때 다음 행위를 하지 않는 것에 동의합니다:',
+  termsSection4B1:
+    '서버 과부하를 유발하는 자동화 공격, 비정상적 크롤링, 서비스 거부(DoS) 시도.',
+  termsSection4B2:
+    '시스템이나 네트워크의 취약점을 탐색, 스캔, 테스트하는 행위.',
+  termsSection4B3:
+    '사이트 및 문의 수단을 이용하여 원치 않는 스팸, 광고성 정보, 악성 코드를 전송하는 행위.',
+  termsSection4B4:
+    '타인의 신원을 사칭하거나 본 사전 편집팀을 가장하는 행위.',
+  termsSection5Heading: '5. 외부 링크 및 제3자 자료',
+  termsSection5Body:
+    '본 사이트는 어원 및 학술 근거 제공을 위해 외부 웹사이트 링크를 포함할 수 있습니다. 당사는 제3자 플랫폼의 내용, 보안, 개인정보 처리방침에 대해 통제권이 없으며 어떠한 책임도 지지 않습니다.',
+  termsSection6Heading: '6. 보증의 부인',
+  termsSection6Body1:
+    '본 서비스는 명시적이든 묵시적이든 어떠한 형태의 보증도 없이 <strong>“있는 그대로(AS IS)”</strong> 및 <strong>“이용 가능한 상태로”</strong> 제공됩니다.',
+  termsSection6Body2:
+    '편집팀이 원어민 검수와 문헌 대조를 거치더라도, 구어체 표현은 지역, 세대, 대화 상대에 따라 받아들여지는 느낌이 크게 다를 수 있습니다. Slang Words Online은 본 사전의 표현을 사용했을 때 특정 사회적, 업무적 환경에서 적절하게 수용될 것임을 보증하지 않습니다.',
+  termsSection7Heading: '7. 책임의 한계',
+  termsSection7Body:
+    '관련 법률이 허용하는 최대 범위 내에서, Slang Words Online 및 운영진은 사이트 이용 또는 이용 불가로 인해 발생하는 직간접적 손해, 언어적 오해나 사회적 결례에 대해 법적 책임을 지지 않습니다.',
+  termsSection8Heading: '8. 약관의 변경',
+  termsSection8Body:
+    '당사는 필요에 따라 본 약관을 개정할 권리를 보유합니다. 변경된 내용은 수정일자와 함께 본 페이지에 게시되며, 게시 이후 사이트를 계속 이용하는 것은 개정 약관에 동의한 것으로 간주됩니다.',
+  termsSection9Heading: '9. 문의 안내',
+  termsSection9Body:
+    '법적 문의, 저작권 관련 통지 또는 본 약관에 관한 의문 사항이 있으시면 아래 이메일로 문의해 주시기 바랍니다:',
+  termsContactEmailLabel: '이메일:',
+
   termsConditions: '이용약관',
 };

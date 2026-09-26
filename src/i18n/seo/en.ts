@@ -68,4 +68,8 @@ export const en: SeoStrings = {
     title: `Privacy Policy | ${SITE_NAME}`,
     description: 'Read the Privacy Policy for Slang Words Online. Learn how we handle data, cookies, and visitor privacy across our global slang dictionary.',
   },
+  terms: {
+    title: `Terms & Conditions | ${SITE_NAME}`,
+    description: 'Read the Terms and Conditions for using Slang Words Online. Understand user guidelines, linguistic disclaimers, educational fair use, and intellectual property terms.',
+  },
 };

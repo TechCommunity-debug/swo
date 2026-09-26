@@ -247,5 +247,71 @@ export const es: Strings = {
   privacyContactEmailLabel: 'Correo:',
 
   privacyPolicy: 'Política de privacidad',
+  // ---------------------------------------------------------------- terms & conditions
+  termsKicker: 'Términos de servicio',
+  termsLastUpdated: 'Última actualización: septiembre de 2026',
+  termsIntro:
+    'Bienvenido a Slang Words Online (<a href="/es/" class="text-primary hover:underline">slangwordsonline.com</a>). Al acceder, navegar o consultar contenidos en nuestro sitio web, manifiestas tu conformidad con estos Términos y Condiciones. Por favor, léelos atentamente.',
+  termsSummaryHeading: 'Resumen importante',
+  termsSummaryP1Title: 'Propósito lingüístico descriptivo:',
+  termsSummaryP1Body:
+    'Documentamos cómo se habla en la vida real. La inclusión de expresiones coloquiales, malsonantes o controvertidas tiene un fin exclusivamente lexicográfico y no supone respaldo alguno.',
+  termsSummaryP2Title: 'Uso legítimo y educativo:',
+  termsSummaryP2Body:
+    'El contenido puede consultarse y citarse libremente para fines de aprendizaje personal, investigación académica y estudio cultural. Queda prohibida la extracción masiva automatizada y la réplica comercial.',
+  termsSummaryP3Title: 'Base informativa «tal cual»:',
+  termsSummaryP3Body:
+    'El lenguaje evoluciona rápidamente según regiones y generaciones. Aplica siempre tu propio criterio social al emplear términos informales.',
+  termsSection1Heading: '1. Aceptación de los términos',
+  termsSection1Body:
+    'Al acceder o utilizar Slang Words Online (el «Servicio» o el «Sitio»), confirmas que has leído, entendido y aceptado quedar legalmente vinculado por estos Términos y nuestra Política de Privacidad. Si no estás de acuerdo con ellos, te rogamos no utilizar el Sitio.',
+  termsSection2Heading: '2. Aviso lingüístico y naturaleza del contenido',
+  termsSection2Lead:
+    'El argot y la jerga son un reflejo auténtico y directo de las culturas y emociones humanas. En consecuencia, nuestro diccionario incluye expresiones que abarcan:',
+  termsSection2B1: 'Vocabulario coloquial vulgar, moderado o malsonante.',
+  termsSection2B2: 'Frases íntimas, afectivas o del habla popular amorosa.',
+  termsSection2B3: 'Insultos, bromas callejeras y expresiones provocadoras.',
+  termsSection2B4: 'Términos culturalmente sensibles, controvertidos o reapropiados.',
+  termsEditorialStanceLabel: 'Criterio editorial:',
+  termsEditorialStanceBody:
+    'Slang Words Online describe el lenguaje de forma descriptiva y no prescriptiva. La inclusión de un término no implica que respaldemos la hostilidad, el acoso ni la discriminación. Indicamos el registro de habla, traducciones literales y advertencias contextuales para comprender su significado al oírlo o leerlo.',
+  termsSection3Heading: '3. Derechos de propiedad intelectual',
+  termsSection3Body:
+    'Todas las explicaciones textuales originales, anotaciones contextuales, desgloses de pronunciación, ejemplos de uso redactados, la arquitectura del sitio y sus elementos de diseño son propiedad intelectual de Slang Words Online.',
+  termsPermittedUseLabel: 'Uso permitido:',
+  termsPermittedUseBody:
+    'Se te concede una licencia limitada y revocable para leer y consultar el sitio con fines personales, no comerciales, académicos y educativos. Puedes citar definiciones breves indicando la atribución clara y un enlace a la página correspondiente de <code>slangwordsonline.com</code>.',
+  termsProhibitedReproLabel: 'Reproducción prohibida:',
+  termsProhibitedReproBody:
+    'Queda prohibido recopilar sistemáticamente, extraer mediante bots (scraping), reproducir, clonar o replicar nuestra base de datos, entradas o índices de búsqueda para bases de datos competidoras, servicios comerciales o entrenamiento de modelos de IA sin autorización previa por escrito.',
+  termsSection4Heading: '4. Política de uso aceptable',
+  termsSection4Lead: 'Al utilizar este Sitio, te comprometes a no:',
+  termsSection4B1:
+    'Realizar ataques automatizados, rastreos abusivos que sobrecarguen la infraestructura o intentos de denegación de servicio.',
+  termsSection4B2:
+    'Escanear, sondear o poner a prueba la seguridad o vulnerabilidad de nuestros sistemas o redes.',
+  termsSection4B3:
+    'Utilizar el sitio o sus canales de contacto para remitir publicidad no deseada (spam) o código malicioso.',
+  termsSection4B4:
+    'Falsificar tu identidad o hacerte pasar por miembros de nuestro equipo editorial.',
+  termsSection5Heading: '5. Enlaces externos y referencias de terceros',
+  termsSection5Body:
+    'Nuestro sitio puede enlazar ocasionalmente con páginas web externas, publicaciones académicas o fuentes etimológicas. No tenemos control sobre sus contenidos, políticas o medidas de seguridad, declinando cualquier responsabilidad sobre las mismas.',
+  termsSection6Heading: '6. Exclusión de garantías',
+  termsSection6Body1:
+    'El Servicio se proporciona estrictamente <strong>«TAL CUAL»</strong> y <strong>«SEGÚN DISPONIBILIDAD»</strong>, sin garantías de ninguna clase, ni expresas ni implícitas.',
+  termsSection6Body2:
+    'Aunque nuestro equipo contrasta rigurosamente las definiciones con el habla nativa auténtica y fuentes documentales, el lenguaje coloquial varía de forma notable entre regiones, edades y entornos sociales. Slang Words Online no garantiza que el uso de cualquier término informal sea adecuado o bien recibido en un contexto social o profesional concreto.',
+  termsSection7Heading: '7. Limitación de responsabilidad',
+  termsSection7Body:
+    'En la medida máxima permitida por la legislación aplicable, Slang Words Online, sus creadores y colaboradores no serán responsables por daños directos o indirectos derivados del uso o imposibilidad de uso del sitio, ni por malentendidos lingüísticos, errores en el diccionario o situaciones sociales desfavorables.',
+  termsSection8Heading: '8. Modificaciones de los términos',
+  termsSection8Body:
+    'Nos reservamos el derecho de actualizar estos Términos y Condiciones cuando sea necesario. Cualquier modificación se publicará en esta página con la fecha actualizada. El uso continuado del sitio supone la aceptación de los nuevos términos.',
+  termsSection9Heading: '9. Información de contacto',
+  termsSection9Body:
+    'Para consultas legales, notificaciones de derechos de autor, aclaraciones sobre estos términos o dudas generales, puedes escribirnos directamente a:',
+  termsContactEmailLabel: 'Correo electrónico:',
+
   termsConditions: 'Términos y condiciones',
 };

@@ -71,4 +71,8 @@ export const ko: SeoStrings = {
     title: `개인정보처리방침 | ${SITE_NAME}`,
     description: 'Slang Words Online 의 개인정보처리방침입니다. 데이터 관리, 쿠키 및 이용자 개인정보 보호 방침에 대해 안내합니다.',
   },
+  terms: {
+    title: `이용약관 | ${SITE_NAME}`,
+    description: 'Slang Words Online 이용약관입니다. 사이트 이용 지침, 언어적 면책 고지, 교육 목적 공정 이용 및 지식재산권 규정을 확인하세요.',
+  },
 };

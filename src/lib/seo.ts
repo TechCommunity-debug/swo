@@ -81,3 +81,5 @@ export const contactSeo = (locale: Locale, email: string): Seo =>
   SEO[locale].contact(email);
 
 export const privacySeo = (locale: Locale): Seo => SEO[locale].privacy;
+
+export const termsSeo = (locale: Locale): Seo => SEO[locale].terms;

@@ -39,4 +39,5 @@ export interface SeoStrings {
   about: (countriesCount: number, languagesCount: number) => Seo;
   contact: (email: string) => Seo;
   privacy: Seo;
+  terms: Seo;
 }

@@ -266,5 +266,71 @@ export const ja: Strings = {
   privacyContactEmailLabel: 'メール：',
 
   privacyPolicy: 'プライバシーポリシー',
+  // ---------------------------------------------------------------- terms & conditions
+  termsKicker: '利用規約',
+  termsLastUpdated: '最終更新日: 2026年9月',
+  termsIntro:
+    'Slang Words Online（<a href="/ja/" class="text-primary hover:underline">slangwordsonline.com</a>）へようこそ。当ウェブサイトの閲覧、利用、または情報の参照を行うことにより、利用者は本利用規約に同意したものとみなされます。内容をよくご確認ください。',
+  termsSummaryHeading: '重要な要約',
+  termsSummaryP1Title: '記述的言語記録の理念:',
+  termsSummaryP1Body:
+    '私たちは人々が実際に日常で話している言葉を記録しています。粗野な表現、過激なスラング、物議を醸す用語の掲載は純粋に辞書編纂上の記録であり、差別や攻撃的行動を助長・是認するものではありません。',
+  termsSummaryP2Title: '教育目的の適正利用:',
+  termsSummaryP2Body:
+    'コンテンツは個人の学習、学術研究、文化調査のために自由に閲覧・引用できます。自動スクレイピングによる大量抽出や商業的転載は禁止されています。',
+  termsSummaryP3Title: '「現状有姿」での情報提供:',
+  termsSummaryP3Body:
+    'スラングは地域や世代によって急速に変化します。俗語や崩した表現を使う際は、場の状況や相手との関係性に十分配慮してください。',
+  termsSection1Heading: '1. 規約への同意',
+  termsSection1Body:
+    'Slang Words Online（以下「本サービス」または「当サイト」）にアクセスまたは利用することにより、利用者は本規約およびプライバシーポリシーを読み、理解し、法的に拘束されることに同意したものとみなされます。同意されない場合は当サイトの利用をご遠慮ください。',
+  termsSection2Heading: '2. 言語表現に関する免責とコンテンツの性質',
+  termsSection2Lead:
+    'スラングは人々の生きた文化や感情をありのままに映し出す鏡です。そのため、当辞典には以下のような表現が含まれています:',
+  termsSection2B1: '軽度から重度までの俗語・卑語・罵倒表現。',
+  termsSection2B2: '親密な間柄や恋愛・セクシュアリティに関する口語表現。',
+  termsSection2B3: 'からかい、ストリートの掛け合い、挑発的なスラング。',
+  termsSection2B4: '文化的・社会的に配慮を要する用語や再解釈された語彙。',
+  termsEditorialStanceLabel: '編集方針:',
+  termsEditorialStanceBody:
+    'Slang Words Onlineは言葉の使い方を指示・規範化（規範主義）するのではなく、使われている実態をありのまま記録（記述主義）しています。見出し語の掲載は差別や嫌がらせを容認するものではありません。洋画、小説、SNS、日常会話で出くわした言葉の意味を正しく理解できるよう、使用域（レジスター）、直訳、文脈上の注意点を提供しています。',
+  termsSection3Heading: '3. 知的財産権',
+  termsSection3Body:
+    '独自の解説文、語源や文脈の注釈、発音の手引き、書き下ろし用例、サイトの構成およびデザイン要素は、すべてSlang Words Onlineの知的財産です。',
+  termsPermittedUseLabel: '許可される利用範囲:',
+  termsPermittedUseBody:
+    '利用者は、非商業的な個人学習、学術調査、教育目的のために当サイトを閲覧する、限定的かつ取消可能な権利を有します。明確なクレジット表記と<code>slangwordsonline.com</code>の該当ページへのリンクを添える場合に限り、定義の短い引用が認められます。',
+  termsProhibitedReproLabel: '禁止される複製・転載:',
+  termsProhibitedReproBody:
+    '事前の書面による許諾なく、ボットによる自動収集（スクレイピング）、辞書データベース・見出し語・検索インデックスの複製・複製サイトの構築、競合サービスやAIモデルの学習データセットへの転用を行うことは固く禁止します。',
+  termsSection4Heading: '4. 禁止事項・適正利用方針',
+  termsSection4Lead: '利用者は当サイトの利用にあたり、以下の行為を行ってはなりません:',
+  termsSection4B1:
+    'サーバーに過度な負荷をかける自動アクセス、サイバー攻撃、サービス妨害（DoS）の試み。',
+  termsSection4B2:
+    'システムやネットワークのセキュリティ脆弱性を探査・スキャン・検証する行為。',
+  termsSection4B3:
+    '当サイトやお問い合わせ窓口を利用して、迷惑メール（スパム）、広告、悪意あるプログラムを送信する行為。',
+  termsSection4B4:
+    '当サイトの編集部や第三者になりすます行為。',
+  termsSection5Heading: '5. 外部リンクおよび第三者コンテンツ',
+  termsSection5Body:
+    '当サイトは語源調査や文献参照のため、外部の学術機関やウェブサイトへリンクする場合があります。第三者サイトのコンテンツ、プライバシー基準、セキュリティについて当サイトは一切の管理権を持たず、責任を負いません。',
+  termsSection6Heading: '6. 保証の否認',
+  termsSection6Body1:
+    '本サービスは、明示的か黙示的かを問わず、いかなる保証も伴わない<strong>「現状有姿（AS IS）」</strong>かつ<strong>「提供可能な範囲」</strong>で提供されます。',
+  termsSection6Body2:
+    '編集チームはネイティブスピーカーの使用例や公的記録に基づいて正確性を期していますが、口語表現は地域、年齢層、友人関係によって受け止められ方が大きく異なります。当サイトのスラングを用いた結果、ビジネスや社交の場で生じた対人関係の齟齬について保証するものではありません。',
+  termsSection7Heading: '7. 責任の制限',
+  termsSection7Body:
+    '適用法令の許す最大限の範囲において、Slang Words Onlineおよびその編集者・運営者は、当サイトの利用または利用不能から生じた直接的・間接的・派生的損害、スラングの誤用による対人トラブルについて責任を負いません。',
+  termsSection8Heading: '8. 利用規約の変更',
+  termsSection8Body:
+    '当サイトは必要に応じて本規約を改定する権利を有します。改定内容は本ページに更新日とともに掲載されます。改定後も当サイトの利用を継続した場合、変更内容に同意したものとみなされます。',
+  termsSection9Heading: '9. お問い合わせ窓口',
+  termsSection9Body:
+    '著作権に関する通知、法的な照会、または本規約に関するご質問は、下記メールアドレスまでお問い合わせください:',
+  termsContactEmailLabel: 'メールアドレス:',
+
   termsConditions: '利用規約',
 };

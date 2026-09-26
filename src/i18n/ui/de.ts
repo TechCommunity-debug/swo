@@ -259,5 +259,71 @@ export const de: Strings = {
   privacyContactEmailLabel: 'E-Mail:',
 
   privacyPolicy: 'Datenschutzerklärung',
+  // ---------------------------------------------------------------- terms & conditions
+  termsKicker: 'Nutzungsbedingungen',
+  termsLastUpdated: 'Zuletzt aktualisiert: September 2026',
+  termsIntro:
+    'Willkommen bei Slang Words Online (<a href="/de/" class="text-primary hover:underline">slangwordsonline.com</a>). Durch den Besuch, das Durchstöbern oder die Nutzung unserer Website erklärst du dich mit diesen Nutzungsbedingungen einverstanden. Bitte lies sie aufmerksam durch.',
+  termsSummaryHeading: 'Wichtige Zusammenfassung',
+  termsSummaryP1Title: 'Deskriptiver Sprachdokumentations-Ansatz:',
+  termsSummaryP1Body:
+    'Wir dokumentieren, wie Menschen im echten Leben tatsächlich sprechen. Die Aufnahme derber, provokanter oder umstrittener Slang-Begriffe erfolgt ausschließlich zu lexikografischen Zwecken und stellt keinerlei Befürwortung dar.',
+  termsSummaryP2Title: 'Faire Bildungsnutzung:',
+  termsSummaryP2Body:
+    'Alle Inhalte können für persönliches Lernen, wissenschaftliche Arbeiten und kulturelle Studien frei eingesehen und zitiert werden. Automatisierte Massenabfragen (Scraping) und kommerzielles Klonen sind unzulässig.',
+  termsSummaryP3Title: 'Bereitstellung ohne Gewähr („As Is“):',
+  termsSummaryP3Body:
+    'Umgangssprache verändert sich regional und über Generationen hinweg sehr schnell. Setze informelle Begriffe stets mit sozialem Feingefühl ein.',
+  termsSection1Heading: '1. Geltung der Bedingungen',
+  termsSection1Body:
+    'Mit dem Zugriff auf Slang Words Online (den „Dienst“ bzw. die „Website“) bestätigst du, dass du diese Nutzungsbedingungen sowie unsere Datenschutzerklärung gelesen, verstanden hast und als verbindlich anerkennst. Wenn du diesen Bedingungen nicht zustimmst, nutze die Website bitte nicht.',
+  termsSection2Heading: '2. Sprachlicher Hinweis & Wesen des Inhalts',
+  termsSection2Lead:
+    'Slang und Umgangssprache sind ein lebendiges und ungefiltertes Abbild menschlicher Kultur und Emotionen. Dementsprechend enthält unser Wörterbuch Ausdrücke aus folgenden Bereichen:',
+  termsSection2B1: 'Leichte, mittlere sowie derbe Vulgärsprache und Kraftausdrücke.',
+  termsSection2B2: 'Intime, romantische und umgangssprachliche Liebesbegriffe.',
+  termsSection2B3: 'Beleidigungen, Straßenslang und provokante Redensarten.',
+  termsSection2B4: 'Kulturell sensible, kontroverse oder angeeignete Ausdrücke.',
+  termsEditorialStanceLabel: 'Redaktioneller Standpunkt:',
+  termsEditorialStanceBody:
+    'Slang Words Online beschreibt Sprache deskriptiv und nicht normativ. Die Erfassung eines Worts bedeutet nicht, dass wir Feindseligkeiten, Diskriminierung oder Beleidigungen gutheißen. Wir liefern Hinweise zum Sprachempfinden, wörtliche Übersetzungen und Kontextinformationen, damit Leser Slang in Dialogen, Medien, Filmen oder Literatur richtig einordnen können.',
+  termsSection3Heading: '3. Urheberrecht und geistiges Eigentum',
+  termsSection3Body:
+    'Alle eigens erstellten Worterklärungen, Kontextanmerkungen, Aussprachehinweise, Beispielsätze, die Seitenstruktur sowie die Gestaltungselemente sind das geistige Eigentum von Slang Words Online.',
+  termsPermittedUseLabel: 'Zulässige Nutzung:',
+  termsPermittedUseBody:
+    'Dir wird ein einfaches, widerrufliches Recht eingeräumt, die Website zu privaten, nicht-kommerziellen, akademischen und schulischen Zwecken zu nutzen. Kurze Definitionen dürfen mit deutlicher Quellenangabe und Verlinkung auf die entsprechende Seite von <code>slangwordsonline.com</code> zitiert werden.',
+  termsProhibitedReproLabel: 'Unzulässige Vervielfältigung:',
+  termsProhibitedReproBody:
+    'Es ist untersagt, unsere Wörterbuch-Datenbank, Einträge oder Suchindizes automatisiert per Bot oder Scraper auszulesen, zu spiegeln, zu vervielfältigen oder ohne vorherige schriftliche Zustimmung für Konkurrenzangebote, kommerzielle Dienste oder KI-Trainingsdaten zu nutzen.',
+  termsSection4Heading: '4. Richtlinie zur zulässigen Nutzung',
+  termsSection4Lead: 'Bei der Nutzung der Website verpflichtest du dich, Folgendes zu unterlassen:',
+  termsSection4B1:
+    'Automatisierte Angriffe, übermäßige Bot-Zugriffe, die Serverkapazitäten überlasten, oder Versuche von Denial-of-Service-Attacken.',
+  termsSection4B2:
+    'Sicherheitslücken in Systemen oder Netzwerken auszuspähen, zu scannen oder auszunutzen.',
+  termsSection4B3:
+    'Die Website oder Kontaktkanäle zur Verbreitung unerwünschter Werbung (Spam) oder schädlicher Skripte zu missbrauchen.',
+  termsSection4B4:
+    'Falsche Identitäten anzugeben oder sich als Mitglied unseres Redaktionsteams auszugeben.',
+  termsSection5Heading: '5. Externe Links und Verweise',
+  termsSection5Body:
+    'Unsere Website kann Links zu externen Websites, linguistischen Nachschlagewerken oder etymologischen Quellen enthalten. Wir haben keinen Einfluss auf deren Inhalte, Sicherheitsstandards oder Datenschutzpraktiken und schließen jede Haftung dafür aus.',
+  termsSection6Heading: '6. Haftungsausschluss / Gewährleistung',
+  termsSection6Body1:
+    'Die Bereitstellung des Dienstes erfolgt ausschließlich <strong>„WIE VORHANDEN“</strong> und <strong>„NACH VERFÜGBARKEIT“</strong> ohne jegliche ausdrückliche oder stillschweigende Gewährleistung.',
+  termsSection6Body2:
+    'Obwohl unsere Redaktion Begriffserklärungen sorgfältig anhand realer Sprachbelege und Muttersprachler überprüft, variiert Umgangssprache je nach Region, Altersgruppe und Kontext stark. Slang Words Online übernimmt keine Garantie dafür, dass die Verwendung eines Slang-Wortes in bestimmten sozialen oder beruflichen Situationen angemessen ist.',
+  termsSection7Heading: '7. Haftungsbeschränkung',
+  termsSection7Body:
+    'Soweit gesetzlich zulässig, haften Slang Words Online und die beteiligten Autoren nicht für direkte oder indirekte Schäden, die aus der Nutzung der Website, aus sprachlichen Missverständnissen oder aus gesellschaftlichen Fauxpas resultieren.',
+  termsSection8Heading: '8. Änderungen der Nutzungsbedingungen',
+  termsSection8Body:
+    'Wir behalten uns das Recht vor, diese Nutzungsbedingungen bei Bedarf anzupassen. Jede Überarbeitung wird direkt auf dieser Seite mit dem Datum der Aktualisierung vermerkt. Die fortgesetzte Nutzung der Website gilt als Zustimmung zu den geänderten Bedingungen.',
+  termsSection9Heading: '9. Kontakt',
+  termsSection9Body:
+    'Bei rechtlichen Fragen, Urheberrechtshinweisen oder Anliegen zu diesen Nutzungsbedingungen erreichst du uns direkt per E-Mail unter:',
+  termsContactEmailLabel: 'E-Mail:',
+
   termsConditions: 'Nutzungsbedingungen',
 };

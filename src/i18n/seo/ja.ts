@@ -76,4 +76,8 @@ export const ja: SeoStrings = {
     title: `プライバシーポリシー | ${SITE_NAME}`,
     description: 'Slang Words Online のプライバシーポリシー。当辞典におけるデータ保護、Cookie の取り扱い、訪問者のプライバシー保護方針について説明します。',
   },
+  terms: {
+    title: `利用規約 | ${SITE_NAME}`,
+    description: 'Slang Words Onlineの利用規約です。利用ガイドライン、言語表現に関する免責事項、教育目的の適正利用、知的財産権の取り扱いについてご案内します。',
+  },
 };

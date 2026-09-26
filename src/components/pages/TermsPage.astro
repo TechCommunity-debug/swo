@@ -2,12 +2,13 @@
 import Layout from '../../layouts/Layout.astro';
 import Breadcrumbs from '../Breadcrumbs.astro';
 import JsonLd from '../JsonLd.astro';
+import HeroLegalLinks from '../HeroLegalLinks.astro';
 import { homePath } from '../../lib/urls';
 import { termsAlternates } from '../../lib/site';
 import { breadcrumbs } from '../../lib/schema';
 import { DEFAULT_LOCALE, type Locale } from '../../data/locales';
 import { t } from '../../i18n/ui';
-import { SITE_NAME } from '../../lib/seo';
+import { termsSeo } from '../../lib/seo';
 
 interface Props {
   locale?: Locale;
@@ -16,9 +17,9 @@ interface Props {
 const { locale = DEFAULT_LOCALE } = Astro.props;
 const strings = t(locale);
 
-const pageTitle = `${strings.termsConditions} | ${SITE_NAME}`;
-const pageDescription =
-  'Read the Terms and Conditions for using Slang Words Online. Understand user guidelines, linguistic disclaimers, educational fair use, and intellectual property terms.';
+const CONTACT_EMAIL = 'techcommunity611@gmail.com';
+
+const seo = termsSeo(locale);
 
 const schema = breadcrumbs([
   { name: strings.home, path: homePath(locale) },
@@ -27,8 +28,8 @@ const schema = breadcrumbs([
 ---
 
 <Layout
-  title={pageTitle}
-  description={pageDescription}
+  title={seo.title}
+  description={seo.description}
   locale={locale}
   alternates={termsAlternates()}
 >
@@ -39,32 +40,30 @@ const schema = breadcrumbs([
 
     <header class="mt-8 max-w-3xl">
       <span class="inline-block rounded-full bg-surface-card px-3 py-1 text-caption font-semibold uppercase tracking-wider text-mute">
-        Terms of Service
+        {strings.termsKicker}
       </span>
       <h1 class="mt-3 text-display-lg text-ink">{strings.termsConditions}</h1>
       <p class="mt-3 text-body-sm text-mute">
-        Last Updated: September 2026
+        {strings.termsLastUpdated}
       </p>
-      <p class="mt-4 text-body-md text-body leading-relaxed">
-        Welcome to Slang Words Online (<a href="/" class="text-primary hover:underline">slangwordsonline.com</a>). By visiting, browsing, or referencing content on our website, you signify your agreement to these Terms &amp; Conditions. Please review them carefully.
-      </p>
+      <p class="mt-4 text-body-md text-body leading-relaxed" set:html={strings.termsIntro} />
     </header>
 
     <!-- Key Principles Banner -->
     <div class="mt-8 max-w-3xl rounded-md border border-hairline bg-surface-card p-6">
-      <h2 class="text-heading-md font-semibold text-ink">Important Summary</h2>
+      <h2 class="text-heading-md font-semibold text-ink">{strings.termsSummaryHeading}</h2>
       <ul class="mt-3 space-y-2 text-body-sm text-body">
         <li class="flex items-start gap-2">
           <span class="text-primary font-bold">1.</span>
-          <span><strong>Descriptive Linguistic Purpose:</strong> We document how people actually speak. Inclusion of coarse, offensive, or controversial slang is strictly lexicographical and does not indicate endorsement.</span>
+          <span><strong>{strings.termsSummaryP1Title}</strong> {strings.termsSummaryP1Body}</span>
         </li>
         <li class="flex items-start gap-2">
           <span class="text-primary font-bold">2.</span>
-          <span><strong>Educational Fair Use:</strong> Content is free to read and cite for personal learning, scholarship, and cultural study. Automated mass scraping and commercial replication are prohibited.</span>
+          <span><strong>{strings.termsSummaryP2Title}</strong> {strings.termsSummaryP2Body}</span>
         </li>
         <li class="flex items-start gap-2">
           <span class="text-primary font-bold">3.</span>
-          <span><strong>Informational &ldquo;As Is&rdquo; Basis:</strong> Language changes rapidly across regions and generations. Always exercise social judgment when using informal terms.</span>
+          <span><strong>{strings.termsSummaryP3Title}</strong> {strings.termsSummaryP3Body}</span>
         </li>
       </ul>
     </div>
@@ -72,98 +71,98 @@ const schema = breadcrumbs([
     <!-- Main Content -->
     <article class="mt-10 max-w-3xl space-y-8 text-body text-body-md leading-relaxed">
       <section>
-        <h2 class="text-heading-xl text-ink">1. Acceptance of Terms</h2>
+        <h2 class="text-heading-xl text-ink">{strings.termsSection1Heading}</h2>
         <p class="mt-3">
-          By accessing or using Slang Words Online (the &ldquo;Service&rdquo; or &ldquo;Site&rdquo;), you acknowledge that you have read, understood, and agreed to be legally bound by these Terms and our Privacy Policy. If you do not agree to these terms, please do not use the Site.
+          {strings.termsSection1Body}
         </p>
       </section>
 
       <section>
-        <h2 class="text-heading-xl text-ink">2. Linguistic Disclaimer &amp; Nature of Content</h2>
+        <h2 class="text-heading-xl text-ink">{strings.termsSection2Heading}</h2>
         <p class="mt-3">
-          Slang is an organic, raw reflection of human culture and emotion. Consequently, our dictionary contains expressions that encompass:
+          {strings.termsSection2Lead}
         </p>
         <ul class="mt-2 list-disc pl-6 space-y-1 text-body">
-          <li>Mild, moderate, and vulgar profanities.</li>
-          <li>Intimate, romantic, or sexually colloquial phrases.</li>
-          <li>Insults, street banter, and provocative slang.</li>
-          <li>Culturally sensitive, controversial, or reclaimed terminology.</li>
+          <li>{strings.termsSection2B1}</li>
+          <li>{strings.termsSection2B2}</li>
+          <li>{strings.termsSection2B3}</li>
+          <li>{strings.termsSection2B4}</li>
         </ul>
         <p class="mt-3">
-          <strong>Editorial Stance:</strong> Slang Words Online documents language descriptively rather than prescriptively. Listing a word does not mean we endorse hostility, prejudice, harassment, or derogatory behavior. We provide register guidance, literal translations, and contextual warnings so readers understand what words mean when encountered in dialogue, media, literature, or conversation.
+          <strong>{strings.termsEditorialStanceLabel}</strong> {strings.termsEditorialStanceBody}
         </p>
       </section>
 
       <section>
-        <h2 class="text-heading-xl text-ink">3. Intellectual Property Rights</h2>
+        <h2 class="text-heading-xl text-ink">{strings.termsSection3Heading}</h2>
         <p class="mt-3">
-          All original textual explanations, contextual annotations, pronunciation breakdowns, curated worked examples, site architecture, and distinctive design elements are the intellectual property of Slang Words Online.
+          {strings.termsSection3Body}
         </p>
         <p class="mt-2">
-          <strong>Permitted Use:</strong> You are granted a limited, revocable license to access and read the site for personal, non-commercial, academic, and educational purposes. You may quote short definitions with clear attribution and a link back to the corresponding page on <code>slangwordsonline.com</code>.
+          <strong>{strings.termsPermittedUseLabel}</strong> <span set:html={strings.termsPermittedUseBody} />
         </p>
         <p class="mt-2">
-          <strong>Prohibited Reproduction:</strong> You may not systematically scrape, harvest, reproduce, clone, or mirror our dictionary database, entries, or search indexes for inclusion in competing databases, commercial services, or machine learning training sets without prior written authorization.
+          <strong>{strings.termsProhibitedReproLabel}</strong> {strings.termsProhibitedReproBody}
         </p>
       </section>
 
       <section>
-        <h2 class="text-heading-xl text-ink">4. Acceptable Use Policy</h2>
-        <p class="mt-3">When using the Site, you agree not to:</p>
+        <h2 class="text-heading-xl text-ink">{strings.termsSection4Heading}</h2>
+        <p class="mt-3">{strings.termsSection4Lead}</p>
         <ul class="mt-2 list-disc pl-6 space-y-1 text-body">
-          <li>Engage in automated attacks, bot crawling that overburdens server capacity, or denial-of-service attempts.</li>
-          <li>Probe, scan, or test the vulnerability of the system or network.</li>
-          <li>Use the Site or its contact mechanisms to transmit unsolicited spam, advertising, or malicious payloads.</li>
-          <li>Misrepresent your identity or impersonate our editorial team.</li>
+          <li>{strings.termsSection4B1}</li>
+          <li>{strings.termsSection4B2}</li>
+          <li>{strings.termsSection4B3}</li>
+          <li>{strings.termsSection4B4}</li>
         </ul>
       </section>
 
       <section>
-        <h2 class="text-heading-xl text-ink">5. Third-Party Links &amp; External References</h2>
+        <h2 class="text-heading-xl text-ink">{strings.termsSection5Heading}</h2>
         <p class="mt-3">
-          Our website may occasionally link to external websites, academic sources, or language references for etymological attribution. We have no control over the content, security, or privacy policies of third-party platforms and assume no liability for them.
+          {strings.termsSection5Body}
         </p>
       </section>
 
       <section>
-        <h2 class="text-heading-xl text-ink">6. Disclaimer of Warranties</h2>
-        <p class="mt-3">
-          The Service is provided strictly on an <strong>&ldquo;AS IS&rdquo;</strong> and <strong>&ldquo;AS AVAILABLE&rdquo;</strong> basis without warranties of any kind, whether express, implied, or statutory.
-        </p>
+        <h2 class="text-heading-xl text-ink">{strings.termsSection6Heading}</h2>
+        <p class="mt-3" set:html={strings.termsSection6Body1} />
         <p class="mt-2">
-          While our editorial team rigorously checks definitions against authentic native speech and historical records, language varies dramatically across towns, generations, social circles, and contexts. Slang Words Online makes no guarantee that using any colloquial term will be appropriate, polite, or well-received in any given social or professional setting.
+          {strings.termsSection6Body2}
         </p>
       </section>
 
       <section>
-        <h2 class="text-heading-xl text-ink">7. Limitation of Liability</h2>
+        <h2 class="text-heading-xl text-ink">{strings.termsSection7Heading}</h2>
         <p class="mt-3">
-          To the maximum extent permitted by applicable law, Slang Words Online, its creators, editors, and contributors shall not be liable for any direct, indirect, incidental, consequential, or punitive damages arising from your access to or inability to use the Service, or from any linguistic misunderstandings, social missteps, or errors contained within the dictionary.
+          {strings.termsSection7Body}
         </p>
       </section>
 
       <section>
-        <h2 class="text-heading-xl text-ink">8. Modifications to Terms</h2>
+        <h2 class="text-heading-xl text-ink">{strings.termsSection8Heading}</h2>
         <p class="mt-3">
-          We reserve the right to revise or update these Terms &amp; Conditions at our sole discretion. Any modifications will be posted to this page with an updated &ldquo;Last Updated&rdquo; date. Your continued use of the website constitutes acceptance of the modified Terms.
+          {strings.termsSection8Body}
         </p>
       </section>
 
       <section class="rounded-md border border-hairline bg-surface-card p-6">
-        <h2 class="text-heading-xl text-ink">9. Contact Information</h2>
+        <h2 class="text-heading-xl text-ink">{strings.termsSection9Heading}</h2>
         <p class="mt-2 text-body">
-          For legal inquiries, copyright notices, terms clarification, or general questions regarding these Terms &amp; Conditions, please reach out to us at:
+          {strings.termsSection9Body}
         </p>
         <div class="mt-4 flex flex-col gap-2 sm:flex-row sm:items-center">
-          <span class="font-semibold text-ink">Email:</span>
+          <span class="font-semibold text-ink">{strings.termsContactEmailLabel}</span>
           <a
-            href="mailto:techcommunity611@gmail.com"
+            href={`mailto:${CONTACT_EMAIL}`}
             class="text-primary font-semibold hover:underline"
           >
-            techcommunity611@gmail.com
+            {CONTACT_EMAIL}
           </a>
         </div>
       </section>
+
+      <HeroLegalLinks locale={locale} class="mt-6" />
     </article>
   </div>
 </Layout>
