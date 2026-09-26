@@ -55,4 +55,8 @@ export const it: SeoStrings = {
     description:
       'Si è verificato un errore imprevisto del server su Slang Words Online. Ricarica la pagina o torna alla home page del dizionario.',
   },
+  about: (countriesCount, languagesCount) => ({
+    title: `Chi siamo — Guida globale allo slang e ai modi di dire | ${SITE_NAME}`,
+    description: `Scopri Slang Words Online, la guida globale al gergo vivo, al linguaggio colloquiale, ai modi di dire e alle espressioni informali in ${countriesCount} paesi e ${languagesCount} lingue.`,
+  }),
 };

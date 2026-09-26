@@ -127,6 +127,52 @@ export const pt: Strings = {
   copyright: (year: number) => `© ${year} Slang Words Online`,
   countrySlang: (adjective: string) => `gíria ${adjective}`,
 
+  // ---------------------------------------------------------------- about us
+  aboutH1: 'Sobre o Slang Words Online',
+  aboutSubtitle:
+    'O guia global da língua viva, do vocabulário das ruas e das expressões culturais.',
+  aboutIntro:
+    'Toda língua tem duas vidas: a versão formal dos livros de gramática e a versão viva e dinâmica que realmente se fala na rua, nos cafés, à mesa, nas músicas e nas mensagens de grupo. O <strong>Slang Words Online</strong> existe para a segunda.',
+  aboutStatCountries: 'Países e dialetos',
+  aboutStatTerms: 'Termos e expressões de gíria',
+  aboutStatCategories: 'Categorias do cotidiano',
+  aboutStatLanguages: 'Idiomas disponíveis',
+  aboutWhyHeading: 'Por que criamos o Slang Words Online',
+  aboutWhyP1:
+    'Você já ouviu uma frase numa conversa, assistiu a uma série internacional com legendas ou escutou uma música e se perguntou: <em>«O que isso significa de verdade?»</em>',
+  aboutWhyP2:
+    'Colocar a expressão num tradutor automático costuma gerar confusão: ou ele traduz cada palavra literalmente (gerando absurdos como traduzir «de una» do espanhol como «de uma» em vez de «na hora / com certeza») ou traz uma alternativa formal de dicionário sem o peso emocional real.',
+  aboutWhyP3:
+    'Criamos o Slang Words Online para oferecer o contexto cultural, o tom, o registro e as nuances sociais que livros didáticos e tradutores automáticos deixam de fora.',
+  aboutPillarsHeading: 'O que diferencia o nosso dicionário',
+  aboutPillarsLead:
+    'Um dicionário de gírias só tem valor se explicar aquilo que uma busca rápida não consegue responder:',
+  aboutPillar1Title: '1. Registro e nuances sociais',
+  aboutPillar1Body:
+    'O termo é uma brincadeira afetuosa entre amigos íntimos ou soa ofensivo em situações formais? Indicamos claramente o registro e o tom para que você nunca passe por um constrangimento.',
+  aboutPillar2Title: '2. Exemplos reais do dia a dia',
+  aboutPillar2Body:
+    'Cada verbete traz diálogos naturais e frases contextuais na língua original, acompanhados de traduções coloquiais e literais precisas.',
+  aboutPillar3Title: '3. Origens debatidas e etimologia',
+  aboutPillar3Body:
+    'A internet está cheia de lendas e falsas etimologias. Quando a origem é comprovada historicamente, citamos as evidências; quando é controversa ou lenda popular, deixamos isso bem claro.',
+  aboutPillar4Title: '4. Romanização e fonética',
+  aboutPillar4Body:
+    'Escritas não latinas (cirílico, kanji/hiragana japonês, hangul coreano) vêm com romanizações claras, guias de pronúncia e dicas fonéticas para você ler e pronunciar com segurança.',
+  aboutCulturesHeading: 'Culturas e dialetos contemplados',
+  aboutCulturesLead: (count: number) =>
+    `Nosso acervo reúne ${count} polos linguísticos e regionais distintos, refletindo a riqueza e a diversidade da fala informal pelo mundo:`,
+  aboutEditorialHeading: 'Filosofia editorial e colaboração comunitária',
+  aboutEditorialP1:
+    'As gírias não são criadas por lexicógrafos em gabinetes fechados; elas nascem nos pátios das escolas, nas rodas de conversa, nos jogos, nos estúdios e nas redes sociais. Como a gíria muda sem parar, o Slang Words Online é um projeto vivo.',
+  aboutEditorialP2:
+    'Recebemos com entusiasmo falantes nativos, viajantes e entusiastas de idiomas de todo o mundo para sugerir novos termos, apontar variações regionais ou enviar correções.',
+  aboutConnectHeading: 'Fale com a nossa equipe',
+  aboutConnectBody:
+    'Tem uma gíria da sua cidade que ainda não está no dicionário? Notou algum detalhe regional que merece destaque? Adoraríamos ouvir você.',
+  aboutContactBtn: 'Falar com a equipe',
+  aboutBrowseBtn: 'Explorar todas as gírias de A a Z',
+
   aboutUs: 'Sobre nós',
   contactUs: 'Contato',
   privacyPolicy: 'Política de privacidade',

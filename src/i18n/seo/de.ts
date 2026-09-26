@@ -63,4 +63,8 @@ export const de: SeoStrings = {
     description:
       'Ein unerwarteter Serverfehler ist auf Slang Words Online aufgetreten. Bitte aktualisiere die Seite oder kehre zur Startseite zurück.',
   },
+  about: (countriesCount, languagesCount) => ({
+    title: `Über uns — Weltweiter Wegweiser für Slang & Umgangssprache | ${SITE_NAME}`,
+    description: `Erfahre mehr über Slang Words Online, das weltweite Nachschlagewerk für lebendigen Slang, Umgangssprache, Redewendungen und informelle Ausdrücke aus ${countriesCount} Ländern in ${languagesCount} Sprachen.`,
+  }),
 };

@@ -65,4 +65,8 @@ export const ru: SeoStrings = {
     description:
       'На сервере Slang Words Online произошла непредвиденная ошибка. Пожалуйста, обновите страницу или вернитесь на главную.',
   },
+  about: (countriesCount, languagesCount) => ({
+    title: `О нас — Всемирный путеводитель по сленгу и разговорной речи | ${SITE_NAME}`,
+    description: `Узнайте больше о Slang Words Online — глобальном справочнике живого сленга, разговорной речи, идиом и неформальных выражений из ${countriesCount} стран на ${languagesCount} языках.`,
+  }),
 };

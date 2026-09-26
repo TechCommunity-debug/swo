@@ -56,4 +56,8 @@ export const en: SeoStrings = {
     description:
       'An unexpected server error occurred on Slang Words Online. Please refresh the page or return to the dictionary homepage.',
   },
+  about: (countriesCount, languagesCount) => ({
+    title: `About Us — Global Slang & Colloquialisms Guide | ${SITE_NAME}`,
+    description: `Learn about Slang Words Online, the global guide to living slang, colloquial speech, idioms, and informal expressions across ${countriesCount} countries and ${languagesCount} languages.`,
+  }),
 };

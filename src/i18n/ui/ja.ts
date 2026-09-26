@@ -146,6 +146,52 @@ export const ja: Strings = {
   copyright: (year: number) => `© ${year} Slang Words Online`,
   countrySlang: (adjective: string) => `${adjective}のスラング`,
 
+  // ---------------------------------------------------------------- about us
+  aboutH1: 'Slang Words Online について',
+  aboutSubtitle:
+    '生きた言葉、街頭のボキャブラリー、文化的な口語表現を網羅する世界のスラングガイド。',
+  aboutIntro:
+    'あらゆる言語には2つの姿があります。教科書に載っている文法的な言葉と、街頭やカフェ、食卓、音楽、SNSのチャットで実際に交わされる生き生きとした言葉です。<strong>Slang Words Online</strong> は、まさにその「生きた言葉」のために作られました。',
+  aboutStatCountries: '国と方言',
+  aboutStatTerms: 'スラング用語・表現',
+  aboutStatCategories: '日常カテゴリー',
+  aboutStatLanguages: '対応言語',
+  aboutWhyHeading: '私たちがこのサイトを作った理由',
+  aboutWhyP1:
+    '会話の中や字幕付きの海外ドラマ、洋楽の歌詞でフレーズを耳にして、<em>「これって一体どういう意味なんだろう？」</em>と疑問に思ったことはありませんか？',
+  aboutWhyP2:
+    '一般的な自動翻訳に入力しても混乱することが少なくありません。直訳されて意味不明になったり（例えばスペイン語の「de una」が「すぐに / もちろん」ではなく「1つの」と訳されるなど）、感情のこもっていない堅苦しい辞書表現に置き換えられてしまったりします。',
+  aboutWhyP3:
+    '教科書や機械翻訳では拾いきれない文化的背景、ニュアンス、口調、使用場面の空気を丁寧に届けるために、私たちは Slang Words Online を構築しました。',
+  aboutPillarsHeading: '本辞典の4つのこだわり',
+  aboutPillarsLead:
+    'スラング辞典の真価は、単なるWeb検索では分からないリアルな情報を伝えられるかどうかにあります。',
+  aboutPillar1Title: '1. 使用場面とニュアンスの明示',
+  aboutPillar1Body:
+    '親しい間柄の親愛を込めた冗談なのか、公の場では失礼にあたる表現なのか。気まずい思いをしないよう、言葉のトーンや適切さを分かりやすく分類しています。',
+  aboutPillar2Title: '2. 生きた例文と自然な会話',
+  aboutPillar2Body:
+    'すべての項目に原語での自然な対話例と文脈を掲載し、意訳と直訳の両方で実際の使われ方を紹介しています。',
+  aboutPillar3Title: '3. 語源と諸説の検証',
+  aboutPillar3Body:
+    'ネット上には俗説や誤った語源が溢れています。歴史的な根拠がある場合はそれを明記し、都市伝説や諸説ある場合はその旨を明示しています。',
+  aboutPillar4Title: '4. 発音ガイドとローマ字表記',
+  aboutPillar4Body:
+    'キリル文字やハングルなどの非ラテン文字には、読みやすいローマ字表記や発音のポイントを掲載し、安心して発音できるよう工夫しています。',
+  aboutCulturesHeading: '収録されている地域とカルチャー',
+  aboutCulturesLead: (count: number) =>
+    `世界${count}の言語・地域ハブを網羅し、世界各地で話されている色彩豊かなくだけた日常表現を紹介しています。`,
+  aboutEditorialHeading: '編集方針とコミュニティからの参加',
+  aboutEditorialP1:
+    'スラングは学者が机の上で作るものではありません。学校のグラウンドや劇場、スタジアム、音楽スタジオ、ネットのコミュニティから日々生まれます。言葉は常に変化し続けるため、本サイトも常に進化を続けています。',
+  aboutEditorialP2:
+    'ネイティブスピーカーや旅行者、言語ファンの方々からの新しい表現の提案、方言のニュアンスの補足、訂正のフィードバックをいつでも歓迎しています。',
+  aboutConnectHeading: 'お問い合わせ・ご提案',
+  aboutConnectBody:
+    'まだ掲載されていない地元のスラングや、補足したい地域独特のニュアンスをご存知ですか？ ぜひお気軽に情報をお寄せください。',
+  aboutContactBtn: 'チームへ連絡する',
+  aboutBrowseBtn: 'すべてのスラングを五十音・アルファベット順で見る',
+
   aboutUs: '当サイトについて',
   contactUs: 'お問い合わせ',
   privacyPolicy: 'プライバシーポリシー',

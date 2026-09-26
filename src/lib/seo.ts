@@ -70,3 +70,9 @@ export const searchSeo = (locale: Locale): Seo => SEO[locale].search;
 export const notFoundSeo = (locale: Locale): Seo => SEO[locale].notFound;
 
 export const serverErrorSeo = (locale: Locale): Seo => SEO[locale].serverError;
+
+export const aboutSeo = (
+  locale: Locale,
+  countriesCount: number,
+  languagesCount: number,
+): Seo => SEO[locale].about(countriesCount, languagesCount);

@@ -56,4 +56,8 @@ export const fr: SeoStrings = {
     description:
       'Une erreur de serveur inattendue s’est produite sur Slang Words Online. Veuillez actualiser la page ou revenir à l’accueil.',
   },
+  about: (countriesCount, languagesCount) => ({
+    title: `À propos — Guide mondial de l'argot et des expressions familières | ${SITE_NAME}`,
+    description: `Découvrez Slang Words Online, le guide mondial de l'argot vivant, du langage familier, des idiomes et des tournures informelles à travers ${countriesCount} pays et ${languagesCount} langues.`,
+  }),
 };

@@ -59,4 +59,8 @@ export const ko: SeoStrings = {
     description:
       'Slang Words Online 서버에서 예기치 않은 오류가 발생했습니다. 페이지를 새로고침하거나 사전 홈으로 돌아가 주세요.',
   },
+  about: (countriesCount, languagesCount) => ({
+    title: `소개 — 세계 슬랭 및 구어 표현 가이드 | ${SITE_NAME}`,
+    description: `Slang Words Online을 소개합니다. 전 세계 ${countriesCount}개국 ${languagesCount}개 언어의 생생한 슬랭, 일상 구어체, 관용구, 은어를 깊이 있게 해설하는 글로벌 사전입니다.`,
+  }),
 };

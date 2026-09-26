@@ -3,13 +3,14 @@ import Layout from '../../layouts/Layout.astro';
 import Breadcrumbs from '../Breadcrumbs.astro';
 import Flag from '../Flag.astro';
 import JsonLd from '../JsonLd.astro';
+import HeroLegalLinks from '../HeroLegalLinks.astro';
 import { browsePath, countryPath, homePath, contactPath } from '../../lib/urls';
 import { aboutAlternates, countriesFor, entriesFor, loadSite } from '../../lib/site';
 import { localizeCountry } from '../../lib/localize';
 import { breadcrumbs } from '../../lib/schema';
 import { DEFAULT_LOCALE, type Locale } from '../../data/locales';
 import { t } from '../../i18n/ui';
-import { SITE_NAME } from '../../lib/seo';
+import { aboutSeo } from '../../lib/seo';
 
 interface Props {
   locale?: Locale;
@@ -25,9 +26,7 @@ const totalEntries = countries.reduce(
   0
 );
 
-const pageTitle = `${strings.aboutUs} | ${SITE_NAME}`;
-const pageDescription =
-  `Learn about Slang Words Online, the global guide to living slang, colloquial speech, idioms, and informal expressions across ${countries.length} countries and 9 languages.`;
+const seo = aboutSeo(locale, countries.length, 9);
 
 const schema = breadcrumbs([
   { name: strings.home, path: homePath(locale) },
@@ -36,8 +35,8 @@ const schema = breadcrumbs([
 ---
 
 <Layout
-  title={pageTitle}
-  description={pageDescription}
+  title={seo.title}
+  description={seo.description}
   locale={locale}
   alternates={aboutAlternates()}
 >
@@ -49,34 +48,32 @@ const schema = breadcrumbs([
     <!-- Hero Section -->
     <header class="mt-8 max-w-3xl">
       <span class="inline-block rounded-full bg-surface-card px-3 py-1 text-caption font-semibold uppercase tracking-wider text-mute">
-        About Us
+        {strings.aboutUs}
       </span>
-      <h1 class="mt-3 text-display-lg text-ink">About Slang Words Online</h1>
+      <h1 class="mt-3 text-display-lg text-ink">{strings.aboutH1}</h1>
       <p class="mt-4 text-heading-lg font-normal text-mute">
-        The global guide to living language, street vocabulary, and cultural colloquialisms.
+        {strings.aboutSubtitle}
       </p>
-      <p class="mt-5 text-body-md text-body leading-relaxed">
-        Every language has two lives: the formal version found in grammar textbooks, and the living, dynamic version that actually gets spoken on the street, in cafes, across dinner tables, in songs, and across group chats. <strong>Slang Words Online</strong> exists for the second one.
-      </p>
+      <p class="mt-5 text-body-md text-body leading-relaxed" set:html={strings.aboutIntro} />
     </header>
 
     <!-- Stats Grid -->
     <div class="mt-10 grid grid-cols-2 gap-4 sm:grid-cols-4">
       <div class="rounded-md border border-hairline bg-canvas p-5 text-center">
         <span class="block text-display-lg font-bold text-primary">{countries.length}</span>
-        <span class="mt-1 block text-body-sm font-medium text-mute">Countries &amp; Dialects</span>
+        <span class="mt-1 block text-body-sm font-medium text-mute">{strings.aboutStatCountries}</span>
       </div>
       <div class="rounded-md border border-hairline bg-canvas p-5 text-center">
         <span class="block text-display-lg font-bold text-primary">{totalEntries}+</span>
-        <span class="mt-1 block text-body-sm font-medium text-mute">Slang Terms &amp; Phrases</span>
+        <span class="mt-1 block text-body-sm font-medium text-mute">{strings.aboutStatTerms}</span>
       </div>
       <div class="rounded-md border border-hairline bg-canvas p-5 text-center">
         <span class="block text-display-lg font-bold text-primary">11</span>
-        <span class="mt-1 block text-body-sm font-medium text-mute">Everyday Categories</span>
+        <span class="mt-1 block text-body-sm font-medium text-mute">{strings.aboutStatCategories}</span>
       </div>
       <div class="rounded-md border border-hairline bg-canvas p-5 text-center">
         <span class="block text-display-lg font-bold text-primary">9</span>
-        <span class="mt-1 block text-body-sm font-medium text-mute">Supported Languages</span>
+        <span class="mt-1 block text-body-sm font-medium text-mute">{strings.aboutStatLanguages}</span>
       </div>
     </div>
 
@@ -84,47 +81,41 @@ const schema = breadcrumbs([
     <article class="mt-12 max-w-3xl space-y-10 text-body text-body-md leading-relaxed">
       <!-- Section 1 -->
       <section>
-        <h2 class="text-heading-xl text-ink">Why We Built Slang Words Online</h2>
-        <p class="mt-3">
-          Have you ever overheard a phrase in conversation, watched an international series with subtitles, or listened to a song and wondered: <em>&ldquo;What on earth does that actually mean?&rdquo;</em>
-        </p>
-        <p class="mt-3">
-          Plugging the phrase into a standard translation tool often yields confusion: translations either translate each word literally (producing nonsense like translating Spanish &ldquo;de una&rdquo; as &ldquo;of one&rdquo; instead of &ldquo;right away / absolutely&rdquo;) or provide an overly polite dictionary substitute that misses the emotional weight.
-        </p>
-        <p class="mt-3">
-          We built Slang Words Online to provide the cultural context, tone, register, and social nuance that textbooks and automated translators leave behind.
-        </p>
+        <h2 class="text-heading-xl text-ink">{strings.aboutWhyHeading}</h2>
+        <p class="mt-3" set:html={strings.aboutWhyP1} />
+        <p class="mt-3" set:html={strings.aboutWhyP2} />
+        <p class="mt-3">{strings.aboutWhyP3}</p>
       </section>
 
       <!-- Section 2: Four Pillars -->
       <section>
-        <h2 class="text-heading-xl text-ink">What Sets Our Dictionary Apart</h2>
+        <h2 class="text-heading-xl text-ink">{strings.aboutPillarsHeading}</h2>
         <p class="mt-3">
-          A slang dictionary is only worthwhile if it tells you the things a simple search query cannot:
+          {strings.aboutPillarsLead}
         </p>
         <div class="mt-6 grid gap-4 sm:grid-cols-2">
           <div class="rounded-md border border-hairline bg-canvas p-5">
-            <h3 class="text-heading-md font-semibold text-ink">1. Register &amp; Social Nuance</h3>
+            <h3 class="text-heading-md font-semibold text-ink">{strings.aboutPillar1Title}</h3>
             <p class="mt-2 text-body-sm text-body">
-              Is a term affectionate banter between close friends or offensive in polite company? We clearly label register and tone so you never make an awkward faux pas.
+              {strings.aboutPillar1Body}
             </p>
           </div>
           <div class="rounded-md border border-hairline bg-canvas p-5">
-            <h3 class="text-heading-md font-semibold text-ink">2. Worked, Real-Life Examples</h3>
+            <h3 class="text-heading-md font-semibold text-ink">{strings.aboutPillar2Title}</h3>
             <p class="mt-2 text-body-sm text-body">
-              Every term includes natural dialogue and contextual sentences in the original tongue, paired with accurate colloquial and literal translations.
+              {strings.aboutPillar2Body}
             </p>
           </div>
           <div class="rounded-md border border-hairline bg-canvas p-5">
-            <h3 class="text-heading-md font-semibold text-ink">3. Disputed Origins &amp; Etymology</h3>
+            <h3 class="text-heading-md font-semibold text-ink">{strings.aboutPillar3Title}</h3>
             <p class="mt-2 text-body-sm text-body">
-              Internet folklore is full of false etymologies. When an origin story is verified, we cite historical evidence; where it is disputed or folk legend, we explicitly say so.
+              {strings.aboutPillar3Body}
             </p>
           </div>
           <div class="rounded-md border border-hairline bg-canvas p-5">
-            <h3 class="text-heading-md font-semibold text-ink">4. Romanization &amp; Phonetics</h3>
+            <h3 class="text-heading-md font-semibold text-ink">{strings.aboutPillar4Title}</h3>
             <p class="mt-2 text-body-sm text-body">
-              Non-Latin scripts (Cyrillic, Japanese Kanji/Hiragana, Korean Hangul) carry clear romanizations, pronunciation guides, and phonetic tips so you can read and pronounce them with confidence.
+              {strings.aboutPillar4Body}
             </p>
           </div>
         </div>
@@ -132,9 +123,9 @@ const schema = breadcrumbs([
 
       <!-- Section 3: Countries Covered -->
       <section>
-        <h2 class="text-heading-xl text-ink">Cultures and Dialects Covered</h2>
+        <h2 class="text-heading-xl text-ink">{strings.aboutCulturesHeading}</h2>
         <p class="mt-3">
-          Our library spans 16 distinct linguistic and regional hubs, reflecting the rich diversity of informal speech around the world:
+          {strings.aboutCulturesLead(countries.length)}
         </p>
         <div class="mt-6 grid grid-cols-2 gap-3 sm:grid-cols-3 md:grid-cols-4">
           {
@@ -156,33 +147,33 @@ const schema = breadcrumbs([
 
       <!-- Section 4: Editorial Standards -->
       <section>
-        <h2 class="text-heading-xl text-ink">Editorial Philosophy &amp; Community Contributions</h2>
+        <h2 class="text-heading-xl text-ink">{strings.aboutEditorialHeading}</h2>
         <p class="mt-3">
-          Slang is not invented by lexicographers in ivory towers; it is born in schoolyards, comedy clubs, sporting matches, recording studios, and internet chat rooms. Because slang is constantly morphing, Slang Words Online is a living project.
+          {strings.aboutEditorialP1}
         </p>
         <p class="mt-3">
-          We welcome native speakers, travelers, and linguistics enthusiasts from everywhere to suggest new expressions, report dialect nuances, or provide corrections.
+          {strings.aboutEditorialP2}
         </p>
       </section>
 
       <!-- CTA Card -->
       <section class="rounded-md border border-hairline bg-surface-card p-6">
-        <h2 class="text-heading-xl text-ink">Connect With Us</h2>
+        <h2 class="text-heading-xl text-ink">{strings.aboutConnectHeading}</h2>
         <p class="mt-2 text-body">
-          Got a slang term from your hometown we haven&apos;t documented yet? Found a regional nuance that deserves mention? We would love to hear from you.
+          {strings.aboutConnectBody}
         </p>
         <div class="mt-5 flex flex-wrap items-center gap-3">
           <a
             href={contactPath(locale)}
             class="focus-ring inline-flex items-center gap-2 rounded-md bg-ink px-4 py-2.5 text-body-sm font-semibold text-canvas hover:bg-charcoal"
           >
-            Contact the Team
+            {strings.aboutContactBtn}
           </a>
           <a
             href={browsePath(locale)}
             class="focus-ring inline-flex items-center gap-2 rounded-md border border-hairline bg-canvas px-4 py-2.5 text-body-sm font-semibold text-ink hover:bg-surface-card"
           >
-            Browse All Terms A&ndash;Z
+            {strings.aboutBrowseBtn}
           </a>
           <a
             href="mailto:techcommunity611@gmail.com"
@@ -192,6 +183,8 @@ const schema = breadcrumbs([
           </a>
         </div>
       </section>
+
+      <HeroLegalLinks locale={locale} class="mt-6" />
     </article>
   </div>
 </Layout>

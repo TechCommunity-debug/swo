@@ -127,6 +127,52 @@ export const fr: Strings = {
   copyright: (year: number) => `© ${year} Slang Words Online`,
   countrySlang: (adjective: string) => `argot ${adjective}`,
 
+  // ---------------------------------------------------------------- about us
+  aboutH1: 'À propos de Slang Words Online',
+  aboutSubtitle:
+    'Le guide mondial de la langue vivante, du vocabulaire de la rue et des tournures culturelles.',
+  aboutIntro:
+    'Chaque langue mène deux vies : la version formelle des manuels scolaires et la version vivante et rythmée réellement parlée dans la rue, les cafés, autour d’une table, dans la musique et sur les applications de messagerie. <strong>Slang Words Online</strong> est conçu pour la seconde.',
+  aboutStatCountries: 'Pays et dialectes',
+  aboutStatTerms: 'Mots et expressions d’argot',
+  aboutStatCategories: 'Thématiques du quotidien',
+  aboutStatLanguages: 'Langues prises en charge',
+  aboutWhyHeading: 'Pourquoi nous avons créé Slang Words Online',
+  aboutWhyP1:
+    'Avez-vous déjà entendu une phrase au cours d’une conversation, regardé une série sous-titrée ou écouté une chanson en vous demandant : <em>« Mais qu’est-ce que ça veut vraiment dire ? »</em>',
+  aboutWhyP2:
+    'Copier cette expression dans un traducteur automatique entraîne souvent des déconvenues : soit la traduction est littérale au mot à mot (donnant des absurdités comme traduire l’espagnol « de una » par « d’un » au lieu de « carrément / tout de suite »), soit elle propose un équivalent trop soutenu qui efface toute saveur expressive.',
+  aboutWhyP3:
+    'Nous avons créé Slang Words Online pour apporter le contexte culturel, le ton, le niveau de langue et les subtilités sociales que les manuels et les traducteurs automatiques oublient.',
+  aboutPillarsHeading: 'Ce qui rend notre dictionnaire unique',
+  aboutPillarsLead:
+    'Un dictionnaire d’argot n’a de sens que s’il vous apprend ce qu’une simple recherche en ligne ne peut pas vous dire :',
+  aboutPillar1Title: '1. Niveau de langue et nuances sociales',
+  aboutPillar1Body:
+    'S’agit-il d’une taquinerie complice entre amis proches ou d’un mot déplacé en société polie ? Nous précisons clairement le ton et le registre pour vous éviter tout faux pas embarrassant.',
+  aboutPillar2Title: '2. Exemples authentiques du quotidien',
+  aboutPillar2Body:
+    'Chaque expression comporte des dialogues naturels et des phrases en contexte dans la langue d’origine, avec leurs traductions familières et littérales détaillées.',
+  aboutPillar3Title: '3. Origines débattues et étymologie',
+  aboutPillar3Body:
+    'Le web regorge de fausses étymologies et de légendes urbaines. Quand l’origine historique est avérée, nous citons les sources ; quand elle est débattue ou mythique, nous l’indiquons en toute transparence.',
+  aboutPillar4Title: '4. Romanisation et prononciation',
+  aboutPillar4Body:
+    'Les alphabets non latins (cyrillique, kanjis/hiraganas japonais, hangeul coréen) s’accompagnent de transcriptions phonétiques et de repères de prononciation clairs pour les prononcer en toute confiance.',
+  aboutCulturesHeading: 'Cultures et dialectes représentés',
+  aboutCulturesLead: (count: number) =>
+    `Notre corpus réunit ${count} pôles linguistiques et régionaux majeurs, témoignant de l’incomparable vitalité du parler informel à l’échelle internationale :`,
+  aboutEditorialHeading: 'Ligne éditoriale et participation communautaire',
+  aboutEditorialP1:
+    'L’argot n’est pas imaginé par des linguistes dans une tour d’ivoire : il naît dans les cours d’école, les comedy clubs, les tribunes sportives, les studios de musique et les salons de discussion. Parce qu’il mute continuellement, Slang Words Online est un projet perpétuellement vivant.',
+  aboutEditorialP2:
+    'Nous encourageons locuteurs natifs, voyageurs et passionnés de linguistique du monde entier à nous soumettre de nouvelles trouvailles, à signaler des variantes locales ou à proposer des corrections.',
+  aboutConnectHeading: 'Contactez-nous',
+  aboutConnectBody:
+    'Vous connaissez une expression argotique de votre région absente du dictionnaire ? Vous souhaitez préciser une nuance locale ? Nous serions ravis de vous lire.',
+  aboutContactBtn: 'Contacter l’équipe',
+  aboutBrowseBtn: 'Consulter tout l’argot de A à Z',
+
   aboutUs: 'À propos',
   contactUs: 'Contact',
   privacyPolicy: 'Politique de confidentialité',

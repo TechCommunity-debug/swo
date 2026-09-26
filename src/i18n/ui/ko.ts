@@ -140,6 +140,52 @@ export const ko: Strings = {
   copyright: (year: number) => `© ${year} Slang Words Online`,
   countrySlang: (adjective: string) => `${adjective} 슬랭`,
 
+  // ---------------------------------------------------------------- about us
+  aboutH1: 'Slang Words Online 소개',
+  aboutSubtitle:
+    '생생한 일상어, 거리의 어휘, 문화적 구어 표현을 다루는 글로벌 슬랭 안내서.',
+  aboutIntro:
+    '모든 언어에는 두 가지 삶이 있습니다. 문법 교과서에 실린 정중한 표준어와, 거리와 카페, 식탁, 노래 가사, 단체 채팅방에서 실제로 쓰이는 생생하고 역동적인 언어입니다. <strong>Slang Words Online</strong>은 바로 그 두 번째 언어를 위해 만들어졌습니다.',
+  aboutStatCountries: '국가 및 방언',
+  aboutStatTerms: '슬랭 및 구어 표현',
+  aboutStatCategories: '일상 카테고리',
+  aboutStatLanguages: '지원 언어',
+  aboutWhyHeading: 'Slang Words Online을 만든 이유',
+  aboutWhyP1:
+    '외국인과의 대화나 자막 있는 드라마, 팝송을 듣다가 <em>“저 말이 진짜 무슨 뜻이지?”</em> 하고 궁금했던 적이 있으신가요?',
+  aboutWhyP2:
+    '일반 자동번역기에 넣으면 당황하기 일쑤입니다. 단어 그대로 직역되어 엉뚱한 뜻이 되거나(예: 스페인어 “de una”를 “즉시 / 당연하지” 대신 “하나의”로 번역), 실제의 감정과 뉘앙스가 완전히 사라진 딱딱한 사전식 표현만 나옵니다.',
+  aboutWhyP3:
+    '저희는 교과서와 번역기가 담아내지 못하는 문화적 맥락, 어조, 격식의 수준, 사회적 뉘앙스를 제대로 전달하기 위해 Slang Words Online을 구축했습니다.',
+  aboutPillarsHeading: '저희 사전만의 차별점',
+  aboutPillarsLead:
+    '슬랭 사전의 가치는 단순한 인터넷 검색으로는 알 수 없는 깊이 있는 정보를 제공하는 데 있습니다.',
+  aboutPillar1Title: '1. 어조와 사회적 뉘앙스',
+  aboutPillar1Body:
+    '절친한 친구끼리의 친근한 농담인지, 격식 있는 자리에서 무례가 되는 말인지 명확하게 구분하여 실수 없이 적절하게 쓸 수 있도록 돕습니다.',
+  aboutPillar2Title: '2. 생생한 실제 대화 예문',
+  aboutPillar2Body:
+    '모든 표제어에 원어 자연스러운 대화문과 문맥 예문을 싣고, 정확한 구어체 번역과 직역을 함께 제공합니다.',
+  aboutPillar3Title: '3. 어원과 전해지는 유래 검증',
+  aboutPillar3Body:
+    '인터넷에는 잘못된 어원 설이 넘쳐납니다. 역사적 근거가 확실한 유래는 출처와 함께 설명하고, 민간 전승이나 논쟁 중인 설은 분명히 밝힙니다.',
+  aboutPillar4Title: '4. 로마자 표기 및 발음 팁',
+  aboutPillar4Body:
+    '비라틴 문자(키릴 문자, 일본어 한자/히라가나, 한국어 한글)에는 직관적인 로마자 표기와 발음 가이드를 함께 제공하여 누구나 자신 있게 읽고 발음할 수 있습니다.',
+  aboutCulturesHeading: '수록된 문화와 방언',
+  aboutCulturesLead: (count: number) =>
+    `전 세계 ${count}개의 고유한 언어 및 지역 허브를 아우르며, 일상에서 쓰이는 다채로운 구어 표현의 다양성을 담았습니다:`,
+  aboutEditorialHeading: '편집 원칙과 커뮤니티 참여',
+  aboutEditorialP1:
+    '슬랭은 상아탑 속 언어학자가 만드는 것이 아니라, 학교 운동장, 공연장, 경기장, 녹음실, 인터넷 커뮤니티에서 탄생합니다. 언어는 끊임없이 변하기에 Slang Words Online은 항상 살아 움직이는 프로젝트입니다.',
+  aboutEditorialP2:
+    '새로운 표현 제안, 방언의 미묘한 차이 제보, 수정 요청 등 전 세계 모국어 화자와 여행자, 언어 애호가 여러분의 참여를 언제나 환영합니다.',
+  aboutConnectHeading: '문의 및 제안',
+  aboutConnectBody:
+    '아직 사전에 없는 고향의 슬랭이나 공유하고 싶은 지역별 뉘앙스가 있으신가요? 여러분의 소중한 의견을 기다립니다.',
+  aboutContactBtn: '팀에 문의하기',
+  aboutBrowseBtn: '가나다·알파벳순 전체 표현 보기',
+
   aboutUs: '소개',
   contactUs: '문의하기',
   privacyPolicy: '개인정보처리방침',

@@ -127,6 +127,52 @@ export const es: Strings = {
   copyright: (year: number) => `© ${year} Slang Words Online`,
   countrySlang: (adjective: string) => `argot ${adjective.toLowerCase()}`,
 
+  // ---------------------------------------------------------------- about us
+  aboutH1: 'Sobre Slang Words Online',
+  aboutSubtitle:
+    'La guía global del lenguaje vivo, el vocabulario de la calle y los modismos culturales.',
+  aboutIntro:
+    'Todo idioma tiene dos vidas: la versión formal de los manuales de gramática y la versión viva y dinámica que realmente se habla en la calle, en los cafés, en la mesa, en las canciones y en los chats grupales. <strong>Slang Words Online</strong> existe para la segunda.',
+  aboutStatCountries: 'Países y dialectos',
+  aboutStatTerms: 'Términos y frases de argot',
+  aboutStatCategories: 'Categorías cotidianas',
+  aboutStatLanguages: 'Idiomas compatibles',
+  aboutWhyHeading: 'Por qué creamos Slang Words Online',
+  aboutWhyP1:
+    '¿Alguna vez has escuchado una frase en una conversación, visto una serie internacional con subtítulos o escuchado una canción y te has preguntado: <em>«¿Qué diablos significa eso en realidad?»</em>',
+  aboutWhyP2:
+    'Poner la frase en un traductor automático suele generar confusión: o traduce cada palabra de forma literal (produciendo disparates como traducir «de una» por «of one» en lugar de «inmediatamente / por supuesto») o da un sustituto de diccionario demasiado formal que pierde la carga emocional.',
+  aboutWhyP3:
+    'Creamos Slang Words Online para aportar el contexto cultural, el tono, el registro y los matices sociales que los libros de texto y los traductores automáticos dejan de lado.',
+  aboutPillarsHeading: 'Lo que distingue a nuestro diccionario',
+  aboutPillarsLead:
+    'Un diccionario de jerga solo vale la pena si explica lo que una simple búsqueda no puede resolver:',
+  aboutPillar1Title: '1. Registro y matices sociales',
+  aboutPillar1Body:
+    '¿Es un término cariñoso entre amigos íntimos o resulta ofensivo en un entorno formal? Indicamos con claridad el registro y el tono para que nunca cometas un desliz incómodo.',
+  aboutPillar2Title: '2. Ejemplos reales y contextualizados',
+  aboutPillar2Body:
+    'Cada término incluye diálogos naturales y oraciones contextuales en su idioma original, junto con traducciones coloquiales y literales precisas.',
+  aboutPillar3Title: '3. Orígenes debatidos y etimología',
+  aboutPillar3Body:
+    'El folclore de internet está repleto de etimologías falsas. Cuando un origen está demostrado documentalmente, citamos fuentes históricas; cuando se trata de una leyenda urbana o está en debate, lo decimos claramente.',
+  aboutPillar4Title: '4. Romanización y fonética',
+  aboutPillar4Body:
+    'Las escrituras no latinas (cirílico, kanji/hiragana japonés, hangul coreano) cuentan con romanizaciones claras, guías de pronunciación y consejos fonéticos para que puedas leerlas y pronunciarlas con seguridad.',
+  aboutCulturesHeading: 'Culturas y dialectos cubiertos',
+  aboutCulturesLead: (count: number) =>
+    `Nuestra biblioteca abarca ${count} centros lingüísticos y regionales diferentes, reflejando la rica diversidad del habla informal en todo el mundo:`,
+  aboutEditorialHeading: 'Filosofía editorial y aportes comunitarios',
+  aboutEditorialP1:
+    'El argot no lo inventan los lexicógrafos en torres de marfil; nace en patios escolares, clubes de comedia, partidos deportivos, estudios de grabación y salas de chat. Al estar en constante evolución, Slang Words Online es un proyecto vivo.',
+  aboutEditorialP2:
+    'Damos la bienvenida a hablantes nativos, viajeros y apasionados de la lingüística de cualquier lugar para que propongan nuevas expresiones, señalen matices dialectales o sugieran correcciones.',
+  aboutConnectHeading: 'Ponte en contacto con nosotros',
+  aboutConnectBody:
+    '¿Conoces una palabra de argot de tu tierra que aún no hayamos documentado? ¿Has visto un matiz regional que merezca mencionarse? Nos encantará saber de ti.',
+  aboutContactBtn: 'Contactar al equipo',
+  aboutBrowseBtn: 'Explorar todo el argot de la A a la Z',
+
   aboutUs: 'Sobre nosotros',
   contactUs: 'Contacto',
   privacyPolicy: 'Política de privacidad',

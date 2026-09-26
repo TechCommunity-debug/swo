@@ -129,6 +129,52 @@ export const it: Strings = {
   copyright: (year: number) => `© ${year} Slang Words Online`,
   countrySlang: (adjective: string) => `slang ${adjective.toLowerCase()}`,
 
+  // ---------------------------------------------------------------- about us
+  aboutH1: 'Chi siamo: Slang Words Online',
+  aboutSubtitle:
+    'La guida globale alla lingua viva, al lessico di strada e ai modi di dire popolari.',
+  aboutIntro:
+    'Ogni lingua vive due vite parallele: quella formale delle grammatiche e quella viva e spontanea parlata per strada, nei bar, a tavola, nella musica e nelle chat di gruppo. <strong>Slang Words Online</strong> nasce per raccontare la seconda.',
+  aboutStatCountries: 'Paesi e dialetti',
+  aboutStatTerms: 'Termini ed espressioni gergali',
+  aboutStatCategories: 'Categorie quotidiane',
+  aboutStatLanguages: 'Lingue supportate',
+  aboutWhyHeading: 'Perché abbiamo creato Slang Words Online',
+  aboutWhyP1:
+    'Ti è mai capitato di cogliere una frase al volo, guardare una serie con i sottotitoli o ascoltare una canzone chiedendoti: <em>«Ma cosa significa davvero?»</em>',
+  aboutWhyP2:
+    'Inserire l’espressione in un traduttore automatico crea spesso disorientamento: o traduce parola per parola (generando assurdità come tradurre lo spagnolo «de una» con «di una» anziché «subito / senz’altro») oppure offre un sinonimo formale da dizionario che appiattisce ogni sfumatura emotiva.',
+  aboutWhyP3:
+    'Abbiamo costruito Slang Words Online per restituire il contesto culturale, il tono, il registro e le sottigliezze sociali che manuali e traduttori automatici tralasciano.',
+  aboutPillarsHeading: 'Cosa rende unico il nostro dizionario',
+  aboutPillarsLead:
+    'Un dizionario di slang ha valore solo se spiega ciò che un comune motore di ricerca non può svelare:',
+  aboutPillar1Title: '1. Registro e sfumature sociali',
+  aboutPillar1Body:
+    'È una battuta scherzosa e affettuosa tra amici o una parola offensiva in contesti formali? Indichiamo sempre registro e tono per evitare spiacevoli gaffe.',
+  aboutPillar2Title: '2. Esempi autentici e contestualizzati',
+  aboutPillar2Body:
+    'Ogni voce include dialoghi naturali e frasi reali nella lingua originale, accompagnati da traduzioni colloquiali e letterali accurate.',
+  aboutPillar3Title: '3. Origini storiche ed etimologie discusse',
+  aboutPillar3Body:
+    'Il web pullula di false etimologie e leggende metropolitane. Quando l’origine è documentata storicamente, citiamo le prove; dove si tratta di credenze popolari o ipotesi aperte, lo diciamo chiaramente.',
+  aboutPillar4Title: '4. Traslitterazione e pronuncia fonetica',
+  aboutPillar4Body:
+    'I sistemi di scrittura non latini (cirillico, kanji/hiragana giapponese, hangul coreano) sono affiancati da romanizzazioni chiare e consigli fonetici per leggere e pronunciare ogni termine in sicurezza.',
+  aboutCulturesHeading: 'Culture e parlate documentate',
+  aboutCulturesLead: (count: number) =>
+    `La nostra raccolta copre ${count} aree linguistiche e geografiche distinte, valorizzando la ricchezza espressiva del linguaggio informale in tutto il mondo:`,
+  aboutEditorialHeading: 'Filosofia editoriale e contributo della community',
+  aboutEditorialP1:
+    'Lo slang non viene inventato dai linguisti nelle aule universitarie: nasce nei cortili delle scuole, nei comedy club, allo stadio, nelle sale d’incisione e su internet. Poiché la lingua si trasforma costantemente, Slang Words Online è un progetto in continua evoluzione.',
+  aboutEditorialP2:
+    'Accogliamo con entusiasmo madrelingua, viaggiatori e appassionati di lingue da tutto il mondo pronti a suggerire nuove espressioni, segnalare varianti locali o inviare correzioni.',
+  aboutConnectHeading: 'Mettiti in contatto con noi',
+  aboutConnectBody:
+    'Conosci un modo di dire della tua città che non abbiamo ancora catalogato? Hai notato una particolarità regionale da aggiungere? Ci farebbe molto piacere leggerti.',
+  aboutContactBtn: 'Contatta il team',
+  aboutBrowseBtn: 'Tutto lo slang dalla A alla Z',
+
   aboutUs: 'Chi siamo',
   contactUs: 'Contatti',
   privacyPolicy: 'Informativa sulla privacy',

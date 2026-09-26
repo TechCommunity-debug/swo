@@ -55,4 +55,8 @@ export const pt: SeoStrings = {
     description:
       'Ocorreu um erro inesperado no servidor em Slang Words Online. Atualize a página ou retorne à página inicial.',
   },
+  about: (countriesCount, languagesCount) => ({
+    title: `Sobre nós — Guia global de gírias e expressões informais | ${SITE_NAME}`,
+    description: `Conheça o Slang Words Online, o guia global de gírias vivas, linguagem coloquial, expressões idiomáticas e fala informal em ${countriesCount} países e ${languagesCount} idiomas.`,
+  }),
 };

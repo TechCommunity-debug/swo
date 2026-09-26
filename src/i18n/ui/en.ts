@@ -161,6 +161,52 @@ export const en = {
   copyright: (year: number) => `\u00A9 ${year} Slang Words Online`,
   countrySlang: (adjective: string) => `${adjective} slang`,
 
+  // ---------------------------------------------------------------- about us
+  aboutH1: 'About Slang Words Online',
+  aboutSubtitle:
+    'The global guide to living language, street vocabulary, and cultural colloquialisms.',
+  aboutIntro:
+    'Every language has two lives: the formal version found in grammar textbooks, and the living, dynamic version that actually gets spoken on the street, in cafes, across dinner tables, in songs, and across group chats. <strong>Slang Words Online</strong> exists for the second one.',
+  aboutStatCountries: 'Countries & Dialects',
+  aboutStatTerms: 'Slang Terms & Phrases',
+  aboutStatCategories: 'Everyday Categories',
+  aboutStatLanguages: 'Supported Languages',
+  aboutWhyHeading: 'Why We Built Slang Words Online',
+  aboutWhyP1:
+    'Have you ever overheard a phrase in conversation, watched an international series with subtitles, or listened to a song and wondered: <em>“What on earth does that actually mean?”</em>',
+  aboutWhyP2:
+    'Plugging the phrase into a standard translation tool often yields confusion: translations either translate each word literally (producing nonsense like translating Spanish “de una” as “of one” instead of “right away / absolutely”) or provide an overly polite dictionary substitute that misses the emotional weight.',
+  aboutWhyP3:
+    'We built Slang Words Online to provide the cultural context, tone, register, and social nuance that textbooks and automated translators leave behind.',
+  aboutPillarsHeading: 'What Sets Our Dictionary Apart',
+  aboutPillarsLead:
+    'A slang dictionary is only worthwhile if it tells you the things a simple search query cannot:',
+  aboutPillar1Title: '1. Register & Social Nuance',
+  aboutPillar1Body:
+    'Is a term affectionate banter between close friends or offensive in polite company? We clearly label register and tone so you never make an awkward faux pas.',
+  aboutPillar2Title: '2. Worked, Real-Life Examples',
+  aboutPillar2Body:
+    'Every term includes natural dialogue and contextual sentences in the original tongue, paired with accurate colloquial and literal translations.',
+  aboutPillar3Title: '3. Disputed Origins & Etymology',
+  aboutPillar3Body:
+    'Internet folklore is full of false etymologies. When an origin story is verified, we cite historical evidence; where it is disputed or folk legend, we explicitly say so.',
+  aboutPillar4Title: '4. Romanization & Phonetics',
+  aboutPillar4Body:
+    'Non-Latin scripts (Cyrillic, Japanese Kanji/Hiragana, Korean Hangul) carry clear romanizations, pronunciation guides, and phonetic tips so you can read and pronounce them with confidence.',
+  aboutCulturesHeading: 'Cultures and Dialects Covered',
+  aboutCulturesLead: (count: number) =>
+    `Our library spans ${count} distinct linguistic and regional hubs, reflecting the rich diversity of informal speech around the world:`,
+  aboutEditorialHeading: 'Editorial Philosophy & Community Contributions',
+  aboutEditorialP1:
+    'Slang is not invented by lexicographers in ivory towers; it is born in schoolyards, comedy clubs, sporting matches, recording studios, and internet chat rooms. Because slang is constantly morphing, Slang Words Online is a living project.',
+  aboutEditorialP2:
+    'We welcome native speakers, travelers, and linguistics enthusiasts from everywhere to suggest new expressions, report dialect nuances, or provide corrections.',
+  aboutConnectHeading: 'Connect With Us',
+  aboutConnectBody:
+    'Got a slang term from your hometown we haven’t documented yet? Found a regional nuance that deserves mention? We would love to hear from you.',
+  aboutContactBtn: 'Contact the Team',
+  aboutBrowseBtn: 'Browse All Terms A–Z',
+
   aboutUs: 'About Us',
   contactUs: 'Contact Us',
   privacyPolicy: 'Privacy Policy',

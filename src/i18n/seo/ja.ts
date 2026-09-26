@@ -64,4 +64,8 @@ export const ja: SeoStrings = {
     description:
       'Slang Words Online で予期しないサーバーエラーが発生しました。ページを再読み込みするか、辞典のトップページへお戻りください。',
   },
+  about: (countriesCount, languagesCount) => ({
+    title: `サイトについて — 世界のスラング・俗語・口語表現ガイド | ${SITE_NAME}`,
+    description: `Slang Words Onlineについて。世界${countriesCount}カ国・${languagesCount}言語の生きたスラング、日常会話の口語表現、慣用句、街頭の言葉をわかりやすく解説するグローバル辞書です。`,
+  }),
 };

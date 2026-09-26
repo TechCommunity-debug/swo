@@ -139,6 +139,52 @@ export const de: Strings = {
   copyright: (year: number) => `© ${year} Slang Words Online`,
   countrySlang: (adjective: string) => `${adjective} Slang`,
 
+  // ---------------------------------------------------------------- about us
+  aboutH1: 'Über Slang Words Online',
+  aboutSubtitle:
+    'Der weltweite Wegweiser für lebendige Sprache, Straßenjargon und kulturelle Umgangssprache.',
+  aboutIntro:
+    'Jede Sprache besitzt zwei Gesichter: die formelle Variante aus den Grammatikbüchern und die lebendige, dynamische Sprache, die auf der Straße, im Café, am Küchentisch, in Songs und in Gruppenchats gesprochen wird. <strong>Slang Words Online</strong> ist genau für Letzteres da.',
+  aboutStatCountries: 'Länder & Dialekte',
+  aboutStatTerms: 'Slang-Begriffe & Redewendungen',
+  aboutStatCategories: 'Alltags-Kategorien',
+  aboutStatLanguages: 'Unterstützte Sprachen',
+  aboutWhyHeading: 'Warum wir Slang Words Online ins Leben gerufen haben',
+  aboutWhyP1:
+    'Hast du jemals ein Wort im Gespräch aufgeschnappt, eine internationale Serie mit Untertiteln geschaut oder einen Song gehört und dich gefragt: <em>„Was zum Teufel bedeutet das eigentlich?“</em>',
+  aboutWhyP2:
+    'Gibt man den Satz in ein herkömmliches Übersetzungstool ein, entsteht oft pure Verwirrung: Entweder wird jedes Wort stur wörtlich übersetzt (wobei aus dem spanischen „de una“ unsinnigerweise „von einem“ statt „sofort / auf jeden Fall“ wird) oder man erhält ein viel zu steifes Standardwörterbuch-Wort, das den Tonfall völlig verfehlt.',
+  aboutWhyP3:
+    'Wir haben Slang Words Online geschaffen, um den kulturellen Kontext, die Stilebene und die sozialen Feinheiten greifbar zu machen, die in Lehrbüchern und automatischen Übersetzern fehlen.',
+  aboutPillarsHeading: 'Was unser Wörterbuch auszeichnet',
+  aboutPillarsLead:
+    'Ein Slang-Wörterbuch lohnt sich nur, wenn es genau das erklärt, was eine kurze Suchanfrage verschweigt:',
+  aboutPillar1Title: '1. Stilebene & soziale Nuancen',
+  aboutPillar1Body:
+    'Ist ein Ausdruck ein liebevoller Scherz unter engen Freunden oder eine Beleidigung in höflicher Runde? Wir kennzeichnen Tonfall und Sprachebene klar, damit dir kein peinlicher Fehltritt unterläuft.',
+  aboutPillar2Title: '2. Echte Anwendungsbeispiele aus dem Alltag',
+  aboutPillar2Body:
+    'Jeder Begriff enthält authentische Dialoge und Beispielsätze in der Originalsprache, inklusive präziser umgangssprachlicher und wörtlicher Übersetzungen.',
+  aboutPillar3Title: '3. Diskutierte Herkunft & Etymologie',
+  aboutPillar3Body:
+    'Das Internet wimmelt von falschen Entstehungsgeschichten. Wenn eine Herkunft historisch belegt ist, nennen wir die Fakten; wenn es sich um moderne Mythen oder Volksetymologien handelt, sagen wir das offen.',
+  aboutPillar4Title: '4. Umschrift & Aussprachehilfen',
+  aboutPillar4Body:
+    'Nicht-lateinische Schriften (Kyrillisch, japanische Kanji/Hiragana, koreanisches Hangeul) sind mit Umschriften, Lautschrift und Aussprachetipps versehen, damit du sie sicher lesen und aussprechen kannst.',
+  aboutCulturesHeading: 'Abgedeckte Kulturen und Dialekte',
+  aboutCulturesLead: (count: number) =>
+    `Unser Verzeichnis umfasst ${count} eigenständige Sprach- und Regionalräume und spiegelt die Vielfalt informeller Sprache rund um den Globus wider:`,
+  aboutEditorialHeading: 'Redaktionelle Philosophie & Community-Beiträge',
+  aboutEditorialP1:
+    'Slang wird nicht von Sprachwissenschaftlern im Elfenbeinturm erfunden; er entsteht auf Schulhöfen, in Comedy-Clubs, im Stadion, im Tonstudio und im Gruppenchat. Da sich Sprache ständig wandelt, ist Slang Words Online ein lebendiges Projekt.',
+  aboutEditorialP2:
+    'Wir freuen uns über Muttersprachler, Reisende und Sprachbegeisterte aus aller Welt, die neue Begriffe einreichen, regionale Nuancen teilen oder Korrekturen anregen.',
+  aboutConnectHeading: 'Schreib uns',
+  aboutConnectBody:
+    'Kennst du einen Slang-Ausdruck aus deiner Heimat, der hier noch fehlt? Hast du eine regionale Nuance entdeckt? Wir freuen uns über deine Nachricht.',
+  aboutContactBtn: 'Team kontaktieren',
+  aboutBrowseBtn: 'Alle Slang-Wörter von A bis Z',
+
   aboutUs: 'Über uns',
   contactUs: 'Kontakt',
   privacyPolicy: 'Datenschutzerklärung',

@@ -55,4 +55,8 @@ export const es: SeoStrings = {
     description:
       'Se ha producido un error inesperado del servidor en Slang Words Online. Actualiza la página o vuelve a la página de inicio.',
   },
+  about: (countriesCount, languagesCount) => ({
+    title: `Sobre nosotros — Guía global de argot y modismos | ${SITE_NAME}`,
+    description: `Conoce Slang Words Online, la guía global de jerga viva, habla coloquial, modismos y expresiones informales en ${countriesCount} países y ${languagesCount} idiomas.`,
+  }),
 };
