@@ -1,0 +1,28 @@
+---
+import { aboutPath, contactPath, privacyPath, termsPath } from '../lib/urls';
+import { t } from '../i18n/ui';
+import type { Locale } from '../data/locales';
+
+interface Props {
+  locale: Locale;
+  class?: string;
+}
+
+const { locale, class: className = 'mt-4' } = Astro.props;
+const strings = t(locale);
+---
+
+<div class={`${className} flex flex-wrap items-center gap-x-4 gap-y-1`}>
+  <a href={aboutPath(locale)} class="focus-ring text-body-sm text-mute hover:text-ink transition-colors">
+    {strings.aboutUs}
+  </a>
+  <a href={contactPath(locale)} class="focus-ring text-body-sm text-mute hover:text-ink transition-colors">
+    {strings.contactUs}
+  </a>
+  <a href={privacyPath(locale)} class="focus-ring text-body-sm text-mute hover:text-ink transition-colors">
+    {strings.privacyPolicy}
+  </a>
+  <a href={termsPath(locale)} class="focus-ring text-body-sm text-mute hover:text-ink transition-colors">
+    {strings.termsConditions}
+  </a>
+</div>

@@ -2,6 +2,7 @@
 import Layout from '../../layouts/Layout.astro';
 import SearchBox from '../SearchBox.astro';
 import Flag from '../Flag.astro';
+import HeroLegalLinks from '../HeroLegalLinks.astro';
 import { browsePath, countryPath, homePath, contactPath, notFoundPath } from '../../lib/urls';
 import { chromeAlternates, countriesFor, loadSite } from '../../lib/site';
 import { localizeCountry } from '../../lib/localize';
@@ -56,6 +57,8 @@ const alternates = chromeAlternates(notFoundPath);
           {strings.suggestThisWord}
         </a>
       </div>
+
+      <HeroLegalLinks locale={locale} />
 
       <div class="mt-8 border-t border-hairline pt-6">
         <h2 class="text-heading-md text-ink">{strings.searchByTermOrMeaning}</h2>

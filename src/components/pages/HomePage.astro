@@ -5,6 +5,7 @@ import EntryCard from '../EntryCard.astro';
 import JsonLd from '../JsonLd.astro';
 import TermName from '../TermName.astro';
 import Flag from '../Flag.astro';
+import HeroLegalLinks from '../HeroLegalLinks.astro';
 import {
   categoryPath,
   countryPath,
@@ -216,6 +217,7 @@ const SEO_KEYWORDS = [
             </p>
           )
         }
+        <HeroLegalLinks locale={locale} />
       </div>
     </div>
   </section>
