@@ -67,4 +67,8 @@ export const de: SeoStrings = {
     title: `Über uns — Weltweiter Wegweiser für Slang & Umgangssprache | ${SITE_NAME}`,
     description: `Erfahre mehr über Slang Words Online, das weltweite Nachschlagewerk für lebendigen Slang, Umgangssprache, Redewendungen und informelle Ausdrücke aus ${countriesCount} Ländern in ${languagesCount} Sprachen.`,
   }),
+  contact: (email) => ({
+    title: `Kontakt — Fragen, Feedback & Begriffsvorschläge | ${SITE_NAME}`,
+    description: `Kontaktiere das Team von Slang Words Online. Sende neue Slang-Begriffe, Korrekturen oder Kooperationsanfragen an ${email}.`,
+  }),
 };

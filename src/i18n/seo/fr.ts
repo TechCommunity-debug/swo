@@ -60,4 +60,8 @@ export const fr: SeoStrings = {
     title: `À propos — Guide mondial de l'argot et des expressions familières | ${SITE_NAME}`,
     description: `Découvrez Slang Words Online, le guide mondial de l'argot vivant, du langage familier, des idiomes et des tournures informelles à travers ${countriesCount} pays et ${languagesCount} langues.`,
   }),
+  contact: (email) => ({
+    title: `Contact — Questions, retours et suggestions d'argot | ${SITE_NAME}`,
+    description: `Contactez l'équipe de Slang Words Online. Envoyez vos suggestions d'argot, précisions dialectales ou demandes de partenariat à ${email}.`,
+  }),
 };

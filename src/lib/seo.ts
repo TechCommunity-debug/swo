@@ -76,3 +76,6 @@ export const aboutSeo = (
   countriesCount: number,
   languagesCount: number,
 ): Seo => SEO[locale].about(countriesCount, languagesCount);
+
+export const contactSeo = (locale: Locale, email: string): Seo =>
+  SEO[locale].contact(email);

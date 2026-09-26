@@ -60,4 +60,8 @@ export const en: SeoStrings = {
     title: `About Us — Global Slang & Colloquialisms Guide | ${SITE_NAME}`,
     description: `Learn about Slang Words Online, the global guide to living slang, colloquial speech, idioms, and informal expressions across ${countriesCount} countries and ${languagesCount} languages.`,
   }),
+  contact: (email) => ({
+    title: `Contact Us — Questions, Feedback & Submissions | ${SITE_NAME}`,
+    description: `Contact the Slang Words Online team. Send slang submissions, dialect corrections, cultural feedback, or partnership inquiries to ${email}.`,
+  }),
 };

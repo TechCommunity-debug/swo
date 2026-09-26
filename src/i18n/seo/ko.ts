@@ -63,4 +63,8 @@ export const ko: SeoStrings = {
     title: `소개 — 세계 슬랭 및 구어 표현 가이드 | ${SITE_NAME}`,
     description: `Slang Words Online을 소개합니다. 전 세계 ${countriesCount}개국 ${languagesCount}개 언어의 생생한 슬랭, 일상 구어체, 관용구, 은어를 깊이 있게 해설하는 글로벌 사전입니다.`,
   }),
+  contact: (email) => ({
+    title: `문의하기 — 질문, 피드백 및 신조어 제보 | ${SITE_NAME}`,
+    description: `Slang Words Online 팀에 문의하세요. 새로운 슬랭 제보, 방언 뉘앙스 수정, 제휴 문의는 ${email} 로 보내주시기 바랍니다.`,
+  }),
 };

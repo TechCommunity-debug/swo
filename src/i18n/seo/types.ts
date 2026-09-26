@@ -37,4 +37,5 @@ export interface SeoStrings {
   notFound: Seo;
   serverError: Seo;
   about: (countriesCount: number, languagesCount: number) => Seo;
+  contact: (email: string) => Seo;
 }

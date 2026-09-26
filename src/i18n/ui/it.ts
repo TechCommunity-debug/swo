@@ -176,6 +176,34 @@ export const it: Strings = {
   aboutBrowseBtn: 'Tutto lo slang dalla A alla Z',
 
   aboutUs: 'Chi siamo',
+  // ---------------------------------------------------------------- contact us
+  contactKicker: 'Mettiti in contatto',
+  contactSubtitle:
+    'Ci fa sempre piacere ascoltare appassionati di lingue, madrelingua e studenti curiosi di tutto il mondo.',
+  contactIntro:
+    'Che tu voglia suggerire un modo di dire della tua regione non ancora documentato, segnalare una correzione, proporre una collaborazione accademica o semplicemente salutare, scrivi direttamente alla nostra redazione.',
+  contactOfficialEmail: 'Email ufficiale di contatto',
+  contactEmailLead:
+    'La nostra redazione monitora costantemente questa casella. Invia direttamente richieste, definizioni o commenti.',
+  contactCopyEmail: 'Copia indirizzo email',
+  contactCopied: 'Copiato negli appunti!',
+  contactCategoriesHeading: 'Per cosa puoi contattarci',
+  contactCat1Title: 'Segnala un nuovo slang',
+  contactCat1Body:
+    'Conosci un termine di strada, uno slang virale o un modo di dire regionale che manca? Condividi la parola, il significato, la zona e frasi di esempio.',
+  contactCat2Title: 'Sfumature dialettali e correzioni',
+  contactCat2Body:
+    'Un termine ha un uso diverso nella tua città? Abbiamo riportato un’origine controversa? Diamo la massima priorità alla precisione sul territorio.',
+  contactCat3Title: 'Funzionalità e suggerimenti',
+  contactCat3Body:
+    'Idee per nuovi paesi, miglioramenti grafici, suggerimenti per la pronuncia audio o segnalazioni di bug.',
+  contactCat4Title: 'Collaborazioni e media',
+  contactCat4Body:
+    'Ricerche linguistiche, istituzioni educative, richieste di traduzione e contatti per la stampa.',
+  contactResponseTimeLabel: 'Tempi di risposta:',
+  contactResponseTimeText:
+    'La nostra redazione legge i messaggi della community diverse volte a settimana. Di solito rispondiamo entro 24–48 ore.',
+
   contactUs: 'Contatti',
   privacyPolicy: 'Informativa sulla privacy',
   termsConditions: 'Termini e condizioni',

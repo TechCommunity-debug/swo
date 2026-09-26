@@ -174,6 +174,34 @@ export const es: Strings = {
   aboutBrowseBtn: 'Explorar todo el argot de la A a la Z',
 
   aboutUs: 'Sobre nosotros',
+  // ---------------------------------------------------------------- contact us
+  contactKicker: 'Ponte en contacto',
+  contactSubtitle:
+    'Nos encanta recibir mensajes de apasionados del lenguaje, hablantes nativos y curiosos de todo el mundo.',
+  contactIntro:
+    'Tanto si deseas sugerir una expresión popular de tu región que aún no hayamos catalogado, proponer una corrección de matiz, plantear una colaboración o simplemente saludar, escribe directamente a nuestro equipo editorial.',
+  contactOfficialEmail: 'Correo electrónico oficial',
+  contactEmailLead:
+    'Nuestro equipo editorial revisa activamente esta bandeja de entrada. Envía tus consultas, propuestas de términos o comentarios directamente.',
+  contactCopyEmail: 'Copiar dirección de correo',
+  contactCopied: '¡Copiado al portapapeles!',
+  contactCategoriesHeading: 'Motivos para contactarnos',
+  contactCat1Title: 'Sugerir nueva jerga',
+  contactCat1Body:
+    '¿Conoces una palabra callejera, un modismo viral o una expresión regional que falte? Comparte el término, su significado, región y oraciones de ejemplo.',
+  contactCat2Title: 'Matices dialectales y correcciones',
+  contactCat2Body:
+    '¿Se usa un término de forma diferente en tu lugar de origen? ¿Mencionamos un origen controvertido? Priorizamos la autenticidad local y actualizamos los artículos con rapidez.',
+  contactCat3Title: 'Mejoras y sugerencias',
+  contactCat3Body:
+    'Propuestas para nuevos países, sugerencias de interfaz, pronunciaciones en audio o reportes de errores técnicos.',
+  contactCat4Title: 'Colaboraciones y medios',
+  contactCat4Body:
+    'Investigación lingüística, instituciones educativas, consultas sobre traducción y preguntas de prensa.',
+  contactResponseTimeLabel: 'Tiempo de respuesta:',
+  contactResponseTimeText:
+    'Nuestro equipo editorial revisa los correos de la comunidad varias veces por semana. Por lo general, respondemos en un plazo de 24 a 48 horas.',
+
   contactUs: 'Contacto',
   privacyPolicy: 'Política de privacidad',
   termsConditions: 'Términos y condiciones',

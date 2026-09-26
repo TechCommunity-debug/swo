@@ -59,4 +59,8 @@ export const it: SeoStrings = {
     title: `Chi siamo — Guida globale allo slang e ai modi di dire | ${SITE_NAME}`,
     description: `Scopri Slang Words Online, la guida globale al gergo vivo, al linguaggio colloquiale, ai modi di dire e alle espressioni informali in ${countriesCount} paesi e ${languagesCount} lingue.`,
   }),
+  contact: (email) => ({
+    title: `Contatti — Domande, feedback e proposte di slang | ${SITE_NAME}`,
+    description: `Contatta il team di Slang Words Online. Invia suggerimenti di slang, correzioni dialettali o richieste di collaborazione a ${email}.`,
+  }),
 };

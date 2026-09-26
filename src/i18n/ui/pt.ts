@@ -174,6 +174,34 @@ export const pt: Strings = {
   aboutBrowseBtn: 'Explorar todas as gírias de A a Z',
 
   aboutUs: 'Sobre nós',
+  // ---------------------------------------------------------------- contact us
+  contactKicker: 'Entre em contato',
+  contactSubtitle:
+    'Adoramos receber mensagens de entusiastas de idiomas, falantes nativos e curiosos de todo o mundo.',
+  contactIntro:
+    'Quer sugerir uma gíria da sua região que ainda não documentamos, apontar uma correção de nuance, propor uma parceria ou apenas dar um olá? Entre em contato direto com a nossa equipe editorial e de desenvolvimento.',
+  contactOfficialEmail: 'E-mail oficial de contato',
+  contactEmailLead:
+    'Nossa equipe editorial acompanha esta caixa de entrada constantemente. Envie suas dúvidas, definições de termos ou comentários diretamente.',
+  contactCopyEmail: 'Copiar endereço de e-mail',
+  contactCopied: 'Copiado para a área de transferência!',
+  contactCategoriesHeading: 'Pelo que você pode entrar em contato',
+  contactCat1Title: 'Enviar nova gíria',
+  contactCat1Body:
+    'Conhece uma expressão das ruas, gíria da internet ou expressão regional que não abordamos? Envie a palavra, o significado, a região e exemplos de uso.',
+  contactCat2Title: 'Variações regionais e correções',
+  contactCat2Body:
+    'O termo é usado de modo diferente na sua cidade? Identificou uma origem duvidosa? Valorizamos a precisão nativa e atualizamos os verbetes com agilidade.',
+  contactCat3Title: 'Recursos e sugestões',
+  contactCat3Body:
+    'Ideias para novos países, melhorias na navegação, sugestões de áudio com pronúncia ou avisos de bugs técnicos.',
+  contactCat4Title: 'Parcerias e imprensa',
+  contactCat4Body:
+    'Pesquisas linguísticas, instituições de ensino, solicitações de tradução e contatos de imprensa.',
+  contactResponseTimeLabel: 'Tempo de resposta:',
+  contactResponseTimeText:
+    'Nossa equipe editorial revisa as mensagens da comunidade várias vezes por semana. Normalmente respondemos dentro de 24 a 48 horas.',
+
   contactUs: 'Contato',
   privacyPolicy: 'Política de privacidade',
   termsConditions: 'Termos e condições',

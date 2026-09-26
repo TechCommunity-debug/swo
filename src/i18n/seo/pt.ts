@@ -59,4 +59,8 @@ export const pt: SeoStrings = {
     title: `Sobre nós — Guia global de gírias e expressões informais | ${SITE_NAME}`,
     description: `Conheça o Slang Words Online, o guia global de gírias vivas, linguagem coloquial, expressões idiomáticas e fala informal em ${countriesCount} países e ${languagesCount} idiomas.`,
   }),
+  contact: (email) => ({
+    title: `Contato — Dúvidas, sugestões e envio de gírias | ${SITE_NAME}`,
+    description: `Fale com a equipe do Slang Words Online. Envie sugestões de gírias, correções regionais ou dúvidas para ${email}.`,
+  }),
 };

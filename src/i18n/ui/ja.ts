@@ -193,6 +193,34 @@ export const ja: Strings = {
   aboutBrowseBtn: 'すべてのスラングを五十音・アルファベット順で見る',
 
   aboutUs: '当サイトについて',
+  // ---------------------------------------------------------------- contact us
+  contactKicker: 'お問い合わせ',
+  contactSubtitle:
+    '世界中の言葉を愛する方々、ネイティブスピーカー、学習者からのご連絡をお待ちしています。',
+  contactIntro:
+    'まだ掲載されていない地域独自のスラングの提案、ニュアンスの補足や訂正、共同研究のご相談、あるいは単なるご挨拶でも、編集・開発チームへお気軽にご連絡ください。',
+  contactOfficialEmail: '公式お問い合わせ先',
+  contactEmailLead:
+    '編集チームが受信トレイを定期的に確認しています。ご質問、語句の解説、ご意見などをお気軽にお送りください。',
+  contactCopyEmail: 'メールアドレスをコピー',
+  contactCopied: 'クリップボードにコピーしました！',
+  contactCategoriesHeading: '主なご連絡内容',
+  contactCat1Title: '新しいスラングの提案',
+  contactCat1Body:
+    '掲載されていない流行語、ストリート表現、地域の方言をご存知ですか？ 単語、意味、使われている地域、例文をお寄せください。',
+  contactCat2Title: 'ニュアンスの補足・訂正',
+  contactCat2Body:
+    '地元では異なる使われ方をしていますか？ 語源に別の説がありますか？ ネイティブによる正確性を重視し、迅速に反映します。',
+  contactCat3Title: '機能改善・ご意見',
+  contactCat3Body:
+    '追加してほしい国、サイトの改善案、音声発音へのご要望、技術的な不具合報告など。',
+  contactCat4Title: '連携・メディア取材',
+  contactCat4Body:
+    '言語学研究、教育機関との連携、翻訳に関するご相談、メディアからの取材申込みなど。',
+  contactResponseTimeLabel: '返答までの目安：',
+  contactResponseTimeText:
+    '有志の編集チームが週に数回メッセージを確認しています。通常24〜48時間以内にご返答いたします。',
+
   contactUs: 'お問い合わせ',
   privacyPolicy: 'プライバシーポリシー',
   termsConditions: '利用規約',

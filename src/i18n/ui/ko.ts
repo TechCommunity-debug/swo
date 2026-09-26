@@ -187,6 +187,34 @@ export const ko: Strings = {
   aboutBrowseBtn: '가나다·알파벳순 전체 표현 보기',
 
   aboutUs: '소개',
+  // ---------------------------------------------------------------- contact us
+  contactKicker: '문의하기',
+  contactSubtitle:
+    '언어를 사랑하는 분들, 모국어 화자, 전 세계 학습자 여러분의 연락을 언제나 환영합니다.',
+  contactIntro:
+    '아직 사전에 없는 고향의 슬랭 제보, 뉘앙스 수정 제안, 학술적 협업 제휴, 또는 가벼운 인사까지 편집 및 개발팀에 편하게 전해주세요.',
+  contactOfficialEmail: '공식 문의 이메일',
+  contactEmailLead:
+    '편집팀이 수신함을 상시 모니터링하고 있습니다. 궁금한 점, 단어 제보, 피드백을 자유롭게 보내주세요.',
+  contactCopyEmail: '이메일 주소 복사',
+  contactCopied: '클립보드에 복사되었습니다!',
+  contactCategoriesHeading: '이런 내용으로 연락주세요',
+  contactCat1Title: '새로운 슬랭 제보',
+  contactCat1Body:
+    '사전에 없는 거리의 유행어, 바이럴 슬랭, 지역 방언을 알고 계신가요? 표제어, 의미, 사용 지역, 예문을 공유해주세요.',
+  contactCat2Title: '방언 뉘앙스 및 오류 수정',
+  contactCat2Body:
+    '실제 고향에서 쓰이는 뉘앙스와 다른가요? 잘못된 어원 설이 있나요? 현지 모국어 화자의 정확성을 최우선으로 하여 신속히 반영합니다.',
+  contactCat3Title: '기능 제안 및 사이트 피드백',
+  contactCat3Body:
+    '새로운 국가 추가 제안, UI 개선 아이디어, 발음 음성 지원 요청, 기술적 버그 제보 등.',
+  contactCat4Title: '협업 제휴 및 언론 문의',
+  contactCat4Body:
+    '언어학 연구, 교육 기관 협력, 번역 관련 문의 및 언론 취재 요청.',
+  contactResponseTimeLabel: '답변 소요 시간:',
+  contactResponseTimeText:
+    '편집팀이 주 수회 커뮤니티 메시지를 검토하고 있습니다. 보통 24~48시간 이내에 답변을 드립니다.',
+
   contactUs: '문의하기',
   privacyPolicy: '개인정보처리방침',
   termsConditions: '이용약관',

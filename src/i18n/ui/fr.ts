@@ -174,6 +174,34 @@ export const fr: Strings = {
   aboutBrowseBtn: 'Consulter tout l’argot de A à Z',
 
   aboutUs: 'À propos',
+  // ---------------------------------------------------------------- contact us
+  contactKicker: 'Entrer en contact',
+  contactSubtitle:
+    'Nous adorons échanger avec les passionnés de langues, locuteurs natifs et curieux du monde entier.',
+  contactIntro:
+    'Que vous souhaitiez suggérer une expression argotique de votre région absente du dictionnaire, apporter une précision de nuance, proposer un partenariat académique ou simplement dire bonjour, contactez directement notre équipe.',
+  contactOfficialEmail: 'Adresse e-mail officielle',
+  contactEmailLead:
+    'Notre rédaction consulte activement cette boîte aux lettres. Envoyez directement vos questions, définitions ou remarques.',
+  contactCopyEmail: 'Copier l’adresse e-mail',
+  contactCopied: 'Copié dans le presse-papiers !',
+  contactCategoriesHeading: 'Ce pour quoi vous pouvez nous contacter',
+  contactCat1Title: 'Proposer un nouvel argot',
+  contactCat1Body:
+    'Vous connaissez un mot de la rue, une expression virale ou un parler régional manquant ? Partagez le mot, son sens, sa région et des exemples de phrases.',
+  contactCat2Title: 'Nuances locales & corrections',
+  contactCat2Body:
+    'Un terme est-il employé différemment chez vous ? Avons-nous mentionné une étymologie contestée ? Nous privilégions la rigueur locale et mettons à jour les fiches rapidement.',
+  contactCat3Title: 'Fonctionnalités & retours',
+  contactCat3Body:
+    'Idées de nouveaux pays, suggestions d’interface, prononciations audio ou signalements de bugs techniques.',
+  contactCat4Title: 'Partenariats & presse',
+  contactCat4Body:
+    'Recherche linguistique, universités, questions de traduction et demandes médias.',
+  contactResponseTimeLabel: 'Délai de réponse :',
+  contactResponseTimeText:
+    'Notre équipe éditoriale bénévole lit les messages plusieurs fois par semaine. Nous répondons généralement sous 24 à 48 heures.',
+
   contactUs: 'Contact',
   privacyPolicy: 'Politique de confidentialité',
   termsConditions: 'Conditions générales',

@@ -186,6 +186,34 @@ export const de: Strings = {
   aboutBrowseBtn: 'Alle Slang-Wörter von A bis Z',
 
   aboutUs: 'Über uns',
+  // ---------------------------------------------------------------- contact us
+  contactKicker: 'Kontakt aufnehmen',
+  contactSubtitle:
+    'Wir freuen uns über Nachrichten von Sprachbegeisterten, Muttersprachlern und neugierigen Lernenden weltweit.',
+  contactIntro:
+    'Egal, ob du einen noch undokumentierten Slang-Ausdruck deiner Region vorschlagen, eine Bedeutungsnuance korrigieren, eine Kooperation anfragen oder einfach Hallo sagen möchtest — schreib direkt an unser Redaktionsteam.',
+  contactOfficialEmail: 'Offizielle Kontaktadresse',
+  contactEmailLead:
+    'Unsere Redaktion prüft dieses Postfach regelmäßig. Sende deine Anfragen, Begriffserklärungen oder dein Feedback direkt an uns.',
+  contactCopyEmail: 'E-Mail-Adresse kopieren',
+  contactCopied: 'In die Zwischenablage kopiert!',
+  contactCategoriesHeading: 'Wofür du uns kontaktieren kannst',
+  contactCat1Title: 'Neuen Slang vorschlagen',
+  contactCat1Body:
+    'Kennst du einen Straßenausdruck, viralen Slang oder eine Redewendung, die noch fehlt? Teile das Wort, seine Bedeutung, Herkunft und Beispielsätze mit uns.',
+  contactCat2Title: 'Regionale Nuancen & Korrekturen',
+  contactCat2Body:
+    'Wird ein Begriff in deiner Heimat anders verwendet? Haben wir eine strittige Herkunft aufgeführt? Wir legen großen Wert auf muttersprachliche Genauigkeit.',
+  contactCat3Title: 'Funktionen & Feedback',
+  contactCat3Body:
+    'Ideen für neue Länder, Verbesserungen der Bedienung, Aussprachehilfen oder technische Fehlerberichte.',
+  contactCat4Title: 'Kooperationen & Medien',
+  contactCat4Body:
+    'Linguistische Forschung, Bildungseinrichtungen, Übersetzungsanfragen und Presseauskünfte.',
+  contactResponseTimeLabel: 'Antwortzeit:',
+  contactResponseTimeText:
+    'Unser ehrenamtliches Redaktionsteam sichtet Community-Nachrichten mehrfach pro Woche. In der Regel antworten wir innerhalb von 24 bis 48 Stunden.',
+
   contactUs: 'Kontakt',
   privacyPolicy: 'Datenschutzerklärung',
   termsConditions: 'Nutzungsbedingungen',

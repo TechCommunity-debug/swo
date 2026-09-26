@@ -68,4 +68,8 @@ export const ja: SeoStrings = {
     title: `サイトについて — 世界のスラング・俗語・口語表現ガイド | ${SITE_NAME}`,
     description: `Slang Words Onlineについて。世界${countriesCount}カ国・${languagesCount}言語の生きたスラング、日常会話の口語表現、慣用句、街頭の言葉をわかりやすく解説するグローバル辞書です。`,
   }),
+  contact: (email) => ({
+    title: `お問い合わせ — ご質問・ご意見・スラングのご提案 | ${SITE_NAME}`,
+    description: `Slang Words Online 運営チームへのお問い合わせ。新しいスラングのご提案、方言の補足・訂正、提携に関するご連絡は ${email} までお寄せください。`,
+  }),
 };

@@ -59,4 +59,8 @@ export const es: SeoStrings = {
     title: `Sobre nosotros — Guía global de argot y modismos | ${SITE_NAME}`,
     description: `Conoce Slang Words Online, la guía global de jerga viva, habla coloquial, modismos y expresiones informales en ${countriesCount} países y ${languagesCount} idiomas.`,
   }),
+  contact: (email) => ({
+    title: `Contacto — Preguntas, sugerencias y colaboraciones | ${SITE_NAME}`,
+    description: `Ponte en contacto con el equipo de Slang Words Online. Envía sugerencias de jerga, correcciones dialectales o consultas a ${email}.`,
+  }),
 };

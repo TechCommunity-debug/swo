@@ -2,12 +2,13 @@
 import Layout from '../../layouts/Layout.astro';
 import Breadcrumbs from '../Breadcrumbs.astro';
 import JsonLd from '../JsonLd.astro';
+import HeroLegalLinks from '../HeroLegalLinks.astro';
 import { homePath } from '../../lib/urls';
 import { contactAlternates } from '../../lib/site';
 import { breadcrumbs } from '../../lib/schema';
 import { DEFAULT_LOCALE, type Locale } from '../../data/locales';
 import { t } from '../../i18n/ui';
-import { SITE_NAME } from '../../lib/seo';
+import { contactSeo } from '../../lib/seo';
 
 interface Props {
   locale?: Locale;
@@ -18,9 +19,7 @@ const strings = t(locale);
 
 const CONTACT_EMAIL = 'techcommunity611@gmail.com';
 
-const pageTitle = `${strings.contactUs} | ${SITE_NAME}`;
-const pageDescription =
-  `Contact the Slang Words Online team. Send slang submissions, dialect corrections, cultural feedback, or partnership inquiries to ${CONTACT_EMAIL}.`;
+const seo = contactSeo(locale, CONTACT_EMAIL);
 
 const schema = breadcrumbs([
   { name: strings.home, path: homePath(locale) },
@@ -29,8 +28,8 @@ const schema = breadcrumbs([
 ---
 
 <Layout
-  title={pageTitle}
-  description={pageDescription}
+  title={seo.title}
+  description={seo.description}
   locale={locale}
   alternates={contactAlternates()}
 >
@@ -42,14 +41,14 @@ const schema = breadcrumbs([
     <!-- Hero Header -->
     <header class="mt-8 max-w-3xl">
       <span class="inline-block rounded-full bg-surface-card px-3 py-1 text-caption font-semibold uppercase tracking-wider text-mute">
-        Get in Touch
+        {strings.contactKicker}
       </span>
       <h1 class="mt-3 text-display-lg text-ink">{strings.contactUs}</h1>
       <p class="mt-3 text-heading-lg font-normal text-mute">
-        We love hearing from language lovers, native speakers, and curious learners worldwide.
+        {strings.contactSubtitle}
       </p>
       <p class="mt-4 text-body-md text-body leading-relaxed">
-        Whether you want to suggest an undocumented slang expression from your region, suggest a nuance correction, propose an academic partnership, or just say hello &mdash; reach out directly to our editorial and development team.
+        {strings.contactIntro}
       </p>
     </header>
 
@@ -65,7 +64,7 @@ const schema = breadcrumbs([
             </svg>
           </div>
           <div>
-            <p class="text-caption font-semibold uppercase tracking-wider text-mute">Official Contact Email</p>
+            <p class="text-caption font-semibold uppercase tracking-wider text-mute">{strings.contactOfficialEmail}</p>
             <p class="text-heading-lg font-bold text-ink sm:text-heading-xl break-all">
               {CONTACT_EMAIL}
             </p>
@@ -73,7 +72,7 @@ const schema = breadcrumbs([
         </div>
 
         <p class="mt-4 text-body-sm text-body">
-          Our editorial desk actively monitors this inbox. Send your inquiries, term definitions, or feedback directly.
+          {strings.contactEmailLead}
         </p>
 
         <div class="mt-6 flex flex-wrap items-center gap-3">
@@ -81,50 +80,51 @@ const schema = breadcrumbs([
             type="button"
             id="copy-email-btn"
             data-email={CONTACT_EMAIL}
+            data-copied={strings.contactCopied}
             class="focus-ring inline-flex items-center gap-2 rounded-md bg-ink px-4 py-2.5 text-body-sm font-semibold text-canvas hover:bg-charcoal transition-colors cursor-pointer"
           >
             <svg id="copy-icon" viewBox="0 0 24 24" class="size-4" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
               <rect width="14" height="14" x="8" y="8" rx="2" ry="2"></rect>
               <path d="M4 16c-1.1 0-2-.9-2-2V4c0-1.1.9-2 2-2h10c1.1 0 2 .9 2 2"></path>
             </svg>
-            <span id="copy-text">Copy Email Address</span>
+            <span id="copy-text">{strings.contactCopyEmail}</span>
           </button>
         </div>
       </div>
 
       <!-- 4 Submission Categories -->
       <div>
-        <h2 class="text-heading-md font-semibold text-ink">What You Can Contact Us For</h2>
+        <h2 class="text-heading-md font-semibold text-ink">{strings.contactCategoriesHeading}</h2>
         <div class="mt-4 grid gap-3 sm:grid-cols-2">
           <div class="rounded-md border border-hairline bg-canvas p-4">
             <span class="text-heading-md text-primary font-bold">1</span>
-            <h3 class="mt-1 text-body-md font-semibold text-ink">Submit New Slang</h3>
+            <h3 class="mt-1 text-body-md font-semibold text-ink">{strings.contactCat1Title}</h3>
             <p class="mt-1 text-caption text-mute">
-              Know a popular street term, viral slang, or regional idiom we haven&apos;t covered? Share the word, meaning, region, and sample sentences.
+              {strings.contactCat1Body}
             </p>
           </div>
 
           <div class="rounded-md border border-hairline bg-canvas p-4">
             <span class="text-heading-md text-primary font-bold">2</span>
-            <h3 class="mt-1 text-body-md font-semibold text-ink">Dialect Nuance &amp; Corrections</h3>
+            <h3 class="mt-1 text-body-md font-semibold text-ink">{strings.contactCat2Title}</h3>
             <p class="mt-1 text-caption text-mute">
-              Is a term used differently in your hometown? Did we list a disputed origin? We prioritize local native accuracy and update entries rapidly.
+              {strings.contactCat2Body}
             </p>
           </div>
 
           <div class="rounded-md border border-hairline bg-canvas p-4">
             <span class="text-heading-md text-primary font-bold">3</span>
-            <h3 class="mt-1 text-body-md font-semibold text-ink">Features &amp; Feedback</h3>
+            <h3 class="mt-1 text-body-md font-semibold text-ink">{strings.contactCat3Title}</h3>
             <p class="mt-1 text-caption text-mute">
-              Ideas for new countries, UI improvements, audio pronunciation suggestions, or technical bug reports.
+              {strings.contactCat3Body}
             </p>
           </div>
 
           <div class="rounded-md border border-hairline bg-canvas p-4">
             <span class="text-heading-md text-primary font-bold">4</span>
-            <h3 class="mt-1 text-body-md font-semibold text-ink">Partnerships &amp; Media</h3>
+            <h3 class="mt-1 text-body-md font-semibold text-ink">{strings.contactCat4Title}</h3>
             <p class="mt-1 text-caption text-mute">
-              Linguistics research, educational institutions, translation inquiries, and press questions.
+              {strings.contactCat4Body}
             </p>
           </div>
         </div>
@@ -133,24 +133,27 @@ const schema = breadcrumbs([
       <!-- Response Time Box -->
       <div class="rounded-md border border-hairline-soft bg-surface-soft p-4 text-caption text-mute">
         <p>
-          <strong>Response Time:</strong> Our volunteer editorial team reviews community emails several times weekly. We typically answer inquiries within 24&ndash;48 hours.
+          <strong>{strings.contactResponseTimeLabel}</strong> {strings.contactResponseTimeText}
         </p>
       </div>
+
+      <HeroLegalLinks locale={locale} class="mt-6" />
     </div>
   </div>
 </Layout>
 
 <script is:inline>
   (function () {
-    var email = 'techcommunity611@gmail.com';
     var copyBtn = document.getElementById('copy-email-btn');
     var copyText = document.getElementById('copy-text');
 
     if (copyBtn && copyText) {
+      var email = copyBtn.getAttribute('data-email') || 'techcommunity611@gmail.com';
+      var copiedMsg = copyBtn.getAttribute('data-copied') || 'Copied to Clipboard!';
       copyBtn.addEventListener('click', function () {
         navigator.clipboard.writeText(email).then(function () {
           var original = copyText.textContent;
-          copyText.textContent = 'Copied to Clipboard!';
+          copyText.textContent = copiedMsg;
           setTimeout(function () {
             copyText.textContent = original;
           }, 2500);

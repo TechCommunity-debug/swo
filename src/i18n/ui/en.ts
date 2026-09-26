@@ -208,6 +208,34 @@ export const en = {
   aboutBrowseBtn: 'Browse All Terms A–Z',
 
   aboutUs: 'About Us',
+  // ---------------------------------------------------------------- contact us
+  contactKicker: 'Get in Touch',
+  contactSubtitle:
+    'We love hearing from language lovers, native speakers, and curious learners worldwide.',
+  contactIntro:
+    'Whether you want to suggest an undocumented slang expression from your region, suggest a nuance correction, propose an academic partnership, or just say hello — reach out directly to our editorial and development team.',
+  contactOfficialEmail: 'Official Contact Email',
+  contactEmailLead:
+    'Our editorial desk actively monitors this inbox. Send your inquiries, term definitions, or feedback directly.',
+  contactCopyEmail: 'Copy Email Address',
+  contactCopied: 'Copied to Clipboard!',
+  contactCategoriesHeading: 'What You Can Contact Us For',
+  contactCat1Title: 'Submit New Slang',
+  contactCat1Body:
+    'Know a popular street term, viral slang, or regional idiom we haven’t covered? Share the word, meaning, region, and sample sentences.',
+  contactCat2Title: 'Dialect Nuance & Corrections',
+  contactCat2Body:
+    'Is a term used differently in your hometown? Did we list a disputed origin? We prioritize local native accuracy and update entries rapidly.',
+  contactCat3Title: 'Features & Feedback',
+  contactCat3Body:
+    'Ideas for new countries, UI improvements, audio pronunciation suggestions, or technical bug reports.',
+  contactCat4Title: 'Partnerships & Media',
+  contactCat4Body:
+    'Linguistics research, educational institutions, translation inquiries, and press questions.',
+  contactResponseTimeLabel: 'Response Time:',
+  contactResponseTimeText:
+    'Our volunteer editorial team reviews community emails several times weekly. We typically answer inquiries within 24–48 hours.',
+
   contactUs: 'Contact Us',
   privacyPolicy: 'Privacy Policy',
   termsConditions: 'Terms & Conditions',
