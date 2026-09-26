@@ -117,6 +117,19 @@ const schema = [
     url: `${SITE_URL}/`,
   },
 ];
+
+const SEO_KEYWORDS = [
+  'slang words', 'British Slang', 'American Slang', 'Australian Slang',
+  'Canadian Slang', 'Mexican Slang', 'Spanish Slang', 'Italian Slang',
+  'French Slang', 'Japanese Slang', 'Korean Slang', 'Colombian Slang',
+  'Cuban Slang', 'Dominican Slang', 'Irish Slang', 'German Slang',
+  'Russian Slang', 'Slang for Approval & Praise', 'Slang for Greetings & Address',
+  'Slang for Insults & Complaints', 'Slang for People', 'Slang for Money & Work',
+  'Slang for Food & Drink', 'Slang for Going Out & Partying',
+  'Slang for Romance & Flirting', 'Slang for Emotion & Reaction',
+  'Slang for Filler Words', 'Slang for Everyday Things',
+  'slang words hub', 'slang words library',
+].join(', ');
 ---
 
 <Layout
@@ -124,6 +137,7 @@ const schema = [
   description={seo.description}
   locale={locale}
   alternates={homeAlternates()}
+  keywords={SEO_KEYWORDS}
 >
   <JsonLd slot="head" schema={schema} />
 
@@ -268,6 +282,22 @@ const schema = [
       <div>
         <h2 id="editorial" class="text-heading-xl text-ink">{strings.editorialH2}</h2>
         <p class="mt-4 text-body-md text-body">{strings.editorialBody}</p>
+      </div>
+    </section>
+
+    <section
+      class="mt-section"
+      aria-labelledby="about"
+    >
+      <div class="max-w-3xl">
+        <h2 id="about" class="text-heading-xl text-ink">{strings.aboutH2}</h2>
+        <div class="mt-6 space-y-5 text-body-md text-body leading-relaxed">
+          <p>{strings.aboutP1}</p>
+          <p>{strings.aboutP2}</p>
+          <p>{strings.aboutP3}</p>
+          <p>{strings.aboutP4}</p>
+          <p>{strings.aboutP5}</p>
+        </div>
       </div>
     </section>
   </div>

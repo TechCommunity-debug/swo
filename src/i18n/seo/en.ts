@@ -2,12 +2,12 @@ import type { SeoStrings } from './types';
 import { head, SITE_NAME, titleCase, truncate } from './helpers';
 
 export const en: SeoStrings = {
-  tagline: 'The Global Guide to Slang & Informal Expressions',
+  tagline: 'Your Slang Words Hub — British, American, Australian & Global Slang Library',
 
   home: (countries) => ({
-    title: `${SITE_NAME} — The Global Guide to Slang & Informal Expressions`,
+    title: `Slang Words — British, American, Australian & Global Slang Dictionary | ${SITE_NAME}`,
     description: truncate(
-      `A global slang dictionary covering ${countries.join(', ')} slang. Real definitions, pronunciation and example sentences for every entry.`,
+      `Explore our slang words hub covering ${countries.join(', ')} slang. Real definitions, pronunciation and example sentences — your go-to slang words library for every country.`,
     ),
   }),
 
@@ -38,13 +38,13 @@ export const en: SeoStrings = {
   },
 
   browse: (count, countries) => ({
-    title: `Browse All Slang Terms A–Z | ${SITE_NAME}`,
-    description: `An alphabetical index of all ${count} slang terms on ${SITE_NAME}, from ${countries} countries.`,
+    title: `Browse All Slang Words A–Z | ${SITE_NAME}`,
+    description: `An alphabetical index of all ${count} slang terms on ${SITE_NAME}, from ${countries} countries. Your complete slang words library.`,
   }),
 
   search: {
-    title: `Search Slang Terms | ${SITE_NAME}`,
-    description: 'Search the full Slang Words Online dictionary by term, meaning or country.',
+    title: `Search Slang Words | ${SITE_NAME}`,
+    description: 'Search the full Slang Words Online dictionary by term, meaning or country — the fastest way to find any slang word.',
   },
 
   notFound: {

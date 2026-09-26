@@ -3,7 +3,7 @@ import { Font } from 'astro:assets';
 import '../styles/global.css';
 import SiteHeader from '../components/SiteHeader.astro';
 import SiteFooter from '../components/SiteFooter.astro';
-import { SITE_NAME } from '../lib/seo';
+import { SITE_NAME, SITE_URL } from '../lib/seo';
 import { DEFAULT_LOCALE, localeConfig, type Locale } from '../data/locales';
 import { t } from '../i18n/ui';
 import type { Alternate } from '../lib/site';
@@ -15,6 +15,8 @@ interface Props {
   /** `article` for entry pages, `website` everywhere else. */
   ogType?: 'website' | 'article';
   noIndex?: boolean;
+  /** Optional keywords for the meta keywords tag. */
+  keywords?: string;
   /**
    * The same page in its other languages. Emitted as `rel="alternate"` links.
    *
@@ -30,6 +32,7 @@ const {
   locale = DEFAULT_LOCALE,
   ogType = 'website',
   noIndex = false,
+  keywords,
   alternates = [],
 } = Astro.props;
 
@@ -45,6 +48,8 @@ const canonical = new URL(Astro.url.pathname, Astro.site).href;
 
 /** og:locale wants an underscore form, so it is stored, not derived. */
 const ogLocale = config.ogLocale;
+
+const ogImageUrl = new URL('/og-slang-words.png', Astro.site).href;
 ---
 
 <!doctype html>
@@ -70,6 +75,7 @@ const ogLocale = config.ogLocale;
     <meta name="description" content={description} />
     <link rel="canonical" href={canonical} />
     {noIndex && <meta name="robots" content="noindex, follow" />}
+    {keywords && <meta name="keywords" content={keywords} />}
 
     {
       alternates.map((a) => (
@@ -83,8 +89,16 @@ const ogLocale = config.ogLocale;
     <meta property="og:url" content={canonical} />
     <meta property="og:site_name" content={SITE_NAME} />
     <meta property="og:locale" content={ogLocale} />
-    <meta property="og:image" content={new URL('/og.png', Astro.site).href} />
+    <meta property="og:image" content={ogImageUrl} />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:type" content="image/png" />
+    <meta property="og:image:alt" content={`${SITE_NAME} — ${description}`} />
     <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={ogImageUrl} />
+    <meta name="twitter:image:alt" content={`${SITE_NAME} — ${description}`} />
 
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <link rel="sitemap" href="/sitemap-index.xml" />
