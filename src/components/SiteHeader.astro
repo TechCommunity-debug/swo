@@ -31,11 +31,12 @@ const isCurrent = (href: string) => (current.startsWith(href) ? 'page' : undefin
 ---
 
 <header class="sticky top-0 z-40 border-b border-hairline bg-canvas">
-  <div class="container-site flex h-16 items-center gap-4">
+  <div class="container-site flex h-16 items-center justify-center gap-4 md:justify-between">
     <a
       href={homePath(locale)}
-      class="focus-ring -mx-1 shrink-0 rounded-md px-1 text-heading-md tracking-[-0.5px] text-ink"
+      class="focus-ring -mx-1 flex shrink-0 items-center gap-2 rounded-md px-1 text-heading-md tracking-[-0.5px] text-ink"
     >
+      <img src="/favicon.svg" alt="" class="h-8 w-8 shrink-0" />
       <span class="text-primary">Slang</span>WordsOnline
     </a>
 
