@@ -141,4 +141,8 @@ export const en = {
   copyright: (year: number) => `\u00A9 ${year} Slang Words Online`,
   countrySlang: (adjective: string) => `${adjective} slang`,
 
+  aboutUs: 'About Us',
+  contactUs: 'Contact Us',
+  privacyPolicy: 'Privacy Policy',
+  termsConditions: 'Terms & Conditions',
 };

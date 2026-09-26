@@ -126,4 +126,8 @@ export const ja: Strings = {
   copyright: (year: number) => `© ${year} Slang Words Online`,
   countrySlang: (adjective: string) => `${adjective}のスラング`,
 
+  aboutUs: '当サイトについて',
+  contactUs: 'お問い合わせ',
+  privacyPolicy: 'プライバシーポリシー',
+  termsConditions: '利用規約',
 };

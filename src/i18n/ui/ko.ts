@@ -120,4 +120,8 @@ export const ko: Strings = {
   copyright: (year: number) => `© ${year} Slang Words Online`,
   countrySlang: (adjective: string) => `${adjective} 슬랭`,
 
+  aboutUs: '소개',
+  contactUs: '문의하기',
+  privacyPolicy: '개인정보처리방침',
+  termsConditions: '이용약관',
 };

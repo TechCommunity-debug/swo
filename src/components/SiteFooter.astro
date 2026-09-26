@@ -1,5 +1,5 @@
 ---
-import { browsePath, categoryPath, countryPath, searchPath } from '../lib/urls';
+import { aboutPath, browsePath, categoryPath, contactPath, countryPath, privacyPath, searchPath, termsPath } from '../lib/urls';
 import { categoriesFor, countriesFor, entriesFor, loadSite } from '../lib/site';
 import { localizeCountry } from '../lib/localize';
 import { localizeCategory } from '../data/taxonomy';
@@ -97,6 +97,10 @@ const linkClass =
         <ul class="mt-3 grid gap-2">
           <li><a href={browsePath(locale)} class={linkClass}>{strings.browse}</a></li>
           <li><a href={searchPath(locale)} class={linkClass}>{strings.search}</a></li>
+          <li><a href={aboutPath(locale)} class={linkClass}>{strings.aboutUs}</a></li>
+          <li><a href={contactPath(locale)} class={linkClass}>{strings.contactUs}</a></li>
+          <li><a href={privacyPath(locale)} class={linkClass}>{strings.privacyPolicy}</a></li>
+          <li><a href={termsPath(locale)} class={linkClass}>{strings.termsConditions}</a></li>
         </ul>
       </nav>
     </div>

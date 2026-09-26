@@ -52,6 +52,10 @@ export const entryPath = (
 
 export const browsePath = (locale: Locale = DEFAULT_LOCALE) => join(locale, 'browse');
 export const searchPath = (locale: Locale = DEFAULT_LOCALE) => join(locale, 'search');
+export const aboutPath = (locale: Locale = DEFAULT_LOCALE) => join(locale, 'about');
+export const contactPath = (locale: Locale = DEFAULT_LOCALE) => join(locale, 'contact');
+export const privacyPath = (locale: Locale = DEFAULT_LOCALE) => join(locale, 'privacy');
+export const termsPath = (locale: Locale = DEFAULT_LOCALE) => join(locale, 'terms');
 
 /**
  * The category segment of an entry's canonical URL.

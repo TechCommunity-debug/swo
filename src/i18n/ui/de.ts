@@ -119,4 +119,8 @@ export const de: Strings = {
   copyright: (year: number) => `© ${year} Slang Words Online`,
   countrySlang: (adjective: string) => `${adjective} Slang`,
 
+  aboutUs: 'Über uns',
+  contactUs: 'Kontakt',
+  privacyPolicy: 'Datenschutzerklärung',
+  termsConditions: 'Nutzungsbedingungen',
 };

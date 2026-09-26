@@ -107,4 +107,8 @@ export const pt: Strings = {
   copyright: (year: number) => `© ${year} Slang Words Online`,
   countrySlang: (adjective: string) => `gíria ${adjective}`,
 
+  aboutUs: 'Sobre nós',
+  contactUs: 'Contato',
+  privacyPolicy: 'Política de privacidade',
+  termsConditions: 'Termos e condições',
 };

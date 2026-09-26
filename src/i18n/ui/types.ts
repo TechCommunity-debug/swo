@@ -2,8 +2,16 @@ import type { en } from './en';
 
 /**
  * The chrome vocabulary, inferred from the English dictionary.
- *
- * Every other locale file annotates its export with this type, so adding a key
- * to `en.ts` fails the build in every locale that has not translated it yet.
+ * Keys specific to English SEO prose fall back to English at runtime.
  */
-export type Strings = typeof en;
+type OptionalHomeKeys =
+  | 'aboutH2'
+  | 'aboutP1'
+  | 'aboutP2'
+  | 'aboutP3'
+  | 'aboutP4'
+  | 'aboutP5'
+  | 'faqH2';
+
+export type Strings = Omit<typeof en, OptionalHomeKeys> &
+  Partial<Pick<typeof en, OptionalHomeKeys>>;

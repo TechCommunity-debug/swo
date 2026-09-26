@@ -136,4 +136,8 @@ export const ru: Strings = {
   copyright: (year: number) => `© ${year} Slang Words Online`,
   countrySlang: (adjective: string) => `${adjective} сленг`,
 
+  aboutUs: 'О нас',
+  contactUs: 'Контакты',
+  privacyPolicy: 'Политика конфиденциальности',
+  termsConditions: 'Условия использования',
 };

@@ -2,7 +2,7 @@
 import Layout from '../layouts/Layout.astro';
 import SearchBox from '../components/SearchBox.astro';
 import Flag from '../components/Flag.astro';
-import { countryPath } from '../lib/urls';
+import { browsePath, countryPath, homePath, contactPath } from '../lib/urls';
 import { countriesFor, loadSite } from '../lib/site';
 import { localizeCountry } from '../lib/localize';
 import { notFoundSeo } from '../lib/seo';
@@ -11,7 +11,7 @@ import { t } from '../i18n/ui';
 /**
  * A single 404 for the whole site.
  *
- * Static hosting serves one `404.html` for every path, including `/es/…`, so a
+ * Static hosting serves one `404.html` for every path, including `/es/?`, so a
  * second Spanish copy under `/es/` would never actually be reached. It is
  * written in English with the country list in both editions' reach, and the
  * header's language switcher is the way back into Spanish.
@@ -29,17 +29,47 @@ const seo = notFoundSeo('en');
 <Layout title={seo.title} description={seo.description} locale="en" noIndex>
   <div class="container-site py-section">
     <div class="max-w-2xl">
-      <p class="text-body-sm font-semibold tracking-wide text-mute uppercase">
-        {strings.notFoundKicker}
-      </p>
-      <h1 class="mt-2 text-display-lg text-ink">{strings.notFoundH1}</h1>
-      <p class="mt-5 text-body-md text-body">{strings.notFoundBody}</p>
-      <div class="mt-8">
-        <SearchBox autofocus locale="en" />
+      <span class="inline-block rounded-full bg-surface-card px-3 py-1 text-caption font-semibold uppercase tracking-wider text-mute">
+        {strings.notFoundKicker} &bull; Page Not Found
+      </span>
+      <h1 class="mt-3 text-display-lg text-ink">{strings.notFoundH1}</h1>
+      <p class="mt-5 text-body-md text-body leading-relaxed">{strings.notFoundBody}</p>
+
+      <div class="mt-6 flex flex-wrap items-center gap-3">
+        <a
+          href={homePath('en')}
+          class="focus-ring inline-flex items-center gap-2 rounded-md bg-ink px-4 py-2.5 text-body-sm font-semibold text-canvas hover:bg-charcoal transition-colors"
+        >
+          Go to Homepage
+        </a>
+
+        <a
+          href={browsePath('en')}
+          class="focus-ring inline-flex items-center gap-2 rounded-md border border-hairline bg-canvas px-4 py-2.5 text-body-sm font-semibold text-ink hover:bg-surface-card transition-colors"
+        >
+          Browse All Slang A&ndash;Z
+        </a>
+
+        <a
+          href={contactPath('en')}
+          class="focus-ring inline-flex items-center gap-2 rounded-md border border-hairline bg-canvas px-4 py-2.5 text-body-sm font-semibold text-ink hover:bg-surface-card transition-colors"
+        >
+          Suggest This Word
+        </a>
+      </div>
+
+      <div class="mt-8 border-t border-hairline pt-6">
+        <h2 class="text-heading-md text-ink">Search by term or meaning</h2>
+        <p class="mt-1 text-body-sm text-mute">
+          Try typing a term or an English definition to locate the expression across all 16 countries:
+        </p>
+        <div class="mt-4">
+          <SearchBox autofocus locale="en" />
+        </div>
       </div>
     </div>
 
-    <nav aria-labelledby="pick-country" class="mt-section">
+    <nav aria-labelledby="pick-country" class="mt-section border-t border-hairline pt-8">
       <h2 id="pick-country" class="text-heading-md text-ink">{strings.orStartFromCountry}</h2>
       <ul class="mt-4 flex flex-wrap gap-2">
         {
@@ -47,7 +77,7 @@ const seo = notFoundSeo('en');
             <li>
               <a
                 href={c.href}
-                class="focus-ring inline-flex items-center gap-2 rounded-full bg-surface-card px-4 py-2 text-body-sm font-semibold text-ink hover:bg-surface-sunk"
+                class="focus-ring inline-flex items-center gap-2 rounded-full bg-surface-card px-4 py-2 text-body-sm font-semibold text-ink hover:bg-surface-sunk transition-colors"
               >
                 <Flag code={c.flagCode} class="h-[0.9em] w-auto shrink-0 rounded-[2px]" />
                 {c.adjective}

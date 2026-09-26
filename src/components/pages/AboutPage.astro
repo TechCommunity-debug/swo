@@ -1,0 +1,196 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import Breadcrumbs from '../Breadcrumbs.astro';
+import Flag from '../Flag.astro';
+import JsonLd from '../JsonLd.astro';
+import { browsePath, countryPath, homePath, contactPath } from '../../lib/urls';
+import { aboutAlternates, countriesFor, entriesFor, loadSite } from '../../lib/site';
+import { localizeCountry } from '../../lib/localize';
+import { breadcrumbs } from '../../lib/schema';
+import { DEFAULT_LOCALE, type Locale } from '../../data/locales';
+import { t } from '../../i18n/ui';
+
+interface Props {
+  locale?: Locale;
+}
+
+const { locale = DEFAULT_LOCALE } = Astro.props;
+const strings = t(locale);
+
+const site = await loadSite();
+const countries = countriesFor(site, locale);
+const totalEntries = countries.reduce(
+  (acc, c) => acc + entriesFor(site, c.id, locale).length,
+  0
+);
+
+const pageTitle = `${strings.aboutUs} ? Slang Words Online`;
+const pageDescription =
+  `Learn about Slang Words Online, the global guide to living slang, colloquial speech, idioms, and informal expressions across ${countries.length} countries and 9 languages.`;
+
+const schema = breadcrumbs([
+  { name: strings.home, path: homePath(locale) },
+  { name: strings.aboutUs, path: Astro.url.pathname },
+]);
+---
+
+<Layout
+  title={pageTitle}
+  description={pageDescription}
+  locale={locale}
+  alternates={aboutAlternates()}
+>
+  <JsonLd slot="head" schema={schema} />
+
+  <div class="container-site py-8 lg:py-12">
+    <Breadcrumbs locale={locale} items={[{ label: strings.aboutUs }]} />
+
+    <!-- Hero Section -->
+    <header class="mt-8 max-w-3xl">
+      <span class="inline-block rounded-full bg-surface-card px-3 py-1 text-caption font-semibold uppercase tracking-wider text-mute">
+        About Us
+      </span>
+      <h1 class="mt-3 text-display-lg text-ink">About Slang Words Online</h1>
+      <p class="mt-4 text-heading-lg font-normal text-mute">
+        The global guide to living language, street vocabulary, and cultural colloquialisms.
+      </p>
+      <p class="mt-5 text-body-md text-body leading-relaxed">
+        Every language has two lives: the formal version found in grammar textbooks, and the living, dynamic version that actually gets spoken on the street, in cafes, across dinner tables, in songs, and across group chats. <strong>Slang Words Online</strong> exists for the second one.
+      </p>
+    </header>
+
+    <!-- Stats Grid -->
+    <div class="mt-10 grid grid-cols-2 gap-4 sm:grid-cols-4">
+      <div class="rounded-md border border-hairline bg-canvas p-5 text-center">
+        <span class="block text-display-lg font-bold text-primary">{countries.length}</span>
+        <span class="mt-1 block text-body-sm font-medium text-mute">Countries &amp; Dialects</span>
+      </div>
+      <div class="rounded-md border border-hairline bg-canvas p-5 text-center">
+        <span class="block text-display-lg font-bold text-primary">{totalEntries}+</span>
+        <span class="mt-1 block text-body-sm font-medium text-mute">Slang Terms &amp; Phrases</span>
+      </div>
+      <div class="rounded-md border border-hairline bg-canvas p-5 text-center">
+        <span class="block text-display-lg font-bold text-primary">11</span>
+        <span class="mt-1 block text-body-sm font-medium text-mute">Everyday Categories</span>
+      </div>
+      <div class="rounded-md border border-hairline bg-canvas p-5 text-center">
+        <span class="block text-display-lg font-bold text-primary">9</span>
+        <span class="mt-1 block text-body-sm font-medium text-mute">Supported Languages</span>
+      </div>
+    </div>
+
+    <!-- Main Content -->
+    <article class="mt-12 max-w-3xl space-y-10 text-body text-body-md leading-relaxed">
+      <!-- Section 1 -->
+      <section>
+        <h2 class="text-heading-xl text-ink">Why We Built Slang Words Online</h2>
+        <p class="mt-3">
+          Have you ever overheard a phrase in conversation, watched an international series with subtitles, or listened to a song and wondered: <em>&ldquo;What on earth does that actually mean?&rdquo;</em>
+        </p>
+        <p class="mt-3">
+          Plugging the phrase into a standard translation tool often yields confusion: translations either translate each word literally (producing nonsense like translating Spanish &ldquo;de una&rdquo; as &ldquo;of one&rdquo; instead of &ldquo;right away / absolutely&rdquo;) or provide an overly polite dictionary substitute that misses the emotional weight.
+        </p>
+        <p class="mt-3">
+          We built Slang Words Online to provide the cultural context, tone, register, and social nuance that textbooks and automated translators leave behind.
+        </p>
+      </section>
+
+      <!-- Section 2: Four Pillars -->
+      <section>
+        <h2 class="text-heading-xl text-ink">What Sets Our Dictionary Apart</h2>
+        <p class="mt-3">
+          A slang dictionary is only worthwhile if it tells you the things a simple search query cannot:
+        </p>
+        <div class="mt-6 grid gap-4 sm:grid-cols-2">
+          <div class="rounded-md border border-hairline bg-canvas p-5">
+            <h3 class="text-heading-md font-semibold text-ink">1. Register &amp; Social Nuance</h3>
+            <p class="mt-2 text-body-sm text-body">
+              Is a term affectionate banter between close friends or offensive in polite company? We clearly label register and tone so you never make an awkward faux pas.
+            </p>
+          </div>
+          <div class="rounded-md border border-hairline bg-canvas p-5">
+            <h3 class="text-heading-md font-semibold text-ink">2. Worked, Real-Life Examples</h3>
+            <p class="mt-2 text-body-sm text-body">
+              Every term includes natural dialogue and contextual sentences in the original tongue, paired with accurate colloquial and literal translations.
+            </p>
+          </div>
+          <div class="rounded-md border border-hairline bg-canvas p-5">
+            <h3 class="text-heading-md font-semibold text-ink">3. Disputed Origins &amp; Etymology</h3>
+            <p class="mt-2 text-body-sm text-body">
+              Internet folklore is full of false etymologies. When an origin story is verified, we cite historical evidence; where it is disputed or folk legend, we explicitly say so.
+            </p>
+          </div>
+          <div class="rounded-md border border-hairline bg-canvas p-5">
+            <h3 class="text-heading-md font-semibold text-ink">4. Romanization &amp; Phonetics</h3>
+            <p class="mt-2 text-body-sm text-body">
+              Non-Latin scripts (Cyrillic, Japanese Kanji/Hiragana, Korean Hangul) carry clear romanizations, pronunciation guides, and phonetic tips so you can read and pronounce them with confidence.
+            </p>
+          </div>
+        </div>
+      </section>
+
+      <!-- Section 3: Countries Covered -->
+      <section>
+        <h2 class="text-heading-xl text-ink">Cultures and Dialects Covered</h2>
+        <p class="mt-3">
+          Our library spans 16 distinct linguistic and regional hubs, reflecting the rich diversity of informal speech around the world:
+        </p>
+        <div class="mt-6 grid grid-cols-2 gap-3 sm:grid-cols-3 md:grid-cols-4">
+          {
+            countries.map((country) => {
+              const c = localizeCountry(country, locale);
+              return (
+                <a
+                  href={countryPath(country, locale)}
+                  class="focus-ring flex items-center gap-2 rounded-md border border-hairline bg-canvas p-2.5 text-body-sm font-semibold text-ink hover:border-primary hover:bg-surface-card transition-colors"
+                >
+                  <Flag code={c.flagCode} class="h-[1em] w-auto shrink-0 rounded-[2px]" />
+                  <span>{c.name}</span>
+                </a>
+              );
+            })
+          }
+        </div>
+      </section>
+
+      <!-- Section 4: Editorial Standards -->
+      <section>
+        <h2 class="text-heading-xl text-ink">Editorial Philosophy &amp; Community Contributions</h2>
+        <p class="mt-3">
+          Slang is not invented by lexicographers in ivory towers; it is born in schoolyards, comedy clubs, sporting matches, recording studios, and internet chat rooms. Because slang is constantly morphing, Slang Words Online is a living project.
+        </p>
+        <p class="mt-3">
+          We welcome native speakers, travelers, and linguistics enthusiasts from everywhere to suggest new expressions, report dialect nuances, or provide corrections.
+        </p>
+      </section>
+
+      <!-- CTA Card -->
+      <section class="rounded-md border border-hairline bg-surface-card p-6">
+        <h2 class="text-heading-xl text-ink">Connect With Us</h2>
+        <p class="mt-2 text-body">
+          Got a slang term from your hometown we haven&apos;t documented yet? Found a regional nuance that deserves mention? We would love to hear from you.
+        </p>
+        <div class="mt-5 flex flex-wrap items-center gap-3">
+          <a
+            href={contactPath(locale)}
+            class="focus-ring inline-flex items-center gap-2 rounded-md bg-ink px-4 py-2.5 text-body-sm font-semibold text-canvas hover:bg-charcoal"
+          >
+            Contact the Team
+          </a>
+          <a
+            href={browsePath(locale)}
+            class="focus-ring inline-flex items-center gap-2 rounded-md border border-hairline bg-canvas px-4 py-2.5 text-body-sm font-semibold text-ink hover:bg-surface-card"
+          >
+            Browse All Terms A?Z
+          </a>
+          <a
+            href="mailto:techcommunity611@gmail.com"
+            class="text-body-sm font-semibold text-primary hover:underline ml-2"
+          >
+            techcommunity611@gmail.com
+          </a>
+        </div>
+      </section>
+    </article>
+  </div>
+</Layout>
