@@ -55,6 +55,20 @@ const ogImageUrl = new URL('/og-slang-words.png', Astro.site).href;
 <!doctype html>
 <html lang={config.hreflang} dir={config.dir}>
   <head>
+    <!-- Google tag (gtag.js) -->
+    <script
+      is:inline
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-1316MKK63D"></script>
+    <script is:inline>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag('js', new Date());
+
+      gtag('config', 'G-1316MKK63D');
+    </script>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <script is:inline>
