@@ -59,6 +59,9 @@ export const en = {
   aboutP5:
     'This site is free to use, regularly updated, and available in nine languages so non-English speakers can navigate the whole library in their own language too. Think of Slang Words Online as the slang words library you always wished existed: thorough, honest, and written by people who actually care whether you embarrass yourself at the wrong moment. Dive in — pick a country, pick a topic, or just search for the word you heard.',
 
+
+  // ----------------------------------------- home — FAQ section
+  faqH2: 'Frequently Asked Questions About Slang',
   // --------------------------------------------------------------- country
   startHere: 'Start with these',
   startHereLead:
