@@ -27,15 +27,15 @@ export const ja: Strings = {
   termsBeginningWith: (letter: string) => `${letter} で始まる語`,
 
   // ------------------------------------------------------------------ home
-  homeH1: '世界のスラングを読み解くガイド',
+  homeH1: 'スラング辞典：意味・例文・解説',
   homeLead: (terms: number, countries: number) =>
-    `${countries}か国、${terms}語のくだけた言葉と言い回し。意味、言い方、そして使えば失敗する場面まで書いています。`,
-  searchPlaceholder: 'スラングを、または意味を検索…',
+    `世界中のスラング、フレーズ、略語、表現の意味を発見。スラング辞典を検索して、定義、例文、発音、語源、人気のスラングの背景にある文脈を調べましょう。`,
+  searchPlaceholder: 'スラング単語を検索…',
   searchPlaceholderCompact: 'スラングを検索…',
   searchLabel: 'スラングを検索',
   searchHint: '入力すると下に結果が出ます。Enter で検索ページを開きます。',
   tryTerms: '例えば',
-  pickCountry: '国を選ぶ',
+  pickCountry: '国別のスラングを探す',
   pickCountryLead:
     'スラングは言語よりも先に土地のものです。その言葉が実際に話されている場所から始めてください。',
   termsCount: (n: number) => `${n}語`,

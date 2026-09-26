@@ -15,16 +15,16 @@ export const it: Strings = {
   jumpToLetter: 'Vai a una lettera',
   termsBeginningWith: (letter: string) => `Termini che iniziano per ${letter}`,
 
-  homeH1: 'La guida globale allo slang',
+  homeH1: 'Dizionario dello slang: significati, esempi e altro',
   homeLead: (terms: number, countries: number) =>
-    `${plural(terms, 'parola o espressione informale', 'parole ed espressioni informali')} da ${plural(countries, 'paese', 'paesi')}: cosa significano, come si pronunciano e in quali situazioni usarle sarebbe un errore.`,
-  searchPlaceholder: 'Cerca una parola di slang, o un significato…',
+    `Scopri il significato di parole di slang, espressioni, acronimi e modi di dire da tutto il mondo. Cerca nel nostro dizionario di slang per trovare definizioni, frasi di esempio, pronuncia, origini e il contesto dietro allo slang più diffuso.`,
+  searchPlaceholder: 'Cerca parole di slang…',
   searchPlaceholderCompact: 'Cerca nello slang…',
   searchLabel: 'Cerca termini di slang',
   searchHint:
     'I risultati compaiono qui sotto mentre scrivi. Premi Invio per aprire la pagina di ricerca.',
   tryTerms: 'Prova con',
-  pickCountry: 'Scegli un paese',
+  pickCountry: 'Esplora lo slang per paese',
   pickCountryLead:
     'Lo slang appartiene a un luogo prima che a una lingua. Parti da dove queste parole si dicono davvero.',
   termsCount: (n: number) => plural(n, 'termine', 'termini'),

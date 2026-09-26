@@ -30,15 +30,15 @@ export const ko: Strings = {
   jumpToLetter: '글자로 이동',
   termsBeginningWith: (letter: string) => `${letter}: 이 글자로 시작하는 단어`,
 
-  homeH1: '세계의 슬랭 안내서',
+  homeH1: '슬랭 사전: 뜻, 예문 및 다양한 정보',
   homeLead: (terms: number, countries: number) =>
-    `${countries}개국의 비격식 단어와 표현 ${terms}개. 무슨 뜻인지, 어떻게 말하는지, 그리고 어떤 자리에서 쓰면 실수가 되는지까지 정리했습니다.`,
-  searchPlaceholder: '슬랭 단어나 뜻을 검색하세요…',
+    `전 세계의 슬랭 단어, 구문, 축약어 및 표현의 의미를 발견해 보세요. 슬랭 사전을 검색하여 정의, 예문, 발음, 어원 그리고 널리 쓰이는 슬랭에 담긴 배경 맥락까지 확인할 수 있습니다.`,
+  searchPlaceholder: '슬랭 단어 검색…',
   searchPlaceholderCompact: '슬랭 검색…',
   searchLabel: '슬랭 단어 검색',
   searchHint: '입력하는 대로 아래에 결과가 나옵니다. Enter를 누르면 검색 페이지가 열립니다.',
   tryTerms: '예를 들면',
-  pickCountry: '나라 고르기',
+  pickCountry: '나라별 슬랭 둘러보기',
   pickCountryLead:
     '슬랭은 언어에 속하기 전에 장소에 속합니다. 그 말이 실제로 쓰이는 곳에서 시작하세요.',
   termsCount: (n: number) => `단어 ${n}개`,

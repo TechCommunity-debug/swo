@@ -24,15 +24,15 @@ export const en = {
   termsBeginningWith: (letter: string) => `Terms beginning with ${letter}`,
 
   // ------------------------------------------------------------------ home
-  homeH1: 'The global guide to slang words',
+  homeH1: 'Slang Words Dictionary: Meanings, Examples & More',
   homeLead: (terms: number, countries: number) =>
-    `${plural(terms, 'informal word and phrase', 'informal words and phrases')} from ${plural(countries, 'country', 'countries')} — what they mean, how to say them, and the situations where using them would be a mistake.`,
-  searchPlaceholder: 'Search a slang word, or a meaning…',
+    `Discover the meaning of slang words, phrases, acronyms and expressions from around the world. Search our slang dictionary to find definitions, example sentences, pronunciation, origins and the context behind popular slang.`,
+  searchPlaceholder: 'Search slang words…',
   searchPlaceholderCompact: 'Search slang…',
   searchLabel: 'Search slang terms',
   searchHint: 'Results appear below as you type. Press Enter to open the full search page.',
   tryTerms: 'Try',
-  pickCountry: 'Pick a country',
+  pickCountry: 'Explore Slang by Country',
   pickCountryLead:
     'Slang belongs to a place before it belongs to a language. Start where the words are actually spoken.',
   termsCount: (n: number) => plural(n, 'term', 'terms'),

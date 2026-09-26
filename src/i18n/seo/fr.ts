@@ -5,9 +5,9 @@ export const fr: SeoStrings = {
   tagline: 'Le guide mondial de l’argot et des expressions familières',
 
   home: () => ({
-    title: `${SITE_NAME} — Le guide mondial de l’argot et des expressions familières`,
+    title: `Dictionnaire d’argot – Sens, exemples et argot par pays`,
     description: truncate(
-      'Dictionnaire d’argot en français : sens réels, prononciation et phrases d’exemple pour chaque terme, pays par pays.',
+      'Découvrez des mots et expressions d’argot du monde entier. Sens, exemples, prononciation, origines et argot par pays sur notre dictionnaire d’argot en ligne.',
     ),
   }),
 

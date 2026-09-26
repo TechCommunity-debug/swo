@@ -15,16 +15,16 @@ export const es: Strings = {
   jumpToLetter: 'Ir a una letra',
   termsBeginningWith: (letter: string) => `Términos que empiezan por ${letter}`,
 
-  homeH1: 'La guía global del argot',
+  homeH1: 'Diccionario de argot: significados, ejemplos y más',
   homeLead: (terms: number, countries: number) =>
-    `${plural(terms, 'palabra o expresión informal', 'palabras y expresiones informales')} de ${plural(countries, 'país', 'países')}: qué significan, cómo se pronuncian y en qué situaciones sería un error usarlas.`,
-  searchPlaceholder: 'Busca una palabra de argot, o un significado…',
+    `Descubre el significado de palabras de argot, frases, acrónimos y expresiones de todo el mundo. Busca en nuestro diccionario de argot definiciones, frases de ejemplo, pronunciación, orígenes y el contexto detrás del argot popular.`,
+  searchPlaceholder: 'Buscar palabras de argot…',
   searchPlaceholderCompact: 'Buscar argot…',
   searchLabel: 'Buscar términos de argot',
   searchHint:
     'Los resultados aparecen abajo según escribes. Pulsa Intro para abrir la página de búsqueda.',
   tryTerms: 'Prueba con',
-  pickCountry: 'Elige un país',
+  pickCountry: 'Explora el argot por país',
   pickCountryLead:
     'El argot pertenece a un lugar antes que a un idioma. Empieza por donde se hablan de verdad estas palabras.',
   termsCount: (n: number) => plural(n, 'término', 'términos'),

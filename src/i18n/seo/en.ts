@@ -5,9 +5,9 @@ export const en: SeoStrings = {
   tagline: 'Your Slang Words Hub — British, American, Australian & Global Slang Library',
 
   home: (countries) => ({
-    title: `Slang Words — British, American, Australian & Global Slang Dictionary | ${SITE_NAME}`,
+    title: `Slang Words Dictionary – Meanings, Examples & Slang by Country`,
     description: truncate(
-      `Explore our slang words hub covering ${countries.join(', ')} slang. Real definitions, pronunciation and example sentences — your go-to slang words library for every country.`,
+      `Discover slang words and phrases from around the world. Find meanings, examples, pronunciation, origins and slang by country with our online slang dictionary.`,
     ),
   }),
 

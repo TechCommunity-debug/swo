@@ -5,9 +5,9 @@ export const it: SeoStrings = {
   tagline: 'La guida globale allo slang e alle espressioni informali',
 
   home: () => ({
-    title: `${SITE_NAME} — La guida globale allo slang e alle espressioni informali`,
+    title: `Dizionario dello slang – Significati, esempi e slang per paese`,
     description: truncate(
-      'Dizionario di slang in italiano: significati reali, pronuncia e frasi di esempio per ogni termine, paese per paese.',
+      'Scopri parole ed espressioni di slang da tutto il mondo. Trova significati, esempi, pronuncia, origini e slang per paese con il nostro dizionario online.',
     ),
   }),
 

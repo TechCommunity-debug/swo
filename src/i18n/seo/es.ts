@@ -5,9 +5,9 @@ export const es: SeoStrings = {
   tagline: 'La guía global del argot y las expresiones informales',
 
   home: () => ({
-    title: `${SITE_NAME} — La guía global del argot y las expresiones informales`,
+    title: `Diccionario de argot – Significados, ejemplos y argot por país`,
     description: truncate(
-      'Diccionario de argot en español: significados reales, pronunciación y frases de ejemplo para cada término, país por país.',
+      'Descubre palabras y frases de argot de todo el mundo. Encuentra significados, ejemplos, pronunciación, origen y argot por país en nuestro diccionario online.',
     ),
   }),
 

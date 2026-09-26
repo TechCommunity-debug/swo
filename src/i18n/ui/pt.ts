@@ -15,16 +15,16 @@ export const pt: Strings = {
   jumpToLetter: 'Ir para uma letra',
   termsBeginningWith: (letter: string) => `Termos começados por ${letter}`,
 
-  homeH1: 'O guia global da gíria',
+  homeH1: 'Dicionário de gírias: significados, exemplos e mais',
   homeLead: (terms: number, countries: number) =>
-    `${plural(terms, 'palavra ou expressão informal', 'palavras e expressões informais')} de ${plural(countries, 'país', 'países')}: o que significam, como se falam e as situações em que usá-las seria um erro.`,
-  searchPlaceholder: 'Busque uma gíria, ou um significado…',
+    `Descubra o significado de palavras de gíria, frases, siglas e expressões de todo o mundo. Pesquise em nosso dicionário de gírias para encontrar definições, frases de exemplo, pronúncia, origens e o contexto por trás das gírias populares.`,
+  searchPlaceholder: 'Buscar palavras de gíria…',
   searchPlaceholderCompact: 'Buscar gíria…',
   searchLabel: 'Buscar termos de gíria',
   searchHint:
     'Os resultados aparecem abaixo conforme você digita. Aperte Enter para abrir a página de busca.',
   tryTerms: 'Experimente',
-  pickCountry: 'Escolha um país',
+  pickCountry: 'Explorar gírias por país',
   pickCountryLead:
     'A gíria pertence a um lugar antes de pertencer a um idioma. Comece por onde essas palavras são faladas de verdade.',
   termsCount: (n: number) => plural(n, 'termo', 'termos'),

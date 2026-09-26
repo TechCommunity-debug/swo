@@ -12,9 +12,9 @@ export const de: SeoStrings = {
   tagline: 'Der weltweite Wegweiser durch Slang und informelle Ausdrücke',
 
   home: () => ({
-    title: `${SITE_NAME} – Der weltweite Wegweiser durch Slang und informelle Ausdrücke`,
+    title: `Slang-Wörterbuch – Bedeutungen, Beispiele & Slang nach Ländern`,
     description: truncate(
-      'Slangwörterbuch auf Deutsch: echte Bedeutungen, Aussprache und Beispielsätze zu jedem Begriff, Land für Land.',
+      'Entdecke Slangwörter und Ausdrücke aus aller Welt. Finde Bedeutungen, Beispiele, Aussprache, Herkunft und Slang nach Ländern im Online-Slang-Wörterbuch.',
     ),
   }),
 

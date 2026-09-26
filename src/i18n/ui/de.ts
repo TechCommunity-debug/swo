@@ -26,16 +26,16 @@ export const de: Strings = {
   jumpToLetter: 'Zu einem Buchstaben springen',
   termsBeginningWith: (letter: string) => `Begriffe mit ${letter}`,
 
-  homeH1: 'Der weltweite Wegweiser durch den Slang',
+  homeH1: 'Slang-Wörterbuch: Bedeutungen, Beispiele & mehr',
   homeLead: (terms: number, countries: number) =>
-    `${plural(terms, 'informelles Wort', 'informelle Wörter und Wendungen')} aus ${plural(countries, 'Land', 'Ländern')} – was sie bedeuten, wie man sie ausspricht und in welchen Situationen man sie besser nicht benutzt.`,
-  searchPlaceholder: 'Slangwort oder Bedeutung suchen…',
+    `Entdecke die Bedeutung von Slangwörtern, Begriffen, Akronymen und Redewendungen aus aller Welt. Durchsuche unser Slang-Wörterbuch nach Definitionen, Beispielsätzen, Aussprache, Herkunft und dem Kontext beliebter Slang-Ausdrücke.`,
+  searchPlaceholder: 'Slangwörter suchen…',
   searchPlaceholderCompact: 'Slang suchen…',
   searchLabel: 'Slangbegriffe suchen',
   searchHint:
     'Die Treffer erscheinen beim Tippen darunter. Mit Enter geht es zur vollständigen Suchseite.',
   tryTerms: 'Probier',
-  pickCountry: 'Land auswählen',
+  pickCountry: 'Slang nach Ländern entdecken',
   pickCountryLead:
     'Slang gehört zu einem Ort, bevor er zu einer Sprache gehört. Fang dort an, wo die Wörter tatsächlich gesprochen werden.',
   termsCount: (n: number) => plural(n, 'Begriff', 'Begriffe'),

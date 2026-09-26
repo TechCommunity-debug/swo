@@ -15,16 +15,16 @@ export const fr: Strings = {
   jumpToLetter: 'Aller à une lettre',
   termsBeginningWith: (letter: string) => `Termes commençant par ${letter}`,
 
-  homeH1: 'Le guide mondial de l’argot',
+  homeH1: 'Dictionnaire d’argot : sens, exemples et plus',
   homeLead: (terms: number, countries: number) =>
-    `${plural(terms, 'mot ou expression familier', 'mots et expressions familiers')} de ${plural(countries, 'pays', 'pays')} : ce qu’ils veulent dire, comment les prononcer, et les situations où les employer serait une erreur.`,
-  searchPlaceholder: 'Cherchez un mot d’argot, ou un sens…',
+    `Découvrez la signification des mots d’argot, locutions, acronymes et expressions du monde entier. Parcourez notre dictionnaire d’argot pour trouver définitions, phrases d’exemple, prononciation, origines et contexte du langage populaire.`,
+  searchPlaceholder: 'Chercher des mots d’argot…',
   searchPlaceholderCompact: 'Chercher dans l’argot…',
   searchLabel: 'Rechercher un terme d’argot',
   searchHint:
     'Les résultats s’affichent en dessous à mesure que vous tapez. Appuyez sur Entrée pour ouvrir la page de recherche complète.',
   tryTerms: 'Essayez',
-  pickCountry: 'Choisissez un pays',
+  pickCountry: 'Explorer l’argot par pays',
   pickCountryLead:
     'L’argot appartient à un lieu avant d’appartenir à une langue. Commencez là où ces mots se disent pour de bon.',
   termsCount: (n: number) => plural(n, 'terme', 'termes'),

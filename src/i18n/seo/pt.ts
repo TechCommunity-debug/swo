@@ -5,9 +5,9 @@ export const pt: SeoStrings = {
   tagline: 'O guia global da gíria e das expressões informais',
 
   home: () => ({
-    title: `${SITE_NAME} — O guia global da gíria e das expressões informais`,
+    title: `Dicionário de gírias – Significados, exemplos e gírias por país`,
     description: truncate(
-      'Dicionário de gíria em português: significados reais, pronúncia e frases de exemplo para cada termo, país por país.',
+      'Descubra palavras e expressões de gíria de todo o mundo. Encontre significados, exemplos, pronúncia, origens e gírias por país no nosso dicionário online.',
     ),
   }),
 
