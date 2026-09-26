@@ -63,4 +63,8 @@ export const es: SeoStrings = {
     title: `Contacto — Preguntas, sugerencias y colaboraciones | ${SITE_NAME}`,
     description: `Ponte en contacto con el equipo de Slang Words Online. Envía sugerencias de jerga, correcciones dialectales o consultas a ${email}.`,
   }),
+  privacy: {
+    title: `Política de privacidad | ${SITE_NAME}`,
+    description: 'Lee la política de privacidad de Slang Words Online. Conoce cómo gestionamos datos, cookies y la privacidad en nuestro diccionario global.',
+  },
 };

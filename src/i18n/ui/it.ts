@@ -205,6 +205,49 @@ export const it: Strings = {
     'La nostra redazione legge i messaggi della community diverse volte a settimana. Di solito rispondiamo entro 24–48 ore.',
 
   contactUs: 'Contatti',
+  // ---------------------------------------------------------------- privacy policy
+  privacyKicker: 'Informazioni legali e privacy',
+  privacyLastUpdated: 'Ultimo aggiornamento: Settembre 2026',
+  privacyIntro:
+    'Su Slang Words Online (<a href="/it/" class="text-primary hover:underline">slangwordsonline.com</a>), la tutela della tua privacy è chiara e immediata. Riteniamo che una risorsa didattica e linguistica debba essere trasparente, sicura e rispettosa di ogni visitatore.',
+  privacyPrinciplesHeading: 'I nostri principi sulla privacy',
+  privacyPrinciple1Title: '1. Nessun account richiesto e accesso libero',
+  privacyPrinciple1Body:
+    'Puoi consultare liberamente tutte le voci gergali, esplorare i paesi e cercare nel dizionario senza registrarti o condividere dati personali.',
+  privacyPrinciple2Title: '2. Non vendiamo mai i tuoi dati',
+  privacyPrinciple2Body:
+    'Non monetizziamo, cediamo né vendiamo informazioni personali dei visitatori a terzi, broker di dati o network pubblicitari.',
+  privacyPrinciple3Title: '3. Comunicazione diretta e trasparente',
+  privacyPrinciple3Body:
+    'Se ci scrivi via email, il tuo messaggio verrà utilizzato esclusivamente per rispondere alle tue domande o esaminare le tue proposte lessicali.',
+  privacyCollectHeading: 'Dati che raccogliamo',
+  privacyCollectLead:
+    'Raccogliamo solo il minimo indispensabile per erogare, proteggere e mantenere operativo il sito:',
+  privacyCollectA_Title: 'A. Dati tecnici e registri anonimi',
+  privacyCollectA_Body:
+    'Quando visiti il nostro sito, l’infrastruttura di hosting memorizza registri tecnici di diagnostica non identificativi (data e ora delle richieste, browser, sistema operativo, URL visualizzati e indirizzi IP anonimizzati). Tali dati servono esclusivamente per la stabilità del servizio e la prevenzione di abusi.',
+  privacyCollectB_Title: 'B. Preferenze sul dispositivo',
+  privacyCollectB_Body:
+    'Quando passi dal tema chiaro a quello scuro, la tua scelta viene salvata localmente nel <code>localStorage</code> del tuo browser. Questi dati risiedono esclusivamente sul tuo dispositivo e non vengono inviati ai nostri server.',
+  privacyCollectC_Title: 'C. Corrispondenza via email',
+  privacyCollectC_Body:
+    'Se scrivi al nostro team, riceviamo il tuo indirizzo email, il nome (se indicato) e il testo del messaggio. Conserviamo queste comunicazioni solo per il tempo necessario a gestire il feedback o aggiornare il dizionario.',
+  privacyCookiesHeading: 'Cookie e strumenti di tracciamento',
+  privacyCookiesLead:
+    'Slang Words Online è progettato ponendo la massima attenzione alla riservatezza:',
+  privacyCookiesB1:
+    '<strong>Nessun cookie pubblicitario o di profilazione:</strong> Non impieghiamo cookie di tracciamento di terze parti, pixel comportamentali o strumenti di tracciamento cross-site.',
+  privacyCookiesB2:
+    '<strong>Nessun fingerprinting o profilazione:</strong> Non monitoriamo la tua navigazione su altri siti web né tentiamo di risalire all’identità dei singoli utenti.',
+  privacyCookiesB3:
+    '<strong>Memoria locale solo per esigenze funzionali:</strong> Usiamo esclusivamente la memoria minima del browser per ricordare la tua preferenza visiva (modalità chiara o scura).',
+  privacyUpdatesHeading: 'Aggiornamenti dell’informativa',
+  privacyUpdatesBody:
+    'Possiamo aggiornare periodicamente la presente Informativa sulla privacy per adeguarla a piccole migliorie o novità operative. Ogni modifica verrà pubblicata su questa pagina con la data di revisione.',
+  privacyContactBody:
+    'Per qualsiasi domanda, chiarimento o dubbio riguardo alla nostra gestione della privacy, puoi contattarci direttamente:',
+  privacyContactEmailLabel: 'Email:',
+
   privacyPolicy: 'Informativa sulla privacy',
   termsConditions: 'Termini e condizioni',
 };

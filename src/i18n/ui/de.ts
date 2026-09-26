@@ -215,6 +215,49 @@ export const de: Strings = {
     'Unser ehrenamtliches Redaktionsteam sichtet Community-Nachrichten mehrfach pro Woche. In der Regel antworten wir innerhalb von 24 bis 48 Stunden.',
 
   contactUs: 'Kontakt',
+  // ---------------------------------------------------------------- privacy policy
+  privacyKicker: 'Rechtliches & Datenschutz',
+  privacyLastUpdated: 'Zuletzt aktualisiert: September 2026',
+  privacyIntro:
+    'Bei Slang Words Online (<a href="/de/" class="text-primary hover:underline">slangwordsonline.com</a>) ist Datenschutz einfach und transparent. Wir sind überzeugt, dass ein sprachliches Bildungsangebot offen, sicher und respektvoll gegenüber jedem Besucher sein muss.',
+  privacyPrinciplesHeading: 'Unsere Datenschutz-Grundsätze',
+  privacyPrinciple1Title: '1. Kein Benutzerkonto & freier Zugriff',
+  privacyPrinciple1Body:
+    'Du kannst sämtliche Slang-Einträge frei durchstöbern, Länder erkunden und im Wörterbuch suchen, ohne ein Konto anzulegen oder persönliche Daten anzugeben.',
+  privacyPrinciple2Title: '2. Kein Verkauf von Daten',
+  privacyPrinciple2Body:
+    'Wir monetarisieren, vermitteln oder verkaufen zu keinem Zeitpunkt Daten unserer Besucher an Dritte, Datenhändler oder Werbenetzwerke.',
+  privacyPrinciple3Title: '3. Direkte & transparente Kommunikation',
+  privacyPrinciple3Body:
+    'Wenn du uns per E-Mail kontaktierst, nutzen wir deine Nachricht ausschließlich zur Beantwortung deiner Fragen oder zur Prüfung von Begriffsvorschlägen.',
+  privacyCollectHeading: 'Informationen, die wir erfassen',
+  privacyCollectLead:
+    'Wir erfassen nur das absolute Minimum an technischen Informationen, das für Bereitstellung, Schutz und Wartung der Website erforderlich ist:',
+  privacyCollectA_Title: 'A. Anonyme Protokoll- und Serverdaten',
+  privacyCollectA_Body:
+    'Beim Aufruf unserer Website speichert unsere Server-Infrastruktur automatisch nicht-personenbezogene Diagnoseprotokolle (wie Zugriffszeitpunkte, Browsertyp, Betriebssystem, angeforderte URLs und anonymisierte IP-Adressen). Diese Daten dienen ausschließlich der Serversicherheit, Fehleranalyse und Schutz vor Daten-Scraping.',
+  privacyCollectB_Title: 'B. Lokale Einstellungen im Browser',
+  privacyCollectB_Body:
+    'Wenn du zwischen hellem und dunklem Design wechselst, wird deine Auswahl lokal im <code>localStorage</code> deines Browsers hinterlegt. Diese Information verbleibt auf deinem Gerät und wird nicht an unsere Server übertragen.',
+  privacyCollectC_Title: 'C. Direkter E-Mail-Kontakt',
+  privacyCollectC_Body:
+    'Wenn du unserem Team schreibst, erhalten wir deine E-Mail-Adresse, deinen Namen (falls angegeben) und den Inhalt deiner Nachricht. Wir behalten diese Korrespondenz nur so lange, wie es zur Klärung deines Anliegens erforderlich ist.',
+  privacyCookiesHeading: 'Cookies und Tracking-Technologien',
+  privacyCookiesLead:
+    'Slang Words Online ist von Grund auf nach dem Grundsatz der Datensparsamkeit aufgebaut:',
+  privacyCookiesB1:
+    '<strong>Keine Werbe- oder Tracking-Cookies:</strong> Wir verwenden weder Tracking-Cookies von Drittanbietern noch Zählpixel oder seitenübergreifende Analyse-Tools.',
+  privacyCookiesB2:
+    '<strong>Kein Profiling oder Fingerprinting:</strong> Wir erstellen keine Profile über dein Surfverhalten und versuchen nicht, einzelne Besucher wiederzuerkennen.',
+  privacyCookiesB3:
+    '<strong>Ausschließlich funktionaler Webspeicher:</strong> Wir nutzen lediglich minimalen Browserspeicher, um deine Wahl des Farbschemas (Hell- oder Dunkelmodus) beizubehalten.',
+  privacyUpdatesHeading: 'Aktualisierungen dieser Richtlinie',
+  privacyUpdatesBody:
+    'Wir können diese Datenschutzerklärung gelegentlich anpassen, um kleinere Verbesserungen oder technische Änderungen abzubilden. Alle Änderungen werden direkt auf dieser Seite mit aktualisiertem Datum veröffentlicht.',
+  privacyContactBody:
+    'Bei Fragen oder Anregungen zu unseren Datenschutzpraktiken kannst du dich jederzeit direkt an uns wenden:',
+  privacyContactEmailLabel: 'E-Mail:',
+
   privacyPolicy: 'Datenschutzerklärung',
   termsConditions: 'Nutzungsbedingungen',
 };

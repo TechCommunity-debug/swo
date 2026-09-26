@@ -67,4 +67,8 @@ export const ko: SeoStrings = {
     title: `문의하기 — 질문, 피드백 및 신조어 제보 | ${SITE_NAME}`,
     description: `Slang Words Online 팀에 문의하세요. 새로운 슬랭 제보, 방언 뉘앙스 수정, 제휴 문의는 ${email} 로 보내주시기 바랍니다.`,
   }),
+  privacy: {
+    title: `개인정보처리방침 | ${SITE_NAME}`,
+    description: 'Slang Words Online 의 개인정보처리방침입니다. 데이터 관리, 쿠키 및 이용자 개인정보 보호 방침에 대해 안내합니다.',
+  },
 };

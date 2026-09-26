@@ -216,6 +216,49 @@ export const ko: Strings = {
     '편집팀이 주 수회 커뮤니티 메시지를 검토하고 있습니다. 보통 24~48시간 이내에 답변을 드립니다.',
 
   contactUs: '문의하기',
+  // ---------------------------------------------------------------- privacy policy
+  privacyKicker: '법적 고지 및 개인정보 보호',
+  privacyLastUpdated: '최종 수정일: 2026년 9월',
+  privacyIntro:
+    'Slang Words Online(<a href="/ko/" class="text-primary hover:underline">slangwordsonline.com</a>)은 이용자의 개인정보를 명확하고 투명하게 보호합니다. 교육적 언어 자료는 모든 탐색자에게 안전하고 신뢰할 수 있어야 한다고 믿습니다.',
+  privacyPrinciplesHeading: '개인정보 보호 원칙',
+  privacyPrinciple1Title: '1. 회원가입 불필요 및 자유로운 무료 이용',
+  privacyPrinciple1Body:
+    '계정을 만들거나 개인 식별 정보를 입력할 필요 없이 모든 슬랭 항목, 국가별 페이지, 사전 검색을 자유롭게 이용하실 수 있습니다.',
+  privacyPrinciple2Title: '2. 개인정보의 제3자 판매 및 공유 금지',
+  privacyPrinciple2Body:
+    '방문자의 이용 정보를 광고 네트워크나 데이터 브로커 등 제3자에게 판매, 중개, 상업적으로 제공하지 않습니다.',
+  privacyPrinciple3Title: '3. 직접적이고 투명한 소통',
+  privacyPrinciple3Body:
+    '이메일로 문의를 주실 경우, 해당 내용은 질문에 대한 답변 및 단어 제보 검토 목적으로만 사용됩니다.',
+  privacyCollectHeading: '수집하는 정보',
+  privacyCollectLead:
+    '웹사이트의 원활한 제공과 보안 유지에 필수적인 최소한의 정보만을 처리합니다:',
+  privacyCollectA_Title: 'A. 익명의 기술 및 서버 로그 데이터',
+  privacyCollectA_Body:
+    '사이트 방문 시 호스팅 서버에서 개인을 특정할 수 없는 진단용 로그(접속 시간, 브라우저 종류, 운영체제, 요청 URL, 익명화된 IP 주소 등)가 자동으로 기록됩니다. 이 데이터는 서버 성능 점검, 디버깅 및 악성 스크래핑 차단에만 엄격히 사용됩니다.',
+  privacyCollectB_Title: 'B. 기기 내 로컬 설정',
+  privacyCollectB_Body:
+    '라이트 모드와 다크 모드 테마를 변경할 경우, 선택값은 이용자의 브라우저 <code>localStorage</code>에만 저장됩니다. 이 정보는 개인 기기에만 머무르며 서버로 전송되지 않습니다.',
+  privacyCollectC_Title: 'C. 이메일 문의 내용',
+  privacyCollectC_Body:
+    '팀으로 이메일을 보내실 경우 이메일 주소, 성함(입력 시), 메시지 본문을 수신합니다. 수신된 내용은 문의 처리 및 사전 반영에 필요한 기간 동안만 안전하게 보관됩니다.',
+  privacyCookiesHeading: '쿠키 및 추적 기술',
+  privacyCookiesLead:
+    'Slang Words Online은 철저한 프라이버시 우선 구조로 설계되었습니다:',
+  privacyCookiesB1:
+    '<strong>광고 및 추적 쿠키 미사용:</strong> 제3자 광고 추적 쿠키, 행동 추적 픽셀, 사이트 간 추적 도구를 일절 사용하지 않습니다.',
+  privacyCookiesB2:
+    '<strong>프로파일링 및 기기 핑거프린팅 금지:</strong> 다른 웹사이트에서의 탐색 기록을 추적하거나 개별 방문자를 식별하려 하지 않습니다.',
+  privacyCookiesB3:
+    '<strong>기능 유지를 위한 최소한의 로컬 스토리지:</strong> 편안한 열람을 위해 테마 설정(라이트/다크 모드)을 유지하는 기능적 용도로만 브라우저 스토리지를 최소한으로 사용합니다.',
+  privacyUpdatesHeading: '방침의 변경',
+  privacyUpdatesBody:
+    '웹사이트 개선 또는 운영상 필요에 따라 본 개인정보처리방침을 수정할 수 있습니다. 변경 사항은 항상 최신 수정일과 함께 본 페이지에 즉시 공개됩니다.',
+  privacyContactBody:
+    '개인정보 보호 방침에 관한 질문, 제안 또는 우려 사항이 있으시면 팀으로 직접 문의해 주시기 바랍니다:',
+  privacyContactEmailLabel: '이메일:',
+
   privacyPolicy: '개인정보처리방침',
   termsConditions: '이용약관',
 };

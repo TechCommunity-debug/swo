@@ -72,4 +72,8 @@ export const ja: SeoStrings = {
     title: `お問い合わせ — ご質問・ご意見・スラングのご提案 | ${SITE_NAME}`,
     description: `Slang Words Online 運営チームへのお問い合わせ。新しいスラングのご提案、方言の補足・訂正、提携に関するご連絡は ${email} までお寄せください。`,
   }),
+  privacy: {
+    title: `プライバシーポリシー | ${SITE_NAME}`,
+    description: 'Slang Words Online のプライバシーポリシー。当辞典におけるデータ保護、Cookie の取り扱い、訪問者のプライバシー保護方針について説明します。',
+  },
 };

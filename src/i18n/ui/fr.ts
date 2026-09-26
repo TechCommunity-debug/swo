@@ -203,6 +203,49 @@ export const fr: Strings = {
     'Notre équipe éditoriale bénévole lit les messages plusieurs fois par semaine. Nous répondons généralement sous 24 à 48 heures.',
 
   contactUs: 'Contact',
+  // ---------------------------------------------------------------- privacy policy
+  privacyKicker: 'Mentions légales & Confidentialité',
+  privacyLastUpdated: 'Dernière mise à jour : Septembre 2026',
+  privacyIntro:
+    'Sur Slang Words Online (<a href="/fr/" class="text-primary hover:underline">slangwordsonline.com</a>), votre vie privée est respectée en toute simplicité. Nous pensons qu’une ressource linguistique éducative doit être transparente, sûre et respectueuse de ses visiteurs.',
+  privacyPrinciplesHeading: 'Nos principes fondamentaux',
+  privacyPrinciple1Title: '1. Aucun compte requis & accès libre',
+  privacyPrinciple1Body:
+    'Vous pouvez consulter librement toutes les définitions d’argot, explorer les pays et effectuer des recherches sans créer de compte ni renseigner de données personnelles.',
+  privacyPrinciple2Title: '2. Nous ne vendons jamais vos données',
+  privacyPrinciple2Body:
+    'Nous ne monétisons, ne cédons et ne vendons aucune donnée de nos visiteurs à des tiers, des courtiers en données ou des régies publicitaires.',
+  privacyPrinciple3Title: '3. Échanges directs et transparents',
+  privacyPrinciple3Body:
+    'Si vous nous écrivez par e-mail, votre message sert exclusivement à vous répondre ou à examiner vos suggestions lexicales.',
+  privacyCollectHeading: 'Données collectées',
+  privacyCollectLead:
+    'Nous ne recueillons que les informations strictement nécessaires au bon fonctionnement et à la sécurité du site :',
+  privacyCollectA_Title: 'A. Données techniques et journaux anonymes',
+  privacyCollectA_Body:
+    'Lors de votre visite, notre hébergeur consigne automatiquement des journaux techniques non nominatifs (horodatage, navigateur, système d’exploitation, pages consultées et adresses IP anonymisées). Ces données sont exclusivement dédiées à la stabilité, au diagnostic et à la protection contre le moissonnage abusif.',
+  privacyCollectB_Title: 'B. Préférences locales de navigation',
+  privacyCollectB_Body:
+    'Lorsque vous basculez entre le mode clair et le mode sombre, votre choix est enregistré localement dans le <code>localStorage</code> de votre navigateur. Cette donnée reste sur votre terminal et n’est jamais transmise à nos serveurs.',
+  privacyCollectC_Title: 'C. Correspondance directe par e-mail',
+  privacyCollectC_Body:
+    'Si vous contactez notre équipe, nous recevons votre adresse e-mail, votre nom (le cas échéant) et votre message. Nous ne conservons ces échanges que le temps nécessaire pour traiter votre retour ou enrichir le dictionnaire.',
+  privacyCookiesHeading: 'Cookies et traceurs',
+  privacyCookiesLead:
+    'Slang Words Online repose sur une conception rigoureusement protectrice de votre vie privée :',
+  privacyCookiesB1:
+    '<strong>Aucun cookie publicitaire ou de pistage :</strong> Nous n’utilisons aucun cookie de ciblage tiers, pixel espion ou traceur intersites.',
+  privacyCookiesB2:
+    '<strong>Aucun profilage comportemental :</strong> Nous ne traquons pas vos habitudes de navigation sur le Web et ne cherchons pas à identifier les personnes.',
+  privacyCookiesB3:
+    '<strong>Stockage local exclusivement fonctionnel :</strong> Seul un espace de stockage minimal sur votre navigateur est utilisé pour mémoriser votre préférence d’affichage (thème sombre ou clair).',
+  privacyUpdatesHeading: 'Évolution de la présente politique',
+  privacyUpdatesBody:
+    'Nous pouvons être amenés à actualiser cette politique de confidentialité pour refléter des améliorations techniques ou légales. Toute mise à jour sera affichée directement sur cette page avec la date révisée.',
+  privacyContactBody:
+    'Pour toute question, remarque ou préoccupation relative à la confidentialité de vos données, écrivez-nous directement :',
+  privacyContactEmailLabel: 'E-mail :',
+
   privacyPolicy: 'Politique de confidentialité',
   termsConditions: 'Conditions générales',
 };

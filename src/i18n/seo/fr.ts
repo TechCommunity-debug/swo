@@ -64,4 +64,8 @@ export const fr: SeoStrings = {
     title: `Contact — Questions, retours et suggestions d'argot | ${SITE_NAME}`,
     description: `Contactez l'équipe de Slang Words Online. Envoyez vos suggestions d'argot, précisions dialectales ou demandes de partenariat à ${email}.`,
   }),
+  privacy: {
+    title: `Politique de confidentialité | ${SITE_NAME}`,
+    description: 'Consultez la politique de confidentialité de Slang Words Online. Découvrez notre gestion des données, cookies et respect de la vie privée.',
+  },
 };

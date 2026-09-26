@@ -71,4 +71,8 @@ export const de: SeoStrings = {
     title: `Kontakt — Fragen, Feedback & Begriffsvorschläge | ${SITE_NAME}`,
     description: `Kontaktiere das Team von Slang Words Online. Sende neue Slang-Begriffe, Korrekturen oder Kooperationsanfragen an ${email}.`,
   }),
+  privacy: {
+    title: `Datenschutzerklärung | ${SITE_NAME}`,
+    description: 'Lies die Datenschutzerklärung von Slang Words Online. Erfahre, wie wir Daten, Cookies und deine Privatsphäre in unserem Wörterbuch schützen.',
+  },
 };

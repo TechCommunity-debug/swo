@@ -237,6 +237,49 @@ export const en = {
     'Our volunteer editorial team reviews community emails several times weekly. We typically answer inquiries within 24–48 hours.',
 
   contactUs: 'Contact Us',
+  // ---------------------------------------------------------------- privacy policy
+  privacyKicker: 'Legal & Privacy',
+  privacyLastUpdated: 'Last Updated: September 2026',
+  privacyIntro:
+    'At Slang Words Online (<a href="/" class="text-primary hover:underline">slangwordsonline.com</a>), your privacy is straightforward. We believe an educational language resource should be transparent, safe, and respectful of everyone who explores it.',
+  privacyPrinciplesHeading: 'Our Privacy Principles',
+  privacyPrinciple1Title: '1. No Account Required & Free Access',
+  privacyPrinciple1Body:
+    'You can freely browse all slang entries, explore countries, and search the dictionary without creating an account or providing personal details.',
+  privacyPrinciple2Title: '2. We Never Sell Your Data',
+  privacyPrinciple2Body:
+    'We never monetize, broker, or sell personal visitor data to third parties, data brokers, or advertising networks.',
+  privacyPrinciple3Title: '3. Direct & Transparent Communication',
+  privacyPrinciple3Body:
+    'If you reach out to us by email, your message is used solely to answer your questions or review term suggestions.',
+  privacyCollectHeading: 'Information We Collect',
+  privacyCollectLead:
+    'We collect only the bare minimum information required to deliver, secure, and maintain the website:',
+  privacyCollectA_Title: 'A. Anonymous Technical & Log Data',
+  privacyCollectA_Body:
+    'When you visit our site, our hosting infrastructure automatically records non-identifying technical diagnostic logs (such as request timestamps, browser user agent, operating system, requested page URLs, and anonymized IP addresses). This data is strictly used for server performance monitoring, debugging, and blocking malicious scraping.',
+  privacyCollectB_Title: 'B. Client-Side Preferences',
+  privacyCollectB_Body:
+    'When you toggle between light and dark theme, your selection is stored locally in your browser’s <code>localStorage</code>. This data remains on your personal device and is never transmitted to our servers.',
+  privacyCollectC_Title: 'C. Direct Email Correspondence',
+  privacyCollectC_Body:
+    'If you email our team, we receive your email address, name (if provided), and message details. We retain this communication only as long as needed to address your feedback or update our dictionary.',
+  privacyCookiesHeading: 'Cookies and Tracking Technologies',
+  privacyCookiesLead:
+    'Slang Words Online is designed with a strict privacy-first architecture:',
+  privacyCookiesB1:
+    '<strong>No Advertising or Tracking Cookies:</strong> We do not use third-party tracking cookies, behavioral tracking pixels, or cross-site tracking tools.',
+  privacyCookiesB2:
+    '<strong>No Fingerprinting or Profiling:</strong> We do not profile your browsing habits across other websites or attempt to identify individual visitors.',
+  privacyCookiesB3:
+    '<strong>Functional Local Storage:</strong> We use minimal client-side browser storage solely to preserve your visual theme preference (light or dark mode) so the site remains comfortable to read.',
+  privacyUpdatesHeading: 'Policy Updates',
+  privacyUpdatesBody:
+    'We may revise this Privacy Policy periodically to reflect minor website improvements or operational changes. Any updates will always be published directly on this page with an updated “Last Updated” date.',
+  privacyContactBody:
+    'If you have any questions, feedback, or concerns regarding our privacy practices, please contact our team directly:',
+  privacyContactEmailLabel: 'Email:',
+
   privacyPolicy: 'Privacy Policy',
   termsConditions: 'Terms & Conditions',
 };

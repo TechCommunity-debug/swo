@@ -222,6 +222,49 @@ export const ja: Strings = {
     '有志の編集チームが週に数回メッセージを確認しています。通常24〜48時間以内にご返答いたします。',
 
   contactUs: 'お問い合わせ',
+  // ---------------------------------------------------------------- privacy policy
+  privacyKicker: '法的情報とプライバシー',
+  privacyLastUpdated: '最終更新日：2026年9月',
+  privacyIntro:
+    'Slang Words Online（<a href="/ja/" class="text-primary hover:underline">slangwordsonline.com</a>）では、利用者のプライバシーを明確かつシンプルに保護しています。言語教育リソースは、すべての利用者に対して透明で、安全で、誠実であるべきだと考えています。',
+  privacyPrinciplesHeading: 'プライバシーに関する基本方針',
+  privacyPrinciple1Title: '1. 会員登録不要・完全無料アクセス',
+  privacyPrinciple1Body:
+    'アカウントを作成したり個人情報を提供したりすることなく、すべてのスラング解説、地域別ページ、辞典の検索機能を自由に閲覧できます。',
+  privacyPrinciple2Title: '2. 個人データの売買は一切行いません',
+  privacyPrinciple2Body:
+    '利用者の情報を第三者、データブローカー、広告ネットワークに提供・販売・仲介することは決してありません。',
+  privacyPrinciple3Title: '3. 直接的で透明性の高いコミュニケーション',
+  privacyPrinciple3Body:
+    'メールでお問い合わせいただいた内容は、ご質問への回答やスラングのご提案の確認のみに使用されます。',
+  privacyCollectHeading: '収集する情報について',
+  privacyCollectLead:
+    'ウェブサイトの安全な配信と保守に必要な最小限の情報のみを取り扱っています：',
+  privacyCollectA_Title: 'A. 匿名の技術・アクセスログデータ',
+  privacyCollectA_Body:
+    'サイト訪問時、サーバー側で個人を特定しない技術的な診断ログ（リクエスト日時、ブラウザの種類、OS、アクセス先URL、匿名化されたIPアドレスなど）が自動的に記録されます。このデータはパフォーマンスの監視、不具合修正、不正アクセスの遮断にのみ用いられます。',
+  privacyCollectB_Title: 'B. ブラウザ側の表示設定',
+  privacyCollectB_Body:
+    'ライトテーマとダークテーマの切り替え時、その選択はお使いのブラウザの <code>localStorage</code> にのみ保存されます。このデータはお手元の端末内に留まり、当サイトのサーバーに送信されることはありません。',
+  privacyCollectC_Title: 'C. 直接のメール問い合わせ',
+  privacyCollectC_Body:
+    '編集チーム宛てにメールをいただいた場合、送信元アドレス、お名前（記載がある場合）、本文を受信します。これらの情報は、お問い合わせ対応や辞典の更新に必要な期間のみ保持されます。',
+  privacyCookiesHeading: 'Cookie とトラッキング技術について',
+  privacyCookiesLead:
+    'Slang Words Online は、プライバシー第一の設計方針を徹底しています：',
+  privacyCookiesB1:
+    '<strong>広告・追跡用 Cookie の不使用：</strong> サードパーティ製の追跡 Cookie、行動ターゲティング用ピクセル、クロスサイトトラッキングツールは使用していません。',
+  privacyCookiesB2:
+    '<strong>プロファイリングやフィンガープリンティングの不実施：</strong> 他のサイトにまたがる行動履歴の追跡や、個々の訪問者の特定は行いません。',
+  privacyCookiesB3:
+    '<strong>純粋に機能的なローカルストレージのみ：</strong> 読みやすい画面を維持するためのテーマ設定（ライト・ダークモード）を保持する目的でのみ最小限のローカルストレージを利用します。',
+  privacyUpdatesHeading: 'プライバシーポリシーの改定',
+  privacyUpdatesBody:
+    'サイトの機能改善や運用の見直しに伴い、本ポリシーを定期的に更新する場合があります。改定内容は常に本ページ上で最新の更新日とともに公開されます。',
+  privacyContactBody:
+    'プライバシー保護に関するご質問やご意見がございましたら、お気軽にチームまでご連絡ください：',
+  privacyContactEmailLabel: 'メール：',
+
   privacyPolicy: 'プライバシーポリシー',
   termsConditions: '利用規約',
 };

@@ -203,6 +203,49 @@ export const es: Strings = {
     'Nuestro equipo editorial revisa los correos de la comunidad varias veces por semana. Por lo general, respondemos en un plazo de 24 a 48 horas.',
 
   contactUs: 'Contacto',
+  // ---------------------------------------------------------------- privacy policy
+  privacyKicker: 'Legal y privacidad',
+  privacyLastUpdated: 'Última actualización: Septiembre de 2026',
+  privacyIntro:
+    'En Slang Words Online (<a href="/es/" class="text-primary hover:underline">slangwordsonline.com</a>), tu privacidad es clara y directa. Creemos que un recurso educativo debe ser transparente, seguro y respetuoso con todas las personas que lo consultan.',
+  privacyPrinciplesHeading: 'Nuestros principios de privacidad',
+  privacyPrinciple1Title: '1. Sin necesidad de cuenta y acceso gratuito',
+  privacyPrinciple1Body:
+    'Puedes explorar libremente todas las entradas de argot, consultar los países y buscar en el diccionario sin crear ninguna cuenta ni facilitar datos personales.',
+  privacyPrinciple2Title: '2. Nunca vendemos tus datos',
+  privacyPrinciple2Body:
+    'Jamás comercializamos, intermediamos ni vendemos información de nuestros visitantes a terceros, intermediarios de datos o redes publicitarias.',
+  privacyPrinciple3Title: '3. Comunicación directa y transparente',
+  privacyPrinciple3Body:
+    'Si te comunicas con nosotros por correo electrónico, tu mensaje se utilizará exclusivamente para responder a tus preguntas o evaluar tus propuestas de términos.',
+  privacyCollectHeading: 'Información que recopilamos',
+  privacyCollectLead:
+    'Recopilamos únicamente la información mínima imprescindible para ofrecer, proteger y mantener el sitio web:',
+  privacyCollectA_Title: 'A. Datos técnicos y registros anónimos',
+  privacyCollectA_Body:
+    'Cuando visitas nuestro sitio, nuestra infraestructura registra de forma automática registros técnicos de diagnóstico no identificativos (como fecha y hora de la petición, navegador, sistema operativo, URLs solicitadas y direcciones IP anonimizadas). Estos datos se emplean estrictamente para monitorizar el rendimiento, corregir errores y bloquear accesos maliciosos.',
+  privacyCollectB_Title: 'B. Preferencias en el navegador',
+  privacyCollectB_Body:
+    'Cuando cambias entre tema claro y oscuro, tu elección se guarda localmente en el <code>localStorage</code> de tu navegador. Esta información permanece en tu dispositivo y nunca se envía a nuestros servidores.',
+  privacyCollectC_Title: 'C. Correspondencia directa por correo',
+  privacyCollectC_Body:
+    'Si escribes a nuestro equipo, recibimos tu dirección de correo, nombre (si lo indicas) y el contenido de tu mensaje. Solo conservamos estos datos el tiempo necesario para atender tu consulta o actualizar el diccionario.',
+  privacyCookiesHeading: 'Cookies y tecnologías de seguimiento',
+  privacyCookiesLead:
+    'Slang Words Online está diseñado con una rigurosa arquitectura de privacidad desde el inicio:',
+  privacyCookiesB1:
+    '<strong>Sin cookies publicitarias ni de seguimiento:</strong> No empleamos cookies de seguimiento de terceros, píxeles de comportamiento ni herramientas de rastreo entre sitios.',
+  privacyCookiesB2:
+    '<strong>Sin huella digital ni elaboración de perfiles:</strong> No elaboramos perfiles de tus hábitos de navegación en otros sitios web ni intentamos identificar a visitantes individuales.',
+  privacyCookiesB3:
+    '<strong>Almacenamiento local puramente funcional:</strong> Solo empleamos almacenamiento local en el navegador para recordar tu preferencia de tema (claro u oscuro) para una lectura cómoda.',
+  privacyUpdatesHeading: 'Actualizaciones de la política',
+  privacyUpdatesBody:
+    'Podemos revisar esta Política de Privacidad periódicamente para reflejar mejoras en la web o cambios operativos. Cualquier actualización se publicará directamente en esta página con la fecha actualizada.',
+  privacyContactBody:
+    'Si tienes preguntas, dudas o comentarios acerca de nuestras prácticas de privacidad, contacta directamente con nuestro equipo:',
+  privacyContactEmailLabel: 'Correo:',
+
   privacyPolicy: 'Política de privacidad',
   termsConditions: 'Términos y condiciones',
 };

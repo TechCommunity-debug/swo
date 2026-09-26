@@ -203,6 +203,49 @@ export const pt: Strings = {
     'Nossa equipe editorial revisa as mensagens da comunidade várias vezes por semana. Normalmente respondemos dentro de 24 a 48 horas.',
 
   contactUs: 'Contato',
+  // ---------------------------------------------------------------- privacy policy
+  privacyKicker: 'Legal e Privacidade',
+  privacyLastUpdated: 'Última atualização: Setembro de 2026',
+  privacyIntro:
+    'No Slang Words Online (<a href="/pt/" class="text-primary hover:underline">slangwordsonline.com</a>), sua privacidade é tratada de forma clara e direta. Acreditamos que uma ferramenta educacional deve ser transparente, segura e respeitosa com quem a utiliza.',
+  privacyPrinciplesHeading: 'Nossos princípios de privacidade',
+  privacyPrinciple1Title: '1. Sem necessidade de conta e acesso livre',
+  privacyPrinciple1Body:
+    'Você pode navegar livremente por todos os verbetes, explorar os países e pesquisar no dicionário sem criar conta ou fornecer dados pessoais.',
+  privacyPrinciple2Title: '2. Jamais vendemos seus dados',
+  privacyPrinciple2Body:
+    'Nunca comercializamos, repassamos ou vendemos dados de visitantes para terceiros, empresas de dados ou redes de anúncios.',
+  privacyPrinciple3Title: '3. Comunicação direta e transparente',
+  privacyPrinciple3Body:
+    'Se você entrar em contato conosco por e-mail, sua mensagem será utilizada exclusivamente para responder às suas dúvidas ou avaliar sugestões de termos.',
+  privacyCollectHeading: 'Informações que coletamos',
+  privacyCollectLead:
+    'Coletamos apenas o estritamente necessário para entregar, proteger e manter o site funcionando:',
+  privacyCollectA_Title: 'A. Dados técnicos e registros anônimos',
+  privacyCollectA_Body:
+    'Ao acessar nosso site, nossos servidores gravam automaticamente registros técnicos de diagnóstico que não identificam o usuário (como data e hora, navegador, sistema operacional, páginas acessadas e endereços IP anonimizados). Esses dados são usados apenas para monitoramento de estabilidade e segurança.',
+  privacyCollectB_Title: 'B. Preferências no dispositivo do usuário',
+  privacyCollectB_Body:
+    'Quando você alterna entre tema claro e escuro, sua preferência fica salva localmente no <code>localStorage</code> do seu navegador. Esses dados permanecem no seu dispositivo e nunca são enviados aos nossos servidores.',
+  privacyCollectC_Title: 'C. Mensagens enviadas por e-mail',
+  privacyCollectC_Body:
+    'Ao nos enviar um e-mail, recebemos seu endereço, nome (se informado) e o conteúdo da mensagem. Mantemos essas informações apenas pelo período necessário para atender sua mensagem ou atualizar o dicionário.',
+  privacyCookiesHeading: 'Cookies e tecnologias de rastreamento',
+  privacyCookiesLead:
+    'O Slang Words Online foi projetado com foco total em privacidade:',
+  privacyCookiesB1:
+    '<strong>Sem cookies de rastreamento ou anúncios:</strong> Não utilizamos cookies de terceiros, pixels comportamentais ou rastreadores entre sites.',
+  privacyCookiesB2:
+    '<strong>Sem criação de perfis ou identificação:</strong> Não monitoramos seus hábitos de navegação em outros sites nem tentamos identificar pessoas individualmente.',
+  privacyCookiesB3:
+    '<strong>Armazenamento local estritamente funcional:</strong> Usamos apenas o armazenamento mínimo do navegador para manter sua preferência de visualização (modo claro ou escuro).',
+  privacyUpdatesHeading: 'Atualizações desta política',
+  privacyUpdatesBody:
+    'Podemos atualizar esta Política de Privacidade periodicamente para refletir pequenas melhorias ou alterações operacionais. Qualquer alteração será publicada diretamente nesta página com a data atualizada.',
+  privacyContactBody:
+    'Caso tenha dúvidas, comentários ou sugestões sobre nossas práticas de privacidade, entre em contato direto com a equipe:',
+  privacyContactEmailLabel: 'E-mail:',
+
   privacyPolicy: 'Política de privacidade',
   termsConditions: 'Termos e condições',
 };

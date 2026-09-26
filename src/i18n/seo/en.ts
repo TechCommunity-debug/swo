@@ -64,4 +64,8 @@ export const en: SeoStrings = {
     title: `Contact Us — Questions, Feedback & Submissions | ${SITE_NAME}`,
     description: `Contact the Slang Words Online team. Send slang submissions, dialect corrections, cultural feedback, or partnership inquiries to ${email}.`,
   }),
+  privacy: {
+    title: `Privacy Policy | ${SITE_NAME}`,
+    description: 'Read the Privacy Policy for Slang Words Online. Learn how we handle data, cookies, and visitor privacy across our global slang dictionary.',
+  },
 };

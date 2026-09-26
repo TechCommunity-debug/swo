@@ -63,4 +63,8 @@ export const it: SeoStrings = {
     title: `Contatti — Domande, feedback e proposte di slang | ${SITE_NAME}`,
     description: `Contatta il team di Slang Words Online. Invia suggerimenti di slang, correzioni dialettali o richieste di collaborazione a ${email}.`,
   }),
+  privacy: {
+    title: `Informativa sulla privacy | ${SITE_NAME}`,
+    description: 'Leggi l\'informativa sulla privacy di Slang Words Online. Scopri come gestiamo dati, cookie e la riservatezza degli utenti nel nostro dizionario.',
+  },
 };

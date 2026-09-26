@@ -38,4 +38,5 @@ export interface SeoStrings {
   serverError: Seo;
   about: (countriesCount: number, languagesCount: number) => Seo;
   contact: (email: string) => Seo;
+  privacy: Seo;
 }

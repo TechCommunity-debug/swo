@@ -79,3 +79,5 @@ export const aboutSeo = (
 
 export const contactSeo = (locale: Locale, email: string): Seo =>
   SEO[locale].contact(email);
+
+export const privacySeo = (locale: Locale): Seo => SEO[locale].privacy;
