@@ -110,6 +110,14 @@ export const de: Strings = {
   notFoundBody:
     'Diese Seite existiert nicht – der Begriff steht vielleicht noch nicht im Wörterbuch, oder der Link ist veraltet. Suchen geht meistens schneller, als die URL zu erraten.',
   orStartFromCountry: 'Oder fang bei einem Land an',
+  pageNotFound: 'Seite nicht gefunden',
+  goToHomepage: 'Zur Startseite',
+  browseAllSlang: 'Alle Slang-Begriffe von A bis Z',
+  suggestThisWord: 'Dieses Wort vorschlagen',
+  searchByTermOrMeaning: 'Nach Begriff oder Bedeutung suchen',
+  notFoundSearchLead: (count: number) =>
+    `Gib einen Begriff oder eine Definition ein, um den Ausdruck in allen ${count} Ländern zu finden:`,
+
 
   footerTagline: 'Der weltweite Wegweiser durch Slang und informelle Ausdrücke',
   byCountry: 'Nach Land',

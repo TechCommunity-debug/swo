@@ -116,6 +116,14 @@ export const ja: Strings = {
   notFoundBody:
     'このページはありません。その語がまだ辞典に入っていないか、リンクが古くなっている可能性があります。URL を推測するより、検索したほうがたいてい早く着きます。',
   orStartFromCountry: '国から探す',
+  pageNotFound: 'ページが見つかりません',
+  goToHomepage: 'ホームページへ戻る',
+  browseAllSlang: 'スラング一覧 A〜Z',
+  suggestThisWord: 'この言葉を提案する',
+  searchByTermOrMeaning: '言葉や意味から検索',
+  notFoundSearchLead: (count: number) =>
+    `言葉や意味を入力して、全 ${count} か国の表現から探してみましょう:`,
+
 
   // ---------------------------------------------------------------- footer
   footerTagline: '世界のスラングとくだけた表現のガイド',

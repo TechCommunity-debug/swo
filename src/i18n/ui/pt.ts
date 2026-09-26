@@ -98,6 +98,14 @@ export const pt: Strings = {
   notFoundBody:
     'Esta página não existe: pode ser que o termo ainda não esteja no dicionário, ou que o link esteja desatualizado. Buscar costuma ser mais rápido do que adivinhar a URL.',
   orStartFromCountry: 'Ou comece por um país',
+  pageNotFound: 'Página não encontrada',
+  goToHomepage: 'Ir para a página inicial',
+  browseAllSlang: 'Explorar todas as gírias de A a Z',
+  suggestThisWord: 'Sugerir esta palavra',
+  searchByTermOrMeaning: 'Buscar por termo ou por significado',
+  notFoundSearchLead: (count: number) =>
+    `Tente digitar um termo ou uma definição para encontrar a expressão nos ${count} países:`,
+
 
   footerTagline: 'O guia global da gíria e das expressões informais',
   byCountry: 'Por país',

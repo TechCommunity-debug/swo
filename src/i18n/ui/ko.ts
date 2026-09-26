@@ -111,6 +111,14 @@ export const ko: Strings = {
   notFoundBody:
     '이 페이지는 존재하지 않습니다. 아직 사전에 없는 단어이거나, 링크가 오래된 것일 수 있습니다. 주소를 짐작하는 것보다 검색하는 편이 대개 빠릅니다.',
   orStartFromCountry: '아니면 나라부터 고르세요',
+  pageNotFound: '페이지를 찾을 수 없습니다',
+  goToHomepage: '홈페이지로 이동',
+  browseAllSlang: '모든 슬랭 A–Z 둘러보기',
+  suggestThisWord: '이 단어 제안하기',
+  searchByTermOrMeaning: '단어 또는 뜻으로 검색',
+  notFoundSearchLead: (count: number) =>
+    `단어나 뜻을 입력하여 ${count}개국 전체에서 표현을 찾아보세요:`,
+
 
   footerTagline: '슬랭과 비격식 표현을 다루는 세계 안내서',
   byCountry: '나라별',

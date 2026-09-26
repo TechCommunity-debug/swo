@@ -98,6 +98,14 @@ export const es: Strings = {
   notFoundBody:
     'Esta página no existe: puede que el término todavía no esté en el diccionario, o que el enlace esté desactualizado. Buscar suele ser más rápido que adivinar la URL.',
   orStartFromCountry: 'O empieza por un país',
+  pageNotFound: 'Página no encontrada',
+  goToHomepage: 'Ir a la página de inicio',
+  browseAllSlang: 'Explorar todo el argot de la A a la Z',
+  suggestThisWord: 'Sugerir esta palabra',
+  searchByTermOrMeaning: 'Buscar por término o por significado',
+  notFoundSearchLead: (count: number) =>
+    `Prueba a escribir un término o una definición para localizar la expresión en los ${count} países:`,
+
 
   footerTagline: 'La guía global del argot y las expresiones informales',
   byCountry: 'Por país',

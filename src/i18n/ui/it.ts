@@ -100,6 +100,14 @@ export const it: Strings = {
   notFoundBody:
     'Questa pagina non esiste: può darsi che il termine non sia ancora nel dizionario, o che il link sia vecchio. Cercare di solito è più rapido che indovinare l’URL.',
   orStartFromCountry: 'Oppure parti da un paese',
+  pageNotFound: 'Pagina non trovata',
+  goToHomepage: 'Vai alla home page',
+  browseAllSlang: 'Esplora tutto lo slang dalla A alla Z',
+  suggestThisWord: 'Suggerisci questa parola',
+  searchByTermOrMeaning: 'Cerca per termine o per significato',
+  notFoundSearchLead: (count: number) =>
+    `Prova a digitare un termine o una definizione per trovare l’espressione in tutti i ${count} paesi:`,
+
 
   footerTagline: 'La guida globale allo slang e alle espressioni informali',
   byCountry: 'Per paese',

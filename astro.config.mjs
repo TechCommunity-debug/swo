@@ -34,7 +34,7 @@ export default defineConfig({
       // its content has actually been translated. The per-page `<link
       // rel="alternate">` tags in Layout.astro carry the annotations instead,
       // which Google treats as equivalent.
-      filter: (page) => !/\/([a-z]{2}\/)?search\/$/.test(page),
+      filter: (page) => !/\/([a-z]{2}\/)?(search|404)\/$/.test(page),
     }),
   ],
 

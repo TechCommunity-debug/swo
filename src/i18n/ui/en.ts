@@ -131,6 +131,14 @@ export const en = {
   notFoundBody:
     'That page doesn\u2019t exist \u2014 the term may not be in the dictionary yet, or the link may be out of date. Searching is usually faster than guessing the URL.',
   orStartFromCountry: 'Or start from a country',
+  pageNotFound: 'Page Not Found',
+  goToHomepage: 'Go to Homepage',
+  browseAllSlang: 'Browse All Slang A\u2013Z',
+  suggestThisWord: 'Suggest This Word',
+  searchByTermOrMeaning: 'Search by term or meaning',
+  notFoundSearchLead: (count: number) =>
+    `Try typing a term or a definition to locate the expression across all ${count} countries:`,
+
 
   // ---------------------------------------------------------------- footer
   footerTagline: 'The Global Guide to Slang & Informal Expressions',

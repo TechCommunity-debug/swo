@@ -10,6 +10,7 @@ import {
   contactPath,
   privacyPath,
   termsPath,
+  notFoundPath,
   primaryCategorySlug,
   splitEntryId,
   type Country,
@@ -137,6 +138,7 @@ export const aboutAlternates = () => chromeAlternates(aboutPath);
 export const contactAlternates = () => chromeAlternates(contactPath);
 export const privacyAlternates = () => chromeAlternates(privacyPath);
 export const termsAlternates = () => chromeAlternates(termsPath);
+export const notFoundAlternates = () => chromeAlternates(notFoundPath);
 
 export function countryAlternates(site: SiteData, country: Country) {
   const available = ALL_LOCALES.filter((l) => entriesFor(site, country.id, l).length > 0);
