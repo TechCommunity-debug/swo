@@ -1,0 +1,118 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import SearchBox from '../SearchBox.astro';
+import Flag from '../Flag.astro';
+import { browsePath, countryPath, homePath, contactPath, serverErrorPath } from '../../lib/urls';
+import { chromeAlternates, countriesFor, loadSite } from '../../lib/site';
+import { localizeCountry } from '../../lib/localize';
+import { serverErrorSeo } from '../../lib/seo';
+import { DEFAULT_LOCALE, type Locale } from '../../data/locales';
+import { t } from '../../i18n/ui';
+
+interface Props {
+  locale?: Locale;
+  error?: unknown;
+}
+
+const { locale = DEFAULT_LOCALE } = Astro.props;
+const strings = t(locale);
+const site = await loadSite();
+const countries = countriesFor(site, locale).map((c) => ({
+  href: countryPath(c, locale),
+  ...localizeCountry(c, locale),
+}));
+
+const seo = serverErrorSeo(locale);
+const alternates = chromeAlternates(serverErrorPath);
+---
+
+<Layout title={seo.title} description={seo.description} locale={locale} alternates={alternates} noIndex>
+  <div class="container-site py-section">
+    <div class="max-w-2xl">
+      <span class="inline-block rounded-full bg-surface-card px-3 py-1 text-caption font-semibold uppercase tracking-wider text-error">
+        {strings.serverErrorKicker} &bull; {strings.serverError}
+      </span>
+      <h1 class="mt-3 text-display-lg text-ink">{strings.serverErrorH1}</h1>
+      <p class="mt-5 text-body-md text-body leading-relaxed">
+        {strings.serverErrorBody}
+      </p>
+
+      <div class="mt-6 flex flex-wrap items-center gap-3">
+        <button
+          type="button"
+          id="reload-btn"
+          class="focus-ring inline-flex items-center gap-2 rounded-md bg-ink px-4 py-2.5 text-body-sm font-semibold text-canvas hover:bg-charcoal transition-colors cursor-pointer"
+        >
+          <svg viewBox="0 0 24 24" class="size-4" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M21 12a9 9 0 0 0-9-9 9.75 9.75 0 0 0-6.74 2.74L3 8"></path>
+            <path d="M3 3v5h5"></path>
+            <path d="M3 12a9 9 0 0 0 9 9 9.75 9.75 0 0 0 6.74-2.74L21 16"></path>
+            <path d="M16 21h5v-5"></path>
+          </svg>
+          {strings.reloadPage}
+        </button>
+
+        <a
+          href={homePath(locale)}
+          class="focus-ring inline-flex items-center gap-2 rounded-md border border-hairline bg-canvas px-4 py-2.5 text-body-sm font-semibold text-ink hover:bg-surface-card transition-colors"
+        >
+          {strings.goToHomepage}
+        </a>
+
+        <a
+          href={browsePath(locale)}
+          class="focus-ring inline-flex items-center gap-2 rounded-md border border-hairline bg-canvas px-4 py-2.5 text-body-sm font-semibold text-ink hover:bg-surface-card transition-colors"
+        >
+          {strings.browseAllSlang}
+        </a>
+
+        <a
+          href={contactPath(locale)}
+          class="focus-ring inline-flex items-center gap-2 rounded-md border border-hairline bg-canvas px-4 py-2.5 text-body-sm font-semibold text-ink hover:bg-surface-card transition-colors"
+        >
+          {strings.reportError}
+        </a>
+      </div>
+
+      <div class="mt-8 border-t border-hairline pt-6">
+        <h2 class="text-heading-md text-ink">{strings.searchTheDictionary}</h2>
+        <p class="mt-1 text-body-sm text-mute">
+          {strings.serverErrorSearchLead}
+        </p>
+        <div class="mt-4">
+          <SearchBox autofocus locale={locale} />
+        </div>
+      </div>
+    </div>
+
+    <nav aria-labelledby="pick-country" class="mt-section border-t border-hairline pt-8">
+      <h2 id="pick-country" class="text-heading-md text-ink">{strings.orStartFromCountry}</h2>
+      <ul class="mt-4 flex flex-wrap gap-2">
+        {
+          countries.map((c) => (
+            <li>
+              <a
+                href={c.href}
+                class="focus-ring inline-flex items-center gap-2 rounded-full bg-surface-card px-4 py-2 text-body-sm font-semibold text-ink hover:bg-surface-sunk transition-colors"
+              >
+                <Flag code={c.flagCode} class="h-[0.9em] w-auto shrink-0 rounded-[2px]" />
+                {c.adjective}
+              </a>
+            </li>
+          ))
+        }
+      </ul>
+    </nav>
+  </div>
+</Layout>
+
+<script is:inline>
+  (function () {
+    var reloadBtn = document.getElementById('reload-btn');
+    if (reloadBtn) {
+      reloadBtn.addEventListener('click', function () {
+        window.location.reload();
+      });
+    }
+  })();
+</script>

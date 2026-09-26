@@ -51,4 +51,9 @@ export const en: SeoStrings = {
     title: `Page not found | ${SITE_NAME}`,
     description: "That page doesn't exist. Search the dictionary or pick a country to browse.",
   },
+  serverError: {
+    title: `500 — Server Error | ${SITE_NAME}`,
+    description:
+      'An unexpected server error occurred on Slang Words Online. Please refresh the page or return to the dictionary homepage.',
+  },
 };

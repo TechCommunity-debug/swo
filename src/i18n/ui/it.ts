@@ -108,6 +108,18 @@ export const it: Strings = {
   notFoundSearchLead: (count: number) =>
     `Prova a digitare un termine o una definizione per trovare l’espressione in tutti i ${count} paesi:`,
 
+  // ------------------------------------------------------------------- 500
+  serverErrorKicker: '500',
+  serverError: 'Errore del server',
+  serverErrorH1: 'Qualcosa è andato storto',
+  serverErrorBody:
+    'I nostri server hanno riscontrato un problema imprevisto durante il caricamento di questa pagina. Di solito è un problema temporaneo. Puoi provare a ricaricare la pagina, cercare un termine o ripartire dalla nostra home page.',
+  reloadPage: 'Ricarica pagina',
+  reportError: 'Segnala un errore',
+  searchTheDictionary: 'Cerca nel dizionario',
+  serverErrorSearchLead:
+    'Cerchi un termine di slang, un modo di dire o un’espressione specifica? Cerca direttamente qui sotto:',
+
 
   footerTagline: 'La guida globale allo slang e alle espressioni informali',
   byCountry: 'Per paese',

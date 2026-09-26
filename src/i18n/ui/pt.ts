@@ -106,6 +106,18 @@ export const pt: Strings = {
   notFoundSearchLead: (count: number) =>
     `Tente digitar um termo ou uma definição para encontrar a expressão nos ${count} países:`,
 
+  // ------------------------------------------------------------------- 500
+  serverErrorKicker: '500',
+  serverError: 'Erro do servidor',
+  serverErrorH1: 'Algo deu errado',
+  serverErrorBody:
+    'Nossos servidores encontraram um problema inesperado ao carregar esta página. Isso costuma ser temporário. Você pode tentar recarregar a página, pesquisar um termo ou navegar a partir da nossa página inicial.',
+  reloadPage: 'Recarregar página',
+  reportError: 'Relatar erro',
+  searchTheDictionary: 'Pesquisar no dicionário',
+  serverErrorSearchLead:
+    'Procurando uma gíria, expressão ou termo específico? Pesquise diretamente abaixo:',
+
 
   footerTagline: 'O guia global da gíria e das expressões informais',
   byCountry: 'Por país',

@@ -118,6 +118,18 @@ export const de: Strings = {
   notFoundSearchLead: (count: number) =>
     `Gib einen Begriff oder eine Definition ein, um den Ausdruck in allen ${count} Ländern zu finden:`,
 
+  // ------------------------------------------------------------------- 500
+  serverErrorKicker: '500',
+  serverError: 'Serverfehler',
+  serverErrorH1: 'Etwas ist schiefgelaufen',
+  serverErrorBody:
+    'Auf unseren Servern ist beim Laden dieser Seite ein unerwarteter Fehler aufgetreten. Dies ist meist nur vorübergehend. Du kannst versuchen, die Seite neu zu laden, nach einem Begriff zu suchen oder von der Startseite aus zu stöbern.',
+  reloadPage: 'Seite neu laden',
+  reportError: 'Fehler melden',
+  searchTheDictionary: 'Im Wörterbuch suchen',
+  serverErrorSearchLead:
+    'Suchst du nach einem bestimmten Slang-Begriff, einer Redewendung oder einem Ausdruck? Suche direkt hier:',
+
 
   footerTagline: 'Der weltweite Wegweiser durch Slang und informelle Ausdrücke',
   byCountry: 'Nach Land',

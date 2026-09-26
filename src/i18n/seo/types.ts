@@ -35,4 +35,5 @@ export interface SeoStrings {
   browse: (count: number, countries: number) => Seo;
   search: Seo;
   notFound: Seo;
+  serverError: Seo;
 }

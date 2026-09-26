@@ -1,0 +1,11 @@
+---
+import ServerErrorPage from '../../components/pages/ServerErrorPage.astro';
+
+interface Props {
+  error?: unknown;
+}
+
+const { error } = Astro.props;
+---
+
+<ServerErrorPage locale="ko" error={error} />

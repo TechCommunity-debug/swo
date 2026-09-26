@@ -119,6 +119,18 @@ export const ko: Strings = {
   notFoundSearchLead: (count: number) =>
     `단어나 뜻을 입력하여 ${count}개국 전체에서 표현을 찾아보세요:`,
 
+  // ------------------------------------------------------------------- 500
+  serverErrorKicker: '500',
+  serverError: '서버 오류',
+  serverErrorH1: '문제가 발생했습니다',
+  serverErrorBody:
+    '페이지를 생성하는 도중 서버에서 예기치 않은 오류가 발생했습니다. 일시적인 현상일 수 있으니 페이지를 새로고침하거나, 단어를 검색하거나, 홈페이지에서 다시 둘러보세요.',
+  reloadPage: '페이지 새로고침',
+  reportError: '오류 신고',
+  searchTheDictionary: '사전 검색',
+  serverErrorSearchLead:
+    '찾으시는 특정 슬랭이나 관용구, 표현이 있으신가요? 아래에서 바로 검색해 보세요:',
+
 
   footerTagline: '슬랭과 비격식 표현을 다루는 세계 안내서',
   byCountry: '나라별',

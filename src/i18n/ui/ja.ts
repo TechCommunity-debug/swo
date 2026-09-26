@@ -124,6 +124,18 @@ export const ja: Strings = {
   notFoundSearchLead: (count: number) =>
     `言葉や意味を入力して、全 ${count} か国の表現から探してみましょう:`,
 
+  // ------------------------------------------------------------------- 500
+  serverErrorKicker: '500',
+  serverError: 'サーバーエラー',
+  serverErrorH1: '問題が発生しました',
+  serverErrorBody:
+    'ページの生成中にサーバーで予期しない問題が発生しました。一時的な障害の可能性があります。ページの再読み込み、用語の検索、またはトップページからのブラウズをお試しください。',
+  reloadPage: 'ページを再読み込み',
+  reportError: 'エラーを報告',
+  searchTheDictionary: '辞典を検索',
+  serverErrorSearchLead:
+    '特定のスラングや慣用句、表現をお探しですか？以下から直接検索できます:',
+
 
   // ---------------------------------------------------------------- footer
   footerTagline: '世界のスラングとくだけた表現のガイド',

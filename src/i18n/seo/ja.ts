@@ -59,4 +59,9 @@ export const ja: SeoStrings = {
     title: `ページが見つかりません | ${SITE_NAME}`,
     description: 'このページはありません。辞典を検索するか、国を選んでご覧ください。',
   },
+  serverError: {
+    title: `500 — サーバーエラー | ${SITE_NAME}`,
+    description:
+      'Slang Words Online で予期しないサーバーエラーが発生しました。ページを再読み込みするか、辞典のトップページへお戻りください。',
+  },
 };

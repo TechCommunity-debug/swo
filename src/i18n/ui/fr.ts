@@ -106,6 +106,18 @@ export const fr: Strings = {
   notFoundSearchLead: (count: number) =>
     `Tapez un terme ou une définition pour localiser l’expression parmi les ${count} pays\u00A0:`,
 
+  // ------------------------------------------------------------------- 500
+  serverErrorKicker: '500',
+  serverError: 'Erreur de serveur',
+  serverErrorH1: 'Un problème est survenu',
+  serverErrorBody:
+    'Nos serveurs ont rencontré un problème inattendu lors de la génération de cette page. C’est généralement temporaire. Vous pouvez essayer d’actualiser la page, de rechercher un terme ou de naviguer depuis la page d’accueil.',
+  reloadPage: 'Actualiser la page',
+  reportError: 'Signaler une erreur',
+  searchTheDictionary: 'Rechercher dans le dictionnaire',
+  serverErrorSearchLead:
+    'Vous cherchez un terme d’argot, un idiome ou une expression particulière\u00A0? Cherchez directement ci-dessous\u00A0:',
+
 
   footerTagline: 'Le guide mondial de l’argot et des expressions familières',
   byCountry: 'Par pays',

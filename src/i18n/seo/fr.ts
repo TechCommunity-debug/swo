@@ -51,4 +51,9 @@ export const fr: SeoStrings = {
     description:
       'Cette page n’existe pas. Cherchez dans le dictionnaire ou choisissez un pays à parcourir.',
   },
+  serverError: {
+    title: `500 — Erreur de serveur | ${SITE_NAME}`,
+    description:
+      'Une erreur de serveur inattendue s’est produite sur Slang Words Online. Veuillez actualiser la page ou revenir à l’accueil.',
+  },
 };

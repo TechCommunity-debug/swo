@@ -54,4 +54,9 @@ export const ko: SeoStrings = {
     title: `페이지를 찾을 수 없습니다 | ${SITE_NAME}`,
     description: '이 페이지는 존재하지 않습니다. 사전을 검색하거나 나라를 골라 살펴보세요.',
   },
+  serverError: {
+    title: `500 — 서버 오류 | ${SITE_NAME}`,
+    description:
+      'Slang Words Online 서버에서 예기치 않은 오류가 발생했습니다. 페이지를 새로고침하거나 사전 홈으로 돌아가 주세요.',
+  },
 };

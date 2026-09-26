@@ -50,4 +50,9 @@ export const it: SeoStrings = {
     title: `Pagina non trovata | ${SITE_NAME}`,
     description: 'Questa pagina non esiste. Cerca nel dizionario oppure scegli un paese.',
   },
+  serverError: {
+    title: `500 — Errore del server | ${SITE_NAME}`,
+    description:
+      'Si è verificato un errore imprevisto del server su Slang Words Online. Ricarica la pagina o torna alla home page del dizionario.',
+  },
 };

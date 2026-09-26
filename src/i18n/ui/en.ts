@@ -139,6 +139,18 @@ export const en = {
   notFoundSearchLead: (count: number) =>
     `Try typing a term or a definition to locate the expression across all ${count} countries:`,
 
+  // ------------------------------------------------------------------- 500
+  serverErrorKicker: '500',
+  serverError: 'Server Error',
+  serverErrorH1: 'Something went wrong',
+  serverErrorBody:
+    'Our servers encountered an unexpected issue while assembling this page. This is usually temporary. You can try refreshing the page, searching for a term, or browsing from our home page.',
+  reloadPage: 'Reload Page',
+  reportError: 'Report Error',
+  searchTheDictionary: 'Search the dictionary',
+  serverErrorSearchLead:
+    'Looking for a specific slang term, idiom, or expression? Search directly below:',
+
 
   // ---------------------------------------------------------------- footer
   footerTagline: 'The Global Guide to Slang & Informal Expressions',
