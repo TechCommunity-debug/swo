@@ -100,7 +100,12 @@ const ogImageUrl = new URL('/og-slang-words.png', Astro.site).href;
     <meta name="twitter:image" content={ogImageUrl} />
     <meta name="twitter:image:alt" content={`${SITE_NAME} — ${description}`} />
 
+    <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <meta name="apple-mobile-web-app-title" content={SITE_NAME} />
+    <link rel="manifest" href="/site.webmanifest" />
     <link rel="sitemap" href="/sitemap-index.xml" />
     <Font cssVariable="--font-inter" preload />
     <slot name="head" />
