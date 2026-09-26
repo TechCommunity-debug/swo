@@ -37,6 +37,42 @@ export const it: Strings = {
   editorialH2: 'Il contesto che non troverai in un’app di dizionario',
   editorialBody:
     'Un dizionario di slang vale qualcosa solo se ti dice quello che un traduttore automatico non può dirti: se una parola è affettuosa o ostile, a chi puoi rivolgerla e se la storia sulla sua origine che ripetono tutti sia poi vera. Quando una cosa è controversa, lo scriviamo. Quando una parola è un insulto discriminatorio, scriviamo anche quello, e la includiamo lo stesso, perché devi comunque capirla quando la senti.',
+
+  // ------------------------------------------- home — SEO about section
+  aboutH2: 'Informazioni su Slang Words Online — Il tuo hub globale dello slang',
+  aboutP1:
+    'Ogni lingua ha due vite: la versione che compare nei libri di testo e quella che si parla davvero per strada, nelle chat di gruppo e al bancone di un bar. Slang Words Online nasce per la seconda. Abbiamo creato questo sito come punto di riferimento sullo slang per chiunque abbia mai colto una parola in una conversazione, nel testo di una canzone o nei sottotitoli e abbia pensato: «Ma cosa diavolo significa?». Che tu stia cercando di decifrare lo slang britannico ascoltato in un pub di Londra, lo slang americano che spopola sui social o le espressioni australiane che un collega usa con disinvoltura, la risposta è qui, spiegata con quel contesto che un traduttore automatico non potrà mai offrirti.',
+  aboutP2:
+    'Il nostro archivio di espressioni gergali copre attualmente sedici paesi e undici categorie tematiche. Puoi esplorare lo slang britannico e lo slang americano accanto a quello australiano, canadese e irlandese: i rami principali del mondo anglofono. Ci sono poi le raccolte delle lingue romanze: slang messicano, spagnolo, italiano, francese, colombiano, cubano e dominicano, ognuno specchio di un dialetto distinto con il suo ritmo e il suo carattere. Trattiamo inoltre lo slang tedesco, russo, giapponese e coreano: quattro universi linguistici in cui la distanza dalla lingua accademica è tale che lo slang agisce quasi come un registro indipendente.',
+  aboutP3:
+    'Cosa distingue questa raccolta da una rapida traduzione su Google? Soprattutto la profondità. Ogni voce include la definizione — spesso più di una, perché le parole gergali raramente hanno un solo significato — accompagnata da una guida alla pronuncia reale, ovvero come suonano davvero nella voce viva delle persone. Forniamo esempi pratici: frasi complete nella lingua originale con traduzione riga per riga, per farti vedere la parola all’opera in un contesto autentico. E ti diciamo le cose che contano di più e che i dizionari trascurano: se un termine è affettuoso o aggressivo, se si può usare in pubblico e se la simpatica etimologia che circola su internet è reale o una leggenda.',
+  aboutP4:
+    'I temi sono organizzati esattamente come le persone cercano. Invece di riversare centinaia di termini su una sola pagina, li abbiamo suddivisi in categorie che riflettono gli scopi pratici dello slang: Slang per approvazione e complimenti, Slang per saluti e appellativi, Slang per insulti e lamentele, Slang per descrivere le persone, Slang per denaro e lavoro, Slang per cibo e bevande, Slang per feste e serate, Slang per amore e flirt, Slang per emozioni e reazioni, Parole riempitive e intercalari, e Slang per le cose di ogni giorno. Ognuna vive sotto un paese specifico, perché lo stesso argomento — il denaro o gli insulti — produce un lessico radicalmente diverso a seconda di chi parla e dove si trova.',
+  aboutP5:
+    'Questo sito è completamente gratuito, aggiornato di frequente e disponibile in nove lingue affinché chi non parla inglese possa consultare l’intero repertorio nella propria lingua madre. Considera Slang Words Online come il dizionario di slang che hai sempre desiderato: approfondito, sincero e curato da persone a cui importa davvero che tu non faccia brutte figure al momento sbagliato. Inizia subito: scegli un paese, scegli un tema o cerca direttamente la parola che hai appena sentito.',
+
+  // ----------------------------------------- home — FAQ section
+  faqH2: 'Domande frequenti sullo slang',
+  faqQ1: 'Che cosa sono le parole gergali o di slang?',
+  faqA1:
+    'Le parole di slang sono espressioni informali o idiomatiche molto più diffuse nella lingua parlata che in quella scritta. Spesso nascono all’interno di specifici gruppi sociali, sottoculture o aree geografiche e assumono significati differenti rispetto a quelli riportati nei dizionari convenzionali. Lo slang esprime identità, ironia o atteggiamento e tende a evolversi molto più in fretta del lessico formale: un’espressione di tendenza dieci anni fa oggi può sembrare superata.',
+  faqQ2: 'Qual è lo slang più recente?',
+  faqA2:
+    'Lo slang si trasforma senza sosta, con nuovi vocaboli che spuntano ogni settimana su piattaforme come TikTok, Twitter/X e Instagram. Tra gli esempi recenti spiccano «delulu» (ottimista in modo irrealistico), «rizz» (carisma e fascino nel corteggiare), «slay» (fare qualcosa alla perfezione) e «ate» (aver spaccato, aver fatto faville). Il modo più veloce per tenersi aggiornati è seguire le tendenze online o esplorare le nostre schede per paese regolarmente aggiornate.',
+  faqQ3: 'In cosa differisce lo slang dal linguaggio formale?',
+  faqA3:
+    'Il linguaggio formale segue regole grammaticali e lessicali codificate ed è impiegato in contesti professionali, accademici o istituzionali. Lo slang, all’opposto, è spontaneo, rompe spesso le convenzioni sintattiche ed è legato a comunità o fasce d’età ben precise. Una parola come «cool» è compresa ovunque, ma espressioni come «chuffed» (inglese britannico per entusiasta) o «naco» (messicano per pacchiano/volgare) si comprendono appieno solo conoscendo la cultura locale.',
+  faqQ4: 'Perché paesi diversi hanno slang diversi?',
+  faqA4:
+    'Lo slang è plasmato dalla cultura locale, dalla storia e dalle dinamiche sociali quotidiane. Perfino nazioni che condividono la stessa lingua — come Stati Uniti, Regno Unito e Australia per l’inglese, o Spagna, Messico e Colombia per lo spagnolo — sviluppano gerghi profondamente differenti. Questo accade perché lo slang riflette la vita reale: cibo, musica, umorismo, classi sociali e media lasciano un’impronta indelebile sul parlato informale.',
+  faqQ5: 'È opportuno usare lo slang nelle conversazioni di tutti i giorni?',
+  faqA5:
+    'Assolutamente sì: lo slang è una componente naturale della comunicazione umana e saperlo dosare dimostra padronanza linguistica e sintonia culturale. Il segreto sta nel contesto: è perfetto nelle chiacchierate informali, nei messaggi e sui social network, mentre risulterebbe fuori luogo in un colloquio di lavoro, in un saggio accademico o in un’email formale. Conoscere il registro adatto è una vera e propria competenza comunicativa.',
+  faqQ6: 'Come posso imparare lo slang di altri paesi?',
+  faqA6:
+    'L’immersione diretta è la migliore maestra: guardare serie TV in lingua originale, seguire creator del luogo sui social e parlare con madrelingua sono tutti ottimi metodi. Una risorsa approfondita come Slang Words Online ti offre in più quel contesto che i dizionari trascurano: chi usa il termine, se è affettuoso o offensivo e come suona davvero all’interno di una frase. Copriamo sedici paesi e migliaia di voci con definizioni, pronunce ed esempi di vita vissuta.',
+
+  // --------------------------------------------------------------- country
   startHere: 'Parti da questi',
   startHereLead:
     'I termini qui sotto sono quelli con più dettagli d’uso: registro, origine e le situazioni in cui vanno storti. Conviene leggerli per intero prima di tutti gli altri.',

@@ -37,6 +37,42 @@ export const es: Strings = {
   editorialH2: 'Contexto que no encontrarás en una app de diccionario',
   editorialBody:
     'Un diccionario de argot solo vale algo si te cuenta lo que un traductor automático no puede: si una palabra es cariñosa u hostil, a quién se la puedes decir y si la historia sobre su origen que todo el mundo repite es cierta. Cuando algo está en disputa, lo decimos. Cuando una palabra es un insulto discriminatorio, también lo decimos, y la incluimos igualmente, porque necesitas entenderla cuando la oigas.',
+
+  // ------------------------------------------- home — SEO about section
+  aboutH2: 'Sobre Slang Words Online — Tu portal global de palabras de argot',
+  aboutP1:
+    'Todo idioma tiene dos vidas: la versión que aparece en los libros de texto y la versión que realmente se habla en la calle, en los chats de grupo y en la barra de un bar. Slang Words Online existe para la segunda. Creamos este sitio como un punto de encuentro de argot y jerga para cualquiera que alguna vez haya oído una palabra en una conversación, en la letra de una canción o en unos subtítulos y haya pensado: «¿Qué diablos significa eso?». Ya sea que intentes descifrar el argot británico de un pub londinense, la jerga estadounidense que no deja de salir en redes sociales o las expresiones australianas que tu compañero suelta con naturalidad, la respuesta está aquí, explicada con el contexto que una app de traducción jamás te dará.',
+  aboutP2:
+    'Nuestra biblioteca de palabras de argot abarca actualmente dieciséis países y once categorías temáticas. Puedes explorar el argot británico y el argot estadounidense junto con el argot australiano, canadiense e irlandés: las grandes ramas del mundo anglófono. Luego están las colecciones de lenguas romances: argot mexicano, español, italiano, francés, colombiano, cubano y dominicano, cada uno reflejando un dialecto propio con su ritmo y actitud. También cubrimos el argot alemán, ruso, japonés y coreano: cuatro repertorios donde la distancia respecto a la versión académica es tan grande que el argot funciona casi como un registro lingüístico independiente.',
+  aboutP3:
+    '¿Qué hace que esta colección sea diferente de una rápida traducción en Google? La profundidad, principalmente. Cada entrada incluye la definición —a menudo más de una, porque las palabras de argot rara vez significan una sola cosa— junto con una guía de pronunciación que refleja cómo suena realmente la palabra, no cómo debería sonar. Ofrecemos ejemplos reales y trabajados: oraciones completas en el idioma original, traducidas línea por línea, para ver la palabra en acción en un contexto auténtico. Y explicamos lo más importante y lo que los diccionarios suelen omitir: si es afectuosa u hostil, si es apropiada en compañía formal y si la curiosa historia de origen que circula por internet es real o un mito.',
+  aboutP4:
+    'Los temas están organizados según cómo la gente busca de verdad. En lugar de acumular cientos de términos en una sola página, los dividimos en categorías que reflejan para qué sirve el argot: Argot de aprobación y elogio, Argot de saludos y tratamiento, Argot de insultos y quejas, Argot para personas, Argot de dinero y trabajo, Argot de comida y bebida, Argot de salir de fiesta, Argot de amor y ligue, Argot de emoción y reacción, Argot de muletillas y Argot de cosas cotidianas. Cada categoría se sitúa bajo un país específico, porque el mismo tema —el dinero o los insultos, por ejemplo— genera un vocabulario completamente distinto según quién habla y dónde.',
+  aboutP5:
+    'Este sitio es de acceso gratuito, se actualiza periódicamente y está disponible en nueve idiomas para que los hablantes de otras lenguas puedan recorrer toda la biblioteca en su propio idioma. Piensa en Slang Words Online como el diccionario de argot que siempre deseaste que existiera: riguroso, honesto y redactado por personas a las que de verdad les importa que no pases una vergüenza en el momento equivocado. Sumérgete: elige un país, elige un tema o simplemente busca la palabra que acabas de escuchar.',
+
+  // ----------------------------------------- home — FAQ section
+  faqH2: 'Preguntas frecuentes sobre el argot',
+  faqQ1: '¿Qué son las palabras de argot?',
+  faqA1:
+    'Las palabras de argot o jerga son términos y expresiones informales que se utilizan con mucha mayor frecuencia en el lenguaje hablado que en el escrito. Suelen originarse dentro de grupos sociales, subculturas o regiones concretas, y a menudo adquieren significados que difieren de las definiciones del diccionario estándar. El argot expresa identidad, humor o actitud, y evoluciona mucho más rápido que el vocabulario formal: términos rompedores hace una década hoy pueden sonar anticuados.',
+  faqQ2: '¿Cuál es el argot más reciente?',
+  faqA2:
+    'El argot evoluciona constantemente, y cada semana surgen nuevos términos en redes sociales como TikTok, Twitter/X e Instagram. Algunos ejemplos recientes incluyen «delulu» (optimismo ilusorio), «rizz» (carisma para ligar), «slay» (hacer algo de forma brillante) y «ate» (bordarlo, triunfar por completo). La forma más rápida de mantenerse al día es seguir las conversaciones que son tendencia en internet o explorar nuestra colección actualizada por países.',
+  faqQ3: '¿En qué se diferencia el argot del lenguaje formal?',
+  faqA3:
+    'El lenguaje formal sigue las reglas gramaticales y léxicas estándar y se utiliza en entornos profesionales, académicos u oficiales. El argot, por el contrario, es desenfadado, a menudo rompe las normas gramaticales y está estrechamente ligado a comunidades o generaciones específicas. Una palabra como «cool» se entiende en todo el mundo, pero expresiones como «chuffed» (británico para encantado) o «naco» (mexicano para vulgar) solo cobran pleno sentido cuando se conoce la cultura que hay detrás.',
+  faqQ4: '¿Por qué cada país tiene un argot diferente?',
+  faqA4:
+    'El argot se forja a través de la cultura local, la historia y la dinámica social. Incluso los países que comparten el mismo idioma —como Estados Unidos, el Reino Unido y Australia con el inglés, o México, España y Colombia con el español— desarrollan vocabularios coloquiales completamente distintos. Esto ocurre porque el argot refleja vivencias cotidianas: la gastronomía, la música, el humor, la estructura social y los medios de comunicación dejan su impronta en el habla informal.',
+  faqQ5: '¿Está bien usar argot en las conversaciones cotidianas?',
+  faqA5:
+    'Totalmente: el argot es una parte natural de la comunicación humana, y utilizarlo con acierto demuestra sensibilidad social y dominio del idioma. La clave reside en el contexto: encaja a la perfección en charlas distendidas, mensajes de texto y redes sociales, pero puede desentonar en una entrevista de trabajo, un ensayo académico o un correo formal. Saber cambiar de registro es en sí mismo una destreza lingüística.',
+  faqQ6: '¿Cómo puedo aprender el argot de otros países?',
+  faqA6:
+    'La inmersión es el mejor método: ver series locales, seguir a creadores de contenido de ese país en redes sociales y conversar con hablantes nativos son de gran ayuda. Un recurso especializado como Slang Words Online aporta además el contexto que los diccionarios pasan por alto: quién usa la palabra, si es cariñosa u ofensiva y cómo suena realmente en una frase. Cubrimos dieciséis países y miles de términos con definiciones, guías de pronunciación y ejemplos prácticos.',
+
+  // --------------------------------------------------------------- country
   startHere: 'Empieza por estas',
   startHereLead:
     'Los términos de abajo son los que llevan más detalle de uso: registro, origen y las situaciones en las que se tuercen. Conviene leerlos enteros antes que el resto.',

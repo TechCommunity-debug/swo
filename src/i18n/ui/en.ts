@@ -62,6 +62,24 @@ export const en = {
 
   // ----------------------------------------- home — FAQ section
   faqH2: 'Frequently Asked Questions About Slang',
+  faqQ1: 'What are slang words?',
+  faqA1:
+    'Slang words are informal words or phrases that are more common in spoken language than in writing. They often originate within specific social groups, subcultures, or regions and may carry meanings that differ from their standard dictionary definitions. Slang can express identity, humor, or attitude and tends to evolve much faster than formal vocabulary — words that were edgy a decade ago can feel dated today.',
+  faqQ2: 'What is the newest slang?',
+  faqA2:
+    'Slang evolves constantly, with new terms emerging from social media platforms like TikTok, Twitter/X, and Instagram every week. Some recent examples include “delulu” (delusionally optimistic), “rizz” (charisma, especially in flirting), “slay” (to do something exceptionally well), and “ate” (nailed it, did an amazing job). The fastest way to stay current is to follow trending conversations online — or browse our regularly updated collection by country.',
+  faqQ3: 'How does slang differ from formal language?',
+  faqA3:
+    'Formal language follows standard grammar and vocabulary rules and is used in professional, academic, or official settings. Slang, by contrast, is casual, often breaks grammatical conventions, and is tied to specific communities or generations. A word like “cool” is understood everywhere, but slang terms like “chuffed” (British for pleased) or “naco” (Mexican for tacky) only make full sense when you know the culture behind them.',
+  faqQ4: 'Why do different countries have different slang?',
+  faqA4:
+    'Slang is shaped by local culture, history, and social dynamics. Even countries that share the same language — like the US, UK, and Australia for English, or Mexico, Spain, and Colombia for Spanish — develop completely different slang vocabularies. This happens because slang reflects lived experience: local food, music, humor, class structures, and media all leave their fingerprints on informal speech.',
+  faqQ5: 'Is it okay to use slang in everyday conversation?',
+  faqA5:
+    'Absolutely — slang is a natural part of how people communicate, and using it appropriately shows social awareness and fluency. The key is context: slang fits perfectly in casual conversation, texting, and social media, but may be out of place in a job interview, academic paper, or formal email. Knowing when to switch registers is itself a language skill.',
+  faqQ6: 'How can I learn slang from other countries?',
+  faqA6:
+    'Immersion is the best teacher — watching local TV shows, following social media creators from that country, and talking with native speakers all help. A curated resource like Slang Words Online also gives you the context dictionaries miss: who uses the word, whether it is friendly or offensive, and how it actually sounds in a sentence. We cover sixteen countries and thousands of terms, each with definitions, pronunciation guides, and real-world examples.',
   // --------------------------------------------------------------- country
   startHere: 'Start with these',
   startHereLead:

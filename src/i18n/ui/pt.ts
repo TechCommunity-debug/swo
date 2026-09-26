@@ -37,6 +37,42 @@ export const pt: Strings = {
   editorialH2: 'Contexto que você não encontra em um app de dicionário',
   editorialBody:
     'Um dicionário de gíria só vale alguma coisa se contar o que um tradutor automático não consegue contar: se uma palavra é carinhosa ou hostil, para quem dá para dizê-la e se a história de origem que todo mundo repete é verdadeira. Quando algo é contestado, dizemos que é contestado. Quando uma palavra é um xingamento discriminatório, dizemos isso também, e a listamos assim mesmo — porque você continua precisando entendê-la quando ouvir.',
+
+  // ------------------------------------------- home — SEO about section
+  aboutH2: 'Sobre o Slang Words Online — Seu portal global de gírias',
+  aboutP1:
+    'Toda língua tem duas vidas: a versão que aparece nos livros didáticos e a versão que as pessoas realmente falam nas ruas, nos grupos de mensagens e nas mesas de bar. O Slang Words Online existe para a segunda. Criamos este site como um ponto de encontro de gírias para quem já ouviu uma palavra numa conversa, na letra de uma música ou numa legenda e pensou: «O que diabos significa isso?». Seja tentando decifrar uma gíria britânica de um pub londrino, uma expressão americana que não para de aparecer nas redes sociais ou as gírias australianas que seu colega de trabalho solta sem pensar duas vezes — a resposta está aqui, com o contexto que nenhum aplicativo de tradução consegue dar.',
+  aboutP2:
+    'Nossa biblioteca de gírias cobre atualmente dezesseis países e onze categorias temáticas. Você pode explorar gírias britânicas e gírias americanas ao lado de gírias australianas, canadenses e irlandesas — os grandes ramos do mundo anglófono. Há também as coleções de línguas românicas: gírias mexicanas, espanholas, italianas, francesas, colombianas, cubanas e dominicanas, cada qual refletindo um dialeto próprio com ritmo e atitude únicos. Também cobrimos gírias alemãs, russas, japonesas e coreanas — quatro vocabulários em que a distância da norma culta é tão grande que a gíria quase funciona como um registro à parte.',
+  aboutP3:
+    'O que torna esta coleção diferente de uma consulta rápida no Google Tradutor? A profundidade, acima de tudo. Cada entrada traz a definição — muitas vezes mais de uma, já que gírias raramente significam uma coisa só — acompanhada de um guia de pronúncia sobre como a palavra soa de verdade na fala real. Oferecemos exemplos trabalhados: frases inteiras na língua original, traduzidas linha por linha, para você ver a palavra funcionando em contexto real. E explicamos o que mais importa e que os dicionários costumam omitir: se o termo é carinhoso ou agressivo, se pode ser dito em ambientes formais e se aquela historinha de origem que todo mundo compartilha na internet é verdadeira.',
+  aboutP4:
+    'Os temas são organizados exatamente como as pessoas pesquisam. Em vez de despejar centenas de verbetes em uma página só, dividimos tudo em categorias que refletem o uso real das gírias: Gírias para aprovação e elogios, Gírias para cumprimentos e vocativos, Gírias para ofensas e reclamações, Gírias para tipos de pessoas, Gírias para dinheiro e trabalho, Gírias para comida e bebida, Gírias para balada e festas, Gírias para romance e paquera, Gírias para emoção e reação, Gírias para palavras de preenchimento e Gírias para coisas do dia a dia. Cada uma delas vive sob um país específico, pois o mesmo assunto — dinheiro ou insultos, por exemplo — gera vocabulários inteiramente distintos dependendo de quem fala e onde fala.',
+  aboutP5:
+    'Este site é gratuito, atualizado com frequência e está disponível em nove idiomas para que falantes de outras línguas também possam navegar por toda a biblioteca no seu idioma materno. Pense no Slang Words Online como o dicionário de gírias que você sempre quis que existisse: rigoroso, honesto e escrito por quem realmente se importa para que você não passe vergonha na hora errada. Fique à vontade: escolha um país, escolha um tema ou simplesmente pesquise a palavra que acabou de ouvir.',
+
+  // ----------------------------------------- home — FAQ section
+  faqH2: 'Perguntas frequentes sobre gírias',
+  faqQ1: 'O que são gírias?',
+  faqA1:
+    'Gírias são palavras ou expressões informais muito mais comuns na língua falada do que na escrita. Elas costumam nascer dentro de grupos sociais específicos, subculturas ou regiões e frequentemente carregam significados bem diferentes das definições dos dicionários formais. As gírias expressam identidade, humor ou atitude e tendem a evoluir muito mais depressa do que o vocabulário padrão — palavras que eram modernas há dez anos hoje podem soar ultrapassadas.',
+  faqQ2: 'Quais são as gírias mais recentes?',
+  faqA2:
+    'As gírias mudam o tempo todo, com novos termos surgindo semanalmente em redes sociais como TikTok, Twitter/X e Instagram. Alguns exemplos recentes incluem «delulu» (otimista de forma delirante), «rizz» (carisma, especialmente para flertar), «slay» (arrasar, fazer algo incrivelmente bem) e «ate» (mandou muito bem, arrasou). A maneira mais rápida de se manter atualizado é acompanhar as conversas nas redes ou navegar pela nossa coleção atualizada por país.',
+  faqQ3: 'Como as gírias se diferenciam da linguagem formal?',
+  faqA3:
+    'A linguagem formal segue regras gramaticais e de vocabulário estabelecidas e é usada em contextos profissionais, acadêmicos ou oficiais. A gíria, por outro lado, é descontraída, muitas vezes subverte as convenções gramaticais e está ligada a comunidades ou gerações específicas. Uma palavra como «cool» é entendida no mundo todo, mas gírias como «chuffed» (britânico para feliz/satisfeito) ou «naco» (mexicano para brega/cafona) só fazem sentido completo quando você compreende a cultura local.',
+  faqQ4: 'Por que países diferentes têm gírias diferentes?',
+  faqA4:
+    'As gírias são moldadas pela cultura local, pela história e pela convivência social. Mesmo países que compartilham o mesmo idioma — como os Estados Unidos, o Reino Unido e a Austrália para o inglês, ou o Brasil e Portugal para o português — desenvolvem vocabulários de gírias inteiramente diferentes. Isso acontece porque a gíria reflete a vida real: comida, música, humor, classes sociais e mídias deixam suas marcas na fala cotidiana.',
+  faqQ5: 'Posso usar gírias em conversas do dia a dia?',
+  faqA5:
+    'Com certeza — a gíria é uma parte natural da comunicação humana, e usá-la na medida certa demonstra sensibilidade social e fluência. O segredo é o contexto: gírias se encaixam perfeitamente em papos informais, mensagens de texto e redes sociais, mas podem não soar bem em uma entrevista de emprego, redação acadêmica ou e-mail corporativo. Saber alternar o registro linguístico é, por si só, uma habilidade indispensável.',
+  faqQ6: 'Como posso aprender gírias de outros países?',
+  faqA6:
+    'A imersão é a melhor professora: assistir a programas de TV locais, acompanhar criadores de conteúdo do país e conversar com nativos ajuda muito. Um recurso especializado como o Slang Words Online também oferece o contexto que os dicionários comuns deixam de fora: quem usa a palavra, se ela é amigável ou ofensiva e como soa de verdade numa frase. Cobrimos dezesseis países e milhares de verbetes com definições, guias de pronúncia e exemplos da vida real.',
+
+  // --------------------------------------------------------------- country
   startHere: 'Comece por estes',
   startHereLead:
     'Os termos abaixo são os que trazem mais detalhe de uso: registro, origem e as situações em que saem pela culatra. São os que vale a pena ler por inteiro antes do resto.',

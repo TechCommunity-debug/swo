@@ -48,6 +48,42 @@ export const de: Strings = {
   editorialH2: 'Kontext, den du in keiner Wörterbuch-App findest',
   editorialBody:
     'Ein Slangwörterbuch taugt nur dann etwas, wenn es die Dinge sagt, die eine Übersetzungs-App nicht sagen kann: ob ein Wort liebevoll oder feindselig gemeint ist, zu wem man es sagen darf und ob die Herkunftsgeschichte, die alle nacherzählen, überhaupt stimmt. Wo etwas umstritten ist, schreiben wir, dass es umstritten ist. Wo ein Wort eine Beleidigung ist, schreiben wir auch das – und führen es trotzdem auf, weil man es immer noch verstehen muss, wenn man es hört.',
+
+  // ------------------------------------------- home — SEO about section
+  aboutH2: 'Über Slang Words Online — Dein globales Portal für Slang und Umgangssprache',
+  aboutP1:
+    'Jede Sprache lebt in zwei Welten: in der Version aus den Lehrbüchern und in der Fassung, die tatsächlich auf der Straße, in Gruppenchats und an der Theke gesprochen wird. Slang Words Online ist für die zweite da. Wir haben dieses Portal für alle aufgebaut, die jemals ein Wort im Gespräch, in einem Songtext oder in Untertiteln aufgeschnappt und sich gefragt haben: „Was zum Teufel bedeutet das eigentlich?“. Egal, ob du britischen Slang aus einem Londoner Pub, amerikanischen Slang aus den sozialen Medien oder australische Wendungen entschlüsseln willst, die ein Kollege beiläufig fallen lässt — die Antwort findest du hier, mit genau dem Kontext, den dir keine Übersetzungs-App liefern kann.',
+  aboutP2:
+    'Unsere Slang-Bibliothek umfasst derzeit sechzehn Länder und elf Themenkategorien. Du kannst britischen Slang und amerikanischen Slang neben australischem, kanadischem und irischem Slang entdecken — den großen Zweigen der englischsprachigen Welt. Hinzu kommen die romanischen Sammlungen: mexikanischer, spanischer, italienischer, französischer, kolumbianischer, kubanischer und dominikanischer Slang, die jeweils einen eigenständigen Dialekt mit speziellem Rhythmus und eigener Haltung widerspiegeln. Außerdem behandeln wir deutschen, russischen, japanischen und koreanischen Slang — vier Sprachwelten, in denen der Abstand zur Schriftsprache so groß ist, dass Slang fast als eigenes Sprachregister fungiert.',
+  aboutP3:
+    'Was unterscheidet diese Sammlung von einer schnellen Google-Übersetzung? Vor allem die Tiefe. Jeder Eintrag enthält die genaue Definition — oft mehrere, da Slang-Wörter selten nur eine einzige Bedeutung haben — zusammen mit Aussprachehilfen, die zeigen, wie das Wort im echten Leben klingt und nicht, wie es klingen sollte. Wir liefern praxisnahe Beispiele: vollständige Sätze in der Originalsprache, Zeile für Zeile übersetzt, damit du siehst, wie das Wort im Alltag funktioniert. Und wir erklären das Wichtigste, was Wörterbücher meist verschweigen: ob ein Begriff herzlich oder beleidigend ist, ob man ihn im gemischten Kreis sagen darf und ob die hübsche Entstehungsgeschichte aus dem Internet tatsächlich stimmt.',
+  aboutP4:
+    'Die Themen sind so strukturiert, wie Menschen wirklich suchen. Statt Hunderte Begriffe auf einer einzigen Seite anzuhäufen, teilen wir sie in Kategorien ein, die den eigentlichen Zweck von Slang widerspiegeln: Slang für Lob und Zustimmung, Slang für Begrüßung und Anrede, Slang für Schimpfwörter und Beschwerden, Slang für Personen, Slang für Geld und Arbeit, Slang für Essen und Trinken, Slang fürs Ausgehen und Feiern, Slang für Liebe und Flirten, Slang für Gefühle und Reaktionen, Füllwörter sowie Slang für Alltagsdinge. Jede Kategorie ist einem bestimmten Land zugeordnet, denn dasselbe Thema — etwa Geld oder Beleidigungen — bringt völlig unterschiedliche Vokabeln hervor, je nachdem, wer wo spricht.',
+  aboutP5:
+    'Diese Website ist kostenlos nutzbar, wird regelmäßig aktualisiert und steht in neun Sprachen zur Verfügung, damit auch Nicht-Muttersprachler des Englischen die gesamte Sammlung in ihrer eigenen Sprache nutzen können. Sieh Slang Words Online als die Slang-Bibliothek, die du dir schon immer gewünscht hast: gründlich, ehrlich und verfasst von Leuten, denen es wirklich am Herzen liegt, dass du dich im falschen Moment nicht blamierst. Tauche ein: Wähle ein Land, wähle ein Thema oder suche direkt nach dem Wort, das du gehört hast.',
+
+  // ----------------------------------------- home — FAQ section
+  faqH2: 'Häufig gestellte Fragen zu Slang',
+  faqQ1: 'Was genau sind Slang-Wörter?',
+  faqA1:
+    'Slang-Wörter sind informelle Ausdrücke und Redewendungen, die in der gesprochenen Sprache viel häufiger vorkommen als im Schriftlichen. Sie entstehen oft innerhalb bestimmter sozialer Gruppen, Subkulturen oder Regionen und tragen Bedeutungen, die von Standardwörterbüchern abweichen. Slang stiftet Identität, drückt Humor oder Haltung aus und wandelt sich wesentlich schneller als die Hochsprache — was vor zehn Jahren als cool galt, wirkt heute oft schon veraltet.',
+  faqQ2: 'Was ist der neueste Slang?',
+  faqA2:
+    'Slang entwickelt sich rasant weiter; auf Plattformen wie TikTok, Twitter/X und Instagram tauchen wöchentlich neue Begriffe auf. Jüngere Beispiele sind etwa „delulu“ (wahnhaft optimistisch), „rizz“ (Charisma beim Flirten), „slay“ (etwas herausragend gut machen) oder „ate“ (etwas perfekt gemeistert haben). Der schnellste Weg, aktuell zu bleiben, führt über Trends im Netz — oder über unsere regelmäßig gepflegte Ländersammlung.',
+  faqQ3: 'Wie unterscheidet sich Slang von formeller Sprache?',
+  faqA3:
+    'Standardsprache folgt festen Grammatik- und Wortschatzregeln und wird im beruflichen, akademischen oder behördlichen Rahmen verwendet. Slang hingegen ist ungezwungen, bricht oft grammatikalische Normen und gehört fest zu bestimmten Altersgruppen oder Gemeinschaften. Ein Begriff wie „cool“ wird weltweit verstanden, aber Ausdrücke wie „chuffed“ (britisch für hocherfreut) oder „naco“ (mexikanisch für geschmacklos) erschließen sich erst durch das Verständnis des kulturellen Hintergrunds.',
+  faqQ4: 'Warum hat jedes Land einen eigenen Slang?',
+  faqA4:
+    'Slang wird von lokaler Kultur, Geschichte und gesellschaftlichen Dynamiken geprägt. Selbst Länder mit derselben Sprache — wie die USA, Großbritannien und Australien beim Englischen oder Deutschland, Österreich und die Schweiz beim Deutschen — entwickeln völlig verschiedene Umgangssprachen. Das liegt daran, dass Slang das reale Leben widerspiegelt: lokales Essen, Musik, Humor, Gesellschaftsschichten und Medien hinterlassen deutliche Spuren in der Alltagssprache.',
+  faqQ5: 'Ist es in Ordnung, Slang im Alltag zu verwenden?',
+  faqA5:
+    'Absolut — Slang ist ein natürlicher Bestandteil menschlicher Kommunikation, und sein treffender Einsatz zeugt von Sprachgefühl und sozialer Gewandtheit. Entscheidend ist der Kontext: In lockeren Gesprächen, beim Chatten oder in sozialen Medien passt Slang perfekt, in einem Vorstellungsgespräch, einer wissenschaftlichen Arbeit oder einer offiziellen E-Mail ist er jedoch fehl am Platz. Zu wissen, wann welches Register angebracht ist, ist selbst eine wichtige Sprachkompetenz.',
+  faqQ6: 'Wie lerne ich am besten Slang aus anderen Ländern?',
+  faqA6:
+    'Echtes Eintauchen hilft am meisten: Serien in der Originalfassung schauen, Content-Creatorn aus dem jeweiligen Land folgen und Gespräche mit Muttersprachlern führen. Eine fundierte Ressource wie Slang Words Online liefert dir zudem den Kontext, den Wörterbücher aussparen: wer das Wort benutzt, ob es freundlich oder anstößig ist und wie es im Satz wirklich klingt. Wir bieten Einträge zu sechzehn Ländern mit Definitionen, Aussprachehilfen und Beispielen aus der Praxis.',
+
+  // --------------------------------------------------------------- country
   startHere: 'Fang mit diesen an',
   startHereLead:
     'Die folgenden Begriffe tragen die meisten Angaben zum Gebrauch: Register, Herkunft und die Situationen, in denen sie schiefgehen. Sie lohnen sich als Erstes und in voller Länge.',
