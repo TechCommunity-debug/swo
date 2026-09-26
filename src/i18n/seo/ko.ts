@@ -28,14 +28,12 @@ export const ko: SeoStrings = {
     ),
   }),
 
-  entry: (entry, firstDefinition, country) => {
-    const parts = ['뜻'];
-    if (entry.pronunciation?.respelling) parts.push('발음');
-    parts.push('예문');
+  entry: (entry, _firstDefinition, country) => {
+    const term = titleCase(head(entry));
     return {
-      title: `${titleCase(head(entry))} ${parts.join(', ')} | ${country.adjective} 슬랭`,
+      title: `${term} 무슨 뜻? ${country.adjective} 슬랭 해설`,
       description: truncate(
-        `${country.adjective} 슬랭 ${titleCase(head(entry))}의 뜻: ${firstDefinition}`,
+        `${country.adjective} 슬랭 ${entry.term}의 뜻은? 다양한 의미와 실제 쓰임새, 예문, 발음 및 관련 표현까지 한눈에 확인해 보세요.`,
       ),
     };
   },

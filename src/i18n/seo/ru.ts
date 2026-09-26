@@ -33,14 +33,12 @@ export const ru: SeoStrings = {
     ),
   }),
 
-  entry: (entry, firstDefinition, country) => {
-    const parts = ['значение'];
-    if (entry.pronunciation?.respelling) parts.push('произношение');
-    parts.push('примеры');
+  entry: (entry, _firstDefinition, country) => {
+    const term = titleCase(head(entry));
     return {
-      title: `${titleCase(head(entry))} — ${parts.join(', ')} | ${country.adjective} сленг`,
+      title: `Что значит ${term}? ${country.adjective} сленг с объяснениями`,
       description: truncate(
-        `${titleCase(head(entry))} — ${country.adjective.toLocaleLowerCase()} сленг: ${firstDefinition}`,
+        `Что значит ${entry.term}? ${country.adjective} сленг: узнайте значения, как употреблять слово, примеры предложений, произношение и похожие выражения.`,
       ),
     };
   },

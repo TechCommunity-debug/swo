@@ -32,14 +32,12 @@ export const ja: SeoStrings = {
     ),
   }),
 
-  entry: (entry, firstDefinition, country) => {
-    const parts = ['意味'];
-    if (entry.pronunciation?.respelling) parts.push('発音');
-    parts.push('例文');
+  entry: (entry, _firstDefinition, country) => {
+    const term = titleCase(head(entry));
     return {
-      title: `${titleCase(head(entry))}の${parts.join('・')} | ${country.adjective}のスラング`,
+      title: `${term}の意味とは？${country.adjective}のスラングを解説`,
       description: truncate(
-        `${titleCase(head(entry))}は${country.adjective}のスラングで${firstDefinition}`,
+        `${country.adjective}のスラング「${entry.term}」の意味とは？複数の意味や使い方、例文、発音、関連表現までわかりやすく解説。`,
       ),
     };
   },

@@ -30,14 +30,12 @@ export const de: SeoStrings = {
     ),
   }),
 
-  entry: (entry, firstDefinition, country) => {
-    const parts = ['Bedeutung'];
-    if (entry.pronunciation?.respelling) parts.push('Aussprache');
-    parts.push('Beispiele');
+  entry: (entry, _firstDefinition, country) => {
+    const term = titleCase(head(entry));
     return {
-      title: `${titleCase(head(entry))} – ${parts.join(', ')} | ${country.adjective} Slang`,
+      title: `Was bedeutet ${term}? ${country.adjective} Slang erklärt`,
       description: truncate(
-        `${titleCase(head(entry))} – ${country.adjective} Slang: ${firstDefinition}`,
+        `Was bedeutet ${entry.term}? ${country.adjective} Slang erklärt: Erfahre Bedeutungen, Verwendung, Beispielsätze, Aussprache und verwandte Ausdrücke.`,
       ),
     };
   },

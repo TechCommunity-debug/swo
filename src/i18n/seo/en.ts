@@ -26,13 +26,11 @@ export const en: SeoStrings = {
   }),
 
   entry: (entry, firstDefinition, country) => {
-    const parts = ['Meaning'];
-    if (entry.pronunciation?.respelling) parts.push('Pronunciation');
-    parts.push('Examples');
+    const term = titleCase(head(entry));
     return {
-      title: `${titleCase(head(entry))} — ${parts.join(', ')} | ${country.adjective} Slang`,
+      title: `What Does ${term} Mean? ${country.adjective} Slang Explained`,
       description: truncate(
-        `${titleCase(head(entry))} in ${country.adjective} slang: ${firstDefinition}`,
+        `What does ${entry.term} mean in ${country.adjective.toLowerCase()} slang? Learn the different meanings, how it's used, example sentences, pronunciation, and related expressions.`,
       ),
     };
   },

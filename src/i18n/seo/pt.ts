@@ -23,14 +23,12 @@ export const pt: SeoStrings = {
     ),
   }),
 
-  entry: (entry, firstDefinition, country) => {
-    const parts = ['Significado'];
-    if (entry.pronunciation?.respelling) parts.push('pronúncia');
-    parts.push('exemplos');
+  entry: (entry, _firstDefinition, country) => {
+    const term = titleCase(head(entry));
     return {
-      title: `${titleCase(head(entry))} — ${parts.join(', ')} | Gíria ${country.adjective}`,
+      title: `O que significa ${term}? Gíria ${country.adjective} explicada`,
       description: truncate(
-        `${titleCase(head(entry))} na gíria ${country.adjective}: ${firstDefinition}`,
+        `O que significa ${entry.term} na gíria ${country.adjective}? Descubra os diferentes significados, como se usa, frases de exemplo, pronúncia e expressões relacionadas.`,
       ),
     };
   },

@@ -23,14 +23,12 @@ export const it: SeoStrings = {
     ),
   }),
 
-  entry: (entry, firstDefinition, country) => {
-    const parts = ['Significato'];
-    if (entry.pronunciation?.respelling) parts.push('pronuncia');
-    parts.push('esempi');
+  entry: (entry, _firstDefinition, country) => {
+    const term = titleCase(head(entry));
     return {
-      title: `${titleCase(head(entry))} — ${parts.join(', ')} | Slang ${country.adjective.toLowerCase()}`,
+      title: `Cosa significa ${term}? Slang ${country.adjective.toLowerCase()} spiegato`,
       description: truncate(
-        `${titleCase(head(entry))} nello slang ${country.adjective.toLowerCase()}: ${firstDefinition}`,
+        `Cosa significa ${entry.term} nello slang ${country.adjective.toLowerCase()}? Scopri i diversi significati, come si usa, frasi di esempio, pronuncia ed espressioni correlate.`,
       ),
     };
   },

@@ -23,14 +23,12 @@ export const fr: SeoStrings = {
     ),
   }),
 
-  entry: (entry, firstDefinition, country) => {
-    const parts = ['Sens'];
-    if (entry.pronunciation?.respelling) parts.push('prononciation');
-    parts.push('exemples');
+  entry: (entry, _firstDefinition, country) => {
+    const term = titleCase(head(entry));
     return {
-      title: `${titleCase(head(entry))} — ${parts.join(', ')} | Argot ${country.adjective}`,
+      title: `Que veut dire ${term} ? Argot ${country.adjective} expliqué`,
       description: truncate(
-        `${titleCase(head(entry))} en argot ${country.adjective} : ${firstDefinition}`,
+        `Que veut dire ${entry.term} en argot ${country.adjective} ? Découvrez les différents sens, son usage, des exemples, la prononciation et les expressions associées.`,
       ),
     };
   },
