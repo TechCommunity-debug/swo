@@ -17,7 +17,7 @@ export const ko: SeoStrings = {
   }),
 
   country: (country, count) => ({
-    title: `${country.adjective} 슬랭 뜻 정리: 단어와 표현 ${count}개 | ${SITE_NAME}`,
+    title: `${country.adjective} 슬랭 뜻 정리: 단어와 표현 ${count}+개 | ${SITE_NAME}`,
     description: country.metaDescription,
   }),
 

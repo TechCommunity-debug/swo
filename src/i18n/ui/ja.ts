@@ -105,7 +105,7 @@ export const ja: Strings = {
   // ----------------------------------------------------------------- entry
   aSlangTerm: (languageName: string) => `${languageName}のスラングです。`,
   /** 国トップの <h1>。例：「メキシコのスラング」。 */
-  countrySlangHeading: (adjective: string) => `${adjective}のスラング`,
+  countrySlangHeading: (adjective: string) => `${adjective}のスラング：単語とフレーズの解説`,
   /** 項目カードの「他に2つの語義」の行。 */
   moreSenses: (n: number) => `他に${n}つの語義`,
   useWithCare: '使い方に注意',

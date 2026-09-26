@@ -93,7 +93,7 @@ export const it: Strings = {
     'Lo stesso tema negli altri paesi del sito: il modo più rapido per vedere quanto diversamente quattro lingue dicono la stessa cosa.',
 
   aSlangTerm: (languageName: string) => `Un termine dello slang in ${languageName.toLowerCase()}.`,
-  countrySlangHeading: (adjective: string) => `Slang ${adjective.toLowerCase()}`,
+  countrySlangHeading: (adjective: string) => `Slang ${adjective.toLowerCase()}: parole ed espressioni spiegate`,
   moreSenses: (n: number) => `+${n} ${n === 1 ? 'altra accezione' : 'altre accezioni'}`,
   useWithCare: 'Usala con cautela',
   browseAll: (adjective: string) => `Vedi tutto lo slang ${adjective.toLowerCase()}`,

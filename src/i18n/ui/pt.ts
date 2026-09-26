@@ -92,7 +92,7 @@ export const pt: Strings = {
     'O mesmo assunto nos demais países do site: o jeito mais rápido de ver o quanto quatro idiomas divergem para dizer uma coisa só.',
 
   aSlangTerm: (languageName: string) => `Um termo de gíria em ${languageName.toLowerCase()}.`,
-  countrySlangHeading: (adjective: string) => `Gíria ${adjective}`,
+  countrySlangHeading: (adjective: string) => `Gíria ${adjective}: palavras e expressões explicadas`,
   moreSenses: (n: number) => `+${n} ${n === 1 ? 'outro sentido' : 'outros sentidos'}`,
   useWithCare: 'Use com cuidado',
   browseAll: (adjective: string) => `Ver toda a gíria ${adjective}`,

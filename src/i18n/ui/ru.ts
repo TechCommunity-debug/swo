@@ -120,7 +120,7 @@ export const ru: Strings = {
 
   aSlangTerm: (languageName: string) =>
     `Сленговый термин. Язык — ${languageName.toLocaleLowerCase()}.`,
-  countrySlangHeading: (adjective: string) => `${adjective} сленг`,
+  countrySlangHeading: (adjective: string) => `${adjective} сленг: слова и выражения с объяснениями`,
   moreSenses: (n: number) => `+${n} ${form(n, 'значение', 'значения', 'значений')}`,
   useWithCare: 'Употребляйте осторожно',
   browseAll: (adjective: string) => `Весь ${adjective.toLocaleLowerCase()} сленг`,

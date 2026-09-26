@@ -104,7 +104,7 @@ export const de: Strings = {
 
   aSlangTerm: (languageName: string) =>
     `${languageName.charAt(0).toLocaleUpperCase('de-DE')}${languageName.slice(1)}: ein Slangbegriff.`,
-  countrySlangHeading: (adjective: string) => `${adjective} Slang`,
+  countrySlangHeading: (adjective: string) => `${adjective} Slang: Wörter & Wendungen erklärt`,
   moreSenses: (n: number) => `+${n} weitere ${n === 1 ? 'Bedeutung' : 'Bedeutungen'}`,
   useWithCare: 'Vorsicht beim Gebrauch',
   browseAll: (adjective: string) => `${adjective} Slang von A bis Z`,

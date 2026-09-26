@@ -12,7 +12,7 @@ export const fr: SeoStrings = {
   }),
 
   country: (country, count) => ({
-    title: `Argot ${country.adjective} : ${count} mots et expressions expliqués | ${SITE_NAME}`,
+    title: `Argot ${country.adjective} : ${count}+ mots et expressions expliqués | ${SITE_NAME}`,
     description: country.metaDescription,
   }),
 

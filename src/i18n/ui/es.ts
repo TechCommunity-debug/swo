@@ -92,7 +92,7 @@ export const es: Strings = {
     'El mismo tema en los demás países de este sitio: la forma más rápida de ver lo distinto que dicen una misma cosa cuatro idiomas.',
 
   aSlangTerm: (languageName: string) => `Un término del argot en ${languageName.toLowerCase()}.`,
-  countrySlangHeading: (adjective: string) => `Argot ${adjective}`,
+  countrySlangHeading: (adjective: string) => `Argot ${adjective}: palabras y expresiones explicadas`,
   moreSenses: (n: number) => `+${n} ${n === 1 ? 'acepción más' : 'acepciones más'}`,
   useWithCare: 'Úsala con cuidado',
   browseAll: (adjective: string) => `Ver todo el argot ${adjective.toLowerCase()}`,

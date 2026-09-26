@@ -12,7 +12,7 @@ export const pt: SeoStrings = {
   }),
 
   country: (country, count) => ({
-    title: `Gíria ${country.adjective}: ${count} palavras e expressões explicadas | ${SITE_NAME}`,
+    title: `Gíria ${country.adjective}: ${count}+ palavras e expressões explicadas | ${SITE_NAME}`,
     description: country.metaDescription,
   }),
 

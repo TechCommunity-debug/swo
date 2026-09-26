@@ -19,7 +19,7 @@ export const de: SeoStrings = {
   }),
 
   country: (country, count) => ({
-    title: `${country.adjective} Slang: ${count} Wörter und Wendungen erklärt | ${SITE_NAME}`,
+    title: `${country.adjective} Slang: ${count}+ Wörter und Wendungen erklärt | ${SITE_NAME}`,
     description: country.metaDescription,
   }),
 

@@ -21,7 +21,7 @@ export const ja: SeoStrings = {
   country: (country, count) => ({
     title:
       country.metaTitle ??
-      `${country.adjective}のスラング：${count}語の意味と使い方 | ${SITE_NAME}`,
+      `${country.adjective}のスラング：${count}+語の意味と使い方 | ${SITE_NAME}`,
     description: country.metaDescription,
   }),
 

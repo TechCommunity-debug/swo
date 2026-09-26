@@ -103,7 +103,7 @@ export const en = {
   // ----------------------------------------------------------------- entry
   aSlangTerm: (languageName: string) => `A ${languageName} slang term.`,
   /** The country hub <h1>, e.g. "Mexican Slang". */
-  countrySlangHeading: (adjective: string) => `${adjective} Slang`,
+  countrySlangHeading: (adjective: string) => `${adjective} Slang: Words & Phrases Explained`,
   /** The "+2 more senses" line on an entry card. */
   moreSenses: (n: number) => `+${n} more ${n === 1 ? 'sense' : 'senses'}`,
   useWithCare: 'Use with care',

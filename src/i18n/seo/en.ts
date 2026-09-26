@@ -14,7 +14,7 @@ export const en: SeoStrings = {
   country: (country, count) => ({
     title:
       country.metaTitle ??
-      `${country.adjective} Slang: ${count} Words & Phrases Explained | ${SITE_NAME}`,
+      `${country.adjective} Slang: ${count}+ Words & Phrases Explained | ${SITE_NAME}`,
     description: country.metaDescription,
   }),
 

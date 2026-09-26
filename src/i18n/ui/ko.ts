@@ -105,7 +105,7 @@ export const ko: Strings = {
     '이 사이트의 다른 나라에서 같은 주제를 어떻게 말하는지 모았습니다. 한 가지를 두고 여러 언어가 얼마나 다르게 말하는지 가장 빠르게 확인할 수 있습니다.',
 
   aSlangTerm: (languageName: string) => `${languageName} 슬랭입니다.`,
-  countrySlangHeading: (adjective: string) => `${adjective} 슬랭`,
+  countrySlangHeading: (adjective: string) => `${adjective} 슬랭: 단어와 표현 해설`,
   moreSenses: (n: number) => `뜻 ${n}개 더`,
   useWithCare: '조심해서 쓸 것',
   browseAll: (adjective: string) => `${adjective} 슬랭 전체 보기`,

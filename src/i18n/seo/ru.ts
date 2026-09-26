@@ -22,7 +22,7 @@ export const ru: SeoStrings = {
   }),
 
   country: (country, count) => ({
-    title: `${country.adjective} сленг: ${plural(count, 'слово и выражение', 'слова и выражения', 'слов и выражений')} с объяснениями | ${SITE_NAME}`,
+    title: `${country.adjective} сленг: ${count}+ слов и выражений с объяснениями | ${SITE_NAME}`,
     description: country.metaDescription,
   }),
 
